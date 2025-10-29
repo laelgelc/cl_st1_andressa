@@ -1,1 +1,4 @@
-# cl_st1_andressa
+# Corpus Linguistics - Study 1 - Andressa
+
+## Phase 1 - Data Collection
+
