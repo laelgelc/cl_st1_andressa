@@ -16,5 +16,5 @@ This project is organised as a multi-phase pipeline.
 
 ## Phase 1 - Data Collection
 - Goal: Collect Reddit submissions/comments (public data) relevant to loneliness.
-- Outputs: Raw JSON (NDJSON), normalized tables (Parquet/CSV), provenance logs.
+- Outputs: Raw JSON (NDJSON), normalised tables (Parquet/CSV), provenance logs.
 - Entry points (planned): GUI app and CLI under src/cl_st1/data_collection/.
