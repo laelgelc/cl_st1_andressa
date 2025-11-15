@@ -2,7 +2,8 @@
 
 This project is organised as a multi-phase pipeline.
 
-## Repo layout
+## Repository layout
+
 - src/cl_st1/
   - common/
   - ph1/
