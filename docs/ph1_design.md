@@ -2,15 +2,32 @@
 
 This document specifies the minimal viable slice (MVS) for Phase 1, with implementation focused in Junie (PySide6 GUI-first). Scope: collect public Reddit submissions and comments relevant to loneliness, persist raw and normalized data, and provide a simple GUI (primary) and CLI (secondary) entry point.
 
+## Current implementation status (living section)
+
+Implemented:
+- CLI entry point under `src/cl_st1/ph1/cli/ph1_cli.py`.
+- Time window selection supports:
+  - per-year collection (`--year YYYY`), and
+  - custom windows (`--after-utc/--before-utc` or `--after-date/--before-date`).
+- Default collection mode is **posts only**; comments are optional (`--include-comments`).
+- Auto-named output folders when `--out-dir` is omitted:
+  - per-year: `data/ph1/<YEAR>_<SUBREDDITS>`
+  - window: `data/ph1/window_<START>_to_<END|open>_<SUBREDDITS>`
+- Provenance logs and raw/tables outputs are written under the run output directory.
+
+Planned next:
+- GUI implementation (PySide6/Junie): form inputs, background worker, cancel support, progress & counts.
+- Tests for helpers and CLI parsing (time window and output naming).
+
 ## 1. Objectives
 
 - Collect submissions (and optional comments) from target subreddits within a time window.
 - Persist:
-    - Raw NDJSON for archival/provenance.
-    - Normalized tables (Parquet/CSV) for downstream processing.
+  - Raw NDJSON for archival/provenance.
+  - Normalized tables (Parquet/CSV) for downstream processing.
 - Provide two entry points (GUI first):
-    - GUI (PySide6): user-friendly run configuration, background execution, status.
-    - CLI: batch-friendly wrapper reusing the same service.
+  - GUI (PySide6): user-friendly run configuration, background execution, status.
+  - CLI: batch-friendly wrapper reusing the same service.
 - Log provenance (config used, timestamps, sources) and respect API limits/ToS.
 
 ## 2. Scope (MVS)
@@ -34,23 +51,23 @@ Out of scope for Phase 1: cleaning, language ID, de-dup, analytics.
 ## 3. Architecture
 
 - src/cl_st1/common/
-    - config.py: Load env/.env with python-dotenv; expose get_settings() with REDDIT_CLIENT_ID/SECRET and USER_AGENT. Validate presence.
-    - storage.py: Ensure dirs, write NDJSON (append-friendly) and Parquet (batch write), simple path helpers under data/ph1/.
-    - log.py: get_logger() returning a logger that can write to console/file, and an adapter to emit messages into the GUI.
+  - config.py: Load env/.env with python-dotenv; expose get_settings() with REDDIT_CLIENT_ID/SECRET and USER_AGENT. Validate presence.
+  - storage.py: Ensure dirs, write NDJSON (append-friendly) and Parquet (batch write), simple path helpers under data/ph1/.
+  - log.py: get_logger() returning a logger that can write to console/file, and an adapter to emit messages into the GUI.
 
 - src/cl_st1/ph1/
-    - reddit_client.py: get_reddit() returning an authenticated PRAW client using settings.
-    - collect_service.py:
-        - fetch_submissions(subreddit, sort, after/before, limit)
-        - fetch_comments(submission, limit_per_post)
-        - normalize to dict rows; periodic flush to NDJSON; finalize Parquet.
-        - backoff/retry with capped exponential strategy.
-        - progress callbacks: on_progress(msg), on_counts(posts, comments).
-    - gui/ph1_gui.py (PySide6):
-        - Form inputs; Start/Cancel actions.
-        - Background worker (QThread/QRunnable) that calls collect_service.collect().
-        - Signals for progress lines, counts, completion, and errors.
-    - cli/ph1_cli.py: argparse to parse flags → call collect_service.collect().
+  - reddit_client.py: get_reddit() returning an authenticated PRAW client using settings.
+  - collect_service.py:
+    - fetch_submissions(subreddit, sort, after/before, limit)
+    - fetch_comments(submission, limit_per_post)
+    - normalize to dict rows; periodic flush to NDJSON; finalize Parquet.
+    - backoff/retry with capped exponential strategy.
+    - progress callbacks: on_progress(msg), on_counts(posts, comments).
+  - gui/ph1_gui.py (PySide6):
+    - Form inputs; Start/Cancel actions.
+    - Background worker (QThread/QRunnable) that calls collect_service.collect().
+    - Signals for progress lines, counts, completion, and errors.
+  - cli/ph1_cli.py: argparse to parse flags → call collect_service.collect().
 
 ## 4. Data Model
 
@@ -75,17 +92,17 @@ Ensure directories up front. NDJSON is line-delimited JSON, one object per line.
 ## 6. Configuration
 
 - Secrets (env/.env; not committed):
-    - REDDIT_CLIENT_ID, REDDIT_CLIENT_SECRET
-    - USER_AGENT (e.g., cl_st1_loneliness/1.0 (by u/your_username))
+  - REDDIT_CLIENT_ID, REDDIT_CLIENT_SECRET
+  - USER_AGENT (e.g., cl_st1_loneliness/1.0 (by u/your_username))
 - Runtime (GUI/CLI parameters):
-    - subreddits: list[str]
-    - sort: new|top (default=new)
-    - per_subreddit_limit: int|None (default=1000)
-    - include_comments: bool (default=true)
-    - comments_limit_per_post: int (default=300)
-    - after_utc: int (required)
-    - before_utc: int|None
-    - out_dir: data/ph1 (default)
+  - subreddits: list[str]
+  - sort: new|top (default=new)
+  - per_subreddit_limit: int|None (default=1000)
+  - include_comments: bool (default=true)
+  - comments_limit_per_post: int (default=300)
+  - after_utc: int (required)
+  - before_utc: int|None
+  - out_dir: data/ph1 (default)
 
 Provenance JSON records parameters, start/end times, counts, and package versions (python, praw, pandas, pyarrow).
 
@@ -100,23 +117,23 @@ Provenance JSON records parameters, start/end times, counts, and package version
 
 UI elements:
 - Inputs:
-    - QLineEdit: Subreddits (comma-separated)
-    - QLineEdit/QDateTimeEdit: After (UTC epoch seconds); Before (optional)
-    - QComboBox: Sort (new/top)
-    - QCheckBox + QSpinBox: Include comments + limit per post
-    - QSpinBox: Per-subreddit limit
-    - QLabel: Output directory (read-only; defaults to data/ph1)
+  - QLineEdit: Subreddits (comma-separated)
+  - QLineEdit/QDateTimeEdit: After (UTC epoch seconds); Before (optional)
+  - QComboBox: Sort (new/top)
+  - QCheckBox + QSpinBox: Include comments + limit per post
+  - QSpinBox: Per-subreddit limit
+  - QLabel: Output directory (read-only; defaults to data/ph1)
 - Actions:
-    - QPushButton: Start (disabled while running)
-    - QPushButton: Cancel (enabled while running)
+  - QPushButton: Start (disabled while running)
+  - QPushButton: Cancel (enabled while running)
 - Status:
-    - QPlainTextEdit: log/progress lines (append-only)
-    - QLabel: counters (posts, comments)
-    - QProgressBar: indeterminate (busy) during run
+  - QPlainTextEdit: log/progress lines (append-only)
+  - QLabel: counters (posts, comments)
+  - QProgressBar: indeterminate (busy) during run
 
 Threading:
 - Worker in QThread/QRunnable; signals:
-    - progress(str), counts(int, int), finished(success: bool), error(str)
+  - progress(str), counts(int, int), finished(success: bool), error(str)
 - Cancel via a shared flag checked between API calls.
 
 Accessibility and UX:
@@ -141,11 +158,11 @@ Exit 0 on success; non-zero on fatal error. Logs to stdout + file in logs/.
 ## 10. Testing
 
 - Unit tests for:
-    - common/config: env loading (uses env/.env), missing creds → friendly error
-    - common/storage: directory creation, NDJSON append, Parquet write
-    - ph1/collect_service: normalization helpers (using lightweight fakes)
+  - common/config: env loading (uses env/.env), missing creds → friendly error
+  - common/storage: directory creation, NDJSON append, Parquet write
+  - ph1/collect_service: normalization helpers (using lightweight fakes)
 - Smoke test (manual or skipped in CI):
-    - Tiny run: 3 posts, 3 comments per post against a test subreddit; asserts files exist and contain rows.
+  - Tiny run: 3 posts, 3 comments per post against a test subreddit; asserts files exist and contain rows.
 
 ## 11. Security & Ethics
 
