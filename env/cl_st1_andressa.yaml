@@ -43,12 +43,14 @@ dependencies:
   - pandas-stubs
 #  - pandoc
   - plotly
+  - pyarrow
   - praw
 #  - pyinstaller
 #  - pypdf
-#  - pyside6
+  - pyside6
 #  - pySmartDL
 #  - pyspark
+  - pytest
   - python-docx
   - python-dotenv
   - requests
