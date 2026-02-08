@@ -3,7 +3,7 @@ from __future__ import annotations
 
 import argparse
 from dataclasses import dataclass
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from typing import Optional
 
@@ -104,7 +104,11 @@ def _resolve_time_window(
     resolved_before = (
         before_utc
         if before_utc is not None
-        else (_utc_epoch(_parse_yyyy_mm_dd(before_date)) - 1 if before_date else None)
+        else (
+            _utc_epoch(_parse_yyyy_mm_dd(before_date) + timedelta(days=1)) - 1
+            if before_date
+            else None
+        )
     )
 
     if resolved_before is not None and resolved_before < resolved_after:
