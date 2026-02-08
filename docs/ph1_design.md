@@ -50,26 +50,16 @@ Optional:
 - `comments_limit_per_post`: integer cap if comments are enabled
 - `out_dir`: output directory (default: `data/ph1` or an auto-named subfolder)
 
-### 2.2 Outputs
-Phase 1 outputs are **raw-first**:
+#### Supported `listing` values (Phase 1)
+Phase 1 supports the following listings via PRAW:
 
-- Raw NDJSON (append-only):
-    - `raw/reddit_submissions.ndjson`
-    - `raw/reddit_comments.ndjson` (only if comments enabled)
-- Provenance log:
-    - `logs/ph1_run_<timestamp>.json`
+- `new` (default): fetches up to N **most recent** posts in the subreddit (newest → older as you iterate).
+- `top`: fetches up to N **top-scoring** posts in the subreddit according to Reddit’s ranking.
+    - Phase 1 uses a fixed `time_filter="all"` for `top` (i.e., top posts of all time).
 
-Optional output (allowed but not required by this streamlined Phase 1 spec):
-- Normalized tables:
-    - `tables/posts.parquet`
-    - `tables/comments.parquet`
-
-### 2.3 Explicitly out of scope (Phase 1)
-- language identification / language filtering
-- deduplication
-- cleaning / normalization beyond selecting a stable set of raw fields
-- sampling strategies beyond “listing + limit”
-- analytics / LMDA feature extraction
+Notes:
+- These listings are **server-side orderings**. They are not guaranteed to provide complete historical coverage for a chosen time window.
+- `limit_per_subreddit=N` controls the **maximum number of items requested from the listing**, not the number that will necessarily match any later filters.
 
 ---
 
@@ -79,28 +69,21 @@ Using a listing like `new` with `limit=N` means:
 
 > the collector requests **up to N of the most recent posts** from that listing, then stores them.
 
-It does **not** guarantee coverage of an arbitrary historical time window. If historical coverage is needed, that becomes a Phase 2+ concern (different retrieval strategy and/or larger scans) and must be documented accordingly.
+Using `top` with `limit=N` means:
+
+> the collector requests **up to N top-ranked posts** (with `time_filter="all"`), then stores them.
+
+This does **not** guarantee coverage of an arbitrary historical time window. If historical coverage is needed, that becomes a Phase 2+ concern (different retrieval strategy and/or larger scans) and must be documented accordingly.
 
 ---
 
 ## 4. Architecture
 
-### 4.1 Modules
-- `src/cl_st1/common/`
-    - `config.py`: loads credentials (expects `env/.env` locally), validates required vars
-    - `storage.py`: creates output directories, appends NDJSON, writes provenance (and optionally Parquet)
-    - `log.py`: logging helpers (optional)
-- `src/cl_st1/ph1/`
-    - `reddit_client.py`: constructs authenticated PRAW client
-    - `collect_service.py`: core collection orchestration
-    - `cli/ph1_cli.py`: CLI wrapper around the service
-    - `gui/ph1_gui.py`: PySide6 GUI wrapper around the service
-
 ### 4.2 Service contract (recommended for Phase 1)
 The service should accept a small set of stable parameters that both CLI and GUI can provide:
 
 - `subreddits`
-- `listing` (e.g., `new`, `top`)
+- `listing` (supported: `new`, `top`)
 - `limit_per_subreddit`
 - `include_comments`, `comments_limit_per_post`
 - `out_dir`
@@ -111,76 +94,17 @@ Time-window filtering parameters (`after_utc`, `before_utc`) are considered **op
 
 ---
 
-## 5. Data model (raw records)
-
-### 5.1 Submissions (posts)
-Store a consistent subset of fields for downstream processing:
-
-- `id`
-- `subreddit`
-- `created_utc`
-- `author` (may be `None`)
-- `title`
-- `selftext`
-- `score`
-- `num_comments`
-- `url`
-- `permalink`
-- `over_18`
-- `removed_by_category`
-
-### 5.2 Comments (optional)
-- `id`
-- `link_id` (submission id)
-- `parent_id`
-- `subreddit`
-- `created_utc`
-- `author` (may be `None`)
-- `body`
-- `score`
-- `permalink`
-- `removed_by_category`
-
----
-
-## 6. Provenance (required)
-
-Every run must write a provenance JSON containing at least:
-- timestamps (`started_at`, `finished_at`)
-- run parameters:
-    - subreddits, listing, limits, include_comments, out_dir
-- counts:
-    - number of posts/comments collected
-- versions (useful for reproducibility):
-    - python, praw, pandas, pyarrow (if used)
-
-This provenance record is the foundation for transparent reporting.
-
----
-
-## 7. Rate limits, retries, etiquette
-
-- Use descriptive `USER_AGENT`.
-- Respect Reddit ToS and API rate limits.
-- Retry transient failures with capped exponential backoff.
-- Prefer continuing collection for recoverable item-level errors rather than failing the entire run.
-
----
-
 ## 8. GUI slice (PySide6)
 
 ### 8.1 GUI inputs (aligned to streamlined Phase 1)
 - Subreddits (comma-separated)
-- Listing selector (`new`, `top`, …)
+- Listing selector (`new`, `top`)
+    - `top` uses `time_filter="all"` in Phase 1
 - Limit per subreddit (N)
 - Include comments checkbox + limit per post
 - Output directory (read-only default, or selectable in future)
 - Start / Cancel
 - Progress log + counters
-
-### 8.2 Threading / cancellation
-- Run collection in a background worker thread.
-- Cancel button sets a flag; worker passes `should_cancel()` to the service.
 
 ---
 
@@ -188,7 +112,7 @@ This provenance record is the foundation for transparent reporting.
 
 Required:
 - `--subreddits`
-- `--listing` (default `new`)
+- `--listing` (default `new`; supported: `new`, `top`)
 - `--per-subreddit-limit`
 
 Optional:

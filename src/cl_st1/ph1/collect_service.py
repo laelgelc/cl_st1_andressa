@@ -5,7 +5,7 @@ import sys
 import time
 from datetime import datetime, timezone
 from pathlib import Path
-from typing import Callable, Dict, Iterable, List, Optional
+from typing import Callable, Dict, Iterable, List, Optional, Literal
 
 import pandas as pd
 from praw.models import Submission, Comment
@@ -16,6 +16,8 @@ from cl_st1.ph1.reddit_client import get_reddit
 ProgressCb = Callable[[str], None]
 CountsCb = Callable[[int, int], None]
 ShouldCancelCb = Callable[[], bool]
+
+Listing = Literal["new", "top"]
 
 POST_COLUMNS = [
     "id", "subreddit", "created_utc", "author", "title", "selftext", "score",
@@ -68,13 +70,20 @@ def _is_cancelled(should_cancel: Optional[ShouldCancelCb]) -> bool:
     try:
         return bool(should_cancel and should_cancel())
     except Exception:
-        # Cancellation should never crash the collection.
         return False
+
+
+def _submission_stream(sr, listing: Listing, limit: Optional[int]):
+    if listing == "new":
+        return sr.new(limit=limit)
+    if listing == "top":
+        return sr.top(time_filter="all", limit=limit)
+    raise ValueError(f"Unsupported listing: {listing!r}")
 
 
 def fetch_submissions(
         sr_name: str,
-        sort: str,
+        listing: Listing,
         limit: Optional[int],
         after_utc: Optional[int],
         before_utc: Optional[int],
@@ -83,12 +92,7 @@ def fetch_submissions(
 ) -> Iterable[Submission]:
     reddit = get_reddit()
     sr = reddit.subreddit(sr_name)
-    if sort == "new":
-        stream = sr.new(limit=limit)
-    elif sort == "top":
-        stream = sr.top(time_filter="all", limit=limit)
-    else:
-        stream = sr.new(limit=limit)
+    stream = _submission_stream(sr, listing, limit)
 
     for s in stream:
         if _is_cancelled(should_cancel):
@@ -97,10 +101,11 @@ def fetch_submissions(
             return
 
         ts = int(getattr(s, "created_utc", 0))
-        if after_utc and ts < after_utc:
+        if after_utc is not None and ts < after_utc:
             continue
-        if before_utc and ts > before_utc:
+        if before_utc is not None and ts > before_utc:
             continue
+
         if progress:
             progress(f"{sr_name}: fetched submission {s.id}")
         yield s
@@ -137,12 +142,12 @@ def fetch_comments_for_submission(
 def collect(
         subreddits: list[str],
         out_dir: str = "data/ph1",
-        sort: str = "new",
+        listing: Listing = "new",
         per_subreddit_limit: Optional[int] = 1000,
         include_comments: bool = True,
         comments_limit_per_post: int = 300,
-        after_utc: Optional[int] = None,
-        before_utc: Optional[int] = None,
+        after_utc: Optional[int] = None,   # legacy/optional filter
+        before_utc: Optional[int] = None,  # legacy/optional filter
         progress: Optional[ProgressCb] = None,
         counts: Optional[CountsCb] = None,
         should_cancel: Optional[ShouldCancelCb] = None,
@@ -150,8 +155,11 @@ def collect(
     """
     Main orchestration used by GUI/CLI.
 
-    Cancellation:
-      - If should_cancel() returns True, collection stops promptly and writes outputs collected so far.
+    Phase 1 streamlined behavior:
+      - Fetch up to per_subreddit_limit from the chosen listing ('new' or 'top').
+
+    Legacy behavior (optional):
+      - If after_utc/before_utc are set, filter locally by created_utc.
     """
     paths = Ph1Paths.create(Path(out_dir))
     posts_rows: List[Dict[str, object]] = []
@@ -173,7 +181,13 @@ def collect(
         while True:
             try:
                 for s in fetch_submissions(
-                        sr, sort, per_subreddit_limit, after_utc, before_utc, progress, should_cancel=should_cancel
+                        sr_name=sr,
+                        listing=listing,
+                        limit=per_subreddit_limit,
+                        after_utc=after_utc,
+                        before_utc=before_utc,
+                        progress=progress,
+                        should_cancel=should_cancel,
                 ):
                     if _is_cancelled(should_cancel):
                         cancelled = True
@@ -224,19 +238,17 @@ def collect(
         if cancelled:
             break
 
-    # Write parquet tables (write what we have, even if cancelled)
     write_parquet(paths.posts_parquet, posts_rows, POST_COLUMNS)
     if include_comments:
         write_parquet(paths.comments_parquet, comments_rows, COMMENT_COLUMNS)
 
-    # Provenance
     prov = {
         "started_at": start_iso,
         "finished_at": now_utc_iso(),
         "cancelled": bool(cancelled),
         "params": {
             "subreddits": subreddits,
-            "sort": sort,
+            "listing": listing,
             "per_subreddit_limit": per_subreddit_limit,
             "include_comments": include_comments,
             "comments_limit_per_post": comments_limit_per_post,

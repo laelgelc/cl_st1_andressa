@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 from datetime import datetime, timezone
+from pathlib import Path
 from typing import Optional
 
 from PySide6 import QtCore, QtWidgets
@@ -9,16 +10,28 @@ from PySide6 import QtCore, QtWidgets
 from cl_st1.ph1.collect_service import collect
 
 
-def _epoch_utc(dt: datetime) -> int:
-    if dt.tzinfo is None:
-        dt = dt.replace(tzinfo=timezone.utc)
-    return int(dt.timestamp())
+def _make_safe_subdir(name: str) -> str:
+    cleaned: list[str] = []
+    for ch in name.strip():
+        if ch.isalnum() or ch in ("-", "_", "."):
+            cleaned.append(ch)
+        else:
+            cleaned.append("_")
+    return "".join(cleaned).strip("_") or "run"
 
 
-def _epoch_from_qdate_utc(d) -> int:
-    # QDate -> UTC midnight at start of that day
-    py = d.toPython()
-    return _epoch_utc(datetime(py.year, py.month, py.day, tzinfo=timezone.utc))
+def _subreddits_label(subreddits: list[str], max_len: int = 64) -> str:
+    joined = "+".join(subreddits)
+    safe = _make_safe_subdir(joined)
+    if len(safe) <= max_len:
+        return safe
+    return safe[: max_len - len("_etc")] + "_etc"
+
+
+def _default_run_subdir(*, listing: str, limit: int, subreddits: list[str]) -> str:
+    ts = datetime.now(timezone.utc).strftime("%Y%m%d_%H%M%S")
+    sr = _subreddits_label(subreddits)
+    return _make_safe_subdir(f"{listing}_{limit}_{sr}_{ts}")
 
 
 class CollectorWorker(QtCore.QObject):
@@ -36,8 +49,6 @@ class CollectorWorker(QtCore.QObject):
     def run(self):
         try:
             def p(msg: str):
-                # While running, stop streaming progress once cancellation is requested.
-                # (We still emit a final "Collection cancelled." message below.)
                 if not self._stop:
                     self.progress.emit(msg)
 
@@ -52,7 +63,7 @@ class CollectorWorker(QtCore.QObject):
                 **self._params,
             )
 
-            # IMPORTANT: Always emit finished so the UI can clean up the thread.
+            # Always emit finished so UI can clean up the thread.
             if self._stop:
                 self.progress.emit("Collection cancelled.")
                 self.finished.emit(False)
@@ -70,7 +81,7 @@ class CollectorWorker(QtCore.QObject):
 class MainWindow(QtWidgets.QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Phase 1 — Reddit Data Collection")
+        self.setWindowTitle("Phase 1 — Reddit Data Collection (listing + limit)")
         self._setup_ui()
         self._thread: Optional[QtCore.QThread] = None
         self._worker: Optional[CollectorWorker] = None
@@ -79,45 +90,14 @@ class MainWindow(QtWidgets.QMainWindow):
         w = QtWidgets.QWidget()
         layout = QtWidgets.QFormLayout()
 
-        self.subreddits = QtWidgets.QLineEdit("lonely,loneliness")
+        self.subreddits = QtWidgets.QLineEdit("loneliness")
 
-        # Time window mode: Year OR Date range (UTC)
-        self.time_mode_year = QtWidgets.QRadioButton("Year (UTC)")
-        self.time_mode_range = QtWidgets.QRadioButton("Date range (UTC)")
-        self.time_mode_year.setChecked(True)
+        self.listing = QtWidgets.QComboBox()
+        self.listing.addItems(["new", "top"])
 
-        mode_row = QtWidgets.QHBoxLayout()
-        mode_row.addWidget(self.time_mode_year)
-        mode_row.addWidget(self.time_mode_range)
-        mode_row.addStretch(1)
-
-        self.year = QtWidgets.QSpinBox()
-        self.year.setRange(2005, 2100)
-        self.year.setValue(datetime.now(timezone.utc).year)
-
-        self.after_date = QtWidgets.QDateEdit()
-        self.after_date.setCalendarPopup(True)
-        self.after_date.setDisplayFormat("yyyy-MM-dd")
-        self.after_date.setDate(QtCore.QDate.currentDate().addMonths(-1))
-
-        self.before_date = QtWidgets.QDateEdit()
-        self.before_date.setCalendarPopup(True)
-        self.before_date.setDisplayFormat("yyyy-MM-dd")
-        self.before_date.setDate(QtCore.QDate.currentDate())
-        self.before_enabled = QtWidgets.QCheckBox("Use end date")
-        self.before_enabled.setChecked(True)
-
-        before_row = QtWidgets.QHBoxLayout()
-        before_row.addWidget(self.before_date)
-        before_row.addWidget(self.before_enabled)
-        before_row.addStretch(1)
-
-        # Resolved epoch (read-only, for transparency/provenance)
-        self.after_epoch_lbl = QtWidgets.QLabel("—")
-        self.before_epoch_lbl = QtWidgets.QLabel("—")
-
-        self.sort = QtWidgets.QComboBox()
-        self.sort.addItems(["new", "top"])
+        self.per_limit = QtWidgets.QSpinBox()
+        self.per_limit.setRange(1, 100000)
+        self.per_limit.setValue(1000)
 
         self.include_comments = QtWidgets.QCheckBox()
         self.include_comments.setChecked(False)
@@ -126,25 +106,24 @@ class MainWindow(QtWidgets.QMainWindow):
         self.comments_limit.setRange(0, 10000)
         self.comments_limit.setValue(300)
 
-        self.per_limit = QtWidgets.QSpinBox()
-        self.per_limit.setRange(1, 100000)
-        self.per_limit.setValue(1000)
+        # Output directory configuration (base + optional run subdir)
+        self.out_dir_base = QtWidgets.QLineEdit("data/ph1")
+        self.out_dir_base.setReadOnly(False)
 
-        self.out_dir = QtWidgets.QLineEdit("data/ph1")
-        self.out_dir.setReadOnly(True)
+        self.run_subdir = QtWidgets.QLineEdit("")
+        self.run_subdir.setPlaceholderText("Optional (leave blank for auto name)")
+
+        self.resolved_out_dir = QtWidgets.QLineEdit("")
+        self.resolved_out_dir.setReadOnly(True)
 
         layout.addRow("Subreddits (comma-separated)", self.subreddits)
-        layout.addRow("Time window mode", mode_row)
-        layout.addRow("Year", self.year)
-        layout.addRow("After date (UTC)", self.after_date)
-        layout.addRow("Before date (UTC)", before_row)
-        layout.addRow("Resolved after_utc (epoch)", self.after_epoch_lbl)
-        layout.addRow("Resolved before_utc (epoch)", self.before_epoch_lbl)
-        layout.addRow("Sort", self.sort)
+        layout.addRow("Listing", self.listing)
+        layout.addRow("Limit per subreddit (N)", self.per_limit)
         layout.addRow("Include comments", self.include_comments)
         layout.addRow("Comments limit per post", self.comments_limit)
-        layout.addRow("Per-subreddit limit", self.per_limit)
-        layout.addRow("Output dir", self.out_dir)
+        layout.addRow("Output base dir", self.out_dir_base)
+        layout.addRow("Run subdir", self.run_subdir)
+        layout.addRow("Resolved output dir", self.resolved_out_dir)
 
         self.start_btn = QtWidgets.QPushButton("Start")
         self.cancel_btn = QtWidgets.QPushButton("Cancel")
@@ -171,51 +150,32 @@ class MainWindow(QtWidgets.QMainWindow):
         self.start_btn.clicked.connect(self.start_run)
         self.cancel_btn.clicked.connect(self.cancel_run)
 
-        # Keep epoch labels + enabled/disabled state in sync
-        self.time_mode_year.toggled.connect(self._sync_time_controls)
-        self.before_enabled.toggled.connect(self._sync_time_controls)
-        self.year.valueChanged.connect(self._sync_time_controls)
-        self.after_date.dateChanged.connect(self._sync_time_controls)
-        self.before_date.dateChanged.connect(self._sync_time_controls)
+        # Keep resolved output dir in sync
+        self.subreddits.textChanged.connect(self._sync_resolved_out_dir)
+        self.listing.currentTextChanged.connect(self._sync_resolved_out_dir)
+        self.per_limit.valueChanged.connect(self._sync_resolved_out_dir)
+        self.out_dir_base.textChanged.connect(self._sync_resolved_out_dir)
+        self.run_subdir.textChanged.connect(self._sync_resolved_out_dir)
 
-        self._sync_time_controls()
+        self._sync_resolved_out_dir()
 
-    def _sync_time_controls(self):
-        year_mode = self.time_mode_year.isChecked()
+    def _sync_resolved_out_dir(self):
+        subs = [s.strip() for s in self.subreddits.text().split(",") if s.strip()]
+        listing = self.listing.currentText()
+        limit = int(self.per_limit.value())
+        base = Path(self.out_dir_base.text().strip() or "data/ph1")
+        run_subdir = self.run_subdir.text().strip()
 
-        self.year.setEnabled(year_mode)
+        if not subs:
+            self.resolved_out_dir.setText("")
+            return
 
-        self.after_date.setEnabled(not year_mode)
-        self.before_date.setEnabled((not year_mode) and self.before_enabled.isChecked())
-        self.before_enabled.setEnabled(not year_mode)
-
-        try:
-            after_utc, before_utc = self._resolve_time_window_to_epoch()
-            self.after_epoch_lbl.setText(str(after_utc))
-            self.before_epoch_lbl.setText("" if before_utc is None else str(before_utc))
-        except Exception:
-            self.after_epoch_lbl.setText("—")
-            self.before_epoch_lbl.setText("—")
-
-    def _resolve_time_window_to_epoch(self) -> tuple[int, Optional[int]]:
-        if self.time_mode_year.isChecked():
-            y = int(self.year.value())
-            start = _epoch_utc(datetime(y, 1, 1, tzinfo=timezone.utc))
-            next_year = _epoch_utc(datetime(y + 1, 1, 1, tzinfo=timezone.utc))
-            return start, next_year - 1
-
-        after = _epoch_from_qdate_utc(self.after_date.date())
-
-        if self.before_enabled.isChecked():
-            # inclusive end-of-day: start_of_next_day - 1
-            end_next_day = _epoch_from_qdate_utc(self.before_date.date().addDays(1))
-            before = end_next_day - 1
+        if run_subdir:
+            out_dir = base / run_subdir
         else:
-            before = None
+            out_dir = base / _default_run_subdir(listing=listing, limit=limit, subreddits=subs)
 
-        if before is not None and before < after:
-            raise ValueError("before must be >= after")
-        return after, before
+        self.resolved_out_dir.setText(str(out_dir))
 
     def append_log(self, msg: str):
         self.log.appendPlainText(msg)
@@ -226,26 +186,26 @@ class MainWindow(QtWidgets.QMainWindow):
             QtWidgets.QMessageBox.warning(self, "Input error", "Please provide at least one subreddit.")
             return
 
-        try:
-            after_utc, before_utc = self._resolve_time_window_to_epoch()
-        except Exception as e:
-            QtWidgets.QMessageBox.warning(self, "Input error", str(e))
+        listing = self.listing.currentText()
+        limit = int(self.per_limit.value())
+
+        out_dir = self.resolved_out_dir.text().strip()
+        if not out_dir:
+            QtWidgets.QMessageBox.warning(self, "Input error", "Output directory could not be resolved.")
             return
 
         params = dict(
             subreddits=subs,
-            out_dir=self.out_dir.text(),
-            sort=self.sort.currentText(),
-            per_subreddit_limit=int(self.per_limit.value()),
+            out_dir=out_dir,
+            listing=listing,
+            per_subreddit_limit=limit,
             include_comments=bool(self.include_comments.isChecked()),
             comments_limit_per_post=int(self.comments_limit.value()),
-            after_utc=int(after_utc),
-            before_utc=None if before_utc is None else int(before_utc),
         )
 
         self.start_btn.setEnabled(False)
         self.cancel_btn.setEnabled(True)
-        self.append_log("Starting collection...")
+        self.append_log(f"Starting collection → {out_dir}")
         self.progress.setRange(0, 0)
 
         self._thread = QtCore.QThread()
@@ -288,7 +248,7 @@ class MainWindow(QtWidgets.QMainWindow):
 def main():
     app = QtWidgets.QApplication([])
     win = MainWindow()
-    win.resize(760, 700)
+    win.resize(760, 640)
     win.show()
     app.exec()
 

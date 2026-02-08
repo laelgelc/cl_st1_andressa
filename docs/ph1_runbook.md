@@ -26,7 +26,7 @@ Store these locally in the project’s environment file (see `env/.env.template`
 Use the project’s conda environment and install the package in editable mode:
 
 ```
-bash pip install -e .
+pip install -e .
 ```
 
 This ensures `python -m cl_st1...` works for both CLI and GUI development.
@@ -35,40 +35,51 @@ This ensures `python -m cl_st1...` works for both CLI and GUI development.
 
 ## 2) What the collector writes (outputs)
 
-Each run writes into an output directory (default is auto-chosen unless overridden):
+Each run writes into an output directory (default is auto-chosen unless overridden).
+
+### 2.1 Output directory layout (fixed structure)
+Within the chosen run directory:
 
 - `raw/`
-    - `reddit_submissions.ndjson`
-    - `reddit_comments.ndjson` (only if comments enabled)
-- `tables/`
-    - `posts.parquet`
-    - `comments.parquet` (only if comments enabled)
+  - `reddit_submissions.ndjson`
+  - `reddit_comments.ndjson` (only if comments enabled)
+- `tables/` (optional; currently written by the service)
+  - `posts.parquet`
+  - `comments.parquet` (only if comments enabled)
 - `logs/`
-    - `ph1_run_<timestamp>.json` (provenance: parameters, versions, counts, timestamps)
+  - `ph1_run_<timestamp>.json` (provenance: parameters, versions, counts, timestamps)
 
 **Directory creation is automatic**: the collector creates `raw/`, `tables/`, and `logs/` if missing.
 
+### 2.2 Filename/Folder naming scheme for runs (auto-naming)
+If you do not provide an explicit `--out-dir` (CLI) and do not provide a custom run subfolder, the run is stored under `data/ph1/` with an auto-generated folder name:
+
+```
+data/ph1/<listing>_<limit>_<subreddits>_<UTCtimestamp>/
+```
+
+Where:
+- `<listing>` is `new` or `top`
+- `<limit>` is the per-subreddit limit (N)
+- `<subreddits>` is the subreddit list joined with `+` and sanitized for filesystem safety
+- `<UTCtimestamp>` is `YYYYMMDD_HHMMSS` in UTC
+
+Example:
+
+```
+data/ph1/new_1000_loneliness_20260208_121600/
+```
+
 ---
 
-## 3) Output directory conventions (team standard)
+## 3) Output directory overrides (team standard)
 
-### 3.1 Default auto-naming
-If you do not provide `--out-dir` or `--run-subdir`, the CLI auto-creates a run folder under `data/ph1/`:
-
-- Per-year run: `data/ph1/<YEAR>_<SUBREDDITS>`
-    - Example: `data/ph1/2024_loneliness`
-- Window run: `data/ph1/window_<START>_to_<END|open>_<SUBREDDITS>`
-    - Example: `data/ph1/window_2024-01-01_to_2024-06-30_loneliness+ForeverAlone`
-
-Subreddit labels are sanitized for filesystem safety and capped to avoid overly long folder names.
-
-### 3.2 Overriding output locations
-- Use `--run-subdir` to put the run into a specific subfolder under `--out-dir-base` (default: `data/ph1`).
 - Use `--out-dir` to fully control the output path (disables auto-naming).
+- Use `--out-dir-base` + `--run-subdir` to place the run under a predictable folder under `data/ph1/`.
 
 ---
 
-## 4) Standard run recipes
+## 4) Standard run recipes (CLI)
 
 All commands below are run from the repository root.
 
@@ -76,53 +87,31 @@ All commands below are run from the repository root.
 Use a small limit to validate credentials and output formatting:
 
 ```
-bash python -m cl_st1.ph1.cli.ph1_cli
--s loneliness
---after-date 2024-01-01
---before-date 2024-01-07
---per-subreddit-limit 10
---no-include-comments
+python -m cl_st1.ph1.cli.ph1_cli -s loneliness --listing new --per-subreddit-limit 10 --no-include-comments
 ```
 
-### 4.2 Collect a full calendar year (posts only; recommended default)
+### 4.2 Collect N most recent posts from `new` (posts only; recommended default)
 
 ```
-bash python -m cl_st1.ph1.cli.ph1_cli
--s loneliness
---year 2024
---per-subreddit-limit 1000
---no-include-comments
+python -m cl_st1.ph1.cli.ph1_cli -s loneliness --listing new --per-subreddit-limit 1000 --no-include-comments
 ```
 
-### 4.3 Collect a year and include comments (only if needed)
+### 4.3 Collect N posts from `top` (all time) (posts only)
 
 ```
-bash python -m cl_st1.ph1.cli.ph1_cli
--s loneliness
---year 2024
---per-subreddit-limit 1000
---include-comments
---comments-limit-per-post 200
+python -m cl_st1.ph1.cli.ph1_cli -s loneliness --listing top --per-subreddit-limit 500 --no-include-comments
 ```
 
-### 4.4 Collect a custom time window by date (UTC)
+### 4.4 Include comments (only if needed)
 
 ```
-bash python -m cl_st1.ph1.cli.ph1_cli
--s loneliness,ForeverAlone
---after-date 2024-01-01
---before-date 2024-06-30
---per-subreddit-limit 1000
---no-include-comments
+python -m cl_st1.ph1.cli.ph1_cli -s loneliness --listing new --per-subreddit-limit 200 --include-comments --comments-limit-per-post 200
 ```
 
 ### 4.5 Force an explicit output directory
 
 ```
-bash python -m cl_st1.ph1.cli.ph1_cli
--s loneliness
---year 2024
---out-dir data/ph1/custom_runs/2024_loneliness_posts_only
+python -m cl_st1.ph1.cli.ph1_cli -s loneliness --listing new --per-subreddit-limit 1000 --out-dir data/ph1/custom_runs/new_1000_loneliness
 ```
 
 ---
@@ -160,8 +149,8 @@ This prevents accidental stops if the script is run on the wrong instance.
 2. Select the instance
 3. **Tags** tab → **Manage tags**
 4. Add:
-  - Key: `AutoStop`
-  - Value: `true`
+- Key: `AutoStop`
+- Value: `true`
 5. Save
 
 #### Important: enable “Instance metadata tags” (IMDS)
@@ -177,7 +166,7 @@ If tags-in-IMDS is not enabled, the script will refuse to stop the instance (as 
 ### 5.4 Data safety (minimum bar)
 EBS persistence across stops is usually sufficient for day-to-day work, but it is not a backup.
 
-After any major successful run (e.g., a full year corpus):
+After any major successful run:
 - take an **EBS snapshot**, or
 - export the run folder to durable storage (if/when the team adopts it).
 
@@ -214,7 +203,7 @@ Raw exports (NDJSON/Parquet with text) should remain on EBS (or other approved s
 Make sure you installed editable:
 
 ```
-bash pip install -e .
+pip install -e .
 ```
 
 ### Authentication errors
@@ -226,8 +215,8 @@ bash pip install -e .
 - Expect backoff/retry behavior on transient errors.
 
 ### Output files exist but are empty
-- Confirm your time window includes posts.
-- Confirm the subreddit exists and is accessible.
+- If using `new` or `top`, an empty output usually indicates the run was cancelled early or the run ended before any items were yielded (rare).
+- Check the provenance JSON under `logs/` for collected counts.
 
 ---
 
