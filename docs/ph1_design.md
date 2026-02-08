@@ -15,16 +15,15 @@ Implemented in the repository:
     - Writes raw NDJSON incrementally.
     - Writes provenance JSON.
     - Supports best-effort cancellation via `should_cancel()` callback.
-    - (Currently also writes Parquet tables at end-of-run.)
 - CLI entry point: `src/cl_st1/ph1/cli/ph1_cli.py`
 - GUI entry point: `src/cl_st1/ph1/gui/ph1_gui.py` (PySide6)
-- Unit tests exist for time-window parsing semantics (legacy behavior) under `tests/ph1/`.
+- Unit tests exist for offline behavior (e.g., config and storage) under `tests/`.
 
-**Note:** Some features currently implemented (time-window inputs; Parquet tables) were added earlier. This streamlined spec treats them as **optional/legacy** and prioritizes the simpler “listing + limit” collection mode going forward.
+**Note:** Some features implemented earlier (e.g., time-window inputs) are treated as **optional/legacy**. This streamlined spec prioritizes the simpler “listing + limit” collection mode going forward.
 
 Planned next (to fully match the streamlined spec):
 - Align CLI/GUI UX to the streamlined inputs (listing + limit); keep time-window inputs as optional/advanced or move to Phase 2.
-- Decide whether Parquet belongs in Phase 1 (optional) or moves to Phase 2 (recommended for large runs).
+- Keep Phase 1 outputs strictly to NDJSON + provenance; any tabular exports belong to Phase 2+.
 
 ---
 
@@ -49,6 +48,19 @@ Optional:
 - `include_comments`: boolean (default: **false**; study focus is posts)
 - `comments_limit_per_post`: integer cap if comments are enabled
 - `out_dir`: output directory (default: `data/ph1` or an auto-named subfolder)
+
+### 2.2 Outputs (Phase 1)
+Phase 1 produces:
+- Raw NDJSON:
+    - submissions (`reddit_submissions.ndjson`)
+    - comments (`reddit_comments.ndjson`, only if enabled)
+- Provenance JSON logs describing:
+    - parameters used,
+    - timestamps,
+    - counts,
+    - relevant software versions.
+
+Phase 1 does **not** produce normalized tables (CSV/Parquet). Any derived/tabular outputs belong in Phase 2+.
 
 #### Supported `listing` values (Phase 1)
 Phase 1 supports the following listings via PRAW:
@@ -127,7 +139,7 @@ Optional:
 ### Unit tests (no network)
 - CLI parsing logic (listing, limits, argument validation)
 - storage helpers (directory creation; NDJSON append)
-- normalization helpers (row-shape correctness with lightweight fakes)
+- mapping/row-shape correctness with lightweight fakes (no API calls)
 - cancellation behavior (service stops promptly when `should_cancel()` becomes true)
 
 ### Smoke tests (manual; may touch network)

@@ -1,4 +1,3 @@
-# Python
 from __future__ import annotations
 
 import sys
@@ -7,10 +6,9 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Callable, Dict, Iterable, List, Optional, Literal
 
-import pandas as pd
 from praw.models import Submission, Comment
 
-from cl_st1.common.storage import Ph1Paths, append_ndjson, write_parquet, now_utc_iso, write_provenance
+from cl_st1.common.storage import Ph1Paths, append_ndjson, now_utc_iso, write_provenance
 from cl_st1.ph1.reddit_client import get_reddit
 
 ProgressCb = Callable[[str], None]
@@ -18,16 +16,6 @@ CountsCb = Callable[[int, int], None]
 ShouldCancelCb = Callable[[], bool]
 
 Listing = Literal["new", "top"]
-
-POST_COLUMNS = [
-    "id", "subreddit", "created_utc", "author", "title", "selftext", "score",
-    "num_comments", "url", "permalink", "over_18", "removed_by_category"
-]
-
-COMMENT_COLUMNS = [
-    "id", "link_id", "parent_id", "subreddit", "created_utc", "author", "body",
-    "score", "permalink", "removed_by_category"
-]
 
 
 def sub_to_row(s: Submission) -> Dict[str, object]:
@@ -146,7 +134,7 @@ def collect(
         per_subreddit_limit: Optional[int] = 1000,
         include_comments: bool = True,
         comments_limit_per_post: int = 300,
-        after_utc: Optional[int] = None,   # legacy/optional filter
+        after_utc: Optional[int] = None,  # legacy/optional filter
         before_utc: Optional[int] = None,  # legacy/optional filter
         progress: Optional[ProgressCb] = None,
         counts: Optional[CountsCb] = None,
@@ -160,10 +148,12 @@ def collect(
 
     Legacy behavior (optional):
       - If after_utc/before_utc are set, filter locally by created_utc.
+
+    Outputs (Phase 1):
+      - NDJSON written incrementally
+      - Provenance JSON written at end
     """
     paths = Ph1Paths.create(Path(out_dir))
-    posts_rows: List[Dict[str, object]] = []
-    comments_rows: List[Dict[str, object]] = []
     posts_total = 0
     comments_total = 0
     attempt = 0
@@ -197,7 +187,6 @@ def collect(
 
                     row = sub_to_row(s)
                     append_ndjson(paths.raw_posts, [row])
-                    posts_rows.append(row)
                     posts_total += 1
 
                     if include_comments:
@@ -212,7 +201,6 @@ def collect(
 
                             crow = comment_to_row(c)
                             append_ndjson(paths.raw_comments, [crow])
-                            comments_rows.append(crow)
                             comments_total += 1
 
                         if cancelled:
@@ -238,10 +226,6 @@ def collect(
         if cancelled:
             break
 
-    write_parquet(paths.posts_parquet, posts_rows, POST_COLUMNS)
-    if include_comments:
-        write_parquet(paths.comments_parquet, comments_rows, COMMENT_COLUMNS)
-
     prov = {
         "started_at": start_iso,
         "finished_at": now_utc_iso(),
@@ -260,11 +244,12 @@ def collect(
         "versions": {
             "python": f"{sys.version_info.major}.{sys.version_info.minor}.{sys.version_info.micro}",
             "praw": __import__("praw").__version__,
-            "pandas": pd.__version__,
-            "pyarrow": __import__("pyarrow").__version__,
         },
     }
-    write_provenance(Path(out_dir) / "logs" / f"ph1_run_{int(datetime.now(timezone.utc).timestamp())}.json", prov)
+    write_provenance(
+        Path(out_dir) / "logs" / f"ph1_run_{int(datetime.now(timezone.utc).timestamp())}.json",
+        prov,
+        )
 
     if progress:
         progress("Collection cancelled." if cancelled else "Collection finished.")

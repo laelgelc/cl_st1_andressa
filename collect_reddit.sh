@@ -4,7 +4,7 @@ set -euo pipefail
 # Phase 1 (Reddit) — EC2 runner script
 #
 # Goals:
-# - Activate the correct environment
+# - Activate the correct conda environment
 # - Run the Phase 1 collector CLI (posts by default; comments optional)
 # - Stop the EC2 instance automatically:
 #     - Default: stop on success only
@@ -16,15 +16,19 @@ set -euo pipefail
 # Usage examples:
 #   chmod +x collect_reddit.sh
 #
-#   # Run a year (posts only) and stop on success:
-#   nohup ./collect_reddit.sh --year 2024 -s loneliness --per-subreddit-limit 1000 > process_output.log 2>&1 &
+#   # Posts only (default), stop on success:
+#   nohup ./collect_reddit.sh -s loneliness --listing new --per-subreddit-limit 1000 > process_output.log 2>&1 &
 #
-#   # Run a custom window, include comments, stop always:
-#   STOP_ALWAYS=1 nohup ./collect_reddit.sh --after-date 2024-01-01 --before-date 2024-06-30 -s loneliness --include-comments > process_output.log 2>&1 &
+#   # Include comments, stop always:
+#   STOP_ALWAYS=1 nohup ./collect_reddit.sh -s loneliness --include-comments --comments-limit-per-post 200 > process_output.log 2>&1 &
+#
+#   # Explicit output directory (no auto naming):
+#   nohup ./collect_reddit.sh -s loneliness --out-dir data/ph1/my_run_001 > process_output.log 2>&1 &
 #
 # Notes:
 # - This script assumes your outputs are on an attached EBS volume.
-# - Do NOT commit secrets. Credentials should be in your environment or local .env as per project config.
+# - Do NOT commit secrets. Credentials should be in your environment or local env/.env as per project config.
+# - This script forwards all arguments to: python -u -m cl_st1.ph1.cli.ph1_cli
 
 # -----------------------------
 # Config (override via env vars)
@@ -33,7 +37,7 @@ set -euo pipefail
 : "${CONDA_SH:=$HOME/miniconda3/etc/profile.d/conda.sh}"
 
 # Stopping behavior:
-: "${STOP_ALWAYS:=0}"                # 1 => stop even if job fails; 0 => stop only on success (default)
+: "${STOP_ALWAYS:=0}"                 # 1 => stop even if job fails; 0 => stop only on success (default)
 : "${REQUIRE_AUTOSTOP_TAG:=1}"        # 1 => require instance tag AutoStop=true to stop; 0 => skip tag check
 : "${AUTOSTOP_TAG_KEY:=AutoStop}"
 : "${AUTOSTOP_TAG_VALUE:=true}"
@@ -191,8 +195,9 @@ main() {
   activate_conda_env
 
   # Forward all script args to the collector CLI.
-  # Example:
-  #   ./collect_reddit.sh --year 2024 -s loneliness --per-subreddit-limit 1000 --no-include-comments
+  # Examples:
+  #   ./collect_reddit.sh -s loneliness --listing new --per-subreddit-limit 1000 --no-include-comments
+  #   ./collect_reddit.sh -s loneliness --listing top --per-subreddit-limit 200 --include-comments
   set +e
   run_collector "$@"
   JOB_EXIT_CODE=$?

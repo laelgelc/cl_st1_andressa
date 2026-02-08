@@ -3,4 +3,10 @@ Name: cl-st1-andressa
 Version: 0.1.0
 Requires-Python: >=3.13
 License-File: LICENSE
+Requires-Dist: praw
+Requires-Dist: python-dotenv
+Provides-Extra: gui
+Requires-Dist: PySide6; extra == "gui"
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
 Dynamic: license-file

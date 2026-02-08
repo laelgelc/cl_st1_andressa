@@ -7,9 +7,21 @@ build-backend = "setuptools.build_meta"
 name = "cl-st1-andressa"
 version = "0.1.0"
 requires-python = ">=3.13"
+dependencies = [
+    "praw",
+    "python-dotenv",
+]
+
+[project.optional-dependencies]
+gui = ["PySide6"]
+dev = ["pytest"]
 
 [tool.setuptools]
 package-dir = {"" = "src"}
 
 [tool.setuptools.packages.find]
 where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
