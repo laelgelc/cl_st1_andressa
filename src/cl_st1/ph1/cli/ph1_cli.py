@@ -7,31 +7,9 @@ from pathlib import Path
 
 
 from cl_st1.ph1.collect_service import collect
+from cl_st1.ph1.naming import default_run_subdir
 
 
-def _make_safe_subdir(name: str) -> str:
-    cleaned = []
-    for ch in name.strip():
-        if ch.isalnum() or ch in ("-", "_", "."):
-            cleaned.append(ch)
-        else:
-            cleaned.append("_")
-    return "".join(cleaned).strip("_") or "run"
-
-
-def _subreddits_label(subreddits: list[str], max_len: int = 64) -> str:
-    joined = "+".join(subreddits)
-    safe = _make_safe_subdir(joined)
-    if len(safe) <= max_len:
-        return safe
-    return safe[: max_len - len("_etc")] + "_etc"
-
-
-def _default_run_subdir(*, listing: str, limit: int | None, subreddits: list[str]) -> str:
-    ts = datetime.now(timezone.utc).strftime("%Y%m%d_%H%M%S")
-    sr = _subreddits_label(subreddits)
-    lim = "nolimit" if limit is None else str(int(limit))
-    return _make_safe_subdir(f"{listing}_{lim}_{sr}_{ts}")
 
 
 def parse_args(argv=None):
@@ -79,7 +57,7 @@ def main(argv=None) -> int:
         else:
             out_dir = str(
                 base
-                / _default_run_subdir(
+                / default_run_subdir(
                     listing=args.listing,
                     limit=args.per_subreddit_limit,
                     subreddits=subs,

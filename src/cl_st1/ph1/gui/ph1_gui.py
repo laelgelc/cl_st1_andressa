@@ -8,30 +8,7 @@ from typing import Optional
 from PySide6 import QtCore, QtWidgets
 
 from cl_st1.ph1.collect_service import collect
-
-
-def _make_safe_subdir(name: str) -> str:
-    cleaned: list[str] = []
-    for ch in name.strip():
-        if ch.isalnum() or ch in ("-", "_", "."):
-            cleaned.append(ch)
-        else:
-            cleaned.append("_")
-    return "".join(cleaned).strip("_") or "run"
-
-
-def _subreddits_label(subreddits: list[str], max_len: int = 64) -> str:
-    joined = "+".join(subreddits)
-    safe = _make_safe_subdir(joined)
-    if len(safe) <= max_len:
-        return safe
-    return safe[: max_len - len("_etc")] + "_etc"
-
-
-def _default_run_subdir(*, listing: str, limit: int, subreddits: list[str]) -> str:
-    ts = datetime.now(timezone.utc).strftime("%Y%m%d_%H%M%S")
-    sr = _subreddits_label(subreddits)
-    return _make_safe_subdir(f"{listing}_{limit}_{sr}_{ts}")
+from cl_st1.ph1.naming import default_run_subdir
 
 
 class CollectorWorker(QtCore.QObject):
@@ -173,7 +150,7 @@ class MainWindow(QtWidgets.QMainWindow):
         if run_subdir:
             out_dir = base / run_subdir
         else:
-            out_dir = base / _default_run_subdir(listing=listing, limit=limit, subreddits=subs)
+            out_dir = base / default_run_subdir(listing=listing, limit=limit, subreddits=subs)
 
         self.resolved_out_dir.setText(str(out_dir))
 

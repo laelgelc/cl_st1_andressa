@@ -17,7 +17,7 @@ set -euo pipefail
 #   chmod +x collect_reddit.sh
 #
 #   # Posts only (default), stop on success:
-#   nohup ./collect_reddit.sh -s loneliness --listing new --per-subreddit-limit 1000 > process_output.log 2>&1 &
+#   nohup ./collect_reddit.sh -s loneliness --listing new --per-subreddit-limit 1000 --no-include-comments > process_output.log 2>&1 &
 #
 #   # Include comments, stop always:
 #   STOP_ALWAYS=1 nohup ./collect_reddit.sh -s loneliness --include-comments --comments-limit-per-post 200 > process_output.log 2>&1 &
