@@ -1,204 +1,231 @@
-# Phase 1 Design — Data Collection (Reddit)
+# Phase 1 Design — Reddit Data Collection (Streamlined)
 
-This document specifies the minimal viable slice (MVS) for Phase 1, with implementation focused in Junie (PySide6 GUI-first). Scope: collect public Reddit submissions and comments relevant to loneliness, persist raw and normalized data, and provide a simple GUI (primary) and CLI (secondary) entry point.
+This document defines the **minimal viable slice (MVS)** for Phase 1.
+Phase 1’s job is to **collect raw public Reddit data reproducibly** (with provenance) and **not** to perform data wrangling/cleaning. Those steps belong to later phases.
+
+**Guiding principle:** Phase 1 should be simple, robust, and transparent about what was collected.
+
+---
 
 ## Current implementation status (living section)
 
-Implemented:
-- CLI entry point under `src/cl_st1/ph1/cli/ph1_cli.py`.
-- Time window selection supports:
-  - per-year collection (`--year YYYY`), and
-  - custom windows (`--after-utc/--before-utc` or `--after-date/--before-date`).
-- Default collection mode is **posts only**; comments are optional (`--include-comments`).
-- Auto-named output folders when `--out-dir` is omitted:
-  - per-year: `data/ph1/<YEAR>_<SUBREDDITS>`
-  - window: `data/ph1/window_<START>_to_<END|open>_<SUBREDDITS>`
-- Provenance logs and raw/tables outputs are written under the run output directory.
-- GUI entry point present under `src/cl_st1/ph1/gui/ph1_gui.py` (PySide6):
-  - year mode + date-range mode time window UX (UTC), internally converted to epoch seconds for collection/provenance
-  - background worker thread with progress + counts updates
-  - cancel button is implemented as a best-effort UI cancellation (service-side cancellation may be improved)
+Implemented in the repository:
+- Shared service: `src/cl_st1/ph1/collect_service.py`
+    - Collects posts and optionally comments.
+    - Writes raw NDJSON incrementally.
+    - Writes provenance JSON.
+    - Supports best-effort cancellation via `should_cancel()` callback.
+    - (Currently also writes Parquet tables at end-of-run.)
+- CLI entry point: `src/cl_st1/ph1/cli/ph1_cli.py`
+- GUI entry point: `src/cl_st1/ph1/gui/ph1_gui.py` (PySide6)
+- Unit tests exist for time-window parsing semantics (legacy behavior) under `tests/ph1/`.
 
-Planned next:
-- Improve cancellation semantics end-to-end (propagate a cancel flag into the service loops and stop promptly).
-- GUI input validation polish (clearer errors; disable irrelevant fields; sensible defaults).
-- Ensure PySide6 is available in the team environment configuration for GUI runs.
-- Tests for helpers and CLI parsing (time window and output naming).
+**Note:** Some features currently implemented (time-window inputs; Parquet tables) were added earlier. This streamlined spec treats them as **optional/legacy** and prioritizes the simpler “listing + limit” collection mode going forward.
 
-## 1. Objectives
+Planned next (to fully match the streamlined spec):
+- Align CLI/GUI UX to the streamlined inputs (listing + limit); keep time-window inputs as optional/advanced or move to Phase 2.
+- Decide whether Parquet belongs in Phase 1 (optional) or moves to Phase 2 (recommended for large runs).
 
-- Collect submissions (and optional comments) from target subreddits within a time window.
-- Persist:
-  - Raw NDJSON for archival/provenance.
-  - Normalized tables (Parquet/CSV) for downstream processing.
-- Provide two entry points (GUI first):
-  - GUI (PySide6): user-friendly run configuration, background execution, status.
-  - CLI: batch-friendly wrapper reusing the same service.
-- Log provenance (config used, timestamps, sources) and respect API limits/ToS.
+---
+
+## 1. Objective (Phase 1)
+
+Collect a specified number of **public** Reddit submissions from a specified subreddit listing (and optionally comments), while:
+- respecting Reddit API rules and rate limits,
+- producing reproducible output with provenance,
+- keeping secrets out of version control.
+
+---
 
 ## 2. Scope (MVS)
 
-Inputs:
-- Subreddit list (comma-separated).
-- Time window (user-facing):
-  - **Either**: calendar `year` in UTC
-  - **Or**: `after_date` (UTC) and optional `before_date` (UTC)
-  - (Advanced/automation) `after_utc` / `before_utc` epoch seconds
-- Sort: new (default) or top.
-- Include comments: boolean + comments_limit_per_post.
-- Per-subreddit limit: optional cap.
+### 2.1 Inputs (user-facing)
+Required:
+- `subreddits`: list of subreddit names (e.g., `loneliness`)
+- `listing`: which listing to pull from (default: `new`)
+- `limit_per_subreddit`: number of posts to fetch from that listing (N)
 
-Outputs:
-- data/ph1/raw/ reddit_submissions.ndjson
-- data/ph1/raw/ reddit_comments.ndjson (optional)
-- data/ph1/tables/ posts.parquet
-- data/ph1/tables/ comments.parquet (optional)
-- data/ph1/logs/ ph1_run_YYYYMMDD_HHMMSS.json (provenance)
+Optional:
+- `include_comments`: boolean (default: **false**; study focus is posts)
+- `comments_limit_per_post`: integer cap if comments are enabled
+- `out_dir`: output directory (default: `data/ph1` or an auto-named subfolder)
 
-Out of scope for Phase 1: cleaning, language ID, de-dup, analytics.
+### 2.2 Outputs
+Phase 1 outputs are **raw-first**:
 
-## 3. Architecture
+- Raw NDJSON (append-only):
+    - `raw/reddit_submissions.ndjson`
+    - `raw/reddit_comments.ndjson` (only if comments enabled)
+- Provenance log:
+    - `logs/ph1_run_<timestamp>.json`
 
-- src/cl_st1/common/
-  - config.py: Load env/.env with python-dotenv; expose get_settings() with REDDIT_CLIENT_ID/SECRET and USER_AGENT. Validate presence.
-  - storage.py: Ensure dirs, write NDJSON (append-friendly) and Parquet (batch write), simple path helpers under data/ph1/.
-  - log.py: get_logger() returning a logger that can write to console/file, and an adapter to emit messages into the GUI.
+Optional output (allowed but not required by this streamlined Phase 1 spec):
+- Normalized tables:
+    - `tables/posts.parquet`
+    - `tables/comments.parquet`
 
-- src/cl_st1/ph1/
-  - reddit_client.py: get_reddit() returning an authenticated PRAW client using settings.
-  - collect_service.py:
-    - fetch_submissions(subreddit, sort, after/before, limit)
-    - fetch_comments(submission, limit_per_post)
-    - normalize to dict rows; periodic flush to NDJSON; finalize Parquet.
-    - backoff/retry with capped exponential strategy.
-    - progress callbacks: on_progress(msg), on_counts(posts, comments).
-  - gui/ph1_gui.py (PySide6):
-    - Form inputs; Start/Cancel actions.
-    - Background worker (QThread/QRunnable) that calls collect_service.collect().
-    - Signals for progress lines, counts, completion, and errors.
-    - **Time window UX:** year mode and date-range mode; internally convert to epoch seconds for collection/provenance.
-  - cli/ph1_cli.py: argparse to parse flags → call collect_service.collect().
+### 2.3 Explicitly out of scope (Phase 1)
+- language identification / language filtering
+- deduplication
+- cleaning / normalization beyond selecting a stable set of raw fields
+- sampling strategies beyond “listing + limit”
+- analytics / LMDA feature extraction
 
-## 4. Data Model
+---
 
-Posts (submissions):
-- id, subreddit, created_utc, author, title, selftext, score, num_comments, url, permalink, over_18, removed_by_category
+## 3. Important behavioral note (methodology)
 
-Comments:
-- id, link_id (submission id), parent_id, subreddit, created_utc, author, body, score, permalink, removed_by_category
+Using a listing like `new` with `limit=N` means:
 
-Notes:
-- created_utc is epoch seconds (int). Author may be None for deleted accounts.
+> the collector requests **up to N of the most recent posts** from that listing, then stores them.
 
-## 5. I/O and Paths
+It does **not** guarantee coverage of an arbitrary historical time window. If historical coverage is needed, that becomes a Phase 2+ concern (different retrieval strategy and/or larger scans) and must be documented accordingly.
 
-Base dir: data/ph1/
-- raw/: reddit_submissions.ndjson, reddit_comments.ndjson
-- tables/: posts.parquet, comments.parquet
-- logs/: ph1_run_{timestamp}.json
+---
 
-Ensure directories up front. NDJSON is line-delimited JSON, one object per line. Parquet written once at the end of the run from in-memory buffers (bounded by per_subreddit_limit in MVS).
+## 4. Architecture
 
-## 6. Configuration
+### 4.1 Modules
+- `src/cl_st1/common/`
+    - `config.py`: loads credentials (expects `env/.env` locally), validates required vars
+    - `storage.py`: creates output directories, appends NDJSON, writes provenance (and optionally Parquet)
+    - `log.py`: logging helpers (optional)
+- `src/cl_st1/ph1/`
+    - `reddit_client.py`: constructs authenticated PRAW client
+    - `collect_service.py`: core collection orchestration
+    - `cli/ph1_cli.py`: CLI wrapper around the service
+    - `gui/ph1_gui.py`: PySide6 GUI wrapper around the service
 
-- Secrets (env/.env; not committed):
-  - REDDIT_CLIENT_ID, REDDIT_CLIENT_SECRET
-  - USER_AGENT (e.g., cl_st1_loneliness/1.0 (by u/your_username))
-- Runtime (GUI/CLI parameters):
-  - subreddits: list[str]
-  - sort: new|top (default=new)
-  - per_subreddit_limit: int|None (default=1000)
-  - include_comments: bool (default=true)
-  - comments_limit_per_post: int (default=300)
-  - after_utc: int (required; derived from year/after_date in GUI/CLI)
-  - before_utc: int|None
-  - out_dir: data/ph1 (default)
+### 4.2 Service contract (recommended for Phase 1)
+The service should accept a small set of stable parameters that both CLI and GUI can provide:
 
-Provenance JSON records parameters, start/end times, counts, and package versions (python, praw, pandas, pyarrow).
+- `subreddits`
+- `listing` (e.g., `new`, `top`)
+- `limit_per_subreddit`
+- `include_comments`, `comments_limit_per_post`
+- `out_dir`
+- callbacks: `progress(msg)`, `counts(posts, comments)`
+- cancellation: `should_cancel()`
 
-## 7. Rate Limits, Retries, Etiquette
+Time-window filtering parameters (`after_utc`, `before_utc`) are considered **optional/legacy** and should not be required for Phase 1 streamlined collection.
 
-- Descriptive user_agent required.
-- Exponential backoff on exceptions: 1s, 2s, 4s, … capped at 60s; reset on success.
-- Optional per-request sleep (e.g., 0.5–1.0s).
-- Continue on item-level errors; log and proceed.
+---
 
-## 8. GUI Slice (PySide6 with Junie)
+## 5. Data model (raw records)
 
-UI elements:
-- Inputs:
-  - QLineEdit: Subreddits (comma-separated)
-  - Time window (UTC): Year mode and Date-range mode
-    - Year mode: QSpinBox (year)
-    - Date-range mode: QDateEdit/QDateTimeEdit (after date; before date optional)
-    - (Optional display) resolved after_utc/before_utc epoch seconds (read-only) for transparency/provenance
-  - QComboBox: Sort (new/top)
-  - QCheckBox + QSpinBox: Include comments + limit per post
-  - QSpinBox: Per-subreddit limit
-  - QLabel: Output directory (read-only; defaults to data/ph1)
-- Actions:
-  - QPushButton: Start (disabled while running)
-  - QPushButton: Cancel (enabled while running)
-- Status:
-  - QPlainTextEdit: log/progress lines (append-only)
-  - QLabel: counters (posts, comments)
-  - QProgressBar: indeterminate (busy) during run
+### 5.1 Submissions (posts)
+Store a consistent subset of fields for downstream processing:
 
-Threading:
-- Worker in QThread/QRunnable; signals:
-  - progress(str), counts(int, int), finished(success: bool), error(str)
-- Cancel via a shared flag checked between API calls.
+- `id`
+- `subreddit`
+- `created_utc`
+- `author` (may be `None`)
+- `title`
+- `selftext`
+- `score`
+- `num_comments`
+- `url`
+- `permalink`
+- `over_18`
+- `removed_by_category`
 
-Accessibility and UX:
-- Disable inputs on run; re-enable on finish/cancel.
-- Validate inputs (non-empty subreddits; after_utc numeric; sensible limits) before starting.
+### 5.2 Comments (optional)
+- `id`
+- `link_id` (submission id)
+- `parent_id`
+- `subreddit`
+- `created_utc`
+- `author` (may be `None`)
+- `body`
+- `score`
+- `permalink`
+- `removed_by_category`
 
-## 9. CLI Slice
+---
 
-Args:
-- -s/--subreddits
-- --sort
-- --per-subreddit-limit
-- --include-comments / --no-include-comments
-- --comments-limit-per-post
+## 6. Provenance (required)
 
-Time window (choose one mode):
-- --year
-- --after-date / --before-date
-- --after-utc / --before-utc
+Every run must write a provenance JSON containing at least:
+- timestamps (`started_at`, `finished_at`)
+- run parameters:
+    - subreddits, listing, limits, include_comments, out_dir
+- counts:
+    - number of posts/comments collected
+- versions (useful for reproducibility):
+    - python, praw, pandas, pyarrow (if used)
 
-Output location:
-- --out-dir
-- --out-dir-base
-- --run-subdir
+This provenance record is the foundation for transparent reporting.
 
-Exit 0 on success; non-zero on fatal error. Logs to stdout + file in logs/.
+---
 
-## 10. Testing
+## 7. Rate limits, retries, etiquette
 
-- Unit tests for:
-  - common/config: env loading (uses env/.env), missing creds → friendly error
-  - common/storage: directory creation, NDJSON append, Parquet write
-  - ph1/collect_service: normalization helpers (using lightweight fakes)
-- Smoke test (manual or skipped in CI):
-  - Tiny run: 3 posts, 3 comments per post against a test subreddit; asserts files exist and contain rows.
+- Use descriptive `USER_AGENT`.
+- Respect Reddit ToS and API rate limits.
+- Retry transient failures with capped exponential backoff.
+- Prefer continuing collection for recoverable item-level errors rather than failing the entire run.
 
-## 11. Security & Ethics
+---
 
-- Never commit env/.env. Keep .env.template committed.
-- Respect Reddit ToS and subreddit rules.
-- Consider a future option to hash author ids.
+## 8. GUI slice (PySide6)
 
-## 12. Roadmap (GUI-first increments)
+### 8.1 GUI inputs (aligned to streamlined Phase 1)
+- Subreddits (comma-separated)
+- Listing selector (`new`, `top`, …)
+- Limit per subreddit (N)
+- Include comments checkbox + limit per post
+- Output directory (read-only default, or selectable in future)
+- Start / Cancel
+- Progress log + counters
 
-- v0.1: GUI form + background worker + progress; NDJSON + Parquet; provenance file.
-- v0.2: Cancel support, better validation, per-subreddit delay option.
-- v0.3: Saved presets; select output directory; basic error dialogs.
-- v0.4: CLI parity with GUI options.
+### 8.2 Threading / cancellation
+- Run collection in a background worker thread.
+- Cancel button sets a flag; worker passes `should_cancel()` to the service.
 
-## 13. Done Definition (for this slice)
+---
 
-- GUI can run a collection with user-specified subreddits and time window.
-- Files created under data/ph1/{raw,tables,logs}.
-- Provenance JSON written; run is reproducible.
-- Basic unit tests pass; manual smoke run succeeds with tiny limits.
+## 9. CLI slice (aligned to streamlined Phase 1)
+
+Required:
+- `--subreddits`
+- `--listing` (default `new`)
+- `--per-subreddit-limit`
+
+Optional:
+- `--include-comments / --no-include-comments`
+- `--comments-limit-per-post`
+- `--out-dir` (or auto naming via base/subdir if desired)
+
+---
+
+## 10. Testing (Phase 1)
+
+### Unit tests (no network)
+- CLI parsing logic (listing, limits, argument validation)
+- storage helpers (directory creation; NDJSON append)
+- normalization helpers (row-shape correctness with lightweight fakes)
+- cancellation behavior (service stops promptly when `should_cancel()` becomes true)
+
+### Smoke tests (manual; may touch network)
+- Tiny run (e.g., `limit=3`, comments disabled) ensures:
+    - output directories created
+    - NDJSON contains expected number of rows
+    - provenance file written
+
+---
+
+## 11. Security & ethics
+
+- Do not commit secrets (`env/.env`).
+- Treat raw text as sensitive research material.
+- Respect Reddit and subreddit rules.
+- Prefer publishing derived outputs rather than raw corpora.
+
+---
+
+## 12. Done definition (Phase 1 streamlined)
+Phase 1 is “done” when:
+- CLI and GUI can collect N posts from a chosen listing for specified subreddits.
+- Raw NDJSON and provenance are written to a run folder.
+- Cancellation works end-to-end.
+- Unit tests pass and a tiny manual smoke run succeeds.
