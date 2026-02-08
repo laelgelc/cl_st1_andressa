@@ -1,11 +1,24 @@
 # Python
 from __future__ import annotations
 
+from datetime import datetime, timezone
 from typing import Optional
 
 from PySide6 import QtCore, QtWidgets
 
 from cl_st1.ph1.collect_service import collect
+
+
+def _epoch_utc(dt: datetime) -> int:
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=timezone.utc)
+    return int(dt.timestamp())
+
+
+def _epoch_from_qdate_utc(d) -> int:
+    # QDate -> UTC midnight at start of that day
+    py = d.toPython()
+    return _epoch_utc(datetime(py.year, py.month, py.day, tzinfo=timezone.utc))
 
 
 class CollectorWorker(QtCore.QObject):
@@ -54,24 +67,66 @@ class MainWindow(QtWidgets.QMainWindow):
         layout = QtWidgets.QFormLayout()
 
         self.subreddits = QtWidgets.QLineEdit("lonely,loneliness")
-        self.after = QtWidgets.QLineEdit("")
-        self.before = QtWidgets.QLineEdit("")
+
+        # Time window mode: Year OR Date range (UTC)
+        self.time_mode_year = QtWidgets.QRadioButton("Year (UTC)")
+        self.time_mode_range = QtWidgets.QRadioButton("Date range (UTC)")
+        self.time_mode_year.setChecked(True)
+
+        mode_row = QtWidgets.QHBoxLayout()
+        mode_row.addWidget(self.time_mode_year)
+        mode_row.addWidget(self.time_mode_range)
+        mode_row.addStretch(1)
+
+        self.year = QtWidgets.QSpinBox()
+        self.year.setRange(2005, 2100)
+        self.year.setValue(datetime.now(timezone.utc).year)
+
+        self.after_date = QtWidgets.QDateEdit()
+        self.after_date.setCalendarPopup(True)
+        self.after_date.setDisplayFormat("yyyy-MM-dd")
+        self.after_date.setDate(QtCore.QDate.currentDate().addMonths(-1))
+
+        self.before_date = QtWidgets.QDateEdit()
+        self.before_date.setCalendarPopup(True)
+        self.before_date.setDisplayFormat("yyyy-MM-dd")
+        self.before_date.setDate(QtCore.QDate.currentDate())
+        self.before_enabled = QtWidgets.QCheckBox("Use end date")
+        self.before_enabled.setChecked(True)
+
+        before_row = QtWidgets.QHBoxLayout()
+        before_row.addWidget(self.before_date)
+        before_row.addWidget(self.before_enabled)
+        before_row.addStretch(1)
+
+        # Resolved epoch (read-only, for transparency/provenance)
+        self.after_epoch_lbl = QtWidgets.QLabel("—")
+        self.before_epoch_lbl = QtWidgets.QLabel("—")
+
         self.sort = QtWidgets.QComboBox()
         self.sort.addItems(["new", "top"])
+
         self.include_comments = QtWidgets.QCheckBox()
-        self.include_comments.setChecked(True)
+        self.include_comments.setChecked(False)
+
         self.comments_limit = QtWidgets.QSpinBox()
         self.comments_limit.setRange(0, 10000)
         self.comments_limit.setValue(300)
+
         self.per_limit = QtWidgets.QSpinBox()
         self.per_limit.setRange(1, 100000)
         self.per_limit.setValue(1000)
+
         self.out_dir = QtWidgets.QLineEdit("data/ph1")
         self.out_dir.setReadOnly(True)
 
         layout.addRow("Subreddits (comma-separated)", self.subreddits)
-        layout.addRow("After UTC (epoch seconds)", self.after)
-        layout.addRow("Before UTC (epoch seconds, optional)", self.before)
+        layout.addRow("Time window mode", mode_row)
+        layout.addRow("Year", self.year)
+        layout.addRow("After date (UTC)", self.after_date)
+        layout.addRow("Before date (UTC)", before_row)
+        layout.addRow("Resolved after_utc (epoch)", self.after_epoch_lbl)
+        layout.addRow("Resolved before_utc (epoch)", self.before_epoch_lbl)
         layout.addRow("Sort", self.sort)
         layout.addRow("Include comments", self.include_comments)
         layout.addRow("Comments limit per post", self.comments_limit)
@@ -103,6 +158,52 @@ class MainWindow(QtWidgets.QMainWindow):
         self.start_btn.clicked.connect(self.start_run)
         self.cancel_btn.clicked.connect(self.cancel_run)
 
+        # Keep epoch labels + enabled/disabled state in sync
+        self.time_mode_year.toggled.connect(self._sync_time_controls)
+        self.before_enabled.toggled.connect(self._sync_time_controls)
+        self.year.valueChanged.connect(self._sync_time_controls)
+        self.after_date.dateChanged.connect(self._sync_time_controls)
+        self.before_date.dateChanged.connect(self._sync_time_controls)
+
+        self._sync_time_controls()
+
+    def _sync_time_controls(self):
+        year_mode = self.time_mode_year.isChecked()
+
+        self.year.setEnabled(year_mode)
+
+        self.after_date.setEnabled(not year_mode)
+        self.before_date.setEnabled((not year_mode) and self.before_enabled.isChecked())
+        self.before_enabled.setEnabled(not year_mode)
+
+        try:
+            after_utc, before_utc = self._resolve_time_window_to_epoch()
+            self.after_epoch_lbl.setText(str(after_utc))
+            self.before_epoch_lbl.setText("" if before_utc is None else str(before_utc))
+        except Exception:
+            self.after_epoch_lbl.setText("—")
+            self.before_epoch_lbl.setText("—")
+
+    def _resolve_time_window_to_epoch(self) -> tuple[int, Optional[int]]:
+        if self.time_mode_year.isChecked():
+            y = int(self.year.value())
+            start = _epoch_utc(datetime(y, 1, 1, tzinfo=timezone.utc))
+            next_year = _epoch_utc(datetime(y + 1, 1, 1, tzinfo=timezone.utc))
+            return start, next_year - 1
+
+        after = _epoch_from_qdate_utc(self.after_date.date())
+
+        if self.before_enabled.isChecked():
+            # inclusive end-of-day: start_of_next_day - 1
+            end_next_day = _epoch_from_qdate_utc(self.before_date.date().addDays(1))
+            before = end_next_day - 1
+        else:
+            before = None
+
+        if before is not None and before < after:
+            raise ValueError("before must be >= after")
+        return after, before
+
     def append_log(self, msg: str):
         self.log.appendPlainText(msg)
 
@@ -111,13 +212,12 @@ class MainWindow(QtWidgets.QMainWindow):
         if not subs:
             QtWidgets.QMessageBox.warning(self, "Input error", "Please provide at least one subreddit.")
             return
+
         try:
-            after = int(self.after.text())
-        except ValueError:
-            QtWidgets.QMessageBox.warning(self, "Input error", "After UTC must be an integer epoch seconds.")
+            after_utc, before_utc = self._resolve_time_window_to_epoch()
+        except Exception as e:
+            QtWidgets.QMessageBox.warning(self, "Input error", str(e))
             return
-        before_text = self.before.text().strip()
-        before = int(before_text) if before_text else None
 
         params = dict(
             subreddits=subs,
@@ -126,8 +226,8 @@ class MainWindow(QtWidgets.QMainWindow):
             per_subreddit_limit=int(self.per_limit.value()),
             include_comments=bool(self.include_comments.isChecked()),
             comments_limit_per_post=int(self.comments_limit.value()),
-            after_utc=after,
-            before_utc=before,
+            after_utc=int(after_utc),
+            before_utc=None if before_utc is None else int(before_utc),
         )
 
         self.start_btn.setEnabled(False)
@@ -175,6 +275,6 @@ class MainWindow(QtWidgets.QMainWindow):
 def main():
     app = QtWidgets.QApplication([])
     win = MainWindow()
-    win.resize(700, 600)
+    win.resize(760, 700)
     win.show()
     app.exec()

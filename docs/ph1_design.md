@@ -14,9 +14,15 @@ Implemented:
   - per-year: `data/ph1/<YEAR>_<SUBREDDITS>`
   - window: `data/ph1/window_<START>_to_<END|open>_<SUBREDDITS>`
 - Provenance logs and raw/tables outputs are written under the run output directory.
+- GUI entry point present under `src/cl_st1/ph1/gui/ph1_gui.py` (PySide6):
+  - year mode + date-range mode time window UX (UTC), internally converted to epoch seconds for collection/provenance
+  - background worker thread with progress + counts updates
+  - cancel button is implemented as a best-effort UI cancellation (service-side cancellation may be improved)
 
 Planned next:
-- GUI implementation (PySide6/Junie): form inputs, background worker, cancel support, progress & counts.
+- Improve cancellation semantics end-to-end (propagate a cancel flag into the service loops and stop promptly).
+- GUI input validation polish (clearer errors; disable irrelevant fields; sensible defaults).
+- Ensure PySide6 is available in the team environment configuration for GUI runs.
 - Tests for helpers and CLI parsing (time window and output naming).
 
 ## 1. Objectives
@@ -34,7 +40,10 @@ Planned next:
 
 Inputs:
 - Subreddit list (comma-separated).
-- Time window: after_utc (required), before_utc (optional).
+- Time window (user-facing):
+  - **Either**: calendar `year` in UTC
+  - **Or**: `after_date` (UTC) and optional `before_date` (UTC)
+  - (Advanced/automation) `after_utc` / `before_utc` epoch seconds
 - Sort: new (default) or top.
 - Include comments: boolean + comments_limit_per_post.
 - Per-subreddit limit: optional cap.
@@ -67,6 +76,7 @@ Out of scope for Phase 1: cleaning, language ID, de-dup, analytics.
     - Form inputs; Start/Cancel actions.
     - Background worker (QThread/QRunnable) that calls collect_service.collect().
     - Signals for progress lines, counts, completion, and errors.
+    - **Time window UX:** year mode and date-range mode; internally convert to epoch seconds for collection/provenance.
   - cli/ph1_cli.py: argparse to parse flags → call collect_service.collect().
 
 ## 4. Data Model
@@ -100,7 +110,7 @@ Ensure directories up front. NDJSON is line-delimited JSON, one object per line.
   - per_subreddit_limit: int|None (default=1000)
   - include_comments: bool (default=true)
   - comments_limit_per_post: int (default=300)
-  - after_utc: int (required)
+  - after_utc: int (required; derived from year/after_date in GUI/CLI)
   - before_utc: int|None
   - out_dir: data/ph1 (default)
 
@@ -118,7 +128,10 @@ Provenance JSON records parameters, start/end times, counts, and package version
 UI elements:
 - Inputs:
   - QLineEdit: Subreddits (comma-separated)
-  - QLineEdit/QDateTimeEdit: After (UTC epoch seconds); Before (optional)
+  - Time window (UTC): Year mode and Date-range mode
+    - Year mode: QSpinBox (year)
+    - Date-range mode: QDateEdit/QDateTimeEdit (after date; before date optional)
+    - (Optional display) resolved after_utc/before_utc epoch seconds (read-only) for transparency/provenance
   - QComboBox: Sort (new/top)
   - QCheckBox + QSpinBox: Include comments + limit per post
   - QSpinBox: Per-subreddit limit
@@ -148,10 +161,16 @@ Args:
 - --per-subreddit-limit
 - --include-comments / --no-include-comments
 - --comments-limit-per-post
-- --after-utc
-- --before-utc
+
+Time window (choose one mode):
+- --year
+- --after-date / --before-date
+- --after-utc / --before-utc
+
+Output location:
 - --out-dir
-- --log-level
+- --out-dir-base
+- --run-subdir
 
 Exit 0 on success; non-zero on fatal error. Logs to stdout + file in logs/.
 
