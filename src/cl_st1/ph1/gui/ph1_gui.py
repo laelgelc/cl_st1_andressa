@@ -265,16 +265,16 @@ class MainWindow(QtWidgets.QMainWindow):
             self._worker.cancel()
         self.append_log("Cancel requested.")
 
-    @QtWidgets.Slot(int, int)
+    @QtCore.Slot(int, int)
     def update_counts(self, posts: int, comments: int):
         self.posts_lbl.setText(f"Posts: {posts}")
         self.comments_lbl.setText(f"Comments: {comments}")
 
-    @QtWidgets.Slot(str)
+    @QtCore.Slot(str)
     def on_error(self, msg: str):
         self.append_log(f"Error: {msg}")
 
-    @QtWidgets.Slot(bool)
+    @QtCore.Slot(bool)
     def on_finished(self, ok: bool):
         self.append_log("Finished." if ok else "Finished with errors or cancellation.")
         self.progress.setRange(0, 1)
@@ -291,3 +291,7 @@ def main():
     win.resize(760, 700)
     win.show()
     app.exec()
+
+
+if __name__ == "__main__":
+    main()
