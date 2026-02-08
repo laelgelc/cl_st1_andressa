@@ -15,6 +15,7 @@ from cl_st1.ph1.reddit_client import get_reddit
 
 ProgressCb = Callable[[str], None]
 CountsCb = Callable[[int, int], None]
+ShouldCancelCb = Callable[[], bool]
 
 POST_COLUMNS = [
     "id", "subreddit", "created_utc", "author", "title", "selftext", "score",
@@ -63,8 +64,23 @@ def backoff_sleep(attempt: int) -> None:
     time.sleep(min(60, 2 ** attempt))
 
 
-def fetch_submissions(sr_name: str, sort: str, limit: Optional[int], after_utc: Optional[int], before_utc: Optional[int],
-                      progress: Optional[ProgressCb]) -> Iterable[Submission]:
+def _is_cancelled(should_cancel: Optional[ShouldCancelCb]) -> bool:
+    try:
+        return bool(should_cancel and should_cancel())
+    except Exception:
+        # Cancellation should never crash the collection.
+        return False
+
+
+def fetch_submissions(
+        sr_name: str,
+        sort: str,
+        limit: Optional[int],
+        after_utc: Optional[int],
+        before_utc: Optional[int],
+        progress: Optional[ProgressCb],
+        should_cancel: Optional[ShouldCancelCb] = None,
+) -> Iterable[Submission]:
     reddit = get_reddit()
     sr = reddit.subreddit(sr_name)
     if sort == "new":
@@ -75,6 +91,11 @@ def fetch_submissions(sr_name: str, sort: str, limit: Optional[int], after_utc: 
         stream = sr.new(limit=limit)
 
     for s in stream:
+        if _is_cancelled(should_cancel):
+            if progress:
+                progress(f"{sr_name}: cancelled during submission fetch")
+            return
+
         ts = int(getattr(s, "created_utc", 0))
         if after_utc and ts < after_utc:
             continue
@@ -85,11 +106,26 @@ def fetch_submissions(sr_name: str, sort: str, limit: Optional[int], after_utc: 
         yield s
 
 
-def fetch_comments_for_submission(sub: Submission, limit: Optional[int], progress: Optional[ProgressCb]) -> Iterable[Comment]:
+def fetch_comments_for_submission(
+        sub: Submission,
+        limit: Optional[int],
+        progress: Optional[ProgressCb],
+        should_cancel: Optional[ShouldCancelCb] = None,
+) -> Iterable[Comment]:
+    if _is_cancelled(should_cancel):
+        if progress:
+            progress(f"{sub.subreddit}: cancelled before expanding comments for {sub.id}")
+        return
+
     sub.comments.replace_more(limit=0)
     comments = sub.comments.list()
     count = 0
     for c in comments:
+        if _is_cancelled(should_cancel):
+            if progress:
+                progress(f"{sub.subreddit}: cancelled during comment fetch for {sub.id}")
+            return
+
         if limit is not None and count >= limit:
             break
         if progress:
@@ -109,9 +145,13 @@ def collect(
         before_utc: Optional[int] = None,
         progress: Optional[ProgressCb] = None,
         counts: Optional[CountsCb] = None,
+        should_cancel: Optional[ShouldCancelCb] = None,
 ) -> Dict[str, int]:
     """
     Main orchestration used by GUI/CLI.
+
+    Cancellation:
+      - If should_cancel() returns True, collection stops promptly and writes outputs collected so far.
     """
     paths = Ph1Paths.create(Path(out_dir))
     posts_rows: List[Dict[str, object]] = []
@@ -121,32 +161,70 @@ def collect(
     attempt = 0
 
     start_iso = now_utc_iso()
+    cancelled = False
 
     for sr in subreddits:
+        if _is_cancelled(should_cancel):
+            cancelled = True
+            if progress:
+                progress(f"{sr}: cancelled before starting subreddit")
+            break
+
         while True:
             try:
-                for s in fetch_submissions(sr, sort, per_subreddit_limit, after_utc, before_utc, progress):
+                for s in fetch_submissions(
+                        sr, sort, per_subreddit_limit, after_utc, before_utc, progress, should_cancel=should_cancel
+                ):
+                    if _is_cancelled(should_cancel):
+                        cancelled = True
+                        if progress:
+                            progress(f"{sr}: cancelled during processing submissions")
+                        break
+
                     row = sub_to_row(s)
                     append_ndjson(paths.raw_posts, [row])
                     posts_rows.append(row)
                     posts_total += 1
+
                     if include_comments:
-                        for c in fetch_comments_for_submission(s, comments_limit_per_post, progress):
+                        for c in fetch_comments_for_submission(
+                                s, comments_limit_per_post, progress, should_cancel=should_cancel
+                        ):
+                            if _is_cancelled(should_cancel):
+                                cancelled = True
+                                if progress:
+                                    progress(f"{sr}: cancelled during processing comments")
+                                break
+
                             crow = comment_to_row(c)
                             append_ndjson(paths.raw_comments, [crow])
                             comments_rows.append(crow)
                             comments_total += 1
+
+                        if cancelled:
+                            break
+
                     if counts:
                         counts(posts_total, comments_total)
+
                 break
             except Exception as e:
+                if _is_cancelled(should_cancel):
+                    cancelled = True
+                    if progress:
+                        progress(f"{sr}: cancelled after error (no retry): {e}")
+                    break
+
                 attempt += 1
                 if progress:
                     progress(f"[{sr}] Error: {e}; retrying attempt {attempt}")
                 backoff_sleep(attempt)
-        attempt = 0
 
-    # Write parquet tables
+        attempt = 0
+        if cancelled:
+            break
+
+    # Write parquet tables (write what we have, even if cancelled)
     write_parquet(paths.posts_parquet, posts_rows, POST_COLUMNS)
     if include_comments:
         write_parquet(paths.comments_parquet, comments_rows, COMMENT_COLUMNS)
@@ -155,6 +233,7 @@ def collect(
     prov = {
         "started_at": start_iso,
         "finished_at": now_utc_iso(),
+        "cancelled": bool(cancelled),
         "params": {
             "subreddits": subreddits,
             "sort": sort,
@@ -176,5 +255,5 @@ def collect(
     write_provenance(Path(out_dir) / "logs" / f"ph1_run_{int(datetime.now(timezone.utc).timestamp())}.json", prov)
 
     if progress:
-        progress("Collection finished.")
+        progress("Collection cancelled." if cancelled else "Collection finished.")
     return {"posts": posts_total, "comments": comments_total}

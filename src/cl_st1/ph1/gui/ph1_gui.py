@@ -36,6 +36,8 @@ class CollectorWorker(QtCore.QObject):
     def run(self):
         try:
             def p(msg: str):
+                # While running, stop streaming progress once cancellation is requested.
+                # (We still emit a final "Collection cancelled." message below.)
                 if not self._stop:
                     self.progress.emit(msg)
 
@@ -43,15 +45,26 @@ class CollectorWorker(QtCore.QObject):
                 if not self._stop:
                     self.counts.emit(posts, comments)
 
-            collect(progress=p, counts=c, **self._params)
-            if not self._stop:
+            collect(
+                progress=p,
+                counts=c,
+                should_cancel=lambda: self._stop,
+                **self._params,
+            )
+
+            # IMPORTANT: Always emit finished so the UI can clean up the thread.
+            if self._stop:
+                self.progress.emit("Collection cancelled.")
+                self.finished.emit(False)
+            else:
                 self.finished.emit(True)
+
         except Exception as e:
             self.error.emit(str(e))
             self.finished.emit(False)
 
     def cancel(self):
-        self._stop = True  # checked between operations in collect()
+        self._stop = True  # checked by collect_service via should_cancel()
 
 
 class MainWindow(QtWidgets.QMainWindow):
@@ -263,7 +276,7 @@ class MainWindow(QtWidgets.QMainWindow):
 
     @QtWidgets.Slot(bool)
     def on_finished(self, ok: bool):
-        self.append_log("Finished." if ok else "Finished with errors.")
+        self.append_log("Finished." if ok else "Finished with errors or cancellation.")
         self.progress.setRange(0, 1)
         self.start_btn.setEnabled(True)
         self.cancel_btn.setEnabled(False)
