@@ -1,80 +1,106 @@
-from unittest.mock import MagicMock, patch
-
 import json
+from types import SimpleNamespace
+from unittest.mock import MagicMock, patch
 
 from cl_st1.ph1.collect_service import collect
 
 
+def _author(name: str) -> SimpleNamespace:
+    return SimpleNamespace(name=name)
+
+
+def _submission(
+        *,
+        sid: str = "s1",
+        subreddit: str = "testsr",
+        created_utc: int = 1000,
+        author: SimpleNamespace | None = None,
+) -> SimpleNamespace:
+    return SimpleNamespace(
+        id=sid,
+        subreddit=subreddit,
+        created_utc=created_utc,
+        author=author,
+        title="title1",
+        selftext="text1",
+        score=10,
+        num_comments=1,
+        url="http://url1",
+        permalink=f"/r/{subreddit}/{sid}",
+        over_18=False,
+        removed_by_category=None,
+        comments=SimpleNamespace(
+            replace_more=lambda limit=0: None,
+            list=lambda: [],
+        ),
+    )
+
+
+def _comment(
+        *,
+        cid: str = "c1",
+        link_id: str = "t3_s1",
+        parent_id: str = "t3_s1",
+        subreddit: str = "testsr",
+        created_utc: int = 1100,
+        author: SimpleNamespace | None = None,
+) -> SimpleNamespace:
+    return SimpleNamespace(
+        id=cid,
+        link_id=link_id,
+        parent_id=parent_id,
+        subreddit=subreddit,
+        created_utc=created_utc,
+        author=author,
+        body="comment1",
+        score=5,
+        permalink=f"/r/{subreddit}/comments/s1/{cid}",
+        removed_by_category=None,
+    )
+
+
 @patch("cl_st1.ph1.collect_service.get_reddit")
 def test_collect_writes_ndjson_and_provenance(mock_get_reddit, tmp_path):
-    # Setup mocks
+    # Fake Reddit client and subreddit
     mock_reddit = MagicMock()
     mock_get_reddit.return_value = mock_reddit
-
     mock_sr = MagicMock()
     mock_reddit.subreddit.return_value = mock_sr
 
-    # Mock submissions
-    sub1 = MagicMock()
-    sub1.id = "s1"
-    sub1.subreddit = "testsr"
-    sub1.created_utc = 1000
-    sub1.author.name = "user1"
-    sub1.title = "title1"
-    sub1.selftext = "text1"
-    sub1.score = 10
-    sub1.num_comments = 1
-    sub1.url = "http://url1"
-    sub1.permalink = "/r/testsr/s1"
-    sub1.over_18 = False
-    sub1.removed_by_category = None
+    sub = _submission(author=_author("user1"))
+    com = _comment(author=_author("user2"))
+    sub.comments.list = lambda: [com]
 
-    # Mock comments for sub1
-    c1 = MagicMock()
-    c1.id = "c1"
-    c1.link_id = "t3_s1"
-    c1.parent_id = "t3_s1"
-    c1.subreddit = "testsr"
-    c1.created_utc = 1100
-    c1.author.name = "user2"
-    c1.body = "comment1"
-    c1.score = 5
-    c1.permalink = "/r/testsr/s1/c1"
-    c1.removed_by_category = None
-
-    mock_sr.new.return_value = [sub1]
-    sub1.comments.list.return_value = [c1]
+    mock_sr.new.return_value = [sub]
 
     out_dir = tmp_path / "run"
 
-    # Execute (fail fast if mocks are incomplete)
     res = collect(
         subreddits=["testsr"],
         out_dir=str(out_dir),
         listing="new",
         per_subreddit_limit=1,
         include_comments=True,
-        max_retries=0,
+        max_retries=0,  # fail fast in tests
     )
 
-    # Verify results
     assert res == {"posts": 1, "comments": 1}
 
-    # Verify NDJSON files
     raw_posts = out_dir / "raw" / "reddit_submissions.ndjson"
     raw_comments = out_dir / "raw" / "reddit_comments.ndjson"
-
     assert raw_posts.exists()
     assert raw_comments.exists()
 
     post_data = json.loads(raw_posts.read_text(encoding="utf-8").splitlines()[0])
     assert post_data["id"] == "s1"
+    assert post_data["subreddit"] == "testsr"
+    assert post_data["author"] == "user1"
 
     comment_data = json.loads(raw_comments.read_text(encoding="utf-8").splitlines()[0])
     assert comment_data["id"] == "c1"
     assert comment_data["link_id"] == "s1"
+    assert comment_data["author"] == "user2"
 
-    # Verify provenance
     logs_dir = out_dir / "logs"
     prov_files = list(logs_dir.glob("ph1_run_*.json"))
     assert len(prov_files) == 1
