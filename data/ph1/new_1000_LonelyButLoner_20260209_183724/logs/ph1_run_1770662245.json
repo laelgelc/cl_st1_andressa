@@ -1,0 +1,25 @@
+{
+  "started_at": "2026-02-09T18:37:24.306166+00:00",
+  "finished_at": "2026-02-09T18:37:25.392477+00:00",
+  "cancelled": false,
+  "params": {
+    "subreddits": [
+      "LonelyButLoner"
+    ],
+    "listing": "new",
+    "per_subreddit_limit": 1000,
+    "include_comments": false,
+    "comments_limit_per_post": 300,
+    "after_utc": null,
+    "before_utc": null,
+    "out_dir": "data/ph1/new_1000_LonelyButLoner_20260209_183724"
+  },
+  "counts": {
+    "posts": 49,
+    "comments": 0
+  },
+  "versions": {
+    "python": "3.13.11",
+    "praw": "7.8.1"
+  }
+}

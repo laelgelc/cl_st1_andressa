@@ -1,0 +1,25 @@
+{
+  "started_at": "2026-02-09T18:36:34.591662+00:00",
+  "finished_at": "2026-02-09T18:36:35.306565+00:00",
+  "cancelled": false,
+  "params": {
+    "subreddits": [
+      "LONERSNEEDLOVE"
+    ],
+    "listing": "new",
+    "per_subreddit_limit": 1000,
+    "include_comments": false,
+    "comments_limit_per_post": 300,
+    "after_utc": null,
+    "before_utc": null,
+    "out_dir": "data/ph1/new_1000_LONERSNEEDLOVE_20260209_183634"
+  },
+  "counts": {
+    "posts": 9,
+    "comments": 0
+  },
+  "versions": {
+    "python": "3.13.11",
+    "praw": "7.8.1"
+  }
+}

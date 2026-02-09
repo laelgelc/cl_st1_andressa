@@ -1,0 +1,25 @@
+{
+  "started_at": "2026-02-09T18:40:05.381260+00:00",
+  "finished_at": "2026-02-09T18:40:15.535485+00:00",
+  "cancelled": false,
+  "params": {
+    "subreddits": [
+      "loner"
+    ],
+    "listing": "new",
+    "per_subreddit_limit": 1000,
+    "include_comments": false,
+    "comments_limit_per_post": 300,
+    "after_utc": null,
+    "before_utc": null,
+    "out_dir": "data/ph1/new_1000_loner_20260209_184005"
+  },
+  "counts": {
+    "posts": 477,
+    "comments": 0
+  },
+  "versions": {
+    "python": "3.13.11",
+    "praw": "7.8.1"
+  }
+}

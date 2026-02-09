@@ -1,0 +1,25 @@
+{
+  "started_at": "2026-02-09T18:38:35.182593+00:00",
+  "finished_at": "2026-02-09T18:38:50.651584+00:00",
+  "cancelled": false,
+  "params": {
+    "subreddits": [
+      "alone"
+    ],
+    "listing": "new",
+    "per_subreddit_limit": 1000,
+    "include_comments": false,
+    "comments_limit_per_post": 300,
+    "after_utc": null,
+    "before_utc": null,
+    "out_dir": "data/ph1/new_1000_alone_20260209_183835"
+  },
+  "counts": {
+    "posts": 984,
+    "comments": 0
+  },
+  "versions": {
+    "python": "3.13.11",
+    "praw": "7.8.1"
+  }
+}

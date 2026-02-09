@@ -1,0 +1,25 @@
+{
+  "started_at": "2026-02-09T18:39:56.827162+00:00",
+  "finished_at": "2026-02-09T18:39:58.251628+00:00",
+  "cancelled": false,
+  "params": {
+    "subreddits": [
+      "lonely_advice"
+    ],
+    "listing": "new",
+    "per_subreddit_limit": 1000,
+    "include_comments": false,
+    "comments_limit_per_post": 300,
+    "after_utc": null,
+    "before_utc": null,
+    "out_dir": "data/ph1/new_1000_lonely_advice_20260209_183956"
+  },
+  "counts": {
+    "posts": 47,
+    "comments": 0
+  },
+  "versions": {
+    "python": "3.13.11",
+    "praw": "7.8.1"
+  }
+}
