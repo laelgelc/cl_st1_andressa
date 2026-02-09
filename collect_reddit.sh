@@ -13,10 +13,15 @@ set -euo pipefail
 #     - Only stop if instance tag AutoStop=true (configurable)
 #     - Uses IMDSv2 for instance-id / region / tags
 #
+# Notes:
+# - This script forwards all arguments directly to:
+#     python -u -m cl_st1.ph1.cli.ph1_cli
+# - If you need time-window collection (e.g., year/after/before), that is not part of Phase 1 streamlined.
+#
 # Usage examples:
 #   chmod +x collect_reddit.sh
 #
-#   # Posts only (default), stop on success:
+#   # Posts only (recommended default), stop on success:
 #   nohup ./collect_reddit.sh -s loneliness --listing new --per-subreddit-limit 1000 --no-include-comments > process_output.log 2>&1 &
 #
 #   # Include comments, stop always:

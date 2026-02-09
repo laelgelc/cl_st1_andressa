@@ -8,6 +8,7 @@ src/cl_st1/common/log.py
 src/cl_st1/common/storage.py
 src/cl_st1/ph1/__init__.py
 src/cl_st1/ph1/collect_service.py
+src/cl_st1/ph1/naming.py
 src/cl_st1/ph1/reddit_client.py
 src/cl_st1/ph1/cli/__init__.py
 src/cl_st1/ph1/cli/ph1_cli.py
@@ -18,5 +19,6 @@ src/cl_st1_andressa.egg-info/SOURCES.txt
 src/cl_st1_andressa.egg-info/dependency_links.txt
 src/cl_st1_andressa.egg-info/requires.txt
 src/cl_st1_andressa.egg-info/top_level.txt
+tests/test_collect_offline.py
 tests/test_config.py
 tests/test_storage.py
