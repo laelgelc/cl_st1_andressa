@@ -4,7 +4,7 @@ import sys
 import time
 from datetime import datetime, timezone
 from pathlib import Path
-from typing import Callable, Dict, Iterable, List, Optional, Literal
+from typing import Callable, Dict, Iterable, Optional, Literal
 
 from praw.models import Submission, Comment
 
@@ -51,7 +51,7 @@ def comment_to_row(c: Comment) -> Dict[str, object]:
 
 
 def backoff_sleep(attempt: int) -> None:
-    time.sleep(min(60, 2 ** attempt))
+    time.sleep(min(60, 2**attempt))
 
 
 def _is_cancelled(should_cancel: Optional[ShouldCancelCb]) -> bool:
@@ -139,6 +139,7 @@ def collect(
         progress: Optional[ProgressCb] = None,
         counts: Optional[CountsCb] = None,
         should_cancel: Optional[ShouldCancelCb] = None,
+        max_retries: int = 3,
 ) -> Dict[str, int]:
     """
     Main orchestration used by GUI/CLI.
@@ -220,6 +221,10 @@ def collect(
                 attempt += 1
                 if progress:
                     progress(f"[{sr}] Error: {e}; retrying attempt {attempt}")
+
+                if attempt > max_retries:
+                    raise
+
                 backoff_sleep(attempt)
 
         attempt = 0
