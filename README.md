@@ -82,3 +82,5 @@ Outputs will be written under `data/ph1/` (raw NDJSON + provenance logs).
 3. Entry points
 - CLI: src/cl_st1/ph1/cli/ph1_cli.py
 - GUI: src/cl_st1/ph1/gui/ph1_gui.py
+
+## Phase 2 - Data Wrangling for human-authored Reddit posts subcorpus compilation
