@@ -1,0 +1,22 @@
+I'm trying to solve my version of loneliness, and that has led to a small team of 3 interviewing 150+ people over the last few months. Thought I'd share some data of what we found
+
+To preface, a UK Gov report showed that **47%** of university students felt lonely **often** and **43%** worry they would be judged if they told someone they felt lonely, so our interviews never directly mentioned loneliness.
+
+Some not-so-fun facts:
+
+* The average person (mainly Gen Zs) we spoke to had **400+ online mutual followers**, yet only spoke to a handful more than once
+* **86%** of people said they'd wait to be invited rather than initiating plans
+* **75%** said they’d join an activity if they saw a friend was interested or already going
+* **93%** has tried something new because a friend was involved
+
+I know that everyone has had different experiences, but I've found that my loneliness comes from "knowing" too many people and being too close to too few. Basically I'm horrible at converting surface level friendships into deeper friendships. Alongside sucking at inviting people out and overthinking everything, a huge part of me especially hates looking desperate and risking rejection. And so, like those 86% of people we talked to, I'd just… wait.
+
+When we realized how common this pattern was, we've started to build an app to hopefully make it easier. The idea is that you **share what you'd like to do**:
+
+*Checking out the xmas market/ Trying out this new café/ Learning Tennis*
+
+And if a friend is genuinely interested in joining you, they'll be automatically added into a group chat (other attendees are hidden until you join). Then you'll go and plan the event, do it, and have a shared photo album to cherish it. I'm hoping that the lack of a fixed date and not needing to personally DM someone/ ask in a group chat would help me starting hanging out with people more. But truthfully, I have no idea AHAHAHA We're only planning to launch beta tests in Jan next year
+
+So I guess I’m wondering:  
+**Do you relate to any of this?**  
+**Would something like this genuinely help you, or is there something missing?**

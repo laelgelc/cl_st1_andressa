@@ -1,0 +1,29 @@
+All,
+
+I have just uploaded my stab at a manifesto for Unalone to the Unalone Google Drive account.  I incorporated some of okko7's "Manifesto Notes" in my manifesto.  I included some scientific evidence and references to further legitimize our cause/organization.
+
+This is just my perspective on what "we're about" and how to possibly frame our cause.  Please add any constructive criticism!  See below my manifesto \(hey that rhymes!\)
+
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+
+Loneliness poses an alarming public health threat to industrialized nations. Many know \(and feel\) they should be more social, but for so many reasons \(busier work, alienating technology, social anxiety\) citizens’ social lives have grown increasingly spare and windblown, sometimes without them realizing until it’s too late. Loneliness has become a quicksand for many.
+
+Research bears this out: A recent [Cigna survey](https://www.usatoday.com/story/news/politics/2018/05/01/loneliness-poor-health-reported-far-more-among-young-people-than-even-those-over-72/559961002/) of 20,000 Americans found that the national average loneliness score was a 44 on a scale of 20 to 80. Younger people \(the so\-called Generation Z\) were disproportionately affected, with scores of 48. Their scores were higher than those 75 or older, who scored an average of nearly 39. Considering that longitudinal studies have found people with fuller social lives *are 50\% more likely to survive than those who don’t* \(an effect as powerful as smoking cessation\) the need to address loneliness leaps into startling focus \(Holt\-Lunstad, Smith, & Layton, 2010, p. 14\).  Put it this way: loneliness isn't just depressing \-\- it's lethal.
+
+At Unalone, we believe human connection is a fundamental human need – a right – and are drafting ideas to address this urgent issue. We recognize loneliness as a mental and physiological state *distinct* from depression, although it shares many symptoms \(Cacioppo & Patrick, 2008, pp. 83\-86\). We also realize that loneliness may present differently based on personality, age, situation, and culture.
+
+Here are some ideas we are currently exploring:
+
+• A decentralized organization inspired by Alcoholics Anonymous.
+
+• A hackathon on loneliness.
+
+# References
+
+Cacioppo, J. T., & Patrick, W. \(2008\). *Loneliness: Human nature and the need for social*
+
+*connection*. New York, NY: W.W. Norton.
+
+Holt\-Lunstad, J., Smith, T. B., & Layton, J. B. \(2010\). Social relationships and mortality risk: A
+
+meta\-analytic review. *PLoS Medicine*, 7\(7\), 1\-20. [https://doi.org/10.1371/journal.pmed.1000316](https://doi.org/10.1371/journal.pmed.1000316)
