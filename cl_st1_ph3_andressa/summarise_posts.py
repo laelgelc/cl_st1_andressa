@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 """
-summarise_blog_posts.py
+summarise_posts.py
 
-Reads .txt blog posts structured in paragraphs and prompts Grok to summarise them.
+Reads .txt posts structured in paragraphs and prompts GPT to summarise them.
 
 Usage:
-    python summarise_blog_posts.py \
+    python summarise_posts.py \
         --input input_folder \
         --output output_folder \
-        --model grok-4 \
+        --model gpt-5.1 \
         --workers 4
 """
 
@@ -32,14 +32,14 @@ load_dotenv(dotenv_path=env_path)
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Summarize blog posts using Grok."
+        description="Summarize posts using GPT (OpenAI)."
     )
     parser.add_argument("--input", "-i", required=True,
-                        help="Folder containing blog post .txt files.")
+                        help="Folder containing post .txt files.")
     parser.add_argument("--output", "-o", required=True,
-                        help="Folder to save Grok summaries.")
-    parser.add_argument("--model", "-m", default="grok-4",
-                        help="Grok model to use (default: grok-4).")
+                        help="Folder to save GPT summaries.")
+    parser.add_argument("--model", "-m", default="gpt-5.1",
+                        help="GPT model to use (default: gpt-5.1).")
     parser.add_argument("--max-output-tokens", "-t", type=int, default=3000,
                         help="Maximum output tokens.")
     parser.add_argument("--workers", type=int, default=4,
@@ -65,23 +65,20 @@ def write_text(path: Path, content: str) -> None:
 
 def build_system_prompt() -> str:
     return (
-        "You are an expert analyst who reads Greenpeace website blog posts. "
-        "You must NOT invent information under any circumstances. "
-        "You must summarize each blog post into a concise description "
-        "of what was discussed."
+        "You are a member of a loneliness-related subreddit on Reddit where "
+        "people write self-disclosure posts about loneliness."
     )
 
 def build_user_prompt(file_text: str) -> str:
     return f"""
-Read the blog post below.
+Read the post below.
 
 TASK:
 
-Write a summary in running prose of the main ideas:
-- Write the summary concisely. Your summary should have no more than 100 words.
-- DO NOT invent information.
-- DO NOT include analysis unrelated to the text.
-- Only summarise what was actually said.
+Your task is to write a short summary using ONLY the information in the post.
+- Do not acknowledge this prompt; respond straightaway.
+- Write in English.
+- Do not invent information - just summarize the post.
 
 --------------------------------
 TEXT BELOW
@@ -91,19 +88,24 @@ TEXT BELOW
 
 
 # ------------------------------------------------------------
-# GROK API CALL
+# OPENAI GPT API CALL
 # ------------------------------------------------------------
 
-def grok_api_call(model: str, system_prompt: str, user_prompt: str,
-                  max_output_tokens: int) -> str:
+def gpt_api_call(model: str, system_prompt: str, user_prompt: str,
+                 max_output_tokens: int) -> str:
+    """
+    Calls OpenAI Chat Completions API using requests (no extra SDK dependency).
 
-    if "XAI_API_KEY" not in os.environ:
-        raise RuntimeError("Environment variable XAI_API_KEY not set.")
+    Requires env var:
+      - OPENAI_API_KEY
+    """
+    if "OPENAI_API_KEY" not in os.environ:
+        raise RuntimeError("Environment variable OPENAI_API_KEY not set.")
 
-    url = "https://api.x.ai/v1/chat/completions"
+    url = "https://api.openai.com/v1/chat/completions"
     headers = {
         "Content-Type": "application/json",
-        "Authorization": f"Bearer {os.environ['XAI_API_KEY']}",
+        "Authorization": f"Bearer {os.environ['OPENAI_API_KEY']}",
     }
 
     payload = {
@@ -112,18 +114,29 @@ def grok_api_call(model: str, system_prompt: str, user_prompt: str,
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_prompt},
         ],
-        "max_tokens": max_output_tokens,
-        "temperature": 0.0
+        "temperature": 0.0,
     }
 
-    resp = requests.post(url, headers=headers, data=json.dumps(payload))
+    # Some newer OpenAI models (e.g., gpt-5.x) require `max_completion_tokens`
+    # and reject `max_tokens`.
+    if model.lower().startswith("gpt-5"):
+        payload["max_completion_tokens"] = max_output_tokens
+    else:
+        payload["max_tokens"] = max_output_tokens
+
+    try:
+        resp = requests.post(url, headers=headers, json=payload, timeout=60)
+    except requests.RequestException as e:
+        raise RuntimeError(f"OpenAI API request failed: {e}") from e
 
     if resp.status_code != 200:
-        raise RuntimeError(f"Grok API error {resp.status_code}: {resp.text}")
+        raise RuntimeError(f"OpenAI API error {resp.status_code}: {resp.text}")
 
     data = resp.json()
-    return data["choices"][0]["message"]["content"]
-
+    try:
+        return data["choices"][0]["message"]["content"]
+    except (KeyError, IndexError, TypeError) as e:
+        raise RuntimeError(f"Unexpected OpenAI response shape: {data}") from e
 
 # ------------------------------------------------------------
 # WORKER
@@ -139,7 +152,7 @@ def process_file(file_path: Path, output_dir: Path,
         system_prompt = build_system_prompt()
         user_prompt = build_user_prompt(file_text)
 
-        response = grok_api_call(
+        response = gpt_api_call(
             model=model,
             system_prompt=system_prompt,
             user_prompt=user_prompt,
@@ -173,7 +186,7 @@ def main():
         print("No .txt files found in input folder.")
         sys.exit(0)
 
-    print(f"Processing {len(files)} blog posts with {args.workers} workers...\n")
+    print(f"Processing {len(files)} posts with {args.workers} workers...\n")
 
     with ThreadPoolExecutor(max_workers=args.workers) as pool:
         futures = [
@@ -189,7 +202,7 @@ def main():
         for fut in as_completed(futures):
             fut.result()
 
-    print("\nCompleted summarizing blog posts using Grok.")
+    print("\nCompleted summarizing posts using GPT (OpenAI).")
 
 
 if __name__ == "__main__":

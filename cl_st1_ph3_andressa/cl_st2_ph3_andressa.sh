@@ -1,7 +1,7 @@
 python summarise_posts.py \
     --input corpus/02_extracted \
     --output corpus/03_summary \
-    --model grok-4 \
+    --model gpt-5.1 \
     --workers 6
 
 python build_prompts.py
