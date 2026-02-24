@@ -7,7 +7,6 @@ import json
 # CONFIG
 # -------------------------------------------
 DIR_BACKGROUND = Path("corpus/02_extracted")
-DIR_SUMMARY    = Path("corpus/03_summary")
 DIR_OUT        = Path("corpus/04_prompt_generic")
 
 DIR_OUT.mkdir(parents=True, exist_ok=True)
@@ -20,7 +19,7 @@ SYSTEM_PROMPT = (
 )
 
 USER_PROMPT = (
-    "Read the summary below.\n\n"
+    "\n"
     "TASK:\n\n"
     "Your task is to write a self-disclosure post about loneliness.\n"
     "- Do not acknowledge this prompt; respond straightaway.\n"
@@ -93,21 +92,17 @@ def main():
         else:
             length_line = length_line_from_word_count(wc)
 
-        # Load summary file
-        summary_file = DIR_SUMMARY / f"{base}_extracted_summarized.txt"
-        if not summary_file.exists():
-            continue
+        constraints_block = (
+            "Constraints (must follow):\n"
+            "- Avoid generic motivational or uplifting endings.\n"
+        )
 
-        summary_text = summary_file.read_text(encoding="utf-8", errors="ignore")
-        if not summary_text:
-            continue
-
-        # BUILD THE FULL PROMPT
+        # BUILD THE FULL PROMPT (no summaries used)
         full_prompt = (
             f"SYSTEM PROMPT:\n{SYSTEM_PROMPT}\n"
             f"USER PROMPT:\n{USER_PROMPT}"
             f"{length_line}\n"
-            f"{summary_text}\n"
+            f"{constraints_block}\n"
         )
 
         # Save to tXXX.txt
