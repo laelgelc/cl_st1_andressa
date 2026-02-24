@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 141–211 words.
+
+The poster lives alone and often feels an empty, hollow loneliness despite keeping busy with personal projects. They have no social media and only 2–3 acquaintances they speak to occasionally. They feel conflicted about relationships: they believe having a partner isn’t for them, yet they also feel lonely without one. Work is burning them out, their free time doesn’t feel rewarding, and they see no financial progress, project success, or supportive friends. They miss laughter, affection, and stimulating conversation, and describe their life as just themselves, YouTube, and their thoughts.

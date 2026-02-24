@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 247–371 words.
+
+The poster feels extremely lonely, depressed, and disillusioned with people in their life. They appreciate Reddit because it’s easier to talk to good people there, but they’ve also been hurt by others and feel that many people are selfish or only contact them for money. They grieve people they “failed to save” and miss having true friends who understood loneliness. They haven’t been in a relationship for two years due to a difficult ex. Surrounded by negativity and feeling used, they feel as lonely as possible and apologize for ranting.

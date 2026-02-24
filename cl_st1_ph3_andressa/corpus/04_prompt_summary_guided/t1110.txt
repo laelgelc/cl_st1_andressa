@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 136–204 words.
+
+The poster, in their 30s, grew up with a chronic lung disease that made it hard to fit in and led them to think about loneliness and how to build community. Now feeling more comfortable in themselves and better at building community, they want to gather others’ experiences with loneliness, explore its roots, and consider how to make modern culture more community-oriented. They invite people to contribute by filling out a survey and possibly sharing their stories in interviews.

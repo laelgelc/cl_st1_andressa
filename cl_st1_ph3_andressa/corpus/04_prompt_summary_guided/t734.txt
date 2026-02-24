@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 82–124 words.
+
+The poster feels emotionally invisible and disconnected despite having some social contact through work and hanging out with people. Being around others who seem more connected makes their loneliness feel even heavier, like they’re on the outside looking in. They describe a “quiet emptiness” and ask if others feel the same and how they cope without shutting down or constantly pretending to be fine.

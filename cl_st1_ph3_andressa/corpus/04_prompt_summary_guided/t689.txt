@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 156–234 words.
+
+The poster describes meeting a guy on Tinder and having good conversations, leading to plans to see the new Chainsaw Man movie together. She was supposed to pick him up, but after asking for his address, he replied 30 minutes later saying he was stuck at work and might be late or arrive mid-movie. She went alone anyway and watched the movie by herself in a theater full of couples, waiting, texting, and calling him throughout. He never showed up and eventually blocked her. A line in the movie about love hit her hard, and on the way home she reflected on past romantic experiences, feeling like something might be wrong with her and expressing exhaustion and hurt from loving people and being treated badly.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 158–236 words.
+
+A 21-year-old man is frustrated and hurt by being told he’s “young” and has “plenty of time” when it comes to relationships. He feels left behind as friends from high school get engaged while he hasn’t had a meaningful connection with a woman since he was 17. He believes his difficult childhood hasn’t helped but wonders if he still deserves love and worries that having a family might not be in his future. He’s struggling to stay patient and asks if anyone has felt the same way but eventually found a real relationship.

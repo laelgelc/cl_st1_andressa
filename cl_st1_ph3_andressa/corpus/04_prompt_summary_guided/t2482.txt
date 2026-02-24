@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 117–175 words.
+
+The poster describes university as one of the loneliest times in their life. They don’t have close friends, only brief class acquaintances, and no one texts or calls them despite them always initiating. Their routine is going to class, eating alone, going home, studying, and spending evenings and weekends mostly by themselves. They feel worn down, crave connection, and feel like they’re never chosen. They’re asking if others also felt this isolated in university, what helped them cope with feeling invisible, and whether things improved after that phase of life.

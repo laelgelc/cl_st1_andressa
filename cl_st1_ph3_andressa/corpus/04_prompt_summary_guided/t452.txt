@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 210–316 words.
+
+The poster feels left behind and isolated while everyone else their age seems to be living full lives—studying, going out with friends, and having relationships—while they are “on pause.” They are 20, have chronic illnesses, depression, and anxiety, and are frequently sick and hospitalized, which prevents them from having typical teen/young adult experiences like friend groups or romantic relationships. Seeing others’ social media posts and memories, including ex-classmates and ex-friends, hurts deeply and reinforces their sense of unfairness and emptiness. They feel like they have “absolutely no life,” are just living to suffer, and are asking what they can genuinely do to escape this situation that has been ongoing since childhood.

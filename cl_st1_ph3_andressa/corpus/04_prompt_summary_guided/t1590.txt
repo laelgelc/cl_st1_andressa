@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 135–203 words.
+
+The poster had a panic attack on a train, their first one in public, and a stranger helped them snap out of it. They felt very embarrassed about losing control and needed a long time, plus water, to calm down afterward. This happened an hour before a job interview, during which their voice became dry and stuttery, even though interviews don’t usually stress them. They describe intense physical symptoms—racing heart, trouble breathing, feeling like choking—and believe external factors triggered it.

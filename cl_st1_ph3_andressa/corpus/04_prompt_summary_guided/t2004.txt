@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 233–349 words.
+
+A 27-year-old man who has been isolated for over 10 years, with no family or friends, recently started pushing himself out of his comfort zone. He went to a local anime convention, where a few people complimented his jacket. A girl noticed his jacket, sat next to him, and they had a natural, enjoyable 1–2 hour conversation about shared interests. She asked to exchange contact info and later added him on a messaging app. He messaged her but received no reply, even after a follow-up. After a few days of silence, he feels hurt and foolish for thinking he’d finally made a friend and feels like withdrawing again.

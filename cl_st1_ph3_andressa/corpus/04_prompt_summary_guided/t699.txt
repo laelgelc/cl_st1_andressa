@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 82–124 words.
+
+The 29-year-old writer says the past year has deeply changed them due to an unnamed event they can’t fully describe, leaving them feeling disconnected from their own life. They’ve learned to appear happy outwardly, but feel intense loneliness and struggle with the silence when alone. They’re reaching out in hopes that others relate, and are trying to believe that neither they nor others are truly alone.

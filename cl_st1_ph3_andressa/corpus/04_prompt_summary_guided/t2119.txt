@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 188–282 words.
+
+The 22-year-old author feels life is stuck in a loop, especially every Valentine’s Day when they see couples enjoying romantic moments they’ve never experienced. They focused heavily on academics and dreams of becoming a millionaire, and now feel they missed out on things like having a crush, falling in love, going on dates, and sharing intimate, simple moments with a partner. Although they often pretend not to want a relationship, they actually deeply desire one and struggle with loneliness, wishing for someone with whom they can be their true self without judgment. Seeing how dating apps work makes them feel hopeless about finding anyone.

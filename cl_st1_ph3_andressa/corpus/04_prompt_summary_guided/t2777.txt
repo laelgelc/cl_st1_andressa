@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 82–122 words.
+
+The poster is in their 40s and has always been a loner. They have a small circle of friends they only see once or twice a year and don’t keep in touch with otherwise. They are happily married, spend their time either alone with hobbies or with family, and have essentially no social life or social media presence beyond Reddit. Their main regret about not having close friends is worrying that it might be embarrassing for their family if very few or no people attend their funeral.

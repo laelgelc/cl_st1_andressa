@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 109–163 words.
+
+The poster is venting about feeling alone and having no one to talk to. They say they don’t have friends they can rely on and even attempts to find someone to talk to on Reddit haven’t worked. They wonder if they’re “meant to be alone” or if it’s harder because they’re a man, feeling they have to go the extra mile to get help or conversation. They also mention that male ego makes asking for help feel worse and more vulnerable, and they wish it were easier for men in their situation to find someone to talk to without feeling that way.

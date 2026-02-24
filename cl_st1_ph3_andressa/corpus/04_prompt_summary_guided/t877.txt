@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 125–187 words.
+
+The poster reflects on bringing home a companion (likely a pet) 13 years ago as a birthday present during a time of deep depression, loneliness, dark thoughts, and addiction. Over those 13 years, this companion gave them purpose, friendship, and support through major life events: traveling, marriage, the loss of close friends and a son, and eventually divorce. Eight months ago they had to say goodbye to this companion, and now, with their birthday a week away, they feel alone again and back where they started. They express how much they miss his “smile” and apologize for the post being a jumbled outpouring of thoughts.

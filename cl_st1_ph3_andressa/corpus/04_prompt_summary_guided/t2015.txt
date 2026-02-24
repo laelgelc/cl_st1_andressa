@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 55–83 words.
+
+The poster reflects that forming friendships isn’t instant; there’s always a “feeling out” phase where people get to know each other. They realize part of their loneliness comes from being seen as just a stranger to others, which means they don’t matter much to people yet.

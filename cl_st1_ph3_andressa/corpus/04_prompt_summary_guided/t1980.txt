@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 112–168 words.
+
+The poster has long been used to doing everything alone—sitting, eating, going out—and even used to choose solitude over spending time with friends, which led those friends to gradually leave them out. They’ve never been in a relationship and didn’t previously see this as a problem. Now, for the first time, they’re feeling loneliness and realize it’s not about lacking a boyfriend or friends in general, but about not having anyone to talk to, especially since they haven’t spoken to another person in a while.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 43–65 words.
+
+The poster invites people to join a Discord channel meeting on Saturday and proposes an agenda: personal check-ins, deciding on meetup formats (possibly online trials), creating documentation, discussing a website, logo, and communication, and planning next steps. They ask if anything else should be added to the agenda.

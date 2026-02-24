@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 75–113 words.
+
+The poster has just come home from work on a Saturday night and plans to make a banana split and maybe some chicken. They feel very tired and achy, which they attribute to new medication that makes them sleepy, though it also helps them get about 10 hours of sleep each night. They are alone and say they no longer feel lonely like before, but still think it would be nice to have someone. They end by asking others if they have any big plans for the night.

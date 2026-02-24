@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 110–166 words.
+
+The poster is 26, very reclusive, and doesn’t go out to clubs or events. They work from home in a very isolating job where they’re the only one doing their specific role and have no interaction with coworkers. They wish they had a coworker-type friend to chat with during the day and experience a slow, everyday friendship, like a 9–5 work pal in a similar situation. They’re asking if anyone else relates and invite people to check their profile while keeping personal details limited in the post.

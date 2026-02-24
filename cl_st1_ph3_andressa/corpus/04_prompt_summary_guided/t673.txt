@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 166–250 words.
+
+The poster feels unable to express their feelings as well as they’d like and had a previous, more eloquent post deleted. They say all they want is to be loved and believed they had found that with their husband, but now fear they were deluding themselves. They value love and the relationship over being “right,” but feel their husband doesn’t share this priority. They suspect their husband no longer loves them, which leaves them feeling alone and devastated, realizing that the person they thought was “their person” may not be. They end by noting that unspoken expectations lead to resentment.

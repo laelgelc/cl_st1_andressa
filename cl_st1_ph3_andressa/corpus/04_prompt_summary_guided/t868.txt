@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 131–197 words.
+
+The poster describes how people praise them as kind, fun, and a good friend when they’re healthy, but disappear whenever their serious illness flares up—when they’re hospitalized, too weak to get out of bed, or need emergency help. They feel that others’ loving words are empty because their actions show abandonment. This repeated pattern leaves the poster feeling like they’re performing on a stage, forced to mask their pain and carry on, while everyone else walks away and they remain alone in the spotlight.

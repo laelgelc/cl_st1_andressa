@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 106–160 words.
+
+The poster is a college student who feels intensely lonely and believes everyone else has a friend group except them. Their only close connection is their roommate, but they worry about becoming too dependent and don’t want to intrude on the roommate’s other friendships. Seeing videos of couples or families makes them feel hopeless and like no one could ever want to be close to them, platonically or romantically. They are asking for advice on how to deal with this.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 105–157 words.
+
+The poster is a 42-year-old introverted autistic woman with ADHD who feels very different from others. She has a dark sense of humor, is sensitive, and has chosen to fully feel her emotions, crying often. She misses her ex, who was also her best friend, and doubts she’ll ever find someone like him; despite working on herself, he wants nothing to do with her. She’s trying to distract herself but feels it’s unlikely she’ll ever get married because she’s “too different” and struggles to connect and feel seen. She expects that the only warm body she’ll sleep next to will be a cat, which isn’t bad, but feels very lonely.

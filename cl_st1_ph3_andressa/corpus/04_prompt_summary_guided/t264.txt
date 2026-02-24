@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 156–234 words.
+
+The poster is 26, recovering from strep throat and spending several days mostly alone, watching a favorite comfort movie and feeling genuinely content. They usually think they need a partner but are realizing they might be happy long-term with just pets and occasional short visits with friends and family, whom they have plenty of. After a recent dating failure and about five years without a serious relationship, they wonder if they’re meant for “blissful solitude.” They find it cool to be happy with themselves, even if it sometimes unsettles others.

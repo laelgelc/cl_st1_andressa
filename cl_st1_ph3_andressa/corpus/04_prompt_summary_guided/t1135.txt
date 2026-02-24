@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 75–113 words.
+
+The poster describes how hard it is to find casual company in the city, like someone to grab coffee or spot at the gym when friends are busy. They created “Buddy2Buddy,” a marketplace for platonic companionship, and are currently seeking people to sign up as paid “Buddies” who earn money by socializing. They share their new landing page and ask for feedback, specifically wondering if the phrase “Rent a Friend” is too aggressive for an Indian audience.

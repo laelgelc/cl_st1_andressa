@@ -1,0 +1,19 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 178–266 words.
+
+The poster is a 22-year-old woman preparing for competitive exams and is on her fifth attempt without success. She feels her father is irritated with her because she isn’t earning and stays at home. Her studies are going poorly, and she has vitiligo, which makes her feel very insecure about her appearance. Her ex cheated and lied to her during their five-year relationship, and she wonders if her appearance played a role in the breakup.
+
+She has no friends to talk to and used to share her feelings about vitiligo with her dad, but now feels he only taunts her. She feels unworthy, like a burden on the earth, very lonely, and deeply depressed. She can’t access therapy due to money, lack of good therapists nearby, and social stigma around seeking help. She longs to feel unconditionally loved, heard, and wanted, and currently sees physically hurting herself as the only way to cope with her mental stress.

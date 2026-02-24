@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 167–251 words.
+
+The poster is exhausted and hurt from repeatedly experiencing “soft rejections,” where people don’t clearly say no but instead ignore them and string them along. They try to be upfront about their feelings and even give others an easy way to decline, yet they’re met with silence. This is making them wary of trying anymore and leaves them feeling awkward, imperfect, and wishing they had a reason to improve beyond just themselves. A recent experience at their best friend’s wedding, sitting at a table with friends and their partners, highlighted how alone and touch-starved they feel. They say they don’t need comments and just wanted to get this off their chest.

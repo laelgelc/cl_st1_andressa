@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 160–240 words.
+
+The poster feels that people have stopped texting them and that if they don’t keep posting online, others forget they exist. They’re in their 4th semester at a new college and still don’t know anyone, despite having many social media “friends.” They wonder if the online world blocks real relationships or if they’re simply unpleasant. They say they’re not lonely and feel peaceful not trying to please others to belong, but they also recognize consequences: doing everything alone is hard, with no encouragement, appreciation, guidance, or reassurance. They’re unsure if their current approach is right and think maybe life is meant to be uncertain and confusing, and they just have to get used to it.

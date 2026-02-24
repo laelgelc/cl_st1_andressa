@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 108–162 words.
+
+The poster is a second-semester college student who isn’t completely alone—they talk to people in class, clubs, and at work—but they don’t have a friend group or people to hang out with in the evenings or on weekends. Their only real close connection is their roommate. They’re introverted and feel they didn’t put themselves out there enough during orientation, and now they feel “cooked,” like it’s too late to join a friend group. Seeing others having fun on weekends makes them sad, and they feel awkward about just asking to join in.

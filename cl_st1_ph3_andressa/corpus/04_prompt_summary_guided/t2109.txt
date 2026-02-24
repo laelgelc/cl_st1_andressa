@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 193–289 words.
+
+The poster describes having been a socially apathetic child who was content being alone and never felt lonely before. Over the last three years, they’ve started to feel loneliness, especially when they see others easily receive positive attention, something they’ve never had and feel rejected from all their life, to the point of calling themselves a pariah. Because of disinterest in others and bullying, they never developed social skills or learned how to make friends or present themselves in an appealing way. Now they think they want a friend, but online interactions cause them disinterest and distress. They wish they could receive love and attention without having to “provide value,” like unconditional parental love they feel they never got.

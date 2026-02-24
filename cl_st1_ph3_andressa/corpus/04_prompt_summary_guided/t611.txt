@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 56–84 words.
+
+The poster reflects on Moe from The Simpsons, noticing that Moe hides how depressed he really is and still has regular customers to talk to, unlike the poster who has no one. They find it interesting that despite Moe’s severe emotional issues, he hasn’t developed serious alcohol or drug problems and instead tries to cope with his struggles alone.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 142–212 words.
+
+The poster is recently single and used to spend Christmas and New Year’s with their ex, making the holidays especially painful now. They accept that the relationship is over and that their ex has already moved on with someone else, but they still miss her intensely and struggle with a strong urge to text her. They remind themselves that if she still loved them, she would have fought for the relationship. They hate that they still love her while she seems to have no love for them and treats them like a stranger. Staying in the shared apartment while she has moved out makes them feel like they’re living in two different worlds. They feel very alone and hurt that they can’t “replace” her as easily as she replaced them.

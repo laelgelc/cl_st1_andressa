@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 118–176 words.
+
+The poster, Sam, says they hate themselves for past mistakes and think they may have been molested while on ADHD medication, which affected their mental state. They describe losing a close friend who felt like a brother, after which their life has gone into a downward spiral, though they feel the problems existed even before that friendship. They feel used by others, tired of caring for people and getting nothing back, and blame themselves for being “too nice.” Feeling ignored and exhausted, they say they plan to jump off a bridge and that this is probably their last post.

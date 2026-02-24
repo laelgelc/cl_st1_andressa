@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 100–150 words.
+
+The poster feels deeply lonely even when around others, and says it affects their mental state. They’ve learned not to force socializing, but instead to take it slowly and focus on one or two genuine friends who can help fill the emptiness. They believe that, over time, you can find a small number of people who truly care and understand you, and that quality matters more than quantity. They invite others to share advice or similar experiences.

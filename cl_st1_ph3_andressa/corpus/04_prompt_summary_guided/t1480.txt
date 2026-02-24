@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 100–150 words.
+
+The poster says they are consistently ghosted or friend-zoned, and the people who show interest usually turn out to be fake, scammers, looking for financial help, or not their type. They feel ridiculed and disrespected for openly admitting they are broken and just wanting mutual love. They emphasize they’re not after anyone’s money, as they are retired, financially stable with a mortgage-free home, and simply want to share their life with someone who isn’t shallow.

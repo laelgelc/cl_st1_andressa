@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 88–132 words.
+
+The poster asks others how they’ll spend New Year’s, noting many people have family for Christmas or Thanksgiving. They share their own plans: spending the evening alone with various cheeses, no wine due to taking many medications, and treating themselves to a nicer sweet. They plan to meditate as they do every year, watch creepy YouTube videos, read a bit, and maybe watch the fireworks if they’re still awake, describing it as a perfect way to end the day. They end by asking others about their plans.

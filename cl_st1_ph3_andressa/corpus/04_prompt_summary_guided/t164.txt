@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 88–132 words.
+
+The poster is looking for chill adult gamers aged 21+ of any gender or LGBTQ+ identity to join a friendly, positive gaming group. They play games like Dead by Daylight, Fortnite, and plan to add tabletop games like D&D. All platforms are welcome, and people can join whether they want to play multiplayer or just hang out while playing solo games. Negativity is not welcome; the focus is on enjoying life and sharing hobbies like games, books, and more.

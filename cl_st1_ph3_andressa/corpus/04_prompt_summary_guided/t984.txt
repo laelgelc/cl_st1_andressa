@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 234–350 words.
+
+The writer describes hiding their pain and exhaustion by staying quiet so others won’t notice they’re struggling. They believe being quiet makes them easier to ignore and possibly easier to “love.” They feel like they’re disappearing, more like a ghost than a distant person, and nothing feels like home anymore. They handle conversations carefully out of fear of driving people away, measure their worth by how others respond to them, and flinch at being noticed. Inside, they are desperate for someone to see through their silence and recognize they’re not okay, but no one asks, and they’re too tired to reach out. In the end, their unnoticed suffering becomes what they accept as love.

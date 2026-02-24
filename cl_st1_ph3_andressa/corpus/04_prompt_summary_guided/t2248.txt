@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 138–206 words.
+
+The poster feels that their very existence harms others and believes they are a bad person who constantly hurts people. They have had no contact with anyone for three years but still attend university, where they feel hated by classmates for being silent, boring, and unable to communicate. They feel universally disliked and tolerated by no one, and they don’t know what to do with themselves. They say they are betraying themselves by even writing the post and express a strong wish to be erased from existence—wanting all records of them deleted and even their parents to forget they ever existed.

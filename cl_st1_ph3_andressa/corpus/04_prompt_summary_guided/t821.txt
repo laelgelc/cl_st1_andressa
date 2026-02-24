@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 86–128 words.
+
+An 18-year-old female student who has been supporting herself for years describes feeling extremely miserable and alone. She has no friends and says her parents are abusive and neglectful, calling them “dead beat.” She feels that no one understands the pressure and pain she carries. She has never had a happy birthday, only beatings or being ignored, and has been thinking for days about ending her life to stop the suffering. She ends the post with “goodbye everyone,” expressing deep hopelessness.

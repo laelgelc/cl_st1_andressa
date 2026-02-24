@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 204–306 words.
+
+The 26-year-old poster reflects on a painful life marked by loss, loneliness, and regret. Their entire family and most friends are gone or dead, they have no job or hobbies, and they were kicked out of the military for not having a next of kin. They feel emotionally, spiritually, and physically beaten down, have never dated, and struggle with severe social awkwardness from childhood bullying. Although they feel they have little to live for and often wish they wouldn’t wake up, they’ve accepted that they’ll likely die alone. Still, they hold a cynical but persistent belief that life can have beautiful moments and might get better, encouraging others not to give up. They posted anonymously just to get this off their chest and wish others better days than their own.

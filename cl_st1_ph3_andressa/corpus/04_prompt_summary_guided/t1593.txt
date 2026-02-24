@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 94–140 words.
+
+The poster shares a personal, Maslow-style “hierarchy of needs” for social connection to explain why they feel lonely despite having friends and company. They describe themselves as neurodivergent, demisexual, and a socially anxious extrovert, and say that most people seem to stay at the lower levels of connection, which feels shallow and fleeting to them. They still don’t have a fulfilling social life but feel better understanding the issue and plan to keep searching for people who truly fit them.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 190–286 words.
+
+The poster lives in a small town on the edge of Greater London and feels lonely because they have no nearby friends to see regularly. Their old school friends have moved away or drifted off, and they don’t feel it’s worth the effort to try to rekindle those friendships. They’ve joined several hobby and interest groups in central London and really like the people there, but the hour-long travel, train costs, and high London prices make it hard to see them consistently and build close relationships. They’ve searched extensively for local groups but found nothing, so they feel especially lonely in their home area. They also can’t afford to move into London due to the high cost of housing.

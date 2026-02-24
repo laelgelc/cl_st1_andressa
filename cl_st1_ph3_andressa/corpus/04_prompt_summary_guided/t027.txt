@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 34–50 words.
+
+The post advertises a Discord server called “The Helping Cherry Tree,” which is intended to support people with mental health issues and help them make friends. It mentions that the server offers support from therapists and opportunities to meet new people, and includes an invite link.

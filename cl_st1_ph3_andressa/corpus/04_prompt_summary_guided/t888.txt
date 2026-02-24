@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 145–217 words.
+
+The poster says they are filled with hatred and no longer want advice about being nicer, because trying to be kind in the past only led to more problems. They feel worn down by everything they’ve been through and say they’d rather die in their sleep. They reject God and Jesus, calling them hypocritical. After being alone for a long time, they feel it has taken a toll and now they enjoy being cruel to others—insulting what people care about, humiliating them in arguments, and making them feel small both in person and on social media. They say they genuinely feel good about ruining other people’s days and declare that they hate people and the world can deal with this version of them.

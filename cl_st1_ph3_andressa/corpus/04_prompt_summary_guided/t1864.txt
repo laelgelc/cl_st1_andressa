@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 31–47 words.
+
+The poster says someone likes them and has said they will meet someday, but their loneliness feels unbearable. They’re afraid that this person will stop liking them and that they’ll end up stuck in the same cycle of loneliness again. They feel scared and want this situation and their loneliness to end.

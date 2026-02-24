@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 105–157 words.
+
+The poster is an introvert who struggles with small talk and finds it hard to talk to new people and make friends, especially after moving to a new city and starting a new job. They feel very lonely at the office and this mood often follows them home. They do have some friends but it takes them a long time to form those connections. Seeing others easily talk to anyone about anything makes them wonder if they should change and develop those social skills, and whether such changes are necessary or essential for survival. They are asking for suggestions and advice.

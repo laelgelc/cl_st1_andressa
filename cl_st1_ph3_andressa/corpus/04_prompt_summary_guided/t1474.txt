@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 311–467 words.
+
+The poster, a shy woman who has always had only male friends and struggles to form friendships (especially with women, which she deeply wishes for), feels she’s a loyal, caring friend who gives 100% even when it’s not reciprocated. Her male friend group is now falling apart after one friend, while drunk, falsely accused her of saying something she didn’t say and then convinced himself it was true. Despite witnesses who know she’s innocent, he remains convinced and has turned others against her, causing them to act cold. Her best friend, who is also close to the accuser, hasn’t contacted her or even opened her message asking to talk. This has been going on for three weeks, and she feels abandoned, panicked, very lonely, and cornered, trying to hide her struggle from her partner and feeling like withdrawing is her only option.

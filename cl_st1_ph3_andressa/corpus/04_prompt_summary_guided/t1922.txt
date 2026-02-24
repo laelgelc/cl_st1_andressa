@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 112–168 words.
+
+The poster reflects on how many people secretly feel lonely, out of place, or like outcasts, including themselves. They describe the weight of isolation and how life can feel overwhelming, with a deep desire for peace, calm, and happiness. They offer reassurance that feeling this way doesn’t mean someone is strange or broken, and remind readers they’re not alone in experiencing these emotions in a chaotic world.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 175–263 words.
+
+The poster is 41 and has never been very popular or socially successful. In their 20s they had two girlfriends and a couple of friends, but their career was going nowhere, so they moved to a new city. They kept in touch with old friends and visited them, but no one visited them. In the new place they tried to meet people and date, but it never worked out; they were rejected for being short or not earning enough. They haven’t had a date in 5 years and haven’t made a real friend in almost 10. Now they mostly focus on their own routine (gym, work, coffee) and plan to go back to school in late 2026. They’ve decided to stop trying to pursue relationships, feeling they gave it their best shot. They’re not happy with the outcome, but they feel a kind of peace and say the sadness about it is mostly gone.

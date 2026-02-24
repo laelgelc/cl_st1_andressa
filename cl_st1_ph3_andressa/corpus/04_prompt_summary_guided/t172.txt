@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 253–379 words.
+
+An 18-year-old guy moved to a new city a month ago for university, leaving his friends behind and now only knowing two classmates he doesn’t have much in common with. He feels lonely and disconnected from people in his program, partly because he’s almost the only guy there. He’s worried he’s not living how an 18-year-old “should,” especially since he’s still a virgin, which makes him feel like he’s missing out on typical youth experiences. This combination of loneliness and feeling behind in life is bothering him, and he’s unsure how a psychologist could help, so he’s asking for advice and support.

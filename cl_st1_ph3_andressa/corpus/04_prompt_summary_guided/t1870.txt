@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 101–151 words.
+
+The poster is a woman in her mid-40s who feels lonely and invisible because she doesn’t have a partner, close family, or a solid friend group. Her days are filled with work and routine, but when things quiet down, there’s no one to text or who is waiting for her. She feels like everyone else has a circle or “their people” while she stands outside of it, though she doesn’t see this as meaning anyone is broken—just human. She believes this kind of loneliness isn’t tied to gender and is curious how others experience loneliness in this stage of life.

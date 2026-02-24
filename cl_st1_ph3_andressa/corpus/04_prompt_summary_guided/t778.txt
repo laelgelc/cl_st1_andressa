@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 86–130 words.
+
+The poster is giving an update about previously losing all their friends. Their friends had been ignoring them for weeks and finally told them to “fuck off” seriously, so they’ve decided to let go of those “so-called friends” and start a new life at university. They expect life will be the same without friends and imagine spending more time in the library. Despite the negativity, they say they’re starting to like the silence and it no longer feels scary, but like it was meant to be.

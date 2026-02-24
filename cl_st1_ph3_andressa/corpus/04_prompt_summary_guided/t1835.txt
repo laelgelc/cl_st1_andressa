@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 113–169 words.
+
+The poster longs for someone who simply understands and accepts them without offering advice, analysis, or comparisons. When they make small mistakes or feel down or doubtful, they don’t want solutions, positivity talk, or reminders of others’ worse suffering—just a warm acknowledgment like “That’s just like you” or “Yeah, I understand.” They wonder if this desire means they might have a mental illness and ask if anyone else feels the same way.

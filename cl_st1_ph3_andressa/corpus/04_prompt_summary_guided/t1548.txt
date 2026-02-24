@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 99–149 words.
+
+The poster feels exhausted by loneliness and a repetitive, boring life. They struggle with social anxiety, insecurity about their looks, and feeling like they have a “mid” personality, which they believe has made them an “average girl” with no friends or real connections. They haven’t been able to form relationships or genuine friendships and feel they wasted their teenage years staying at home doing nothing. Seeing others their age and older enjoying life makes them question their own existence.

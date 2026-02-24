@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 64–96 words.
+
+The poster describes having an argument with their sisters, during which they repeated the phrase, “You don’t know what it’s like to be a parent.” This deeply hurts the poster because the thing they wanted most—having a family—was denied to them. Their marriage failed, they never had a family, and this is their biggest regret. Their sisters don’t understand how painful that comment is, and the poster returns to an empty apartment feeling that hurt.

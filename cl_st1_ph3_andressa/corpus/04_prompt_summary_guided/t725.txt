@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 226–338 words.
+
+The poster feels like a loser who can’t make friends and struggles to talk to women, overthinking whenever one shows interest. They are 22 but feel they look older, and doubt they’ll ever “find the one” despite a small hopeful voice in their head. Their routine is limited to college, work, and going home to play video games, rarely going out except for movies or the park. Their in-person friends are drifting away due to moving, careers, or relationships, and their online friends don’t seem to view them as a real friend despite years of knowing each other and visiting them. They feel overlooked in favor of “assholes” and are frustrated at how hard it is to find friends who genuinely care. They wish they could turn off their feelings, believing that feeling nothing would be better than feeling lonely and miserable every day.

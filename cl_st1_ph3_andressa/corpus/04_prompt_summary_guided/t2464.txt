@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 91–137 words.
+
+The poster is a young woman who moved to a new town and has been working in a factory for almost two years. She hasn’t made any friends there and is the only woman on her crew, which she feels contributes to her isolation. Because she has no social life, she dreads her days off and constantly thinks about going back to work or being called in on her days off. She asks if anyone else experiences this.

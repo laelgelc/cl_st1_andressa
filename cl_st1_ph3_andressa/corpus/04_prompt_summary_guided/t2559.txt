@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 73–109 words.
+
+The 19-year-old poster feels extremely lonely and just wants even one accepting, supportive friend. They’ve been isolated in their room for years due to bullying trauma. As a child, they were rejected when trying to join others because of their personality. They have been diagnosed with depression and have engaged in self-harm because of their loneliness, and they express strong self-hatred.

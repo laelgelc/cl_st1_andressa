@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 182–272 words.
+
+The writer has only ever had two best friends, including their sister in the friend group. One of the friends is toxic and has been hurting the writer, their sister, and even the other friend for about six years. The writer decided to end the friendship with the toxic friend, but the other best friend refused to cut her off because she didn’t want things to be awkward and even skipped the planned confrontation. This makes the writer feel that their remaining friend can’t stand up for herself or for them, and they no longer want to stay in that friend group, though they’re only still around for their sister. They feel drained, believe they must protect themselves even if it seems mean, and expect to be lonely with no friends afterward, but feel it’s “either me or her.”

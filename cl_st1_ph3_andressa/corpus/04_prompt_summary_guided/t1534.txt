@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 99–149 words.
+
+The writer moved to another country to gain more freedom as a gay person but struggles to make friends and find dates, feeling uncool and unattractive. Others seem to like them only superficially as the “kind foreigner,” never as someone’s close person. They feel very lonely and say that what keeps them going is a sense of duty and attachment to their family and heritage, even though their parents are disappointed in them for being “not normal.” They express a wish to be reborn in a better situation in the next life.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 138–208 words.
+
+The poster is a 20-year-old woman who feels completely alone, not due to major conflicts but because of long-term mental health and self-esteem issues. She began trying to work on herself in 2025 to understand why she feels distant from everyone. Years of isolation have severely limited her social development, and although she doesn’t feel fundamentally different from others, people seem to sense something “off” when she interacts with them. She struggles to connect, craves community, and feels she lacks social skills and the ability to form new friendships. She only has a couple of childhood friends, recently ended a relationship in August, has been on her own for six months, and describes herself as miserable.

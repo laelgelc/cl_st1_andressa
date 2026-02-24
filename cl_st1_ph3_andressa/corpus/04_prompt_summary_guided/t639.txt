@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 253–379 words.
+
+The poster hasn’t properly spoken to their best friend in over two months, ever since a fight; after that they only exchanged festival wishes and then complete silence. The friend, who was always “busy,” used to reply late but now responds after days or not at all, and no longer calls or texts. The poster feels deeply hurt and wonders if they’re being ignored or if the friend just doesn’t open WhatsApp, and they fear the friend is “done” with them. Outwardly they act happy and normal, but inside they’re not okay, often opening the chat wanting to message, then rereading the last conversation and stopping themselves.

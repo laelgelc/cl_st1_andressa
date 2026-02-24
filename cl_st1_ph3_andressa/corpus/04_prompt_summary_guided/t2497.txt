@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 77–115 words.
+
+The poster is 31 and has never been in a relationship. Growing up, their friends had boyfriends and attention while they did not, which made them feel left out and led to beliefs that they are unattractive or unlovable. They still struggle with thoughts that they don’t have the kind of personality people fall in love with and wonder if anyone will ever love them the way they want. They’re sharing these feelings to ask if others relate and whether things have ever changed for them.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 222–334 words.
+
+The poster left Reddit 5 months ago to focus on self-improvement and reduce social media’s impact on their mental health. They’ve had support workers for years, and one in particular became very important, helping them grow and motivating them with kind, honest support. That worker has now changed jobs, and while they are no longer in a professional role, they’ve become good friends. The poster now has two close friends but feels very lonely and emotionally drained, especially after the friend’s last day and while recovering from a bad cold. Missing this friend for about a month and feeling unwell has driven them back to Reddit for a sense of comfort and a cathartic outlet, though they expect to feel normal again in about a week.

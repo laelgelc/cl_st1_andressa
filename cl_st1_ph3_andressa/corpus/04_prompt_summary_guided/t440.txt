@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 64–96 words.
+
+The writer is spending their fifth consecutive New Year’s Eve alone in their room, watching random YouTube videos and eating snacks, and feels very tired of this routine. Seeing others outside celebrating with friends, partners, and family makes them happy for those people but also painfully aware of their own loneliness. They wonder if others feel grateful for the people in their lives, and they end by wishing everyone a happy new year.

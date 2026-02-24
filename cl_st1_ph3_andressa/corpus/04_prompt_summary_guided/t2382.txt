@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 104–156 words.
+
+33-year-old man says he has always been an outcast and feels extremely lonely. He’s never had a friend group, never had a girlfriend, and has never felt like he belonged anywhere. Because he was bullied most of his life, he now rarely leaves the house and struggles with social anxiety, making it very hard to talk to people. He fears continued rejection and bullying for being different and is exhausted by his loneliness.

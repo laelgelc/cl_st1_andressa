@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 53–79 words.
+
+The poster feels deep regret and self-disgust for giving up a life they believe had everything they wanted. They wish they could go back but feel it’s impossible to redo things. They see themselves as a waste, feel too old, and believe too much time has passed for change, leaving them feeling it’s “too little, too late.”

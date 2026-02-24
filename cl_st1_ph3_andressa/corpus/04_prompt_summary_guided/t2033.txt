@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 110–164 words.
+
+The poster is a college student spending their birthday alone for the first time, stuck in their apartment without a car and feeling useless, lonely, and in need of a hug. They’ve been crying for days, as they do every birthday, because they fear not “living it up” and then feel sad afterward for having dreaded it so much. Although they’re introverted, they’ve never felt this level of loneliness before and are really struggling with it. In an edit, they say they’re moved to tears by the kindness of the responses.

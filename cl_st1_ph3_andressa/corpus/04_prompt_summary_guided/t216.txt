@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 250–374 words.
+
+The poster feels they’re not funny and can’t read social situations, often saying the wrong thing and upsetting people. They were permanently banned from r/amiugly after making a trolling post they thought was a harmless joke, despite usually giving respectful, helpful appearance advice there. This ban hurt because it was their main recent form of social interaction; otherwise they mostly feel alone and simulate conversation by watching YouTubers’ live streams. They’ve recently restarted Lexapro, which helps a bit, but their life remains very solitary, with activities done alone and a quiet, “secret” existence they compare to The Secret Life of Walter Mitty. They’re not exactly sad, but feel constantly and deeply alone.

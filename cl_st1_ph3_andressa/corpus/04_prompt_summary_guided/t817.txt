@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 36–54 words.
+
+The poster feels deeply alone, with no one to talk to or confide in about how broken they feel, and believes no one cares about them. They express suicidal thoughts, saying they would have ended their life long ago if not for a promise they made, and they resent having made that promise.

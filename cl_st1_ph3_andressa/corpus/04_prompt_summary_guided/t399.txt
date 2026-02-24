@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 70–104 words.
+
+A 26-year-old woman expresses a deep desire to end her current life and have a fresh start where she is loved and chosen by her parents, grandparents, and partner. She feels like a massive disappointment and a burden to everyone, and believes nothing can fix her life. Each day is painful as she pretends to be happy and to connect with people and friends. She says she doesn’t want to continue like this and longs for freedom.

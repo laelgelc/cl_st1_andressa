@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 97–145 words.
+
+The poster says they are a loner not by choice and reflects on pros and cons of that. A benefit they noticed is that when everything shut down last year, their life and friendships weren’t really affected because they were already used to being alone, which actually made them feel better. They say that if things shut down again, loneliness in terms of missing social hangouts wouldn’t be a concern for people like them. They express sympathy for people who struggle with being alone and end by saying that loners have amazing, rare traits and are very unique.

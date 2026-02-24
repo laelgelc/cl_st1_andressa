@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 102–154 words.
+
+A person in their mid-40s living on the Jersey coast is looking to meet a few new people for semi-regular, respectful conversation. They enjoy creating cocktails (including their own syrups and shrubs), listening to punk, roots reggae, rock and roll, and outlaw country, playing guitar, cooking (especially sushi, Mexican, Indian, and gastropub-style food), and spending time at the beach and outdoors. They describe themselves as laid-back, sarcastic, and decent, and are open to chatting with adults of any age about life, music, drinks, or whatever is on someone’s mind.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 211–317 words.
+
+The poster is a 29-year-old single person living alone with a dog and cat, dealing with anxiety and depression. Their family lives somewhat far away and rarely visits. Although they have friends, a therapist, hobbies, and a job they enjoy, they struggle intensely with living alone, especially at night. They dread coming home to a silent house, lying in bed with racing thoughts, and feeling overwhelming loneliness that sometimes makes them cry or want to go for a drive. They stay up scrolling on their phone until very late because they can’t relax. Visits or overnight stays from others make them happy, but the silence feels even worse after people leave. They say things like tea, sleeping pills, working out, and working full shifts don’t help enough, and they’re asking if anyone else experiences this and for tips, feeling like they’re the loneliest person they know.

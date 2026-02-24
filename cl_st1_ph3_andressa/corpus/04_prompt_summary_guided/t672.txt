@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 235–353 words.
+
+The poster feels emotionally empty and like they’re just going through the motions in life, despite being very busy and surrounded by family. Their relationship with their wife feels drained and distant, and they sense she is also exhausted and empty. They haven’t had a close friend in years and feel there’s no time for friendship because all their energy goes into obligations and raising their children, sacrificing their own hopes and happiness. They sit alone wondering why they can’t feel happy and why they feel so empty and alone, and they’re distressed that the simple desire for a hug from almost anyone makes them want to cry and makes them feel like a terrible person.

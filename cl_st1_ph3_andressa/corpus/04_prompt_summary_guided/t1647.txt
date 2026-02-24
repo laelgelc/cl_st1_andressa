@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 201–301 words.
+
+A 21-year-old recently moved away from their parents to live alone for a new job and has been struggling intensely with loneliness and stress. The first two months felt like “hell” mentally and physically: they cry every night, feel like they’re going crazy, have no one to talk to, and their online friends have left. Their motivation at work is disappearing, getting out of bed is hard, and they often want to give up and return to their family. They deeply miss love, care, moral support, and simple physical comfort like a hug and someone telling them everything will be okay. The stress has led to panic attacks and difficulty breathing, especially at night, and being alone during these moments feels unbearable. They feel that each day is getting worse and don’t know how to cope anymore.

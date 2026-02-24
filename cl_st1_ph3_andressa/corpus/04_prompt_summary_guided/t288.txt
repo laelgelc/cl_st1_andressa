@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 250–376 words.
+
+The poster feels deeply disconnected and lonely, especially because when they open up, people (except their dad) tend to project their own experiences instead of truly comforting them. They desperately want a relationship and meaningful comfort but never feel relieved or fulfilled after talking about their struggles, which makes them wonder if they can’t be comforted because they never learned how to comfort themselves or others. They once had someone who comforted them in a uniquely caring, almost childlike way, which made them fall in love, and they’re afraid of living without that kind of comfort. They question whether it’s bad to crave that feeling so strongly, feel like giving up on sharing their struggles, but still would really like to talk to someone—not for pity, just to chat.

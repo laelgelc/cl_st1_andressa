@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 218–328 words.
+
+The poster is a 37-year-old AMAB person who suspects they have AuDHD and BPD and is working with their doctor on a diagnosis. They experience intense, overwhelming emotions and frequent crying, which they find exhausting. Childhood trauma is affecting their life, making it hard to keep jobs and succeed in school. They are in the process of socially transitioning and have come out to a few close people, but fear of transphobic family reactions has led them to keep it mostly private and to isolate from many former acquaintances. They feel very alone, have no transgender friends, and their main confidant is currently not speaking to them. Although they live with their partner, the partner is recovering from major surgery and has fibromyalgia, so she sleeps most of the time, adding to the poster’s sense of loneliness and not knowing how to cope.

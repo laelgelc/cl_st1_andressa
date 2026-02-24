@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 220–330 words.
+
+A man under 25 writes that he is very lonely and uses the subreddit to say things he can’t tell anyone in his life. He feels his life is “shitty,” stuck in a low-paying job with long hours, and constantly sad because he isn’t building anything or sure what he wants to do. He compares himself to former acquaintances who seem successful in university, work, or life, which makes him feel worse. Seeing an old school friend on the train, still looking happy, triggered memories and regret about his past: he was shy, didn’t form real relationships, and unintentionally hurt people due to naivety and apathy. Despite trying to improve himself, he now finds himself completely alone and just wants someone to talk to and smile with like he used to.

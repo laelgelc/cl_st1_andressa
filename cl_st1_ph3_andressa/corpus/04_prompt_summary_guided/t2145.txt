@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 85–127 words.
+
+The poster, a 26-year-old woman, feels very lonely and discouraged when she compares herself to peers who have relationships, friends, families, and good jobs. She tries to go out and make new friends but finds it difficult, feels awkward, and worries she comes across as “too much,” which may put people off. She lost a best friend of 10 years who no longer talks to her, which hurts deeply. She also recently failed her driving test again, adding to her sense of failure and isolation. She’s asking if anyone else can relate to what she’s going through.

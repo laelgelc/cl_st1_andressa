@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 145–217 words.
+
+The 22-year-old nonbinary poster feels extremely lonely and blames themself for not trying to meet people, but explains they’re constrained by living with homophobic parents who closely monitor where they go, preventing them from visiting LGBTQ spaces like bars in a nearby city. They feel hurt that people who claim to care or relate to them often end up acting like negative, inconsiderate “assholes.” They long for someone who genuinely understands them, a friend they can hug and hold, and wish they could wake up without feeling useless, but they feel stuck as a mere observer who will never get to experience real connection.

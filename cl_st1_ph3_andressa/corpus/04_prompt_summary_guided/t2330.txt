@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 61–91 words.
+
+The writer describes feeling mostly relieved and optimistic right after their divorce, glad to be free of their ex and seeing more positive than negative emotions. Over time, however, their mood has shifted to feeling down and depressed. They insist they don’t miss their ex or the marriage and wonder if their current depression is instead due to ongoing struggles, including financial difficulties.

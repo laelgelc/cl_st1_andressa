@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 146–218 words.
+
+The poster describes confusion about a female coworker. He previously asked her out a few times and she declined, but weeks ago she invited him to the cinema. During the movie she physically distanced herself and only casually mentioned the food court, which he later wondered if it was a hint to eat together. At a recent work dinner party, whenever he tried to talk to her she would slip away to talk to others, yet while drunk she told her friends and cousin that he was her favorite coworker. He feels unsure about her behavior and is just venting.

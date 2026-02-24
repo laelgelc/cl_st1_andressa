@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 92–138 words.
+
+The poster feels that their friendships are superficial and that they lack a deep, meaningful connection with anyone. They enjoy spending time and playing games with their friends, but feel they have no one they can truly talk to or share their daily life with. They long for a close friend they can call without needing a specific reason, and feel hopeless about ever having that, believing they ruined a past chance and describing themselves as broken.

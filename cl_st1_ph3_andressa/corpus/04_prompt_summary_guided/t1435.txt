@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 162–244 words.
+
+The poster is frustrated with being told that “being alone is good” and that they should just love themselves. They say they do understand the importance of self‑love, but they don’t want to be alone and find it unfulfilling and boring. They strongly yearn to share their life with someone, to connect deeply, experience human touch, be understood, and give and receive love in a way they can’t provide themselves. They feel that existing for and with someone else gives their life meaning, and they wonder if wanting this makes them somehow worse or less “cool” than people who are content being single.

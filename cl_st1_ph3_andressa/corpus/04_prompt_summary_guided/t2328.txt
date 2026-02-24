@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 110–166 words.
+
+The poster is going through a “down” period and feels very lonely, empty, and suffocated. They’re bored but also lack motivation to do anything, and the gloomy weather makes things worse. They miss certain times and people from the past. They wrote the post to vent their feelings and are hoping someone will talk with them, possibly becoming online friends or gaming buddies on PC.

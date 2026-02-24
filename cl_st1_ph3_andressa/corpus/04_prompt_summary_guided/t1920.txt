@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 102–152 words.
+
+The poster has recently been waking up earlier than usual feeling very sad, unmotivated, and lonely. They lie in bed dwelling on having no one to spend their day with, especially on days off. Their main social interactions are at group exercise/pilates, the gym, grocery store, and occasionally coffee shops, but they still feel alone and invisible in those places. Their sadness and loneliness make it hard to get out of bed or even enjoy coffee or food, and although they have things they need to do, they feel too sad to start the day and are trying to muster the strength to do so.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 70–106 words.
+
+The poster is 20 years old and feels completely alone, saying no one has ever shown romantic or personal interest in them. They work on themselves and try to have their life together but still have no luck forming connections. They’ve never had a Valentine’s Day, never been told “I miss you,” and never had anyone want to spend a day with them. They’re tired and frustrated by the loneliness, sometimes telling themselves they’d rather be alone because they have no one, and they’re asking for advice while saying they don’t plan to give up.

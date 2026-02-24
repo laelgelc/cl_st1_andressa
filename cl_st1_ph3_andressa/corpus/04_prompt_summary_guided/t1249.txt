@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 130–196 words.
+
+The poster has extreme OCD and depression and feels very alone and stuck. They feel they’re missing out socially and only have one person they’d call a best friend. Recently this friend’s behavior has been hurtful: when the poster asked twice to go see a movie together, the friend ignored those messages while replying to others, and later posted about seeing that same movie without them. After discussing it with their therapist, the poster decided to address this with the friend. They hate the feeling of waiting for replies and are tired of feeling lonely.

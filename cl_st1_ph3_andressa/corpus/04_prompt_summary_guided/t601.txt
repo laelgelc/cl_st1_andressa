@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 110–166 words.
+
+The poster is a teenager who used to have several close friends: a trio, a childhood friend, and 3–4 other guys they hung out with outside school. Recently, they’ve become distant from almost all of them: the trio feels far away, the childhood friend chose someone else over them, and they barely talk to the other guys. Seeing other people’s friendships makes them feel very lonely. They tried to repair these friendships, but feel the others don’t care and now prioritize new friends, leaving the poster feeling down and wanting to know how to accept this situation.

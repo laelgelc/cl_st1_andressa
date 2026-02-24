@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 70–106 words.
+
+A 27-year-old woman shares that she has never been in a relationship and feels like she’s missing out, especially as people her age are getting married and having children. She feels unattractive and worries she may never experience what a relationship is like. Living alone for two years, she half-jokes about just getting cats and asks others if they ever feel the same way.

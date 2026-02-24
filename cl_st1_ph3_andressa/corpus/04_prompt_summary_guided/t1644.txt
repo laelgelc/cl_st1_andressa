@@ -1,0 +1,19 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 250–374 words.
+
+The poster describes a very lonely life. She struggled with infertility, having five miscarriages and an ectopic pregnancy before finally having one “miracle” daughter, now 33 and married, living in Georgia. The daughter and her husband are financially well-off but the daughter didn’t acknowledge her mother’s birthday this year, saying she thought they weren’t buying each other things anymore, which deeply hurt the poster. The daughter rarely calls or visits, and the poster feels her daughter is selfish and doesn’t care, despite all the love and effort she put into raising her.
+
+The poster is still married to her daughter’s father but feels the marriage is emotionally and physically empty, adding to her loneliness. She also grieves her mother, who died of cancer nine years ago and with whom she had a very close, loving relationship. She had hoped for grandchildren and a similarly close bond with her own daughter, but that hasn’t happened. Feeling heartbroken and isolated, she says all she can do now is give it to God.

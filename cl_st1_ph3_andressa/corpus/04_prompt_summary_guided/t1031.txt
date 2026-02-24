@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 74–112 words.
+
+Reina shares that she has been feeling lonely since 2024 after problems on social media that she says were caused by her. Because of this, she chose to be alone so she wouldn’t keep hurting people, but now she has no online friends and feels very isolated. She cries almost every day, wishes she could become a better person, but is afraid of failing again, and wants someone to share her true feelings with.

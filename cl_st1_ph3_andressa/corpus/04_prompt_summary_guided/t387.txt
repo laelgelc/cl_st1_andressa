@@ -1,0 +1,19 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 248–372 words.
+
+20M poster had a very rough day and needed to vent. Over the past two weeks he’d been talking to a girl he really liked; they texted every day, had a date planned, and he felt a real spark and hope for the first time in a while. Recently, everything with her suddenly fell apart before they even met, leaving him feeling crushed.
+
+This comes on top of a bad swim practice, draining classes, and the emotional weight of his grandmother’s funeral just a few days earlier. He feels like he’s 0–6 in dating, has never been on a real date, and feels unwanted and left behind while others seem to date easily. He doesn’t expect solutions, just wants to be heard and asks how others kept going after similar experiences, because right now he’s just trying to catch his breath.

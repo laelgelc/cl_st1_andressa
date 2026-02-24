@@ -1,0 +1,19 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 274–410 words.
+
+The poster has felt alone and unloved for over a year and is losing the desire to keep trying. They push through anxiety to talk to people at work, but a coworker’s joke about how much they talk deeply hurt them and reinforced their sense that they talk a lot because they’re desperate for connection. They also work as a mental health therapist, encouraging clients to find hope and connect with themselves while feeling hopeless and ashamed inside, despite having their own therapist.
+
+Since a breakup almost two years ago, they haven’t felt truly happy or excited. Attempts to move on with someone new aren’t working, and they believe this person no longer wants to be around them, which they understand because they feel depressed and barely able to care for themselves. They long to be cared for but doubt their ability to consistently care for others, feel haunted by their past, and think they might be destined to be alone.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 55–83 words.
+
+The poster feels deeply alone and misunderstood, like they’ve lost the ability to communicate and understand what others want or how to connect. They wonder if they’re the only one who feels this way and ask how to make friends with people around them, especially when everyone seems to avoid others. They describe the situation as a nightmare.

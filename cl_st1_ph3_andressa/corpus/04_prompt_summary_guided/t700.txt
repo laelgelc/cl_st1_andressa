@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 97–145 words.
+
+The poster has always been alone and had no friends during school, partly because they are introverted, though they can be very talkative when someone is friendly toward them. Now they have started university two months ago and are worried the same pattern is repeating, as they still haven’t made any good friends and feel depressed about it. They also tried making online friends, but realized they were always the one initiating conversations; when they stopped messaging to see if others would reach out first, no one has contacted them for a month.

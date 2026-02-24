@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 75–113 words.
+
+The poster feels extremely alone and ended up venting their problems to an AI, which gave them helpful advice and solutions. They’re struggling with anxiety, sleep, family issues, money, and feel heartbroken that they formed an emotional connection with “a computer.” Realizing the interaction wasn’t real makes it hurt more, and now even the advice about “letting go” just reminds them that they were talking to an AI, which makes them feel worse about their life.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 63–95 words.
+
+The poster feels like they don’t fit in anywhere and believe they don’t matter to anyone, describing themselves as floating through life like a ghost. They feel forgotten by people they care about and think others only talk to them out of pity. They deeply long to be real, to belong, to have a home, to feel safe, and to have many things they believe they can never have, which causes them intense emotional pain.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 130–196 words.
+
+A 15-year-old boy says he isn’t completely lonely because he has friends, but he feels deeply sad about not having a “special someone” and believes nobody wants him in that way. He struggles to talk to girls and feels school is wearing him down, with little hope that things will change. He has only two close friends and feels others are just there. At home, his mother gets mad at him for almost everything, making life feel like a “living hell,” and sleep is his only escape. He feels a strong need for someone new in his life, anyone, just so he has someone.

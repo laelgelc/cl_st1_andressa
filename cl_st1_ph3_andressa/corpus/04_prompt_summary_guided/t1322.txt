@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 320–480 words.
+
+The writer feels deeply hurt and rejected by family members, especially someone whose children they love and see as their emotional anchor. After being in jail and having health problems and deaths around them, they feel they’ve still tried to be there for everyone, but are now being ignored and treated as if they don’t exist, including by a little girl who looked through them and avoided speaking. They don’t understand what they did wrong, feel their daughter was “stolen” from them twice, and are angry and in pain. They say they still love the person hurting them but warn that if things aren’t resolved by the end of the year, they will cut that person off, though they will never reject the children.

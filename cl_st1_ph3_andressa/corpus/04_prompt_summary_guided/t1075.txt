@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 135–203 words.
+
+The poster says Gen Z seems lonelier than ever despite having access to everything and believes making connections isn’t actually hard. They created a platform called Vooz to combat loneliness: a video and text chat site where users enter interests and get matched with similar people, with optional location and gender filters to help meet locals or a specific gender. The site is AI-moderated with permanent bans for NSFW behavior. They encourage lonely people to search for Vooz on Google and try it.

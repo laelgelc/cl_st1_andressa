@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 123–185 words.
+
+The 16-year-old poster lives a generally healthy life (eats well, plays sports, studies) but feels deeply empty and lonely inside. They’ve never had a girlfriend or even talked to a girl, and past bullying about their looks led to increased social anxiety and self-isolation to avoid judgment. They feel no one truly understands or cares about them on an emotional level. Although their parents love them, there’s no deep emotional connection or meaningful conversations. They have friends and hang out, but don’t feel they can share their loneliness because their friends don’t seem to care enough. They spend long hours playing video games to escape the emptiness and ultimately just want a hug, someone who cares, and someone who understands them.

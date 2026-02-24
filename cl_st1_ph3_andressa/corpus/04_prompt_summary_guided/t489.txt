@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 85–127 words.
+
+The poster recently broke up with his girlfriend after she told him she had someone else. He reacted by blocking her and throwing away her letters and gifts, but now feels awful. This is the second time something like this has happened, and he feels like a total failure. He wonders if this sense that things always go wrong for him—in relationships and in life in general—is just his perception or actually true.

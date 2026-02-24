@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 133–199 words.
+
+The poster is a 20-year-old woman who feels extremely lonely and disposable after her first breakup. She doesn’t just want a boyfriend but dreams of a loving, committed husband and a small family of her own, and hopes to be a good mother one day despite dealing with depression and anxiety. She’s very introverted, not sociable, has no close friends, and questions whether she’s worthy of love because she’s so quiet. She says she’s felt alone her whole life, sometimes to the point of wishing she could disappear, and asks if anyone can relate. She also mentions that her post was removed from r/lonely.

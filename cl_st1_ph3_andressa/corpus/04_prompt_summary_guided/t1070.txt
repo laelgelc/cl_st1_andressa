@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 222–332 words.
+
+The poster says people are more emotionally disconnected and lonely despite the internet. They promote their platform, Vooz, a random video and text chat site where users enter hobbies/interests and get quickly matched with similar strangers, with options for video or text, adding friends, skipping users, and joining group chats. They emphasize it’s different from Omegle, with strong AI moderation that bans NSFW users, fast matching, and gender/location filters. The platform has been live for a year, claims 250k monthly users, and is presented as a way to make genuine friends and combat loneliness.

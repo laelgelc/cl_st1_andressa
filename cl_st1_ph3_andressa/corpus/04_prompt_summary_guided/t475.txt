@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 91–137 words.
+
+The poster says we’re never truly alone because we’re surrounded by nature, the universe, God, ancestors, and spirits. They encourage people to invest time in reading, hobbies, or learning new skills, and to seek like-minded people online. They suggest focusing on goals for 2026 instead of dwelling on loneliness, and urge others to be brave and use their limited time on earth wisely.

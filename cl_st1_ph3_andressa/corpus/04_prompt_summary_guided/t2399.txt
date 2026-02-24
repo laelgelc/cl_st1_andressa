@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 211–317 words.
+
+The poster has had one close online friend since 2013/2014 and has no other friends, either online or in real life, largely due to severe social anxiety and difficulty talking to people. Recently, this friend seems uninterested: the poster always has to message first, the friend can go weeks without initiating contact, and now mostly responds with one-word replies like “yup,” unlike their past conversations. The poster overthinks whether they’re saying enough to deserve more engagement, feels very lonely and hurt, and is afraid of losing this friend who means a lot to them, while believing the friend doesn’t feel the same way.

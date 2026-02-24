@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 186–278 words.
+
+The poster asks whether anyone has actually made platonic friends on Reddit—people they regularly communicate with—excluding hookups or creepy DMs. They’re disappointed and shocked by the inappropriate messages they receive and no longer feel excited about new DMs. They expected a subreddit like r/lonely to help lonely people find friends but haven’t seen that happen in their own experience. Acknowledging they’re older than the average Reddit user and not very socially skilled, they wonder if others have had better luck. They also question whether people here truly want friends or mainly want a place to complain about loneliness, and they emphasize they’re genuinely curious, not venting or being sarcastic.

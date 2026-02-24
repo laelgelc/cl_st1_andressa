@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 67–101 words.
+
+The poster feels like they’re fading out of existence, going days without talking to anyone and believing no one would notice if they disappeared. Repeated rejection on dating apps has destroyed their confidence. They’re considering trying AI chat companions out of desperation but worry it might be a stupid idea or make them feel even more disconnected. They express that they’re struggling to cope with how alone they feel.

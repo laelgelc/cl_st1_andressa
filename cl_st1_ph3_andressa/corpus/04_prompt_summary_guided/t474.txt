@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 114–170 words.
+
+The writer describes spending Christmas alone in a quiet, uneventful way, without visitors, noise, or obligations. They move slowly through the day—making coffee, eating, resting—and sit with their thoughts about the past, which feel present but not heavy. While aware that others are together, they feel genuinely okay being by themselves. The day is simple and without ceremony, yet they experience their solitude as sufficient and not as a lack, emphasizing that they have the day and themselves.

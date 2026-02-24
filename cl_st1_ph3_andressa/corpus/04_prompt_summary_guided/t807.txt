@@ -1,0 +1,21 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 296–444 words.
+
+The writer, who has ADHD and autism, feels deeply lonely and rejected. They say they’ve always been “loud,” try hard to treat people with respect, and keep a smile, but women they like either see them as a brother or mock them behind their back. They’ve been bullied by supposed friends and even teachers, once nearly getting a felony over a minor incident. They never feel like they fit in, even among people who share their music tastes.
+
+They lost all their childhood belongings in a hurricane but helped save people during it. They try to do good but feel they never receive good in return and that things only get worse. Being denied from the army after five difficult months with unhelpful recruiters was another major blow.
+
+Now they’re afraid to leave the house or be laughed at, and they’ve gone from being able to confidently talk to anyone to barely being able to look even family in the eye. Their dreams feel meaningless, life feels grey, and even graduating a year early only brought two weeks of happiness. They have very limited contact with family and one online friend, and no one to call. They feel exhausted, trapped in an “abyss,” and keep hoping someone—or themselves—will pull them out, but it hasn’t happened.

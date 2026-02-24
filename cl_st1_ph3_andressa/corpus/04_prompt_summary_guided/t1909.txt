@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 83–125 words.
+
+The poster describes a monotonous, repetitive life: they go to work, only talk to 2–3 people there, then go to the gym where they speak to no one. They have only about two friends left and rarely see even one of them; when they do, they just get drunk and wander their rundown town late at night, which now counts as a “fulfilling” weekend. Compared to a year ago, when they had more going on, they feel that since turning 18 their life has become like reliving the same day over and over.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 322–484 words.
+
+The poster describes themselves as confident, unconventional, and nonconformist—often seen as the “cool friend” who doesn’t care about social norms and can have deep conversations. Despite this, they feel extremely lonely because most people they meet seem insecure, afraid to be themselves, or are intimidated by the poster’s personality. They’ve tried various online subcultures (punk, goth, rock, etc.) but haven’t found people who truly match their energy or worldview; others are either too timid or doing their own separate thing. They want genuine friends who are also rebels, outcasts, artists, and strong individuals, not clones or norm-followers. In their late 20s and a bit of a shut-in, they feel out of place in the current era and are asking where they can find people like themselves, especially online.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 165–247 words.
+
+The writer is heartbroken after choosing to walk away from someone they deeply love because staying in that person’s life was too painful. That person was their only daily connection and source of feeling seen and wanted, so losing them feels like losing everything—companionship, routine, and emotional support. Now they feel unbearably lonely, cry constantly, feel physical pain from the grief, and struggle with the urge to reach out even though they believe they can’t. They have no other support system or close friends, and they end by expressing empathy for others who feel this way and gratitude to anyone who reads their post.

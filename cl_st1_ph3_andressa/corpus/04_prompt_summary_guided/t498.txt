@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 78–118 words.
+
+The poster says going no contact with their toxic family earlier this year was the best decision they ever made. Since then, they’ve been thriving: living in a safe temporary place, doing very well in school, having great friends both in real life and online, making progress in therapy, and feeling excited about the future for the first time since childhood. They feel healthier and happier than ever, but acknowledge that Christmas is still a hard, lonely time and send love and encouragement to others who feel lonely.

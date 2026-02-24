@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 125–187 words.
+
+The writer says they’ve felt this way for years but haven’t talked to anyone about it. They feel it’s not just loneliness but a deep sense of uselessness. They struggle with severe procrastination and say that after seeing so many things and people, small things no longer excite them. They feel tired, mentally and physically, and mention being underweight for their age and height. Inspirational content like books, videos, or quotes doesn’t help. They try to understand and believe in themselves but quickly lose that feeling again. They feel stuck, sad, forgetful, and describe themselves as poor at everything, not knowing what they like or what they want to do, and say they’re “just alive.”

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 100–150 words.
+
+The poster describes being in a severe depressive episode and feeling very close to breaking and almost attempting suicide. They share a piece of writing expressing a desire that, when they finally break down or give up, their pain will be so intense it causes destruction and forces others to notice them. They feel like an “invisible man” who is desperate to be seen and loved, and believes that maybe only the visible consequences of their suffering will make people pay attention.

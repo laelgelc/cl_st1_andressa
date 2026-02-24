@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 307–461 words.
+
+The post announces new rules for the subreddit: emotional/venting posts about loneliness, sadness, hating society, life problems, or seeking friends/support are now forbidden and will be removed, with users directed instead to subs like r/lonely or r/loneliness or RedditCareResources for serious distress. The moderator explains this change is to focus the sub on higher-quality, on-topic content about “loners,” listing acceptable themes such as loner activities, famous/fictional/modern loners, loners and solitude, relationships, religion, technology, literature, travel, and related memes. Several examples of “bad posts” are given (self-promo YouTube links, “why does everyone hate me,” “how can I make friends,” “my life is spiraling out of control,” “I’m lonely and…,” hopelessness posts), all of which will be removed.

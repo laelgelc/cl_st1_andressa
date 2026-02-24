@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 105–157 words.
+
+The poster describes a very intense dream: they heard a woman calling their name, chased the voice as the woman kept disappearing, and finally found her having a strong panic attack. In the dream, they stayed beside her, unsure what to do at first, then hugged her, even though she was a complete stranger. They woke up with a strange feeling and mention that while they often dream about strangers, they’ve never had such an intense dream before. They also note they are writing in Spanish using voice dictation and hope the translation is okay.

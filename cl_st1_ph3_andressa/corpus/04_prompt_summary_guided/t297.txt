@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 75–113 words.
+
+An 18-year-old woman says she’s been alone over the past year. She’s busy with work and so are the people around her, but on days when she’s done everything and feels bored, she wishes she had someone to talk to, hang out with, and play games with. She’s tried Discord game servers, but finds those interactions are just for matches and not real friendship. She’s posting as a small step to put herself out there and find a genuine friend.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 95–143 words.
+
+The poster describes an idea for a dark, morbid board game using their real-life friends (and themselves) as characters. Each “friend” would be represented with real stats like age, height, weight, substance abuse, income, and family status. These pieces are placed on a bingo-like board where one axis is age and the other is causes of death (common and uncommon). The objective of the game is to guess the order and cause of death for each person, including the poster.

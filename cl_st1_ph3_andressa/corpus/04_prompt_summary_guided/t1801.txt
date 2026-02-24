@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 70–104 words.
+
+The poster says they’re feeling lonely and are trying to cope by keeping themselves busy with small distractions, especially over the weekend. They’re not suicidal but want to avoid sinking into worse feelings. They hope better days are coming and ask others if they feel the same and what they’re watching or doing on Friday night, mentioning they’re about to start a new streaming show.

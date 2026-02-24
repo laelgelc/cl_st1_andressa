@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 162–244 words.
+
+The poster argues that being a loner is not the same as being lonely. To them, being a loner means choosing and enjoying time alone to decompress, think, and feel at peace. They criticize social media and society for pushing the idea that you must have an active social life to be happy, saying they used to believe that but no longer do. They think it’s fine to have just a few friends and still enjoy life, for example by walking in the woods or stargazing alone. They encourage others not to feel bad or “weird” about being loners and to ignore negative comments, focusing instead on calm and peace.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 54–80 words.
+
+The poster has both dogs and a family but says that if they lived alone, they probably wouldn’t own a dog because of the social aspects, codependency, and “dog people.” They like solitary cats but feel depressed by indoor cats and jokingly mention not wanting to become schizophrenic. They are asking for ideas or theories about what the best low-key pet would be for a loner.

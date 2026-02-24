@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 100–150 words.
+
+The poster says they are technically free but feel imprisoned by their own mind. They trace this to fear of a specific person who openly admitted to destroying their confidence because they were scared of the poster reaching their full potential. As a result, the poster feels trapped, unable to trust their own judgment or address the problem, and is struggling with intense loneliness. They ask if anyone else feels this way and to be told they’re not alone.

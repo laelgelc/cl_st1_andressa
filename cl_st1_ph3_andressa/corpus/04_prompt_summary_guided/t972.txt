@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 186–280 words.
+
+The poster feels deeply lonely outside of work and uses work as a distraction from negative thoughts about their social life. They fantasize about a more loving life and seek meaning in reading and thinking. They repeatedly search their own name online, hoping to find evidence that someone is thinking about them. They often cry over not having a big friend group, a relationship, or the chance to start over somewhere new, and feel like they’re emotionally dissolving or changing in an unclear way. They consider turning more to God but struggle with the idea of worshipping someone who doesn’t talk back. Above all, they long for someone who genuinely wants to know them as deeply as they want to know others.

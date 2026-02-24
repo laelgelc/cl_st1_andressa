@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 70–104 words.
+
+The poster feels extremely lonely, isolated, and frustrated about having no friends or social life. They don’t naturally meet people and don’t understand how others form friendships or relationships so easily. They want companionship but can’t see any realistic way to meet people, which leaves them feeling stuck, hopeless, and convinced that their life is terrible and that no one cares about them.

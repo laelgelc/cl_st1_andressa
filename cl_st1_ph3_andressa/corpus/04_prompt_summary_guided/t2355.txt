@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 211–317 words.
+
+The poster grew up deeply embedded in evangelical Christianity—church multiple times a week, a tiny Christian school with no real high school peers, and then a Christian college. In November 2024 they de-converted after a long, painful process. They still have a few Christian friends from college nearby, but haven’t told them or their family about deconverting because they fear the fallout and aren’t ready to face it. As a result, they feel extremely lonely and inauthentic, unable to be their true self with the only friends they have, and they struggle to find new people they can genuinely connect with. They’re sharing this online because it feels like the only place they can be honest.

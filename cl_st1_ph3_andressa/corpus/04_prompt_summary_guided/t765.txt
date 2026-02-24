@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 107–161 words.
+
+The poster is very introverted, has no real friends, and also has a disability. They’ve had some hookups from OkCupid, but have never had anyone be in love with them or openly call them a boyfriend. They feel used, like women only pretend to like them for reasons such as making an ex jealous, and that any affection shown is fake. They believe this pattern will continue forever and ask if others have had similar experiences.

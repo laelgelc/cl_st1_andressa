@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 249–373 words.
+
+The poster is a Black gay man who is HIV positive/undetectable and has been in a rocky relationship for almost two years. He loves his partner but feels hurt that his partner prefers getting high and masturbating alone rather than being intimate with him, and during sex it feels one-sided and focused only on the partner. He feels objectified in the dating scene, struggles with feeling “dirty” because of his HIV status, and has very low self-confidence. He’s angry about how he contracted HIV, feels like he’s failing at coping with it as an adult, and describes a deep, growing void and depression. He isn’t sure why he’s posting, but hopes someone can relate to his pain and loneliness.

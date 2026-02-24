@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 178–266 words.
+
+The poster has been feeling completely lonely for over a year while on a gap year after graduate school, with no job and no group to belong to. Their family situation is very bad, so they can’t turn to them for support, and although they can meet friends for lunch, it doesn’t address their deeper problems. They feel unable to be honest with anyone about how dark their feelings are, and they’re distressed that no jobs interest them and they don’t think they can enjoy work environments like others do. They cry multiple times a day when alone, cycle between severe depression and brief relief, and find this emotional rollercoaster exhausting. They believe having someone around them all the time would help, but they have no close peers, and they’re asking how they can truly improve their situation.

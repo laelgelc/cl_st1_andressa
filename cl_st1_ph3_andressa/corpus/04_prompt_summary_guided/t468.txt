@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 292–438 words.
+
+Hugo, a nearly 23-year-old from Spain, lost his job about a month ago due to depression and has recently started medication after many years of coping alone. For the past three weeks he’s been staying at home, mostly playing video games and sleeping, with very little energy even to eat or cry. He feels more alone than ever and says that despite trying many ways to meet new people, it feels almost impossible, especially as an introvert. Past traumatic experiences with friends pushed him into a more solitary lifestyle about five years ago. He still has some good friends, but they’re busy with their own adult lives, and he feels like the one whose life isn’t going well. He doesn’t want pity, just needed to open up about his loneliness and would be grateful to have someone to talk to.

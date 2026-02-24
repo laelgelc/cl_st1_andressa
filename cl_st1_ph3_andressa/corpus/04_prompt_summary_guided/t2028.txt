@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 247–371 words.
+
+The poster feels chronically lonely and describes living with serious mental illness involving extreme mood cycles, voices in their head, insomnia, blackouts when angry, physical distress, increased sex drive, and depression. They feel abandoned and ignored by people they thought were friends, both online and in real life, and say they get kicked out of voice chats and left on read for months. They feel fundamentally different from “normal” people, like a “skin walker,” and recall being pitied, condescended to, and labeled as autistic or the “R-word” by peers. Attempts to make friends, including with YouTubers and artists, have failed, and they feel disliked by everyone, including their family and their mom’s boyfriend. They opened up to their mother but still can’t get professional help, and they express deep frustration and hatred toward their loneliness and mental health struggles.

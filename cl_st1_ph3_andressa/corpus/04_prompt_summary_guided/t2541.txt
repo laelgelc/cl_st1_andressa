@@ -1,0 +1,19 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 324–486 words.
+
+The poster, 24, feels like their life is already over and they’re just “sitting through the epilogue.” A TikTok about avoiding lonely people resonated with them, and they believe their own loneliness is their fault. They deliberately make themselves unapproachable—avoiding eye contact, maintaining a resting “evil” face, giving brief, unremarkable answers—so they can be invisible and forgotten, because they see themselves as a failure and a burden.
+
+They think anyone who befriended them would be overwhelmed by their problems and eventually ghost them, so they see seeking friends as pointless. They mention their mother died, but say they felt nothing and view themselves as cold and unfeeling; they also dismiss this as any kind of justification for how they are, since others have “more tragic” stories. They feel basically absent from life, running on autopilot, and mention recurring severe stomach pain that has caused them to collapse, vaguely suggesting that maybe one day it will be the end.

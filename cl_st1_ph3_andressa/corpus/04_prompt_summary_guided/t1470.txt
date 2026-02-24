@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 242–362 words.
+
+The poster is in their last year of high school with important exams coming up and is supposed to start college next year. Their friend group at school suddenly dropped them without a clear reason, which left them feeling very lonely, unmotivated, and anxious about going to school. Seeing their former friends laughing and hanging out during exam days makes it worse. They’ve lost motivation to study, take care of themselves, or pursue previous ambitions like becoming rich and working hard. Their parents won’t let them meet friends because exams are near, so they mostly stay in bed, scroll on their phone, and feel pointless. The situation is hurting their education, and they’re asking for advice from people who have been in a similar mindset and managed to get out of it.

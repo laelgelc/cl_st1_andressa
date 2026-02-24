@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 161–241 words.
+
+The poster feels their life is terrible and they have no one to talk to or be vulnerable with, despite having people around them. They recently lost their mother and describe the last five years as very bad, with depression at an all-time high and medication at the maximum dose but not working. They feel emotionally overwhelmed, exhausted, and stuck, like the world is moving while they are in slow motion. They are tired of crying, feel like they are screaming inside, and are unsure whether what they’re experiencing is grief or depression. They desperately want a friend to help pull them out of this, want to leave their current life and start over, and feel they can’t take much more.

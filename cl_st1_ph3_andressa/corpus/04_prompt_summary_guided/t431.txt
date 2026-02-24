@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 161–241 words.
+
+The poster is feeling down after New Year’s and plans to stop drinking for a while. They’re 31, have felt lonely for a long time, and are usually social but currently alone. A few years ago they met a woman (now 26) through a friend on Discord and have met her in person. They’ve had a crush on her since then. Recently, after she broke up with her boyfriend, they started talking a lot more; she has told them she loves them and even said it on a New Year’s Eve call, which feels sincere, though the poster isn’t sure if it’s romantic or just friendly. Lately she’s been more withdrawn and talking less, and the poster feels unsure what to do and is seeking advice.

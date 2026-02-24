@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 176–264 words.
+
+The poster describes texting their best friend Lin late at night out of loneliness and noticing Lin’s replies becoming shorter and less frequent over time. Three months ago, Lin told them he was very busy with work and under a lot of pressure, so he couldn’t chat as often. The poster realizes their late-night sharing of loneliness may have become a burden, especially given Lin’s responsibilities: a recent promotion, a two-year-old child, and unwell parents. Comparing this to their own situation as a 30-year-old single person working abroad, they feel their loneliness is trivial in comparison and decide to stay silent instead of reaching out.

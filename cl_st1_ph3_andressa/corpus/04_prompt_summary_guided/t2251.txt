@@ -1,0 +1,19 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 222–334 words.
+
+The poster feels that, except for their mother, no one in their life has ever truly cared about them beyond a surface level, in romantic, family, or friend relationships. They describe themselves as very sensitive, with a big heart and a lot of love to give, but feel their love is worthless to others. 
+
+A recent trigger is their boyfriend, who they believe is only with them to avoid being alone and treats them as a convenience, prioritizing family, friends, and video games over them and recently ignoring them and not paying attention when they talk. This has made them reflect on how they always drop everything to support friends and others, staying up all night to comfort them even while struggling themselves, yet when they need support, no one is available and people say they are “busy” despite promises. They end by expressing a simple wish: they just want someone to care.

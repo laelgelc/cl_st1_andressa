@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 97–145 words.
+
+The poster describes crying for two hours from intense loneliness and feeling like their heart is breaking. They’re scared of themselves and don’t know how to become happy or fix things. They’ve had relationships but were dumped in almost all of them, and they don’t understand what they’re doing wrong or why their care and love aren’t enough. They say they’re trying to be a great guy but keep getting rejected, leaving them confused and hurt. They end by inviting others to message them if they want to vent or talk, and wish everyone a good day.

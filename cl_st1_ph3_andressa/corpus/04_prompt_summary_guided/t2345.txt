@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 110–166 words.
+
+The poster feels deeply lonely and worries they’ll always be alone without friends. They’ve tried to form lasting friendships by hanging out with people from local groups, but those people didn’t stay in contact and seemed to prioritize their romantic relationships over friendship. Past bullying still affects them, making it hard to be vulnerable and reach out because they feel embarrassed about their loneliness. They’re disillusioned, feeling many people don’t care, and are longing to find genuinely kind, ethical people who have feelings, integrity, and want to do good.

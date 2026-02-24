@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 149–223 words.
+
+The poster used to have a stable friend group but now feels pushed aside as their friends make a separate group chat and mostly talk among themselves. They only get included when they actively remind others they’re there, and even then the interactions feel shallow and unfunny. They’ve made some new friends at school, but those relationships also feel surface-level and coworker-like. Now, in their second-to-last year of high school, they feel like a “floater” with no close connections. They’re afraid they’ll never find long-term friends, worrying they’ll grow into an adult with only a job and no friends. They feel like they’re never anyone’s first choice, are scared of being seen as alone, think people around them are mean, and say they’re spiraling and terrified of ending up alone.

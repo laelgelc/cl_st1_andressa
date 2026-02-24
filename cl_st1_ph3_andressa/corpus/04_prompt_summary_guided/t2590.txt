@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 50–74 words.
+
+The poster says they usually feel okay but can quickly fall into a loop of sadness, often triggered by small failures, saying the wrong thing, or hearing something they didn’t want to hear. They feel they might rely too much on their few true friends and are afraid of losing them.

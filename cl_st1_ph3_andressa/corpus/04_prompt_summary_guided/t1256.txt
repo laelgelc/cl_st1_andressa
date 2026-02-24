@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 138–206 words.
+
+A woman in her 30s says she has only ever had one relationship, a bad six-year one, and now has no family, no friends, and no social life. She feels completely alone and especially misses romantic connection and physical affection, like being touched or hugged. She’s frustrated when men claim women can easily find partners, because that doesn’t match her experience—when she goes out, no one seems interested in her, and she sees herself as not very interesting. At night she finds some comfort in sleep, because in her dreams she isn’t lonely and often dreams about her childhood family life.

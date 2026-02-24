@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 118–178 words.
+
+The poster doesn’t spend time with people outside of work and has started trying to socialize with coworkers after work. They’ve been told not to be friends with coworkers and feel frustrated, wondering who else they’re supposed to befriend. They mock the idea of randomly talking to strangers on the street or waiting alone in a coffee shop hoping someone will talk to them. They don’t go to bars or drink, and feel that at their age it’s hard to make friends. They think modern socializing feels backwards and feel similarly discouraged about dating, saying you just have to hope it actually works out.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 166–248 words.
+
+The poster describes living a very lonely life with few hobbies beyond listening to music and sleeping. They sometimes play video games or watch things, but only to pass time and it doesn’t make them feel better. They have a full-time job they’re not happy with, though the pay is decent and they appreciate being alone on breaks. They have only one friend who is usually busy, so they rarely meet. Attempts to make new friends through their friend’s group or social events have failed, as they feel they have limited interests and knowledge and struggle to talk. They feel like they’re living only for their family and are conflicted: they don’t believe things will change, but they also feel it would be selfish to “disappear” and cause their family worry.

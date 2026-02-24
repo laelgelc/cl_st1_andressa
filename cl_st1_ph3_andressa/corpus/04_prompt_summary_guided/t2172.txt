@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 106–160 words.
+
+The poster recalls a cruel comment from their youth that no girl would talk to them unless she was extremely drunk, and it still haunts them because they feel it’s true. They’re hurt not only by feeling unattractive but also by never being invited out or given social opportunities. The only small friendships they’ve had were with stoners who disliked them when sober. They strongly desire real friends and meaningful connection—people to talk with, laugh with, and enjoy time with—rather than just a temporary, pity-based interaction or a hobby as a substitute for human contact.

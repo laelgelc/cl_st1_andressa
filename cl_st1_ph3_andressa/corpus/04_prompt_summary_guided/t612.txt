@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 76–114 words.
+
+The poster feels like a “living dead” person, waking up only to repeat the same routine every day, with even the smallest tasks becoming harder. They feel intense suffering over what they call “stupid things,” are very lonely, and feel life is increasingly difficult. They address God, asking why this is happening to them and begging for help to live a normal life like others. They say they don’t want pity and just needed to express what’s been on their chest.

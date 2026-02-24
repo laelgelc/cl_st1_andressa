@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 136–204 words.
+
+The poster longs for a deep, mutual bond where two people know and prioritize each other more than anyone else, turning to each other in all of life’s ups and downs. They’re unsure if this desire is unrealistic or justified, but it feels distant and unattainable, and the repeated disappointment of not having it makes daily life feel heavier. They recognize they might be placing too much of their well-being on something they can’t control, yet they can’t quiet the ache and simply want “to be someone to someone.”

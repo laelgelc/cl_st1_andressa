@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 130–196 words.
+
+The poster says their father is an officer and the family is not poor, but he gives them no money at all. They can’t buy clothes, outside food, or basic things like mobile recharge, and they rely on a neighbor’s Wi-Fi. They aren’t allowed to watch TV, use a phone, or go outside, and have almost no exposure to the outside world or social contacts. They are worried about affording menstrual pads and have already cut all personal expenses like going to a parlour. They feel there is no fun, love, warmth, or entertainment at home and are also worried about their younger siblings. They are currently studying, have applied for five jobs, and are asking for ideas for a part-time job that doesn’t require much work and pays at least 1000, mentioning they’d like to paint but can’t afford colors. They end by expressing feeling helpless and saying poverty sucks.

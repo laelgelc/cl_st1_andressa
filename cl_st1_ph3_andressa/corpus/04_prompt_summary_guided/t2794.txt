@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 66–100 words.
+
+The poster has returned for work to a place where they previously lived for seven years, accompanied by a current coworker. The coworker assumed they had many friends there and said they’d probably go hang out with them, which hurt the poster because they never really made any friends in that place. Now the poster is alone, eating wings and playing trivia by themselves at Buffalo Wild Wings.

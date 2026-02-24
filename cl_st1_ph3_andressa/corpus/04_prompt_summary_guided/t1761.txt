@@ -1,0 +1,19 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 283–425 words.
+
+The poster is 27, has a very small, toxic family they barely speak to, and no close friends, so they feel they can only rely on themselves. Their two longtime cats have been their main emotional support; one died seven months ago and the other’s health is now declining. Their own health is also getting worse, but they can’t afford proper medical care because of low pay and poor health insurance.  
+
+They’re under heavy financial strain from rent (even with a roommate), car and insurance payments, debt, groceries (they earn just above the cutoff for food stamps), and vet/medicine bills for their cat. They struggle with severe OCD, depression, anxiety, and ADHD, and feel stuck because getting better would require money for medical and mental health care. They have no support system, no college degree, and no money or motivation to return to school. They reflect that many people are in similar situations and point out that having a financial and emotional support system from birth is a huge, often unacknowledged privilege.

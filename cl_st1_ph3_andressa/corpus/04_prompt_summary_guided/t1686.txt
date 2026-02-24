@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 94–142 words.
+
+The poster wants to go on holidays, do fun activities, and enjoy life, but doesn’t want to do these things alone. They have very little family, no partner or children, and their few friends are busy with their own families. As a result, they feel stuck in a dull, lonely life, are becoming depressed, and feel they lack passion, hope, and motivation. They feel like they don’t matter to anyone, rarely get invited to anything, and may as well not exist.

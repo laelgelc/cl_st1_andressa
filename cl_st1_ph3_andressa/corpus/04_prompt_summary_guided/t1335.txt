@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 178–266 words.
+
+The post reflects on how Christmas can be painful or lonely for many people—those grieving a loved one, going through divorce, dealing with an empty home, or spending the holiday alone. It encourages honoring lost loved ones, creating new traditions after divorce, and trusting that distant children will return with the benefits of how they were raised. The main message is that you don’t have to celebrate Christmas in the traditional or expected way; you can observe it in whatever way fits your life and emotional reality right now. The author also links to their YouTube channel for more inspirational content.

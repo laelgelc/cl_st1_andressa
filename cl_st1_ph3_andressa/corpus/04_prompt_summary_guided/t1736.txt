@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 230–346 words.
+
+The poster is a 21-year-old introvert who has lost four close friends this year and now mainly relies on their four-year relationship for companionship. They struggle to make new friends, partly due to low self-esteem, social anxiety, and feeling embarrassed about not having achieved much in life compared to their peers. They feel inadequate and disconnected, especially around topics like life progress and finances. Although many in their generation also struggle with jobs, they’ve just been hired as a server and start on Tuesday, but they’re already stressed about money and a maxed-out $200 credit card. They feel they don’t look or talk like others their age, which makes connecting difficult, yet conversations with their remaining friends and boyfriend feel natural, leaving them confused about what’s “wrong” with them.

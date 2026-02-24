@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 94–140 words.
+
+The poster feels constantly lonely and has no one in real life they feel comfortable talking to, not even their parents. They describe themselves as basically a shut-in whose life is mostly online, playing games daily with people they barely know. Realizing they have nobody to genuinely hang out with hits them hard. The only person they really talk to is their online girlfriend, whom they met through Minecraft. They’re asking what they can do to break this cycle of loneliness.

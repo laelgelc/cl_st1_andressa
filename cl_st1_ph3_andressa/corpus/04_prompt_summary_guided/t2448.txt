@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 77–115 words.
+
+The poster used to be very social and well-known at school, surrounded by people their age, and didn’t feel lonely then. After experiencing trauma, their life feels ruined, they lost the few real friends they had, and they no longer feel like their old, lively self. Now they feel lonely, fake their happiness, and wish they could return to how life was before and have their friends back.

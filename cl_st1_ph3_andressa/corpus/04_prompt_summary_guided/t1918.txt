@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 87–131 words.
+
+The poster feels constantly melancholic and nostalgic, believing the past was better even though they know much of it was actually worse. They struggle to appreciate the present, feel lonelier now, and are caught between worrying about the future and missing the past. Friends tell them to “live in the moment,” but they find themselves unable to do that and hate feeling this way.

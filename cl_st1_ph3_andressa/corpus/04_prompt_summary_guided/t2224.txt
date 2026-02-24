@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 234–350 words.
+
+The poster describes how a girl from the subreddit messaged him after one of his posts, but she had an extreme dislike of AI and demanded he give it up completely or be blocked. He shared his own critical stance on AI but still used it sometimes, which she found unacceptable and blocked him anyway, despite his suggestion they part ways calmly. He feels like he was reasonable while she was hostile, and this experience makes him think that modern loneliness is often caused by a lack of tolerance for differing opinions. He believes people and communities that claim to be very tolerant can actually be the most rigid and radical. His main takeaway is that people shouldn’t block others for trivial reasons.

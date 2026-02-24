@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 74–112 words.
+
+The poster realizes they are a people pleaser and finds it very hard to stop. They feel constant anger, especially when they see others in relationships or speaking up confidently, and this seems to trigger their frustration. They don’t know how to let go of this anger but feel a strong need to release it.

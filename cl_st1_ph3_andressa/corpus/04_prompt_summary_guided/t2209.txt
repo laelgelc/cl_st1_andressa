@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 149–223 words.
+
+The poster has been improving their life by taking pottery classes to meet people, establishing a good routine, cooking at home, and restarting their spiritual journey, which has helped their mental health. Despite this, they still feel very lonely and find dating difficult and scary, especially the vulnerability it requires, though they only want someone with similar values who communicates well and treats them right. They’re considering therapy and feel torn between not wanting to be alone and fearing being truly known. On top of this, their sister just called crying about a bad breakup, and the poster is struggling to be supportive while feeling this way themselves.

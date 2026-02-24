@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 157–235 words.
+
+The poster is an artist/creator and small business owner who has been on social media for about 20 years but feels they’ve never made a lasting impact or many friends. Frequent moves between platforms have caused them to repeatedly lose friends, connections, and customers, leaving them without a support network. Even when they gain followers, no one interacts with them, and their attempts to engage in communities get no response. They feel invisible, cursed, and hated by the universe, and are deeply lonely, believing nothing they do matters and that nothing changes despite their efforts and cries for help. They end by saying they don’t know what to do and feel very sad.

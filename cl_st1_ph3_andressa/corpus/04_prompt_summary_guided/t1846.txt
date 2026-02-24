@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 82–124 words.
+
+The poster is a first-year university student in their second semester who still hasn’t found a close friend group or best friend to hang out, study, or talk with. They’ve tried joining clubs and societies and talking to classmates and coursemates but still feel like no one wants to connect. They feel they barely use their voice and believe their generation at university is very antisocial, noting they see many similar complaints on Reddit and TikTok and wondering why no one wants to hang out anymore.

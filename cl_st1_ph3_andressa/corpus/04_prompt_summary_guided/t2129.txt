@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 66–100 words.
+
+The poster has spent over a decade in a small internet chatroom where everyone knows each other and has grown up together. They often feel very lonely in real life, and this online community is their main place to talk and feel connected. They believe their loneliness led them to join and stay in that community, and they’re asking if anyone else has been active in an online chatroom or community for such a long time.

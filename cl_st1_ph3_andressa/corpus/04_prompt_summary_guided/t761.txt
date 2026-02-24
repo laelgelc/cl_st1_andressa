@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 112–168 words.
+
+The writer describes feeling deeply lonely and invisible even when surrounded by people, pretending to fit in while carrying unnoticed inner pain. They reflect that aloneness is more about feeling out of place in the world than simply being physically alone. They find a kind of companionship in silence and are slowly learning to accept and hold their own fragmented feelings. They offer reassurance to others who feel unseen, saying they are not broken but undiscovered, and suggest that solitude can hold a strange kind of freedom.

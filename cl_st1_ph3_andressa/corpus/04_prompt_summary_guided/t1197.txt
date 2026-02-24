@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 78–116 words.
+
+The post encourages people who feel they don’t belong or have nowhere to go to explore the world around them, especially their own city. It suggests visiting new or familiar places while being fully present and not absorbed in devices or headphones, since that can increase loneliness. The writer believes that by being intentional and consistent in going out and engaging with the environment, you can meet many new people.

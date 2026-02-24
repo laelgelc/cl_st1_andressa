@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 105–157 words.
+
+The poster describes how every day after work they ride their scooter alone with no destination, plan, or sense of when to return. They feel like they are escaping the city’s noise and chaos without even knowing exactly what they’re escaping from. They compare themselves to a penguin that leaves its herd and walks alone into the cold, unknown mountains, saying this story feels very relatable to their own experience and likely to others’ as well.

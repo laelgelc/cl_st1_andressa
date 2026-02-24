@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 126–188 words.
+
+A 33-year-old woman describes feeling very depressed, lonely, and unable to enjoy her days, even after spending hours cooking herself a nice birthday dinner that she couldn’t eat. She says she doesn’t really have friends, and her supposed best friend hasn’t been talking to her. On her birthday she received a few “happy birthdays” from her spouse before he went to work and from some old family friends, but overall feels ignored by people who claim to care about her. She isn’t upset about not getting gifts, but feels deeply hurt and wishes only for her sadness to end.

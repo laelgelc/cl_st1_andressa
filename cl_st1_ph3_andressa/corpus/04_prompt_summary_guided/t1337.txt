@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 146–218 words.
+
+The poster feels deeply misunderstood in love and relationships, believing past partners loved an imagined version of them rather than who they really are. The people who truly understand them tend to be unavailable or distant, and after about 24 years of dating and breakups they still feel an unfilled void. Their friendships feel superficial and fragile, and despite giving a lot to others they see themselves as the “floater friend.” Outwardly, others assume they are socially well-adjusted and have close friends, but this doesn’t match their reality. They sometimes fantasize about disappearing just to see who would notice.

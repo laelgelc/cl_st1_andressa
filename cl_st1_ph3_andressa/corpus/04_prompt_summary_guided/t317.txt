@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 250–376 words.
+
+The poster describes being bullied and subjected to racist abuse for their dark skin from around age 9–10 through Class 12, including being called slurs and having their father’s name mocked. This made them hate school and feel isolated. After changing schools in Class 11, they were singled out by teachers and never felt they truly belonged to any friend group. Since Class 12 (around 2020) up to 2026, they have had no friends and no one to talk to, feeling completely alone even while living with family. In 2022, they went to Kota for NEET preparation and stayed in a hostel, but still couldn’t form friendships there or at the coaching institute, often avoiding people who tried to approach them. They sum this up as the story of their life.

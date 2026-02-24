@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 93–139 words.
+
+The poster is a 20-year-old college student who has felt lonely since childhood and has never had a good connection with anyone. They feel they have no one to rely on, feel judged and disliked, and believe people only use them rather than genuinely care. They no longer believe in real friendship, seeing others as just superficial connections, and blame themselves for caring too much and assuming others valued them back. They feel unable to share their feelings with anyone and are emotionally suffering.

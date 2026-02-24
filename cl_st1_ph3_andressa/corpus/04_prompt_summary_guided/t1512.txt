@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 198–298 words.
+
+The poster feels a deep, persistent fear that they will never experience romantic love—not grand gestures, but a supportive, trusting partnership where both people build a life together. They’ve never had a loving relationship and, although they’re used to being alone and often enjoy solitude, they sometimes break down from loneliness and the absence of a soulmate. They worry they’ll be alone for the rest of their life, and while they have friends they care about, it doesn’t feel the same as having a partner. They’re not asking for reassurance, but wondering if others feel the same way.

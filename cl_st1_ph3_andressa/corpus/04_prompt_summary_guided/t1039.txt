@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 128–192 words.
+
+20-year-old American woman is seeking a genuine, low-pressure, platonic friendship with a guy aged 18–24. She already has close female friends but wants a solid male friendship based on natural conversation, consistency, loyalty, mutual respect, and clear communication. She’s witty, sarcastic, enjoys playful banter, and likes cats, birds, fashion, music, books, writing, and games (Roblox, VRChat, Minecraft, Skyrim). She’s open to voice and video calls once comfortable and is good with giving space. She invites anyone with similar interests who wants a relaxed friendship to reach out.

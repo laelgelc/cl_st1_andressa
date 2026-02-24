@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 110–164 words.
+
+The poster lives completely alone in a one-room apartment in a city where almost no one knows them. Their days are monotonous, and their only in-person interactions are with colleagues, store workers, and drivers. They don’t date and no longer even strongly desire a romantic relationship, though they still feel the emptiness of its absence. They describe themselves as touch-starved, love-starved, friendless, and working like a drone, comparing their life to a conveyor belt in a factory. They feel they are becoming less human, having shifted from feeling sad to feeling hollow, and they explicitly reject being told to “love myself.”

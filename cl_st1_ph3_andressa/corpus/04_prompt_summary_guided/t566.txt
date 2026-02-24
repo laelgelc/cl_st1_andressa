@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 300–450 words.
+
+The poster has just turned 25 and is spending yet another birthday feeling alone and forgotten, despite being surrounded by people. They usually receive only a few texts and maybe an emoji, and they tell themselves it’s because of the holidays, but the pain of feeling overlooked never goes away. Since childhood, they’ve wanted others to be excited to celebrate them, yet each year they feel more invisible and unimportant as others get planned-for and celebrated while they don’t. They struggle with whether it’s bad timing or if they’re simply “not worth the hassle,” believing that if people truly cared, they would make an effort. They feel it’s inauthentic to ask to be celebrated and long for someone—anyone—to show interest, ask about birthday plans, or even throw a surprise party. Ultimately, they just want to feel remembered, cared for, and special for one day, but every birthday ends in the same disappointment: people care, but not enough.

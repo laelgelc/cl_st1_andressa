@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 255–383 words.
+
+The poster feels they get along with people and that others are drawn to them, but all relationships stay at a distant, surface level. They describe feeling like people watch and “cheer” for them from afar rather than being truly close, highlighted by no one wishing them a happy 19th birthday. They long for a brother-like friend they can be completely comfortable with, who would hang out freely and be there at any time without judgment. Despite having many “friends” and family, they feel deeply alone, unsure what went wrong, and are venting because they feel they have no one to talk to.

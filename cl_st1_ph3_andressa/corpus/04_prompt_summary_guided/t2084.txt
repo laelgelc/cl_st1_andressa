@@ -1,0 +1,19 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 221–331 words.
+
+The poster says they’ve been lonely most of their life, never had a girlfriend and only a few friends, none close. After finishing college they’re back home, mostly just gaming on their laptop. Attempts to make friends or find a girlfriend online don’t last more than a week or two, and they believe people ghost them after seeing their picture because they consider themselves ugly, with no jaw and a “potato” face due to breathing issues and not getting braces earlier. They feel unable to lose weight and think their metabolism is “messed up.”  
+
+They’ve concluded they probably will never get a girlfriend, yet their mind and heart still strongly crave love and connection—someone who doesn’t care about looks, to laugh with, hold hands with, and share life with. They keep trying and getting disappointed, feel very sad about it, and believe deep down they will be forever single and never loved, even though they can’t bring themselves to fully give up on love.

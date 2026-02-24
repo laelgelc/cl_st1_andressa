@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 119–179 words.
+
+The poster has been experiencing intense physical symptoms for months—chest pain near their heart, shivering hands, and a strong internal vibration—that feel very real and frightening. They recently realized these might be panic attacks, which offers some understanding but doesn’t stop the fear or sense of losing control when they happen. They’re feeling scared, overwhelmed, and lonely, and are asking for someone to talk to—not to fix them, but to help them feel less alone and calmer.

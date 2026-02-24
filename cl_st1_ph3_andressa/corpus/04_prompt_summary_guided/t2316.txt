@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 329–493 words.
+
+The poster is a 19-year-old man who describes himself as tall, good-looking, and smart but feels deeply insecure, anxious, and unhappy with his appearance. He feels unable to keep friends, believes people forget he exists, and has no close relationships, memories, or meaningful connections. He compares himself negatively to his outgoing brothers and wishes he could be “normal” and have just a few genuine friends. He overthinks others’ reactions, assumes people are judging or laughing at him, and feels like he’s just existing rather than truly living. He regrets his past, wishes he could relive his life differently, feels he doesn’t know who he is, and expresses hopelessness and the belief that if he died, no one would remember him.

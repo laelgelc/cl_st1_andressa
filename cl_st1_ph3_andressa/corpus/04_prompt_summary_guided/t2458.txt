@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 126–190 words.
+
+The poster feels hopeless about ever being loved or wanted and believes they will always be alone. They think they can’t give others what they need and that anyone they care about can find better elsewhere. They express intense self-hatred, feeling they deserve only bad things, no happiness, and to be constantly reminded that they are “nothing.” They are convinced no one will ever find them desirable or truly want them, and that they will always be “no one” with “no one.”

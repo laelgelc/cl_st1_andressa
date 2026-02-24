@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 168–252 words.
+
+The poster frequently has suicidal thoughts, lying awake and crying while imagining how their death would affect others, and wonders if this is normal or if everyone around them is struggling too. They have a loving family but feel unable to get ahead in life. They are a single mother in their late 30s whose long-term partner (not the child’s father) has unresolved issues that negatively affected both them and their 17-year-old son, leading the son to never approve of the relationship and leaving the poster heartbroken. They feel they don’t deserve happiness, struggle financially after leaving a past life of “fast easy money” to try to be a normal, hardworking citizen, and feel ashamed that their parents still worry about them. They say empathy and low self-worth—partly from a relationship with their child’s much older father when they were 17—have “ruined” them, and they just want to make one person proud and be able to like themselves in the mirror.

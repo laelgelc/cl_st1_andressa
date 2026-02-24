@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 119–179 words.
+
+The poster describes reading an online post that seemed to be from a 20-year-old who was seriously ill and needed company and care, which deeply affected them. Later they discovered it was a scam and that the person had been playing with others’ feelings. Shaken by this, the poster says they don’t know if it’s appropriate to write here, but they want to offer their own support and company to anyone going through a bad time, asking only that people check their profile before messaging them.

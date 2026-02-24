@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 101–151 words.
+
+The poster is spending another New Year alone and feels 2025 was very painful. They thought they had made friends but realized those people were just using them for convenience. They haven’t been on any dates and feel that men only show interest in sex, not in them as a person. They’ve repeatedly installed and deleted dating apps with no results. This has led them to feel like something is wrong with them, and given earlier serious struggles at the start of the year, they feel pessimistic about 2026 and see their life as continuous pain.

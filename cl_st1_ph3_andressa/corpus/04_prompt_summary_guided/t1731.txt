@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 122–184 words.
+
+The poster is a 20-year-old who has felt extremely lonely for most of their life and describes their environment as a “shithole.” Seeing people in love or with good friends on social media makes them feel miserable, like a failure, and stuck in a repetitive, empty routine. They spend almost all day in their room, doomscrolling and wasting time on their laptop, though they mention being back in college, which at least forces them to leave their room sometimes. They address others in the subreddit as fellow lonely people and end the post with a bleak, resigned tone.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 167–251 words.
+
+The poster is a lonely teenager who feels miserable, especially around New Year’s, which they have to spend alone because their grandparents are out of town and their only close friend is away in the province. They regret past decisions where they left their friends and a supportive girlfriend due to confusion about their own feelings; now she is happy with someone else while they feel stuck with only a few trusted friends and no one to go out with. They struggle to understand and express their emotions, which they feel keeps ruining good things in their life. The gym used to be their only escape, but they skipped it for the whole month of December. They plan to “lock in” next year and try to leave all of this behind in 2025, but at the moment things feel very bad.

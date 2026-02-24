@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 85–127 words.
+
+The poster expected this subreddit to be about enjoying solitude but sees many posts about loneliness instead. They personally like being alone and are even considering making themselves more isolated, feeling that society’s norms are “toxic” compared to their own reality. They note the irony of seeking someone like themselves while valuing their “hermacy” (hermit-like life). With things reopening, they feel at a crossroads, unsure whether they want social life back or what they should do with themselves.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 50–74 words.
+
+The poster wants a list of fictional loner characters for inspiration. They mention liking the Hound from Game of Thrones, describing him as a capable loner with a personal code who understands others and has accepted his fate as a loner, at least in the TV show (they haven’t read the books).

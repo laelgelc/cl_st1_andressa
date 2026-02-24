@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 110–164 words.
+
+The poster is a 21-year-old woman who moved from her small hometown about a year ago to live with her 20-year-old boyfriend of almost two years. She feels lonely, has trouble making friends, and used to go to her boyfriend’s friends’ parties but stopped because she felt ignored by everyone except him and it hurt her mental health. While home alone and drunk as her boyfriend is at a party, she’s reaching out because she wants friends and people to talk to besides her boyfriend, and invites others to comment or message her.

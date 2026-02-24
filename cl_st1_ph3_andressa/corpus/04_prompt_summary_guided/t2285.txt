@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 109–163 words.
+
+The writer feels like their life is following a painful pattern: as an introvert with limited social opportunities, they rarely meet people they connect with easily. Every few years, one person appears whom they grow very attached to or fall in love with, but there are always obstacles that make a close or meaningful relationship impossible. Each time, things end or they feel they must let the connection fade for moral reasons. This repeating pattern over the past decade makes them feel as if they are being sabotaged by design, and they feel stuck and lonely.

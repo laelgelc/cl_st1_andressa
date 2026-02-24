@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 78–118 words.
+
+The post is a short, motivational reflection about self-worth and independence. The writer says you don’t have to be the person others wanted you to be in order to deserve care. You owe yourself more than what others claim or take from you. They encourage rejecting conditional validation from others, claiming your own “privilege” and freedom, and recognizing that your spirit still belongs to you despite what’s been taken. In the end, they urge you to live with yourself, stand by yourself, and fight for your own pride.

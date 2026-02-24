@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 98–148 words.
+
+The 16-year-old poster wants to go to a party next week since school is ending and thinks it might be a good change, but they have no friends to go with. Their parents won’t allow them to go alone. They asked their cousins, but the cousins think it’s weird because the poster is usually a “stay at home girl” and don’t want to go with them. The poster is unsure whether they should just not go or what else they can do.

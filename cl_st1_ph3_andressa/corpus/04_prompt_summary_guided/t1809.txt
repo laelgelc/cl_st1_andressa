@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 118–176 words.
+
+The poster is questioning the nature and value of human connections, wondering how much of attachment is just brain chemistry and whether free will or anything “real” exists in relationships. They ask if, once someone learns to cope with loneliness, romantic or non‑utilitarian relationships still have any point or meaning. They note that people often bring in ideas like the soul and spirituality here, but they themselves feel unsure about the purpose of social connections, which currently seem to them like a coping mechanism and a cycle of mutual validation driven by urges. They ask others for insights.

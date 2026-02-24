@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 120–180 words.
+
+The poster, a 25-year-old woman, feels very lonely and left out when she sees others partying, traveling, and spending time with close friends. She says she does everything alone, has made no friends in the past few years, and feels like she’s wasting her life without fun shared experiences. Although people have told her she’s bubbly and easy to talk to, others don’t seem interested in getting to know her, and her attempts to make girl friends and ask people to hang out haven’t worked. She graduated college four years ago without making friends and now feels like she literally has no one.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 94–142 words.
+
+27-year-old man is in a group chat with two friends who almost never respond to his messages, including when he asks to meet up or sends reels/asks for advice. The chat is essentially only his messages, making him feel very lonely. He wants to leave the group chat but is worried they’ll question why he left and doesn’t know what to do.

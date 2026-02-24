@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 104–156 words.
+
+A 26-year-old Latin American, panamorous, open-minded person is looking for open-minded company to text with, especially in Italian, Spanish, or Galician. They are fluent in English and Portuguese and less skilled in Spanish and Italian, and suggest switching to English if there are misunderstandings. They prefer to build friendships first and are open to many types of adult bodies, personalities, and connections. They are also interested in talking about nature, food, games, movies, music, arts, philosophy, and other topics.

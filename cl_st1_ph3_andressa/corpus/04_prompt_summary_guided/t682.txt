@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 130–196 words.
+
+The poster’s girlfriend of 1.5 years suddenly broke up with him despite the relationship feeling good. She had recently been getting a lot of attention from other guys online, posting suggestive photos, being very active on social media, gaining many followers, and mentioning that her ex texted her. He says he’s mostly over that part, but now he dreams about her every night and wakes up very depressed. He describes himself as a normal, healthy college student with friends who has recently started therapy, but he feels he needs a reliable, mutual source of comfort at night. He invites any woman in a similar situation to talk and possibly share mutual comfort, mentioning he lives in Virginia, USA.

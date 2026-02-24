@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 86–130 words.
+
+The poster has a boyfriend and siblings but no close friends of their own, only brief interactions with their partner’s friends and work acquaintances. They have no one to casually hang out with or invite them to activities, leaving them with a lot of empty time and feelings of loneliness, especially when they see others having fun with close friends. They’ve been told they’re a good and funny person and are questioning what they’re doing wrong and whether this kind of loneliness is what they should expect in the future.

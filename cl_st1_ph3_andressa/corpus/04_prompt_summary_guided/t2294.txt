@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 148–222 words.
+
+The poster describes a pattern of avoiding responsibility and uncomfortable truths by always saying “later” and blaming circumstances, which led to a life empty of real moments and the loss of honest people around them. They felt empty inside despite laughing with others and eventually didn’t recognize themselves—not in appearance, but in their changed intentions. They realized their real mistake was denying their pain instead of facing it, letting unhealed wounds accumulate. Now they’re choosing to admit their mistakes without excuses, accepting they can’t fix the past but can change their future path. This honest self-acceptance makes them feel lighter and more real, even if they’re not perfect.

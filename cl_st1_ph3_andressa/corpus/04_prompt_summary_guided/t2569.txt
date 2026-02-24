@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 77–115 words.
+
+The poster attended their church’s Christmas service and felt painfully unseen and ignored. Everyone else seemed to be with family, partners, or friends and enjoying themselves, while the usual people they talk to barely noticed them, with only brief, seemingly pity-driven small talk. They left as soon as the service ended. They did, however, think the choir was great.

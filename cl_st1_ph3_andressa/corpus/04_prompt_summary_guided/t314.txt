@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 69–103 words.
+
+The poster reflects that people who perceive life’s depth and complexity often end up walking alone, suggesting solitude can be the “cost of awareness” rather than emptiness. As one becomes more aware of layers in people, intentions, moments, pain, and beauty, they may outgrow superficial “noise.” The writer argues that not everyone who is alone is lost; some are simply seeing more than others. They reassure anyone who is alone that they might not be behind in life, but instead ahead, quietly observing reality, and present this as their personal understanding.

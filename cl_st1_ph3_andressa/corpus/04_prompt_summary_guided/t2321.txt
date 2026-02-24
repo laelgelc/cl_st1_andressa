@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 144–216 words.
+
+The poster feels they are always the one initiating contact and effort in their friendships, and when they stopped texting first for two weeks, only one of about seven friends reached out. This makes them feel uncared for and question the genuineness of these friendships. Although they are outgoing and can meet people easily, they feel they’ve only formed one or two real friendships in their life. They’ve become somewhat comfortable being alone but still wish someone would miss them. They’re torn between wanting to cut off these one-sided friendships and not wanting to end up completely alone.

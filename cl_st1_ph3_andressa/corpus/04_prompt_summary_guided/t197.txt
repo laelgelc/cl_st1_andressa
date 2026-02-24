@@ -1,0 +1,19 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 287–431 words.
+
+The poster describes how their life seemed to be improving last year with a pending promotion, a solid friend group, and a girl they really liked, but everything fell apart. The promotion fell through, starting school plus work destroyed their social life, friends drifted away, and the girl they loved only wanted something casual and said she doesn’t catch feelings. They quit their job, lost work friends, became depressed, stopped working out, and isolated themselves.
+
+Now they’re trying to rebuild: they have a new job (though they don’t like the people there), started working out again but feel weak and in pain, and plan to return to school in the summer. They have few real friends, a poor relationship with family, and feel a romantic relationship is unrealistic. Even though they’re trying to improve their life, they still feel deep pain, worthless, and believe they’ll never be seen as worth anyone’s time or good enough at anything.

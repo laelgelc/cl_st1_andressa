@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 118–178 words.
+
+The poster has a torn calf muscle and can’t walk, so they asked their mom to come home and help. Instead, she chose to fly to Utah to help a friend give up her dog, telling the poster she couldn’t get a refund on the ticket but would check the 24-hour cancellation policy. The poster rescheduled their orthopedist appointment based on their mom saying she’d be back on the 7th. They later discovered she left Utah early and has been spending time with their brother instead, making the poster feel lied to, unimportant, hurt, and very alone, wishing they had a hug.

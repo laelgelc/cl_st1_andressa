@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 150–224 words.
+
+The poster yearns for someone who will care for them and share life’s ups and downs, but their loneliness makes them doubt what they have to offer in a relationship. They worry that their current depressed, “sparkless” state would only turn a relationship into shared sorrow and cause the other person to suffer. They still want the best for a future partner and would want to care for them, even if they can only offer a small “spark.” They acknowledge they might be pessimistic or unclear, apologize for that, and mention this is their first post.

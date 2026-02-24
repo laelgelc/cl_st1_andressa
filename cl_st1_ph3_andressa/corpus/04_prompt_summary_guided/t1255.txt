@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 143–215 words.
+
+The poster is a 22-year-old man who often wants to vent on the subreddit but backs out at the last minute. He feels reluctant and somewhat ashamed to admit he’s seeking companionship from women. He says he isn’t looking for a sexual or romantic relationship because he feels it wouldn’t be sustainable in his current state, but he strongly craves a close, sincere connection—someone to talk to and learn from, beyond ideological differences, in a non-romantic, mutually human way. He feels cheesy and pathetic for posting this, but says he needed to express it.

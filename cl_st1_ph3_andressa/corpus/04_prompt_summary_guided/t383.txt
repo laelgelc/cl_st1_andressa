@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 106–158 words.
+
+The poster feels increasingly worse and is sleeping a lot to escape their feelings. They recently made a difficult career decision involving sacrifice and quitting a job for their future, but since then they’ve had problems with their girlfriend of 10 months. They struggle to make and keep plans, often rescheduling tasks because they don’t feel well. They feel worthless and not enough, and don’t know what to do. They deeply value their relationship, especially because their girlfriend has made sacrifices for their career, but they feel like they’re drowning alone and can’t open up, as they’ve never had someone who truly cared before.

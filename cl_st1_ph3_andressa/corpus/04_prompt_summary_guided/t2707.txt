@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 209–313 words.
+
+The poster feels very comfortable being alone and has long felt guilty about this because people around them don’t seem to feel the same. They have friends but get anxious and overwhelmed when friends reach out, worrying about “socializing correctly” and quickly wanting to be alone again, even with people they like. The COVID-19 lockdown made them realize even more how relieved they feel staying at home without contacting others, and they feel they might be something “more extreme” than just introverted. Discovering the r/loner community makes them feel understood and less alone in these feelings.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 83–125 words.
+
+The writer feels that summer intensifies their sense of rejection and loneliness. They describe not being chosen or invited to typical summer activities like celebrations, parties, trips, and festivals. Their plans are often rejected, they are ghosted, and left waiting for a “yes” while others choose someone “shiny” instead. Because of this repeated experience, they now hate summer and see it as a season of pronounced loneliness.

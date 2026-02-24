@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 79–119 words.
+
+The poster, a 26-year-old woman, is confused and hurt that many people her age say they have “no friends” but regularly post about going out and having fun with the same group of people. When she says she has no friends, she means it literally—she doesn’t have a single friend—and it feels like a slap in the face that others use the phrase casually while clearly not being as alone as she is.

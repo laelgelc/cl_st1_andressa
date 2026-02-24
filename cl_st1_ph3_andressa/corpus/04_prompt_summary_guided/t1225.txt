@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 242–364 words.
+
+The poster keeps busy with hobbies, a side hustle, and studies, but feels empty and very lonely whenever they’re not occupied. They crave emotional connection but have trust issues and never open up to their friends, partly because of a strict religious background, living a “double life,” and being shamed growing up. They feel complicated and wish they were “normal.” After a first heartbreak, they struggle with being alone and constantly seek male attention, cycling through short relationships and temporary connections where men seem to care and provide a space to overshare. They’re not even allowed to have a boyfriend, have lost faith in genuine dating and love due to social media “rules,” and doubt they’ll ever experience real love. They say they don’t want advice, just to vent their feelings.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 124–186 words.
+
+The 22-year-old poster feels they’ve achieved nothing and believe they’ve wasted their time, money, and mental health. They’re struggling to focus on college due to anxiety about debt, and their history of being bullied has led to social phobia and very low self-esteem, making relationships feel impossible. They’ve tried multiple religions and many self-help books but are increasingly skeptical that philosophy, faith, or a miracle will give their life meaning or relieve their suffering. Recently fired and now unemployed, they feel trapped in a pit and hope their pain might at least be explained as karma from a past life, because suffering without a reason feels like the worst part.

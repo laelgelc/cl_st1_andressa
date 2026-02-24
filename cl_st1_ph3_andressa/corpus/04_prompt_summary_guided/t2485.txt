@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 64–96 words.
+
+The poster feels rejected and uninteresting, saying that whenever they try to connect with someone, they’re told to look for someone else. They were homeschooled for a period and now find it feels impossible to make friends. Despite becoming desperate to find even one friend, every conversation ends up being the last with that person. They’re exhausted from trying, and people have started calling them “corny” or telling them to “get a life.”

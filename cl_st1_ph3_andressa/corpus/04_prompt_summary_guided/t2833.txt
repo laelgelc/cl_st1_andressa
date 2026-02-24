@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 201–301 words.
+
+The post summarizes an online hangout about organizing an action-oriented, decentralized effort around loneliness. Participants discussed creating a background organization, seeking input from experts (academics, practitioners, authors, insurers) and from people directly affected by loneliness. They debated whether to use positive wording like “purpose” versus explicitly saying “loneliness,” and agreed to mention loneliness explicitly but pair it with positive terms, especially “purpose.” They noted that new people have been joining each time. Next steps include using a shared Google Drive, developing a basic website with content in progress, and continuing to talk to people and integrate feedback. The next meetup is scheduled for Saturday, May 12th at the usual time, though attendance is expected to be low.

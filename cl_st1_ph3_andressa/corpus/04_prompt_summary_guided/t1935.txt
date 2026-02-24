@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 99–149 words.
+
+The poster is angry at the common advice to “just be yourself,” because when they were themselves as a child, they were bullied, excluded, and called weird. They feel society only accepts differences up to a point, and beyond that people are labeled outcasts and talked about behind their backs. Being picked on for being “weird” led them to heavily suppress their personality, and now they don’t know how to act around others and feel ashamed of who they are.

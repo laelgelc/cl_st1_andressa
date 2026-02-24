@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 98–148 words.
+
+The poster says they’ve given up on finding a partner. Dating apps have been discouraging, with many women seeming fake or only interested in money. They’ve been told they’re decent looking but struggle with low self-esteem and significant social anxiety, which makes going to bars difficult. In past relationships they felt unable to be themselves, yet when they are themselves, they end up alone. They wish relationships could be “reset” so there were no expectations or assumptions about how they’re supposed to work.

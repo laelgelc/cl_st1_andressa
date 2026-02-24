@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 102–154 words.
+
+The poster is a woman who is sick with a fever, exhausted, and alone in a new city without close friends or anyone to check on her or send supportive messages. She feels she can’t tell her family because they overreact and panic, and she’s tired of having to be “strong and independent” and take care of everything herself. She wishes she had someone to depend on and be cared for without feeling like a burden, and wonders if others feel the same way.

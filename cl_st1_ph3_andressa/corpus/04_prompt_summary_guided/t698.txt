@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 70–104 words.
+
+The post reflects on the idea that humans are fundamentally alone: we are born alone, die alone, and even when surrounded by others, we are essentially alone throughout life. The writer distinguishes this from constant loneliness, but emphasizes that this basic aloneness makes self-respect crucial. They argue that you cannot truly respect yourself if your happiness depends on what others think or feel about you.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 67–101 words.
+
+The poster wonders if people really talk to bots and fall in love with them. They say they’re not exactly lonely but feel frustrated that, despite their efforts, others don’t seem to want them as a friend or partner. They share that they are a 33-year-old lesbian with mild autism and compare themselves to Forrest Gump. They say they’re generally fine being on their own but still find the situation annoying and frustrating at times.

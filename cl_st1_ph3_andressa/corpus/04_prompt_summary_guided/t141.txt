@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 169–253 words.
+
+The poster feels exhausted and devastated from repeatedly failing to make friends and never getting feedback about what they’re doing wrong. They’re in their 30s, struggle with severe social anxiety, and feel alienated, lonely, and isolated to the point it feels like it’s “killing” them. They feel worthless, wish they’d never been born, and believe depression and cycling through antidepressants have stripped away their personality. Their unusual, “spooky, bizarre” interests make them feel even more like an outsider. They see others their age making friends easily, feel hopeless about ever connecting, and are considering giving up on trying altogether.

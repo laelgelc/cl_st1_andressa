@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 54–82 words.
+
+The poster shares a brief, positive message saying everyone in the subreddit is wonderful. They suggest watching the movie “A Silent Voice” on Netflix, recommending it even to people who don’t usually like anime, and then sign off with a simple goodbye.

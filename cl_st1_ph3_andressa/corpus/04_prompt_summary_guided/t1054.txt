@@ -1,0 +1,21 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 253–379 words.
+
+The poster was ghosted last November by their boyfriend of five years, right after they told him they loved him and would let him go if he was unhappy. He never responded and disappeared from their life. They feel empty, not themselves, and deeply hurt that someone who meant everything to them could walk away so easily.
+
+They mention a suicide attempt in June of the previous year, after which he tried to break up with them; when they begged him to stay, he did, but became cold and cruel afterward. Since the breakup and ghosting, they feel extremely lonely and have been coping in unhealthy ways, seeing themselves heading toward alcohol abuse and possibly self-destruction.
+
+Thoughts of dying now bring them a fragile sense of comfort, and they suspect this isn’t normal, though they’ve been told that everyone has suicidal thoughts and gets tired of living. They’re unsure if they’re overthinking things and are asking for advice, saying they can’t talk about this to anyone in their life.

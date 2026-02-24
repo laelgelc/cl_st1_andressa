@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 96–144 words.
+
+The poster deeply wants to be a father but believes it will never happen for them. They reject ideas like “we’re all here for a reason,” seeing life as meaningless accidents to which humans assign meaning. They’re afraid of being alone forever and feel they have a lot of love to give and share. They also feel that artificial beings are replacing what used to be normal, making life more difficult. They invite anyone who feels similarly to reach out and not be a stranger.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 158–238 words.
+
+The poster says their only friends are people on a group server, where they have many acquaintances but no close one-on-one connections. When they express this, others just tell them to reach out if they’re struggling, but they want genuine friendship, not just support in crisis. People are friendly in group chat but don’t pursue deeper relationships or reciprocate their efforts. They feel like they’re only invited to games to fill a spot on a team and nothing more. After six months on the server, they don’t expect this to change and don’t know how to change it, and they’re asking how to accept that people may like them generally but not care about them as a person.

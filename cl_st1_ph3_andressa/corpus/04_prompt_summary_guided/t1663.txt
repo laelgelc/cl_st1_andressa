@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 120–180 words.
+
+The poster is a 24-year-old man who grew up with only his mother in a single-parent family and has no other family. His mother died when he was 18. He’s now a year into a relationship with a woman who has a fairly large family. At family gatherings he feels very alone and out of place, usually sitting quietly and only speaking when spoken to because he’s afraid of saying something dumb or embarrassing himself. This anxiety is unusual for him, as he’s normally fine around people he doesn’t care about impressing. He also notes that his partner doesn’t really talk to him or introduce him to her family, and he’s asking for tips on how to feel less alone and make it easier to mingle.

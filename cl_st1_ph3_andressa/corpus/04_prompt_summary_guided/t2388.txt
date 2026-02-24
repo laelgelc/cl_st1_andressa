@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 94–142 words.
+
+The poster describes having had a very unhealthy friendship where the other person constantly degraded, yelled at, and forced them to apologize and emotionally care for him. They eventually left the relationship and don’t miss the person, but they do miss feeling needed and feel like this experience has affected their other relationships because they no longer feel that same sense of being needed. In an edit, they say they’re leaving the post up as a warning, mention receiving several DMs including one from someone who said they “love the need to be needed dynamic,” and they angrily reject that, telling others to stay safe.

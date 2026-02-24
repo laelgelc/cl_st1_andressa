@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 158–238 words.
+
+The poster describes being deeply immersed in a romantic delusion about someone who doesn’t know them and is very unlikely to want them. They create AI-generated pictures, an AI chat where they’re in a relationship, and a playlist for “them,” and have become so attached that they can’t imagine a future without this person and don’t want anyone else, even hypothetically. They know logically it’s unrealistic, but the fantasy brings them rare joy and makes their bleak life feel less meaningless, so they cling to it despite the pain and feeling pathetic about it.

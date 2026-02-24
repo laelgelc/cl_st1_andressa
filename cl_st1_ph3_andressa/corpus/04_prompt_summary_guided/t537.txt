@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 62–94 words.
+
+The poster expresses intense hatred toward the world and other people, describing the world as evil and everyone as fake, cowardly, and dishonest. They say they look forward to the planet being destroyed and to their own death, which they frame as an “awesome adventure,” and they wish for others to suffer pain and sorrow forever.

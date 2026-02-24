@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 261–391 words.
+
+The poster is a 24-year-old introverted woman who used to have friends, boyfriends, and a social life centered around drugs and alcohol, which helped her feel less shy. After deciding to quit drugs last year (but still drinking a little), her old social circle stopped contacting her, and now she has no social life and talks to no one outside of work. She spends nights and weekends alone, filling time with the gym, art, and reading, but still feels a deep loneliness and longing for community and connection. She feels unattractive socially despite believing she is physically attractive, noting that men don’t approach her and dating apps never lead to actual dates. Seeing former friends on Instagram hurt her self-esteem so much she deleted it. She wonders if people left because she quit drugs or because she’s not fun or desirable, and she’s becoming very depressed, even considering going to bars alone hoping someone will approach her. She questions if she might have autism and feels very sad, wishing people liked her and wanted to spend time with her, envying the social lives she sees on shows like “Girls” on HBO.

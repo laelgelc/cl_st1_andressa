@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 248–372 words.
+
+A 33-year-old man, currently single and unemployed for six months, feels deeply lonely and depressed. He has long-standing trauma from severe bullying in elementary school, which still causes strong physical reactions when he remembers it, and he is in therapy. He’s in a sports club, but people turn down his invitations for coffee, and he only sees his two friends about every two weeks. Most days he sits alone in his apartment, unable to self-motivate, struggling to apply for jobs or ask women out because he’s lost faith in succeeding and is angry at his own brain for “sabotaging” him. He’s asking for very small, actionable steps that provide quick positive feedback, since otherwise he loses heart. Going to the gym sometimes helps because progress with weights gives him a dopamine boost, but it doesn’t always work. He’s asking for practical advice and also for messages of sympathy so he feels less alone, and he wishes others well.

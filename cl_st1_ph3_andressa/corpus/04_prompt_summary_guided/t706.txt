@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 70–106 words.
+
+The poster is listening to “Heroes” by David Bowie and wishing they could dance to it with someone. They feel lonely but are starting to be more okay with it, as their wishes for togetherness now feel warm rather than painful reminders of what they don’t have. They rely on their imagination to cope, and when they stay very busy, it becomes easier to forget what physical affection like hugging feels like.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 126–190 words.
+
+The poster has been antisocial since childhood, possibly due to rejection and lack of attention, and has lived this way for decades. Nearing 30, they’ve been single for six years, have no pets, and work a very isolating job, though they’ve found small ways to interact. They’re now up for a promotion that will make their work completely isolating, and while they need the money, they fear increased loneliness and already cry on the way to and from work because they lack human interaction. Their friends have married, had kids, or drifted away. They feel petrified of socializing, believe their body is unworthy of relationships or being in public, and describe themselves as “a mess.”

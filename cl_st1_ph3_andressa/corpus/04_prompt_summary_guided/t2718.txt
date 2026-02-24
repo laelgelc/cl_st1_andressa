@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 198–298 words.
+
+The poster is a 24-year-old who has been largely reclusive and unemployed since 2012, living with their parents and receiving social security disability. They usually only leave the house when necessary or for walks, due to mental illness and misanthropy, and describe themselves as verbally aggressive, which has led to unstable relationships and isolation. They note that the coronavirus has made many people experience isolation similar to theirs, which briefly allows them to feel empathy for others, but they expect that to disappear once life returns to normal. They had planned to try therapy again to work on their issues, but the pandemic disrupted those plans.

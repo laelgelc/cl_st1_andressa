@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 133–199 words.
+
+The poster is feeling very lonely and wants someone to talk to and play a simple two-person “creative response game” they read about. In the game, Person A gives Person B a keyword, and Person B must answer all of Person A’s questions using that keyword somehow. Person A wins if Person B fails to use the keyword in an answer; Person B wins if Person A runs out of questions. The poster gives an example using the keyword “cake” and invites others to ask any kind of questions in the game.

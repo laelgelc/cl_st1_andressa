@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 114–170 words.
+
+The poster feels deeply lonely and disconnected, wanting real human interaction rather than superficial small talk. They say they have felt lonely their whole life, had no friends growing up despite trying hard, and are exhausted from making friends only to lose them as life changes. They feel that no one likes them, that very few family members care, and that people often ignore their messages even when they reach out. This ongoing rejection and isolation leave them feeling hopeless and questioning the point of existing if it means being alone.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 67–101 words.
+
+The poster is 29, turning 30 in April, and spent most of their 20s feeling lonely, stuck in their room, and having friendships that didn’t last. They used to be hopeful in their early 20s about eventually finding “their people.” Now they’re finally starting to have more people in their life, but they feel cynical and resentful that it took so long, and they feel like it’s too late for them.

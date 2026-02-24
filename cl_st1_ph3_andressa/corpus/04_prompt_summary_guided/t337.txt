@@ -1,0 +1,21 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 302–454 words.
+
+The poster is a 31-year-old bartender and former tattoo artist who lives alone with two cats and feels deeply lonely. They come from a very large family but are estranged from all of them due to a history of emotional abuse, hatred, and disrespect, especially from their mother, while their father ignored it. They left home at 23 and no one in the family tried to find them.
+
+They have some friends, but those friends are married with families and their lives are drifting in different directions, leaving the poster feeling increasingly isolated. They long for a close connection with someone they can call, share daily life with, and feel supported and valued by.
+
+Attempts at dating, mainly through Tinder, have been disappointing and feel like repetitive, shallow “job interviews,” with others seeming passive despite the poster’s efforts. They’re in therapy, where their therapist says they’re in a “borderline state”: they no longer tolerate bad treatment but still struggle to accept care, even though they crave it. They’re unsure what they’re doing wrong and feel like they’re writing the post in the hope of a miracle.

@@ -1,0 +1,19 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 122–182 words.
+
+Kenneth is a 22-year-old from Singapore who has felt alone his whole life. He was bullied in school as a child and teenager, had few friends, and has never been in a relationship. Although the bullying stopped in college, the loneliness remained and grew alongside strong feelings of lust that he describes as a “monster” that now consumes him.
+
+The main things that have stayed with him are music, Five Nights at Freddy’s, and himself. In 2021 he attempted to end his life and was admitted to a psychiatric ward, where medication and treatment helped stabilize him for a while, but his struggles keep returning. He also describes his parents as toxic and not understanding.

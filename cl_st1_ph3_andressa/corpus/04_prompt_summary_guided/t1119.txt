@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 69–103 words.
+
+The poster is going through a very difficult period in life and feels deeply lonely. They aren’t seeking sympathy but genuine connection and conversation. They’ve tried talking to people online, but most stop responding after a short time, which makes things worse. They’re specifically looking for someone who enjoys real conversations and won’t ghost, even if it’s just small, simple chats.

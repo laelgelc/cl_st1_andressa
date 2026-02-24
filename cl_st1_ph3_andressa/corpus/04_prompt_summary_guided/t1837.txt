@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 222–332 words.
+
+The poster feels like they are no one’s “favorite person” and that they don’t truly matter to anyone. They say communication only happens if they initiate it, and no one seems eager to contact them or share news with them. They recently discovered their mom takes their younger siblings on family vacations and cruises without ever inviting them, and there are family group chats and events (travel, holidays) that exclude them. While they can accept friends having other close friends, being excluded by family is deeply painful. They feel pathetic for always being the one to call, check in, and ask to hang out, while everyone else seems to have their own people. This makes them want to pull away, but they fear becoming even more alone. They believe that if something happened to them, it might take weeks for anyone to notice, and they feel stuck and unsure how to fix the situation.

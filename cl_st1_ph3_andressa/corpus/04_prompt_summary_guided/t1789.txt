@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 81–121 words.
+
+The poster feels that genuine connection is disappearing and that modern interactions are dominated by casualness, ghosting, and avoidance of sincerity. They wonder why deep connection is so rare—whether it’s due to widespread trauma and exhaustion, shortened attention spans, dating apps turning people into “options,” or fear of needing someone. They ask people who have found real love or real connection to describe what it actually looked like in practice and what concrete actions proved it was real, beyond fairytale ideas.

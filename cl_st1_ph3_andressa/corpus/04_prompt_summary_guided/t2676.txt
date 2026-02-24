@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 262–394 words.
+
+The writer says they usually make a good first impression and are seen as popular, well liked, and attractive, but after a few hangouts people quickly detach, become mean, and see them as untrustworthy, mean, or annoying. Compliments and jokes often land badly and upset others, even though they insist they have no ill intent and act out of love. They feel they’ve never had a true friend who stayed through hard times. Recently, their close friends excluded them from a day together and talked about them in front of them, which hurt. Others often assume they have ulterior motives, like trying to steal someone’s girlfriend or use people for money, food, or weed. They feel lonely and confused about what makes them come across this way, but they’re trying to stay optimistic and hope happiness will find them someday.

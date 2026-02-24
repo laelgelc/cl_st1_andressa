@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 198–298 words.
+
+The poster grew up being called annoying and coped by oversharing and trauma dumping because they felt ignored and desperate for connection, with little self-awareness. As they got older and found people who match their energy, they unexpectedly discovered they genuinely love being alone. They enjoy sitting in silence with noise-cancelling headphones, simply existing and letting thoughts come and go, which feels healing and has made them happier and more self-aware, even when it brings up sadness. They contrast their contentment in “loneliness” with others who seek happiness in relationships and parties, and they end by hoping to relate to readers and help anyone who feels nothing else works.

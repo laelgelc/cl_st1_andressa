@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 112–168 words.
+
+The poster describes feeling an inner void and loneliness even when surrounded by friends or family. They often zone out and feel like they’re “carrying cracks” inside. They mention a “broken bone theory” that says people who’ve never broken a bone are either protected by a guardian angel or are mentally broken. Although they don’t fully believe this theory, they sometimes feel the “mentally broken” part might apply to them and are asking why they experience these feelings and whether that explanation could be true.

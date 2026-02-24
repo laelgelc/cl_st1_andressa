@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 74–112 words.
+
+The poster says they have a detailed, “foolproof” long-term plan to go to what they call the best place on earth. They originally intended to do this journey alone but realized it would be extremely hard, so they now want 1–2 companions. They say having companions would make things much easier and help provide comfort, reduce isolation-related mental issues, and allow them to keep each other company by playing games, hunting, and sharing human warmth. They invite people to DM them so they can share the exact plan.

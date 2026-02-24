@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 204–306 words.
+
+The poster is a 19-year-old who feels physically and socially different: they have a severe overbite, recessed facial bones, are shorter than expected based on their parents, and describe themselves as neurodivergent with low IQ and very poor social skills. They were always the small, isolated kid at school, never had real friends, and dropped out of high school at 13–14 because it was too painful. Their attempts at online friendships ended in betrayal or being ignored. They feel they make others uncomfortable or disgusted, are tired of masking their true self to be liked, and believe they are destined to live as a lonely, homeless, mentally ill person.

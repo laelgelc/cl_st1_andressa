@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 66–100 words.
+
+The poster feels they’re not a “chosen” loner but someone others avoid because they’re “too weird” and have underdeveloped communication and body language. They feel extremely lonely, especially on days off from work, to the point of wanting to die. Work helps distract them, but outside of that they struggle and are asking if others feel the same and for tips on how to live, be happy, and cope with loneliness.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 234–350 words.
+
+The poster recently ended a 4.5-year relationship where they generally felt loved, but toward the end they were the only one initiating physical intimacy. Now single, they’re rethinking how important feeling desired and physically intimate is in future relationships. They feel they “let themselves go” during the relationship and are now working hard to lose weight and feel attractive again, but currently feel uncomfortable in their body, unworthy of love and intimacy, and very lonely. A past experience where a man told them they shouldn’t use dating apps until they reached a certain weight—and then seeing much more dating success after losing a lot of weight—reinforces their belief that they must change their body to be desired. They recognize this mindset isn’t healthy and plan to work on it, but they’re frustrated and struggling, and they reach out in solidarity to others going through something similar.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 272–408 words.
+
+The writer recalls having a few friends in primary school, then just one close companion, but they drifted apart in secondary school and no longer speak. Now 25, they have no friends and rarely initiate contact with anyone. Their solitude is intentional and feels valuable, even though they sometimes experience loneliness and brief urges to talk. They find most people exhausting—too noisy, self-absorbed, and inattentive—and feel that others’ attempts to support them never match what they actually need, nor do they meet others’ expectations. They believe they are essentially unnoticed and that their disappearance would not matter, and they write this post as a kind of detached reflection or memento mori, while wishing the reader well.

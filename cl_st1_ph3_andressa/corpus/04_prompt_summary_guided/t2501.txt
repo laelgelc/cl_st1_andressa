@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 90–136 words.
+
+They feel intensely lonely despite being surrounded by people and having others they could reach out to. They avoid reaching out because they’re afraid of inconveniencing others. They feel out of place and believe their current friends only tolerate them rather than genuinely like them. They’ve never had many friends, and despite trying repeatedly to connect with people, nothing seems to fill the emptiness and constant shadow of loneliness they carry.

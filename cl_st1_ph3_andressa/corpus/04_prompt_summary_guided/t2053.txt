@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 164–246 words.
+
+The poster is a 21-year-old college senior who transferred schools junior year and initially had no friends. They eventually formed a close friend group and later made more friends while studying abroad, but after returning, they couldn’t dorm with their old friends, rarely see or talk to them now, and their main friend from abroad barely responds. Their current roommates are distant, and in classes people avoid sitting next to them. They say they take care of themselves and appear friendly but still can’t seem to meet anyone, leading them to feel like they are the problem—too boring or unattractive. They haven’t had a girlfriend since age 15, haven’t even hugged anyone, and feel that no matter what they try, they are always alone.

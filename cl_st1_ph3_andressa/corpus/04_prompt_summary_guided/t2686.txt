@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 135–203 words.
+
+The poster recently tried again to make friends at school after previously becoming a “new loner.” They joined a tight-knit group about three weeks ago but felt excluded because the group mostly shared inside jokes and didn’t really talk to them. As a result, they’ve decided to go back to spending time alone at their usual spot. They say they don’t feel ashamed, expect that no one will notice their absence, and believe that being alone fits them better because they’re introverted at heart.

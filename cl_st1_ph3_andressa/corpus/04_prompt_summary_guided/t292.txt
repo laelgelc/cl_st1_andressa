@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 134–200 words.
+
+The poster says they’ve lost many “friends” but realizes those people weren’t real friends and they had little in common. They’re in a small-town community college where no one lives on campus, so meeting people with similar interests has been difficult. They’ve tried finding connections on Discord, but existing servers feel closed-off, and even creating their own server hasn’t helped. They’ve recently started antidepressants and Adderall and hope these will help them feel grounded again, since they miss the sense of real human connection they felt around 2011–2016 and currently feel like they’re just floating through life.

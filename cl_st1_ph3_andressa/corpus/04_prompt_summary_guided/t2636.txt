@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 153–229 words.
+
+The poster argues that comfort gained through dependence on others is a trap that leads to a kind of slavery. Using the story of a pampered pet dog and a free but struggling street dog, they say society makes people emotionally and psychologically dependent on others for happiness, which causes suffering when those people change or turn against them. They conclude that one should aim to be a “lone wolf” or loner in order to be truly happy and free.

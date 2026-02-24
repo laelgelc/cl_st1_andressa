@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 140–210 words.
+
+The poster feels there’s no point in trying to find new people because their past friends have been disappointing and self‑centered. They’re always expected to support others’ problems, but no one listens to or understands them in return. They’ve mostly stopped talking to the few people they had because those people seem too self‑involved. Their therapist says they can’t make connections by staying at home, but the poster finds it very hard to meet new friends and feels that new people aren’t interested and mostly want something for themselves. They wonder where the genuine people are and feel that, while being alone might be better than dealing with selfish people, it still feels awful.

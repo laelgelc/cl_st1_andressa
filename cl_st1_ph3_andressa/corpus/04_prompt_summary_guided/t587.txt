@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 284–426 words.
+
+The poster says they are planning to end their life that night. They describe a life of constant misery: their father died of a drug overdose when they were a baby, and their mother, also an addict, kept and severely abused them throughout childhood, beating them regularly until they were 16. At 16 they started working, paying for their small apartment and their own schooling, and the physical abuse stopped because they were rarely home. Now 18, they are in debt because their mother used their name to buy drugs, and dangerous people are hunting them down and beating them to collect the money. They have no friends left, feel deeply depressed, unsafe, and hopeless, and say all they ever wanted was a stable education and a safe home. They end by urging people to be responsible if they have children and thanking anyone who read their post, saying this is the first time they feel someone has listened.

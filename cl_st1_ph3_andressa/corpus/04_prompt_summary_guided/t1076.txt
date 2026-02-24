@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 154–232 words.
+
+The writer uses the metaphor of a car stuck in deep mud to describe feeling trapped in life and loneliness. Their efforts to move forward or backward only make things worse, and they feel unable to get out on their own, with no help in sight. They worry that even if they escape, they might not function properly in the world again. They sometimes feel like they belong in a junkyard with other useless, rusty cars, yet they also sense there is still some spark or fear-driven will to keep going. They describe this as a vicious, ongoing cycle.

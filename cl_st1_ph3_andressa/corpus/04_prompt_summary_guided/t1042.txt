@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 132–198 words.
+
+The poster felt lonely despite having people in their life, with no one they could really talk to about serious things. Because of this, they started creating an anonymous chat app called Blurble, where users are matched with another person to talk without profiles or photos. The app isn’t finished yet, and they’re collecting emails from people interested in trying it at blurble.net. They also invite others to vent in the comments.

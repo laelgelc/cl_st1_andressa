@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 113–169 words.
+
+The poster is in their early 20s, unemployed, and living with their parents due to ongoing health issues that worsened in 2021 and now leave them feeling bad every day. They are an only child who used to be okay with being alone, but now feel the painful weight of having no friends and are jealous of people who have others to talk to and share things with. They say they are “starving for friends” and invite people around their age who like LOTR, Star Wars, Warhammer Fantasy, cooking, or history to DM them because they really want people in their life.

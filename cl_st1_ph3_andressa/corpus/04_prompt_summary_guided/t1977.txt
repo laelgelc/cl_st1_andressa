@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 149–223 words.
+
+The poster was broken up with a few weeks ago, hasn’t moved on, and feels very lonely but doesn’t want to go back to their ex. They’ve tried coping by making more friends, talking about their experience, and hanging out with people, but it doesn’t ease the “hole” of loneliness. They feel a strong urge to talk to other girls and feel excited, confident, and happy when they do, but they rarely follow through by actually texting after getting contact info, so they’re unsure if this would truly help their need for companionship. They are asking for advice on how to deal with their loneliness.

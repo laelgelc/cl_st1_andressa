@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 65–97 words.
+
+The poster describes feeling an intense level of loneliness, worse than when they were physically alone. Hearing others laugh and seeing them smile makes them feel even more isolated in their own home. They feel depressed, unwell from the loneliness, and are unsure how to cope or distract themselves from it. They say they might be rambling but don’t know where else to turn and are asking for advice.

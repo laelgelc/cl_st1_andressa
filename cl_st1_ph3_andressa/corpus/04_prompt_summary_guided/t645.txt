@@ -1,0 +1,19 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 293–439 words.
+
+The 26-year-old male poster recently went through a breakup after his girlfriend slept with someone else. He realized he was in love with the idea of her, not who she really was. Attempts to fix the relationship showed him it was one-sided and that they wanted different things, especially about the future (family dinners, building a home, enjoying simple, low-cost time together). He feels she didn’t truly love him and may have been using him.
+
+From this, he’s learned that being alone isn’t bad and that his mistake was being afraid of loneliness instead of accepting it. He suggests focusing on making friends and going out (parks, clubs, parties) to free yourself from being a “slave of love.” He believes you don’t need a romantic relationship to learn important lessons; friends and listening to others can teach you a lot. He advises not to accept just any love, but to wait for good, healthy relationships. Finally, he says it’s better to be happy and kind than to chase the “alpha” image promoted online.

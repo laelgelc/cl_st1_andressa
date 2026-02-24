@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 164–246 words.
+
+The poster has worked hard to change their physical appearance—losing weight, improving fashion, hair, and grooming—to make more friends, but it hasn’t improved their social life. They feel their looks may attract people initially, but their personality drives them away. They have ADHD and autism and say that even when they try to mask, their true self comes out and seems to repel others. They describe themselves as talking too much, being overly passionate about niche interests, discussing topics others don’t care about, speaking impulsively and upsetting people without realizing, and being laughed at rather than with. Others often label them as “annoying,” “draining,” “too much,” and “weird.” They feel stuck in a cycle where no one stays in their life and wish they were neurotypical.

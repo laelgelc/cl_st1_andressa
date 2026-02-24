@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 270–406 words.
+
+The poster grew up moving frequently between cities and countries, attending many different schools and universities, and was often “the new kid.” Their friendships usually faded after each move, partly because it’s easier to maintain relationships with people you see in person than with those you must contact online, leading to an “out of sight, out of mind” pattern. Now, even after living in the same place for five years, they only form fleeting friendships and acquaintances and struggle to find the emotional energy or desire to deepen connections or start new ones. They wonder if this is a subconscious self-protection or a belief that people are transient. They feel unmoored and lonely, want deep connections, and are asking if others have experienced something similar and how they’ve managed or changed it.

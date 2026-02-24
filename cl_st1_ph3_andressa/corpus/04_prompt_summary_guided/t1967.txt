@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 149–223 words.
+
+The poster is a 26-year-old introvert who has been alone their whole life, has no friends, and takes care of their mother. They spend most of their time gaming and smoking weed, and describe their life as peaceful but boring. They don’t usually have romantic interests but are trying to be open to it, though they haven’t found anyone yet. They think a lot about the universe and life, feel that long-term loneliness is starting to affect them mentally, and describe their mind drifting into a void. They’ve realized they are lonely but also feel increasingly addicted to solitude, comparing it to a drug.

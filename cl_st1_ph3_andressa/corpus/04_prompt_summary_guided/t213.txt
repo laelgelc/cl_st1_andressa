@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 169–253 words.
+
+The poster created a simple anonymous website where lonely people can mark their location on a world map to see others experiencing loneliness. After an earlier post, the site received over 700 visitors and more than 150 loneliness reports from all seven continents, including Antarctica. Encouraged by this, the creator added a limited chat feature so users can share why they feel lonely, how they cope, and so that non-lonely people can offer past experiences and suggestions. They believe recognizing and understanding the causes of loneliness is the first step to overcoming it and hope the site, “The Lonely World” (lonelyworld.info), helps with that, inviting feedback from others.

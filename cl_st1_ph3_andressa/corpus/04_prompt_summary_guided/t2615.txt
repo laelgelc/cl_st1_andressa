@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 86–130 words.
+
+The poster’s home is very messy, but they feel uncomfortable hiring a maid. They worry that domestic workers are treated like inferiors or “slaves” by rich people and that using such services feels morally wrong or like there’s a hidden catch. They feel stuck in a catch-22 between needing their place cleaned and not wanting to participate in that dynamic. They also mention that being alone feels great for a few years but eventually becomes unsustainable.

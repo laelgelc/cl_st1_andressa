@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 54–80 words.
+
+The poster had been talking to a guy online for three days. He seemed kind, polite, and like a good person, and they shared a lot about their interests. After he sent a reel about butterflies, she discovered he had blocked her for no apparent reason. She feels confused because she doesn’t think she did anything to cause it.

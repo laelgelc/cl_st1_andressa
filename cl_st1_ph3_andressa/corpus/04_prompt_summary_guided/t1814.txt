@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 118–176 words.
+
+The poster describes reaching a point of loneliness where they realized they must create their own happiness because others left or never showed up. They focus on self-improvement—loving themselves, working on their body, skills, social life, career, and family—since no one else will do it for them. Despite finding worth in themselves and their life, they feel there is no one to share or celebrate it with. They emphasize having no choice but to keep going and pick themselves up, ending with a sarcastic remark that their life is “great” on their own.

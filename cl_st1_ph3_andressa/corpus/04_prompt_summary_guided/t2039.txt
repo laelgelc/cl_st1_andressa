@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 263–395 words.
+
+The poster is nearing their early 30s, has been single their whole life, and feels a growing sense that something is missing—specifically emotional connection, companionship, and shared experiences. They reflect on a girl they liked in high school who is now with someone else, wondering about missed opportunities, not with regret but as a way to understand themselves and learn from the past. With their birthday coming up, they considered a solo trip to Las Vegas but feel hesitant due to the long flight, being far from home, and concern about their family worrying. They want to grow, take more chances, and stop holding themselves back, but also stay safe and responsible. They ask others how they navigate these life crossroads: balancing caution with living fully, and knowing when to step out of their comfort zone instead of waiting for a “right” moment.

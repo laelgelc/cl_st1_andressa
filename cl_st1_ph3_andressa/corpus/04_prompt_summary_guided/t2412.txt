@@ -1,0 +1,19 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 259–389 words.
+
+The poster has a few mostly online friends and feels they are the one who always initiates conversations and shows care. They listen to their friends’ problems, remember details, ask follow-up questions (like about tests), and try to share their interests. In return, their friends don’t show the same interest or effort: they don’t ask about the poster’s life, don’t follow up on things the poster mentions, and don’t share the poster’s interests. 
+
+A recent example is that the poster changed high school programs and told their friends, but no one asked how it went. Another friend forgot that the poster wants to study nursing and asked if they wanted to be a doctor instead. This makes the poster feel hurt, unnoticed, and less willing to open up, and they’re wondering if they’re wrong for pulling back and if they should just accept that their friends aren’t as caring as they are.

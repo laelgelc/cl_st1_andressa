@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 235–353 words.
+
+The poster argues that loneliness can be worsened by a victim mindset and self-pity, which bring no benefits and repel connection. They stress that self-pity is not the same as having a disability or illness; it’s a separate character trait anyone can have or avoid. Using an example of a miserable billionaire and a grateful homeless person, they highlight that attitude matters more than circumstances. They encourage taking responsibility, working with whatever limitations you have, and holding yourself accountable for your own happiness, while still being kind to yourself.

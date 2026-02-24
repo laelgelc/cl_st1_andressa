@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 138–206 words.
+
+The poster, a 47-year-old, describes repeatedly trying to turn acquaintances and situational “friends” (like from work) into real connections by getting their contact info, but after a few exchanges people stop responding or clearly show disinterest. They feel others will eagerly talk to “cooler” people while ignoring them, which makes them resentful and tired of feeling like nobody cares. They say this has happened throughout life, not just in school, and currently they only have two contacts in their phone: their son and their ex-wife.

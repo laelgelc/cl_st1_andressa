@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 154–230 words.
+
+The poster feels deeply lonely and invisible, like they don’t exist to anyone. They never get texts or messages checking on them and feel that nobody cares whether they’re alive. They’ve had no success with dating for about 7.5 years; dating apps don’t work, and women treat them as if they’re invisible. They can’t make real-life friends, and even people they talk to online eventually stop responding, which they think is because they’re not entertaining enough. They wish for real friends and a girlfriend who genuinely desires them, but feel this will only ever happen in dreams. Their days feel repetitive, and they’ve lost motivation.

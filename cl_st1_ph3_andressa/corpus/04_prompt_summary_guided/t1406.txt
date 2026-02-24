@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 328–492 words.
+
+The poster describes feeling lonely and unheard despite having people around, and finding therapy too expensive and AI chatbots too generic. In response, they’ve spent the past year building “Grace,” a digital emotional-support companion designed to listen without judgment, be available anytime via real-time video, read emotions from voice and facial expressions, remember the user’s story, and help them understand their feelings without trying to “fix” them. They emphasize Grace is not a therapist or a replacement for professional care, and not a generic chatbot. They have a website with a video and a waitlist, are seeking feedback (positive or critical), and invite DMs or sign-ups from people who feel lonely and just want someone to truly listen.

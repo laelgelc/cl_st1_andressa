@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 318–476 words.
+
+The writer feels they have ruined their life and are destined to die alone and forgotten. They dropped out of high school due to overwhelming problems, which cut them off from meeting new people. They have only a few friends they rarely see and spend most of their time isolated at home. They fear ending up in a degrading 9–5 job, heavily addicted to substances because they believe no one cares about their health or existence. They feel they’ve destroyed any chance of finding a partner, have lost hope that life will improve, and believe their parents and others don’t care if they disappeared. They feel lost, scared of the future, deeply sad, and increasingly hopeless, also expressing pessimism about the state of the world and the USA, and saying they feel like they’re going insane from never getting a break.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 118–176 words.
+
+The poster identifies as a loner and generally enjoys doing things alone, though they sometimes wish they had more friends. They used to feel jealous seeing people together and thought they were sad simply because they were alone. Now they realize the deeper issue is feeling weird and isolated for actually liking being a loner, as if they’re the only person who goes out and does things by themselves. They wish they didn’t feel like the only “weirdo” who lives this way.

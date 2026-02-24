@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 69–103 words.
+
+A 42-year-old woman feels increasingly lonely each year. She lives off-grid and left her child’s abusive father years ago, but now struggles to maintain her living situation without a partner. She often feels ugly, awkward, and isolated, torn between accepting her situation and feeling depressed, and is surprised by how many regrets she has.

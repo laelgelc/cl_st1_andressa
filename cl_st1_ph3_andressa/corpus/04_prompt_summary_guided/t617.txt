@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 45–67 words.
+
+The poster feels like they are just existing, bored, and wasting space. They want to do things and make friends but feel unable to start or follow through. They know answers in class but can’t bring themselves to speak up, and their work always turns out badly. They struggle with anxiety, low confidence, and feeling alone.

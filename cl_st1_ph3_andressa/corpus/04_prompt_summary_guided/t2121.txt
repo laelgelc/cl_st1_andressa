@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 66–98 words.
+
+The poster describes a dream where they met someone from Reddit in real life after recognizing a restaurant photo they’d sent, went there, and just observed them without being noticed, which felt a bit stalker-like. They mention that lately they’ve been having many dreams about meeting people, and although the dreams are strange, they feel sad when they wake up and have to leave them.

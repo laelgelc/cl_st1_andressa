@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 260–390 words.
+
+The poster is a 26-year-old man who doesn’t feel completely lonely because he has family, a partner, and several friends, but many long-term friendships have faded. He’s especially hurt by one best friend from ages 15–21 who used to stay up late gaming with him but now plays other games with other people, while telling the poster he’s “very busy” and that they’ll play “sometime.” They only see each other in person 1–2 times a year, and when they do, things feel normal. The poster feels like he has to fight for interaction with some old friends and is asking what is reasonable to expect from friends: how often to talk, how quickly they should respond, and how often to meet in person.

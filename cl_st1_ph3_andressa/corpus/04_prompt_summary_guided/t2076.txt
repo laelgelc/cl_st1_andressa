@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 69–103 words.
+
+The poster graduated last year and has mostly been single, which used to be fine because they had a good friend group. Now they only see two friends occasionally, and those two are a couple. Being around them makes the poster feel very lonely and empty when they leave, and it makes them long for a similar relationship. They feel they can’t have that because people say they are too trusting, too forward, and too quiet.

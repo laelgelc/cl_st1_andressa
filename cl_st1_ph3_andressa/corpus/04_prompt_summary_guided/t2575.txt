@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 134–202 words.
+
+The poster feels like a loner who doesn’t fit in and believes people only tolerate them in small doses, which makes them feel unlovable. They’ve accepted a lonely life and don’t care about being remembered or leaving a legacy, preferring to be themselves rather than change to fit society. They have Tourette syndrome, ADHD, OCD, and other neurological and mental issues, and believe this makes it unlikely they’ll find a partner who will accept them. They are not advocating self-harm, but say they’re comforted by the idea that life is finite and their suffering won’t last forever.

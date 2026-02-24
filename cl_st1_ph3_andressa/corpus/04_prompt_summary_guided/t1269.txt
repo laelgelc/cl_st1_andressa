@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 79–119 words.
+
+The poster says New Year’s Day doesn’t feel special to them and just highlights their loneliness and lack of people around. Seeing others celebrate makes their own silence feel worse. They’re not looking for anything big, just some normal conversation to help pass the day, and they invite others who feel the same to DM them so they don’t have to spend the day completely alone.

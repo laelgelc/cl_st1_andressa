@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 102–152 words.
+
+The poster survived a usually lethal infection, necrotizing fasciitis, and was in a coma for six days on a ventilator and feeding tube. After this traumatic medical ordeal, their pets died and someone they believed loved them blocked and left them. They feel like life is cruelly “kicking” them while they’re already down, struggle with trust, worry they might mentally “break” and not recover, and don’t know how to cope with everything.

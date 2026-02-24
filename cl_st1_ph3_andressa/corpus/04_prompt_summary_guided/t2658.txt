@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 142–214 words.
+
+The poster feels very lonely and says they don’t have any real friends. They sit with people at lunch they don’t like just to avoid being alone and walk through school feeling visibly sad. They were “cringy” in middle school and believe many girls now think they’re weird, and every crush they’ve had has ended in rejection; they really want to date someone. They feel left out when others talk about sex and drugs, and although they only want sex (not drugs), they still feel isolated. They can drive but don’t have a car, don’t have a job, and don’t play sports. They dislike being called on in class and feeling everyone’s attention. They end by asking for advice.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 74–110 words.
+
+The poster talks about how New Year’s resolutions about health, habits, and discipline usually fade after 1–2 weeks. They’re not trying to teach habits or motivation, but are considering a system where someone acts as a reminder, points out real hurdles when you slip, and reconnects you to your original reasons for change. They ask whether this kind of accountability would actually be helpful or unnecessary, and invite honest opinions on what would make it useful or useless.

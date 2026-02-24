@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 99–149 words.
+
+The poster has been living alone for about 3.5 years and feels very lonely, especially after coming home from work. They have friends and hobbies but lack daily contact and consistent activities with others. They really want to get married but have little to no dating experience and don’t know how to move toward the life they want. They miss the sense of community, everyday love, support, and trust they had in earlier periods of life. They feel that being very shy and not easily clicking with most people is a big part of the problem.

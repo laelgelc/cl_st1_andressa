@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 114–170 words.
+
+A 10th grader, almost 16, recently went through a breakup with their girlfriend of one year and now feels very alone. They spent most of their time with her and don’t really have friends, so it feels like no one cares or understands what they’re going through. They’re trying to cope by focusing on school, hobbies, and self-improvement, but still feel like something is missing and want friends to talk to and vent to. They see themselves as a good listener who gives good advice and are asking what they should do.

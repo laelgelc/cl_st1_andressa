@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 278–418 words.
+
+The poster reflects on loneliness and pain, saying people often see being alone as bad, but they believe pain is temporary and can make you stronger. Drawing from their experience as a historical fencer getting repeatedly hit and bruised, they say it’s okay to hurt and to take time alone to heal. They emphasize that emotional struggles—grief, regret, sadness, insecurity, heartbreak, creative failure, and losing loved ones to cancer—are part of a difficult but meaningful journey “through” pain, not out of it. They encourage others to keep fighting, believe in their own value, see life as a difficult but worthwhile blessing, and not give up.

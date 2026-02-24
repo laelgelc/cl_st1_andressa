@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 226–340 words.
+
+The poster is 22 and rarely uses Reddit. They feel very lonely and “off” from life, with no real-life friends and only two online friends; previous close friends and a whole friend group have left or kicked them out. They used to have hobbies like animation and art, but lost motivation and inspiration when their friends left. They’ve tried working on themselves, picking up new hobbies and skills, but it doesn’t seem to help and they feel stuck in a loop, blank and depressed. They dislike being told that “good times will come” because they feel they’ve had about seven years of continuous bad times. They mention being an INFP-T and say they’re basically on “autopilot” just to stay stable, and they’re looking for answers or different perspectives.

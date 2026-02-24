@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 94–140 words.
+
+They think they may be depressed because they no longer enjoy anything and feel like life “sucks.” Financial pressures like taxes and insurance limit what they can buy, adding to their frustration. They feel socially isolated, saying they “reset” every few years and end up with no friends, despite being an extrovert who needs someone to talk to, especially since they grew up without siblings. They use video games, art, and music as escapes from reality.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 98–146 words.
+
+The poster wants to improve their social skills and reduce social anxiety by talking to more people but doesn’t know where to start. They think online might be the safest option but have no idea where to find people to talk to. In real life, they feel it’s much harder because people seem annoyed or ask what they want, and they’re unsure if they’re just unlucky. They’re asking others for suggestions or advice on where and how to find people to talk to.

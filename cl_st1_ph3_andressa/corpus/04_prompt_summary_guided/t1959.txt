@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 50–76 words.
+
+The poster explains that they no longer talk to their high school friends. After someone suggested those friends had been fake, the poster texted one of them and was told that the group had only pretended to care so the poster wouldn’t feel bad. This realization leaves the poster feeling mentally clouded and believing they grew up surrounded by fake friends who never truly cared.

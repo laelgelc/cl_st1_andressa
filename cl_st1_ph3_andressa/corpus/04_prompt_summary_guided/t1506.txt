@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 51–77 words.
+
+The poster says that open or social spaces often become messy, with disrespectful behavior or lack of boundaries. They recently joined a private, curated community that filters members based on intention, respect, and energy rather than looks or popularity. They’ve noticed that women seem to feel safe there, which pleasantly surprised them, and they ask whether other women prefer curated spaces over open ones.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 107–161 words.
+
+The writer used to feel bad about being alone on special occasions like holidays and birthdays, but over time has become more comfortable with it and now treats them like any other day. They have their own routines and don’t feel as left out as before, even though people rarely message them except on their birthday. While they acknowledge it’s not ideal and they still want connection, they don’t want a lot of fuss and feel that simple messaging is enough for now.

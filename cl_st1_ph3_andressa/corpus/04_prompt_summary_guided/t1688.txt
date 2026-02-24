@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 208–312 words.
+
+The poster describes feeling lonely and purposeless in late 2025, despite having people around. Growing up among men who didn’t talk about feelings, they never had vulnerable male role models and felt pressured to meet others’ expectations instead of sharing their genuine thoughts. Wanting a space to be vulnerable and find purpose, they created an app called BeHuman, where users send and receive one message a day from a stranger to share what’s on their mind and feel a small but genuine daily connection, with the option to stay anonymous. They find it easier to open up to strangers than friends and experience it like a mindfulness practice. They’ve already received meaningful messages, feel that building this app is their purpose, and feel freer expressing themselves through it, hoping others will benefit too.

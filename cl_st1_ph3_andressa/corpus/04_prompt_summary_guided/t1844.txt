@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 157–235 words.
+
+The poster is a 29-year-old physically disabled woman who can’t drive, which makes it hard to get a job and gain normal adult life experience. She feels emotionally and socially more like a young teenager, struggles to read social cues, and gives examples of awkward interactions with a friend and her husband. She feels she can’t be friends with teenagers because of the age gap, but also can’t relate to people her own age who have typical adult milestones like jobs, homes, and bills. As a result, she feels dead inside and very lonely.

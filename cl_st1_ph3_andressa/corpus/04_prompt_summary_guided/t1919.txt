@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 64–96 words.
+
+The poster wants to make new friends in their city but feels very awkward and anxious about socializing. They’re afraid people would judge or laugh at them if they went alone to a bar with a book, and they’ve never tried that before. They don’t know how else to be out in public to gradually get used to social interaction and worry they’re destined to be an awkward, lonely “spinster” forever.

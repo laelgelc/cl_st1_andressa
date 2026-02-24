@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 290–436 words.
+
+The poster is usually a positive, sociable person but is now feeling overwhelmed and helpless. They are physically dependent and live with their unemployed husband and their mother, surviving only on the poster’s pension. The husband’s brother, who has had a stroke, is nearly blind, physically dependent, and has a difficult personality, will likely move in with them, making four people living on one income. He also has constant relationship drama with his partner, which drags the husband into the middle of it. The poster feels torn between understanding the need to help someone disabled and believing the brother should find his own way, but he has no one else besides the husband. They feel unable to talk honestly with their husband, who insists they have no choice but to help his brother, and the poster worries their bad mood might make them say something hurtful to others.

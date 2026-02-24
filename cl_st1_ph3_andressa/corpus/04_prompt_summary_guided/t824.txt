@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 166–248 words.
+
+The poster is a 30-year-old with no siblings, cousins, or extended family, who has felt isolated since childhood and finds their loneliness worsening. Friends tend to disappear once they get into relationships or turn out to be unreliable, despite the poster’s efforts to socialize. They are also an adult child of abusive parents and previously dated an abusive partner, which has left them wary of dating and feeling beaten down by life. They’ve been in therapy for years, are tired of doing everything alone and getting hurt, and feel they haven’t met anyone who truly relates to their situation. Their dog is their one source of comfort, and they’re reaching out to see if anyone else shares a similar experience.

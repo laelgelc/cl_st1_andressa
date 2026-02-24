@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 81–121 words.
+
+The poster spends time on a Christian chat server for social interaction but feels ignored. When they share something (like buying something cool), others’ messages get more attention and responses, while theirs are passed over. They worry they might be overthinking it, but social media is currently their only social outlet, so it affects them a lot and they’re asking for advice.

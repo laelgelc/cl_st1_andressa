@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 106–160 words.
+
+The poster is part of a small team developing an evidence-based app to help people build deeper friendships and overcome loneliness. They’re looking for volunteers to try a 10–15 minute online module of the app by filling out a form and then give honest feedback. There’s no payment, but participants will be entered into a raffle for a $20 Amazon gift card. Anyone interested should DM them for instructions, and all shared information will be kept confidential.

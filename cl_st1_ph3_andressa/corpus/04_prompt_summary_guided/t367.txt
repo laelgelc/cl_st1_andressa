@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 118–178 words.
+
+The poster describes having centered her entire life around a man she loved, and now deeply regrets it. After the relationship, she feels she has lost everything: friends, hobbies, job, aspirations, and even a sense of talent or goals. She has no marriage, no family support (not even a mother to turn to), no education, and believes she isn’t good at anything, while he still has friends, family, and goals. She feels completely alone and doesn’t know what to do next.

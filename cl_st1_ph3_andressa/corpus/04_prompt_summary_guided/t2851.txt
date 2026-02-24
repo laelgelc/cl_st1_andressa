@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 76–114 words.
+
+The poster recently cut off both of their friends because of ongoing disrespect and conflicting values. They feel proud for standing up for themselves, but now a growing loneliness is setting in. They plan to go to events to meet new people, yet they feel like there’s a persistent inner emptiness or “hole” that no one can fill, and losing these friends has made that feeling stronger.

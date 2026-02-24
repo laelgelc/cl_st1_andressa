@@ -1,0 +1,19 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 262–394 words.
+
+The poster is over 30, began gender transition in 2023 and feels it was the best decision, resolving past self-hate and many mental health issues. However, they now struggle with intense fear due to the global anti-trans climate and with severe loneliness. They have been single since 2017 despite doing everything commonly advised: joining clubs, going to therapy, self-improvement, going to the gym, pursuing hobbies, meeting many people, and making friends.  
+
+They are autistic and introverted but have pushed themselves far outside their comfort zone to be more social and pursue romantic interests, with no success. Seeing that everyone around them seems to have long-term partners while they remain alone makes them feel hopeless and fuels suicidal thoughts. Friends are busy and not available often, and after nine years of being single they feel they “can’t live like this.” They have asked their therapist for a referral to a psychiatrist to address depression, but feel that medication and friendship are not enough and question why love seems to be denied to them.

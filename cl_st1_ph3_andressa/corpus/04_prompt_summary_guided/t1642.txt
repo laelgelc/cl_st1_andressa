@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 115–173 words.
+
+Max, 27, has felt lonely for most of his life and has started researching loneliness and its effects. He is looking for people willing to do a relaxed, anonymous 15–20 minute voice-only Zoom interview about their experiences with loneliness and their thoughts on the topic. He invites interested people to comment or send him a direct message with any questions or to participate.

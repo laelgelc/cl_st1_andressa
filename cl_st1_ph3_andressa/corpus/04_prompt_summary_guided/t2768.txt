@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 112–168 words.
+
+The poster has experienced both having friends and being a loner, and finds being a loner the hardest but also something that builds inner strength and bravery. They describe how doing things alone—like eating out, going to the beach, or shopping—can feel like being a “loser,” but it also means having your own experience without others’ influence, pressure, or meaningless conversation. They say it’s comfortable to be with friends or in a crowd, but being alone in your own skin is powerful, and they believe loners don’t get enough credit for this bravery.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 53–79 words.
+
+The post announces that the subreddit is organizing a hackathon focused on loneliness, with ideas and notes available in their wiki. They are currently seeking additional team members, especially people with experience in project development/innovation, as well as those with skills in communication, design, and web development.

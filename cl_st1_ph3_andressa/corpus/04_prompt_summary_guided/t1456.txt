@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 93–139 words.
+
+The poster doesn’t feel “truly alone” because they have a YouTube following whose interest and support matter to them. However, they feel lonely due to a lack of in-person interaction. Their life feels repetitive: they are either stuck in their room feeling stressed or bored, or briefly at a small college twice a week before returning home. They feel like they’re losing themselves and have almost no one to talk to in person besides their mom.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 150–224 words.
+
+A 19-year-old gay man, who has never had a serious relationship and feels awkward and lonely, keeps talking to his friends about the cheap, warped Valentine’s teddy bears at his local pharmacy, half-joking but secretly hoping someone will get him one platonically. He feels pathetic for wanting someone to notice and care about small things like that. With Valentine’s Day coming up, he’s considering buying himself a little gift basket with heart-shaped chocolate, an ugly teddy, and a bedside plant to fulfill an old middle school dream, but he worries it will just remind him of his loneliness and the fact he bought it for himself. He feels stuck between going through with it or just sadly staring at the Valentine’s section whenever he picks up his medication.

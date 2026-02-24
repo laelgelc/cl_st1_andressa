@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 254–382 words.
+
+The poster feels intensely lonely, depressed, and overwhelmed, especially with the holidays as painful reminders. They dread visiting extended family for Thanksgiving, don’t want to socialize, and expect to be withdrawn and judged as a “miserable” daughter, but feel unable to refuse without hurting their parents. They long for comfort, love, and someone to hold them and tell them things will be okay. They’re unhappy living at home, want to move out but have no job, no interest in a career, and feel stuck spending needed savings on holiday gifts. They feel hateful, very sad, and mourn a lost future they imagined with their ex, saying they don’t want to keep going like this.

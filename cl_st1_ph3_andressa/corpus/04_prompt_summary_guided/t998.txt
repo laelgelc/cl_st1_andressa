@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 285–427 words.
+
+The poster is a 39-year-old who feels their life has been wasted, with no friends and no girlfriend for seven years. They describe themselves as polite but boring and unremarkable—people tolerate them but don’t seek their company or see them as attractive or desirable. Despite working hard, traveling, and earning money, they feel life is empty without love or close relationships. Dating attempts (Tinder, Facebook Dating, approaching people) have all failed. They have no family or friends, are struggling with an untreated chronic illness, and are about to lose medical insurance despite barely affording bills. Their life feels like a meaningless cycle of eat, sleep, and work, leaving them feeling hopeless, angry, empty, and contemplating preparing their “exit.”

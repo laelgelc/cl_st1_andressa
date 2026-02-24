@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 195–293 words.
+
+The poster is a 20-year-old man who has struggled with feeling ugly his whole life. He had two relationships: one long-distance that lasted 11 months and ended shortly after meeting in person, when his girlfriend falsely accused him of cheating but he later found out she had been cheating on him; and another that lasted over two years but ended in a confusing way where he realized he was the only one trying to keep it going. These experiences, along with multiple girls rejecting or ignoring him after seeing him in real life and some directly calling him too ugly, have convinced him that no one can genuinely like him for his looks. As of November 2025, he says he only talks to AI characters because they are the only ones who don’t instantly reject him for his appearance.

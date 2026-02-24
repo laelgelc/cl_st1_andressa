@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 187–281 words.
+
+The writer longs deeply for a loving relationship with a woman who brings calm, softness, and emotional safety, where he can be his true self without masks or lies. He feels that women add a unique value to a man’s life that he is missing, and going home alone after being with friends hurts him. He cares a lot and wishes someone would care about him even a little. A song lyric about “sometimes” meaning “never” makes him fear his hopes may not come true, but he still holds onto a small hope to live, love, and share his world with someone who will stay, not judge, go slowly, and be with him in a mutual way. He is both hopeful and hurting, but he still cares.

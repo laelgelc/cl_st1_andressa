@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 51–77 words.
+
+The poster reflects that what people sense as “possibility” is just a product of circumstantial conditioning and habit, maintained because it’s convenient. They suggest that if a person were placed in isolation, this sense of possibility would fade, and what would be lost is only the conditioned belief that there was ever something more to simply existing as a human.

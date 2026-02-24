@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 314–472 words.
+
+The writer was removed from their home at 14 and never reunited with their family. As an adult, attempts to have a relationship with their narcissistic mother caused emotional turmoil, so they chose no contact, which improved their emotional state overall but left them very alone, especially during the holidays and their birthday season (October–February). They feel deep loneliness seeing others with families, not out of jealousy but hurt over lacking that themselves, and sometimes wonder if they’re being punished. Past coping with alcohol and weed no longer helps and instead worsens the pain. They have friends but avoid leaning on them, not wanting to feel like a burden or a “pity invite” to family gatherings, so they go quiet during the holidays. They long for a loving family who cares, checks on them, and is proud of them. Their dog is a major reason they keep going. They have older siblings with their own families who live far away, and they feel forgotten, though they don’t blame them. They’re venting and wondering if anyone else can relate.

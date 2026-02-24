@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 94–142 words.
+
+The poster feels lonely all the time and about once every four days experiences an intense, overwhelming loneliness. During these episodes they get a strong urge to bite and chew their own arm until the bone is exposed (without swallowing the flesh), and they also feel very angry and defensive if anyone interacts with them, wanting to bite others as well. They tried searching for information about this but found nothing and are unsure where else to talk about it, noting that these urges only happen when they feel very lonely.

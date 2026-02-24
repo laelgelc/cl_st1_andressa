@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 182–272 words.
+
+The poster has been a loner since childhood, shaped by traumatic events, but is very close to their siblings, especially an older sister, and actually has many friends and goodwill from others. They genuinely enjoy solitude and would be content being alone with their music, movies, and creative gear. They describe themselves as highly empathetic and intuitive, which makes them sensitive to their environment and other people’s emotions, so they keep distance to protect their own peace and that of loved ones. Their bonds are still genuine, and they would go to great lengths for those they care about without expecting anything in return. They value their space, prefer to be the one who visits others rather than being visited, and most people in their life have learned to respect their need for solitude.

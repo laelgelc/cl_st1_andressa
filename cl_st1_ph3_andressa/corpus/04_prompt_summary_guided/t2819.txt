@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 90–134 words.
+
+The poster talks about the idea of creating an “unalone” app to help with loneliness, suggesting features like connecting with buddies, a meetup/events calendar, and daily progress tracking. They mention the open-source project behind Habitica as a good technical basis for the tracking part and share links to its code and an explanatory video. They ask others what they think of this idea.

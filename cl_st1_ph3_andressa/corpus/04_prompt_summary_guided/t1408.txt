@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 135–203 words.
+
+The poster has very low cortisol due to pituitary gland damage, along with thyroid and testosterone problems, and low adrenaline. These issues cause severe physical symptoms like extreme fatigue, weakness, pain, and digestive problems. After finally gaining the courage later in life to try to do more, they feel their body is failing them and doctors only offer more medication. They also have lifelong schizoid personality disorder, anxiety, major depression, and PTSD from assaults. They are alone with no spouse or children, drained by legal and medical problems, and say this time of year is especially hard. They feel overwhelmed and express a wish to die in their sleep because they don’t think they can endure much more.

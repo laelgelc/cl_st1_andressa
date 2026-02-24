@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 87–131 words.
+
+The poster has just turned 18 and feels no different, but very lost in life. They no longer have friends and feel extremely lonely, even though they still have family, who don’t really know them on a deeper level. They feel like they have no one and are at another low point, but believe they will get through it as they always have. They’ve been lurking on the subreddit for a while and decided to make their first post on their 18th birthday.

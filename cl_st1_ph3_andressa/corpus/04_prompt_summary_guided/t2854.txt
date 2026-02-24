@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 59–89 words.
+
+The poster feels deeply lonely and overlooked. They say they’re always the last one invited, get cut off when speaking, and feel that others don’t consider their feelings or check on them, even though they care about others’ well-being. They’ve become so used to being alone that social interactions now feel very awkward and embarrassing. At 25, having no friends, no family, and no sense of hope feels “soul crushing” to them, and they are asking for advice.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 87–131 words.
+
+The poster feels nothing has changed in their life and they are still alone. They say they’ve basically given up on finding “the one” and feel surrounded by people who don’t understand them. Even seeing a psychologist hasn’t helped them figure out what’s wrong, and they feel burned out. They describe that every girl who shows interest in them disappears after about a month, despite them believing they only offer “pure love” and don’t push anyone. They’ve been obsessed with the idea of being deeply loved since a young age and are now questioning whether love is really that hard to find or if they are a “freak.”

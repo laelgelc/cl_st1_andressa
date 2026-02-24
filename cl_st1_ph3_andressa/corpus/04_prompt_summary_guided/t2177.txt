@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 85–127 words.
+
+The writer describes waking up suddenly because their dog did something and feeling terrified and completely alone, with no one to message or ask for help. They feel there is no one they can rely on. They explain that they chose to distance themselves from people they once thought would be in their life forever, stopped talking to them hoping they would reach out first, and stopped caring about them because they felt those people didn’t care about them.

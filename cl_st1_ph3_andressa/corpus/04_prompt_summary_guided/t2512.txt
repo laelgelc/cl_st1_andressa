@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 24–36 words.
+
+The writer describes experiencing a subtle, quiet heaviness—an emotional weight that isn’t dramatic or outwardly visible. They believe this feeling isn’t unique to them and that others, somewhere, may have felt the same way today.

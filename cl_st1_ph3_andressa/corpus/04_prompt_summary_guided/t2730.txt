@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 70–104 words.
+
+The poster has been living a loner lifestyle for about 10 years, which they sometimes enjoy, but they now want to feel less alone. They’re looking to meet and be online friends with a group of fellow loners, preferably from Britain and their own culture so visiting would be easier. They reach out asking if any other loners are interested and if anyone is out there.

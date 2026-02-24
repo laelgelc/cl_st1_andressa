@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 124–186 words.
+
+The poster feels deeply lonely and frustrated. Dating apps aren’t working for them: they get occasional matches, but rarely with women who have the warm, caring, kind personality they’re looking for, and they feel unable to attract that type of person anymore. They also struggle to make friends, even on Reddit, where most attempts lead to no replies, ghosting, or shallow interactions; only one person has become a real friend. Despite trying hard to connect, they feel they keep failing and now feel alone and lost.

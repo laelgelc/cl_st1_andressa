@@ -1,0 +1,21 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 331–497 words.
+
+The poster says they’re not shy or socially awkward, but they dislike most interactions and avoid people because “humanity disgusts” them. They assume others are like them and would find each other boring, and if not, they see those people as “idiots” they don’t want as friends. They haven’t dated in years because they don’t want to be judged or seek others’ approval.
+
+Despite this, they feel lonely and wish for a “placeholder” person—someone just to be around—but whenever they spend time with potential “placeholders,” they’d still rather be alone and feel their personal projects are a better use of time. They fantasize about an AI “friend” with a customizable personality they could turn on and off, but don’t think that’s coming soon.
+
+They believe their loneliness is hard-wired even though they don’t want to be around people, and they’re looking for a way to get the emotional benefits of human connection without dealing with what they see as the “awfulness” of others, asking for ideas on how to “game the system.”

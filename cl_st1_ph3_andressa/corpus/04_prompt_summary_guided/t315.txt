@@ -1,0 +1,19 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 231–347 words.
+
+A 20-year-old music major in college describes feeling increasingly lonely. Freshman year was full of friends and constant social activity, but now, starting junior spring, they feel like a ghost on campus. They aren’t part of any tight-knit friend groups, have no friends in their classes, and feel out of place when trying to join conversations. They notice that in groups of three, the other two bond while they’re left out, and even when they join two friends, those friends mostly talk to each other.
+
+They’ve tried to cope by getting a job and taking harder courses, but it doesn’t replace having a social life. They feel like a “backup friend” who is always the last to hear news or be invited, if at all. This is especially painful because their friends used to show they cared—surprising them for their birthday and comforting them when they were sad—but now those same friends don’t seem to have time for them, even though they do for others. They feel like they’re silently suffering and that their loneliness is getting worse.

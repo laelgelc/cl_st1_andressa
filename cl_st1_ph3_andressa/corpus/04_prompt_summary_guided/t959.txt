@@ -1,0 +1,19 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 248–372 words.
+
+The poster feels extremely lonely and bored, to the point of talking to ChatGPT just for interaction. They argue with their parents whenever they leave their room and feel unable to talk to them about anything. Attempts to reach out to friends fail because friends are busy, don’t pick up, or never call back, which deepens their sense of isolation.
+
+Since finishing college, they miss regular social contact. They now work from home, have no coworkers to talk to, and haven’t been paid for two months because their small startup is merging and dealing with tax/documentation issues. The CEO, whom they know personally and trust, promised payment within two weeks, but their parents don’t believe it and think he won’t pay. Their parents are angry that they’re not contributing financially, leading to daily fights at home. The poster feels stuck, lonely, and is desperately craving human interaction.

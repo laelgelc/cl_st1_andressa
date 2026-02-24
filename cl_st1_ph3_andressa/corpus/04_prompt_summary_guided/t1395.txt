@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 72–108 words.
+
+The poster feels that others blame their loneliness for all their problems, including panic attacks and anxiety. Although they believe these people aren’t acting out of malice, the way they are treated actually makes them feel more alone and worsens their feelings. They feel others seem to be “doing things right” while they are not, and they’re simplifying their situation because they don’t want to write a long post.

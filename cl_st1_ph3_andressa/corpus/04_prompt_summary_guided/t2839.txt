@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 83–125 words.
+
+The poster says the subreddit has been running for two weeks, and some people are frustrated that it and its associated Discord server aren’t very active. They believe activity will naturally increase over time as more people join, but they still ask what can be done to make it more dynamic and get more people involved. They mention being hesitant to advertise the subreddit again on other subreddits and are seeking ideas or suggestions.

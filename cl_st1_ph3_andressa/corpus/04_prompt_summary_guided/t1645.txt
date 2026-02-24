@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 234–352 words.
+
+The writer describes feeling lonely since childhood, growing up in a lower-middle-class, close-knit society where their family frequently had to move because landlords wanted them out. This made them cautious, insecure, and gave them low self-esteem. Their siblings are very competitive and taught them that no one is truly your friend unless you “become someone” in life, which led the writer to see friendships in a transactional, “friends for benefits” way and to seek smart, well-off friends rather than just kind, loyal ones. As a result, they struggled to make and keep friends, lost many friendships, and still feel lonely because they aren’t around the kind of people they want to be friends with. They also rarely attend social events because they are always studying.

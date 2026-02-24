@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 248–372 words.
+
+The writer describes feeling detached from their body and experiences, as if on autopilot and life is a repetitive cycle of moments and boredom. This started about nine months ago. They feel ignored or not listened to when they talk to others, which makes them question the point of talking. Social interactions feel like an improv play where everyone is acting for an invisible audience, and they see themselves as a “bad actor,” feeling awkward and not normal. They feel tired, restless, self-conscious, overthinking, and “not human,” and worry that another traumatic event could push them into complete isolation. They say they’re not seeking pity or empathy, but just want to be heard and have some interaction.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 114–170 words.
+
+The poster feels they are treated differently and negatively because of their social anxiety, especially as a man. They describe being ignored in everyday interactions (like with cashiers) and ending up alone in large social settings. Being introverted and quiet seems to make others dislike or avoid them, leading to unemployment, no friends, and a sense of being “screwed since birth.” They feel misunderstood and uncared for, even by their therapist, and are close to giving up, viewing everything as hopeless.

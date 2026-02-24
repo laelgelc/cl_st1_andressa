@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 97–145 words.
+
+The poster describes spending their time growing many plants from seed and even raising slugs, talking to both because they have no one else. School is on holiday, leaving them with lots of free time and a very quiet life, partly due to maintaining personal boundaries. They mention using AI to pick a drink, which led to an argument about sobriety, and they settled on grape lemonade vodka. Music helps fill the silence, but they only listen to familiar tracks and don’t want anything new, which makes them feel a bit loopy. They end by reflecting that existence feels weird.

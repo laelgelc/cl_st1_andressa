@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 46–68 words.
+
+The poster thought they had found the person they were meant to be with and felt deeply in love and safe with him. He ended the relationship, saying it wasn’t for him. Although the relationship was short, the breakup has left the poster feeling extremely devastated and very alone, and they are struggling to move on.

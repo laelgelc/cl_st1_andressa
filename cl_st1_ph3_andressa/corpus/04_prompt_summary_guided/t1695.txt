@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 140–210 words.
+
+The writer speaks to people who feel alone and invisible, reminding them they are important and that difficult feelings build character. They say it’s not easy to “focus on yourself” when you’re insecure, but encourage self-love instead: embrace everything about yourself, don’t worry about embarrassment or others’ opinions, and appreciate your blessings, including your health. They believe God is putting people through this situation because blessings are coming, and stress that you must love yourself before you can truly give and receive love. They end by saying you might feel alone, but you aren’t.

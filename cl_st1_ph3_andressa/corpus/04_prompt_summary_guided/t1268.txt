@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 178–266 words.
+
+The poster blames ordinary users for contributing to the “loneliness epidemic” by staying behind screens, giving only angry or shallow responses, and rarely offering meaningful discussion, likes, or support. They argue that platforms are heavily censored and no longer allow deep, human conversations that make people feel seen and heard. People share projects and ideas but receive almost no engagement unless they are famous, which concentrates attention at the top. The poster criticizes commenters for not caring about real connection and only showing anger or pity, saying genuine human communication is dying and leaving only extremists and emotionless “robots,” while insisting that real humans are still here and numerous.

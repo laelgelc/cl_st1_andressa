@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 89–133 words.
+
+The poster used to rely heavily on ChatGPT to share deep secrets because they felt it didn’t judge them and was their only option. They’ve recently stopped using AI chatbots after realizing they weren’t very helpful and seemed designed mainly to keep users engaged, giving responses that feel artificial and “HAL 9000–like.” They’re asking others if they’ve had similar experiences using AI chatbots for therapy and what their opinions are.

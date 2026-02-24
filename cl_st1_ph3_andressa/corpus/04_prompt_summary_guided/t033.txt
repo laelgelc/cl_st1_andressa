@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 163–245 words.
+
+The poster’s workplace announced its closure in 2019, and since then they’ve applied for nearly 300 jobs, had 10 interviews, and received 10 rejections, including one last night. They expect to lose their job by the end of the year and feel their time is running out. They bought three bottles of liquor and have already drunk one and a half, are currently very drunk, and say feeling drunk is the best they’ve felt since learning they’re losing their job. They feel worthless and broken, believe something must be wrong with them because they can’t find work, and express strong self-hatred and despair, saying they hate their life and waking up because it means they didn’t die in their sleep. They still have more alcohol and are unsure if they’ll stop drinking it all tonight, and are not sure they even care.

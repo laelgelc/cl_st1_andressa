@@ -4,7 +4,7 @@ python summarise_posts.py \
     --model gpt-5.1 \
     --workers 6
 
-python build_prompts.py
+python build_prompts_summary_guided.py
 
 python generate_gpt.py \
     --input corpus/04_prompt \

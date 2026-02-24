@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 38–56 words.
+
+The poster feels that even after spending a lot of time with people—through school, work with colleagues, and playing sports—they still don’t really get to know them. They find it unsettling that those they see most often can still feel like strangers, even while recognizing it’s impossible to truly know everyone.

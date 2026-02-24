@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 310–464 words.
+
+The 32-year-old male poster describes having a severe mental breakdown, secretly crying at night, and just as he began to recover, he developed a gallstone that caused life-threatening pancreatitis. He spent almost six months in the hospital, unable to eat, undergoing multiple surgeries and procedures, with tubes in his stomach and liver, a serious infection, ICU stay, and extreme pain, losing over 60 pounds and feeling like “walking body horror.” He was often alone and had long felt lonely even before hospitalization. Friends and family praised his strength, but he insists he wasn’t strong or brave—he felt numb, indifferent to death, and sometimes hoped not to wake up from procedures. Now that he’s finally starting to feel physically better, he feels the mental pressure returning and says he’s tired of being “strong.”

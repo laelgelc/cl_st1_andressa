@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 122–184 words.
+
+The poster lives with C-PTSD and often feels unwanted. They thought they’d found “the one,” especially since others encouraged the relationship and it seemed fitting that two lonely people would get together, but they ended up feeling used. They reflect that it’s especially painful when both people want to be close, yet important things—like personal values—don’t align enough to make the relationship work.

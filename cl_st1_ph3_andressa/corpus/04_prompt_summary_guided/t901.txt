@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 48–72 words.
+
+The poster feels that every time they think they’ve made a new friend, the person ends up ghosting or leaving them. Because of this, they believe they won’t be able to find a girlfriend or wife if they can’t even keep friends, and they feel their future, hope for love, and hope for someone to care about them are all gone.

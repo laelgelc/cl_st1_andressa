@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 97–145 words.
+
+The poster is new to the subreddit and says they’re capable of conversation but usually don’t want to talk. They have only a few online friends, don’t talk to them daily, and those friends don’t know much about them. They feel more mature than most people around them, which makes them not want to talk to them, but when they meet people they see as “better” than themselves, they hesitate to talk out of fear of seeming dumb and being ignored. As a result, they generally don’t initiate conversations, though they can respond and continue if others start talking to them.

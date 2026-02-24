@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 61–91 words.
+
+A 23-year-old man describes never having been asked out or been in a relationship. He has severe social anxiety and depression, which have led him to stop caring for himself physically. He only has two friends he occasionally games with, and after they stop playing he spends hours trying not to cry because he knows he’ll feel alone again. He says he hates living like this.

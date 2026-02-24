@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 115–173 words.
+
+The poster is 18 and feels intensely lonely, with no close in‑person friends and only two online friends. They miss having real-life friends to go out with and hang out at each other’s places. After graduation, they realized the people they thought were friends left them out, even taking graduation photos without them. Those former friends still view the poster’s social media stories but never reach out, while their own posts show them happily spending time together. This makes the poster feel easily discarded, so they stay inside all day imagining having a friend group and feel hopeless and “cooked” about their situation.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 49–73 words.
+
+The poster lives and works alone, has no friends or anyone to talk to, and feels their life is pointless as they approach age 50 with no goals. They say they’re very lonely and would even go into debt to have a friend or girlfriend. They don’t feel regularly depressed, but cope by distracting themselves, and ask if others feel the same.

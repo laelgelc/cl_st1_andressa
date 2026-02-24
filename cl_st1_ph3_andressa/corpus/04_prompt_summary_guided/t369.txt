@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 76–114 words.
+
+The poster describes feeling like a “ghost” because people often ignore or don’t hear them when they speak, and others frequently bump into them without noticing. They say they are very quiet and calm, never stand out in crowds, and are even nicknamed “ghosted” by people around them. They mention using this unnoticed presence to sneak into lectures without being seen and joke that they could probably steal from a store without anyone noticing.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 94–142 words.
+
+The poster shares that they signed up for a free webinar about loneliness happening Tuesday at 1 PM EDT, featuring a public health official and loneliness researcher Julianne Holt-Lunstad. They note you don’t need to be a medical professional to register and that they successfully signed up using their non-medical job title and workplace. They express excitement that the medical community is validating loneliness as an issue and hope others will join and discuss it afterward.

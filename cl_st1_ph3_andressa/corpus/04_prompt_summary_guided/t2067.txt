@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 169–253 words.
+
+The 21-year-old writer describes having unconsciously chosen isolation over many years by not maintaining or developing friendships, which led to shallow, unfulfilling relationships and a damaged self-image. They now feel empty rather than actively miserable and believe others are better off without them, framing their withdrawal as a kind of “service” or martyrdom despite knowing this thinking is irrational. They feel they’ve lost the will to improve themselves, are saddened knowing a better life is possible but requires taking first steps they can’t bring themselves to take, and they’re unsure what they’re trying to say but needed to express it.

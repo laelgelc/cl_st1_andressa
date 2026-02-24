@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 268–402 words.
+
+The poster is a 19-year-old who feels deeply lonely, has no friends or boyfriend, and has lacked a social life for years. They struggle with depression, anxiety from OCD, and have been held back in school, still being in high school. They avoid social interaction in public, feel self-conscious about their appearance on social apps, and overthink what to say online. They can be confident and outspoken with close family but become shy, timid, and nervous around others. They worry that people who offer to talk online are just being polite and will see them as a burden, and they constantly check Reddit for responses. They fear still living with their parents and rarely leaving the house by the time they’re thirty, and they doubt they’ll ever have the happy life they want.

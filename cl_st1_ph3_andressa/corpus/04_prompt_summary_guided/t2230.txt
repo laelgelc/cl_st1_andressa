@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 177–265 words.
+
+18-year-old woman describes lifelong self-consciousness about how others see her. As a preteen she embraced “geeky” interests like anime and “cringe egirl” fashion, which made her feel more isolated and judged as weird. At 15 she decided she was shallow and materialistic, so she stopped anime and pop music and focused on seeming cool, smart, and social, even though socializing was painful and she didn’t understand why. Now in college, she forces herself to be social and leans on alcohol, but after rewatching Jujutsu Kaisen she feels back where she started: lonely, “disgusting,” and unwanted. She sees herself as a loser but desperately wants to change, be liked, and be pursued by others, and doesn’t know how to do that.

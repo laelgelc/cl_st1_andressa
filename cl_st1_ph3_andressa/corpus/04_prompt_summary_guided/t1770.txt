@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 113–169 words.
+
+The poster describes becoming emotionally numb to their loneliness. They spent high school without friends and used to cry about it almost daily, but now they’re so used to being alone that they don’t cry over it anymore. They still sometimes think about what they’re missing—like having someone to sit with in lectures, a friend group to eat lunch with, or social events to look forward to—and find it hard to grasp that other people regularly see friends and have social lives. They feel unable to imagine their life being any different from this ongoing isolation.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 169–253 words.
+
+The poster feels torn between valuing the peace of being alone and fearing total isolation. They always show up and care for others, but when they feel low, no one checks on them, which makes them question whether their long-term “friends” are really friends at all. They’re scared of ending up with no one to talk to besides family, yet staying connected feels one-sided and painful. They ask others whether they choose solitude for peace or stay in unsatisfying connections to avoid the heaviness of silence, and they want to know how people cope with the emotional weight and breakdowns that come with being alone and things getting too quiet.

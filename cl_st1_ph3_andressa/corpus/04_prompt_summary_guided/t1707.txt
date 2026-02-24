@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 223–335 words.
+
+The 23-year-old poster is in severe physical pain that’s forcing them to quit their sport and even makes basic movements like bending their knees hurt. They can’t afford medical care, medications, or therapy and are struggling so much financially that they can only afford one packet of ramen a day and have to avoid social events and meals. Their mental health is deteriorating alongside the physical issues, and they feel isolated because their peers don’t understand their pain, fatigue, or why simple tasks are so hard. They feel guilty, embarrassed, like a burden, and notice others’ pity when they open up, which makes them avoid getting close to people because they want to be seen as equal, not as someone broken or “not normal.”

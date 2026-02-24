@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 47–71 words.
+
+A 17-year-old girl from Colorado plans to move to Connecticut after graduation and is feeling very lonely. She expects to feel even more isolated in a new place where no one knows her and is looking to make friends in advance, asking if anyone on the subreddit is from that part of the US.

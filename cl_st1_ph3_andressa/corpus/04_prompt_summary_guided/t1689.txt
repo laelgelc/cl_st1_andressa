@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 104–156 words.
+
+The poster is 17 days sober after having used alcohol heavily to cope, especially after their longtime dog and best friend died. Another friend, who had given them hope, left them right when the dog passed, which deepened their pain. Remembering the taste of their favorite mead has triggered strong cravings to drink and brought back the hurt of being abandoned. They feel very alone, say their hope is gone, and that a suicide hotline wasn’t very helpful. Right now they want to drink but instead are just crying.

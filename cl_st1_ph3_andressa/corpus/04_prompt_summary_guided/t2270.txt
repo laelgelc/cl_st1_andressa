@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 274–412 words.
+
+The poster describes how being homeless is extremely lonely and forces them to avoid people, especially in person due to poor hygiene and fear of rejection. They also avoid online interaction because they feel they have nothing positive to share and don’t want to bring others down. They believe they deserve their situation, see themselves as a failure unworthy of friends, and say they have no friends or family. Their mother died, their immediate family fell apart, and their extended family offers no emotional support and makes them feel like a burden. They’ve been living like this for almost seven years, feel deep emotional pain from having “next to no one” in their life, and mention their 25th birthday is coming up.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 76–114 words.
+
+The poster is a quiet, introverted person who has always struggled to make friends and saw their husband as their best friend. Although they were very happy and have been married for a long time, they now feel increasingly lonely in the relationship. They feel ignored, barely talk with their husband anymore, and have no one to confide in about this, which is heartbreaking for them. Reading others’ posts on the subreddit makes them feel a bit less alone.

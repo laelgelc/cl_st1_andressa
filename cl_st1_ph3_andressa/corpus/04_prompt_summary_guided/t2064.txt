@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 52–78 words.
+
+The poster has just visited their very ill grandfather in the hospital and feels they are dealing with it completely alone. They say they have no girlfriend, no friends, and little family, and note that only their mother and they visit their grandfather. This makes them worry that they are destined to end up the same way: with no one around in times of need.

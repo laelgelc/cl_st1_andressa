@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 97–145 words.
+
+The poster talks about how hurtful it is when people ghost them and then reappear only when they want company. They pretend it doesn’t matter, but it does, especially when those people had become part of their life and then disappear for months. They mention having good childhood friends who are just busy, so they’re not completely alone, but they still feel lonely at times. They’re not sure why they wrote the post, but hope it helps them feel a bit lighter.

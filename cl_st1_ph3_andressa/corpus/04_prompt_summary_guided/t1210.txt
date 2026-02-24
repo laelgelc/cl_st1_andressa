@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 127–191 words.
+
+The poster is tired of hearing reassurances like “you’ll find someone one day” from people whose lives seem to be going well. They feel these comments are empty and dishonest, and they no longer believe things will improve. They’ve been lonely and miserable since age 15 and still feel that way, stuck in a daily spiral of loneliness. They just want a good life with someone and are frustrated and hopeless about when, or if, things will actually get better.

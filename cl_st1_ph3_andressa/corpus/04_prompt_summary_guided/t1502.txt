@@ -1,0 +1,19 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 218–328 words.
+
+The poster feels deeply lonely and wants someone to hear their pain. They say they have “friends,” but those friends get annoyed and dismissive when the poster talks about their problems, even though the poster always listens and supports them. This makes them question whether they are a bad friend and contributes to their difficulty making and keeping friends; they see themselves as boring and unable to form new connections.
+
+They also feel no connection with their family and believe their family hates them because they are gay (using the word “fag” about themselves). They have increasing suicidal thoughts and have started drinking, though not heavily yet. They strongly want someone who loves, listens to, and supports them, but they hate themselves for needing that and wonder why they aren’t “depressed enough” to die.

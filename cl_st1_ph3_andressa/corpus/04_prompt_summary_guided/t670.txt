@@ -1,0 +1,19 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 310–464 words.
+
+The poster is 30, feels they have nothing to show for their life, and has no one to talk to. They live in a deteriorating house they’re trying unsuccessfully to swap, and attempts to buy their own place have also failed. They work a dead-end cleaning job with no prospects, have poor grades, and feel too “dumb” to succeed at online courses. Efforts to sell things or make videos in their spare time have attracted no interest.
+
+They see themselves as a “bottom feeder” in society—someone without real purpose or value—compared to “main characters” and people in the middle who contribute meaningfully. They desperately want a “win” in life, to be part of something, and to have someone love them, but feel this is almost impossible. They mask their true feelings, pretending not to care, but in reality they care deeply and are hurt by their situation, feeling stuck and wanting to escape it.

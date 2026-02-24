@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 159–239 words.
+
+The poster is 25 and struggles a lot with socializing, feeling “blind” to social cues and body language. Their childhood friends are busy with their own lives and they rarely see each other now. They had a happy period during COVID, talking and laughing all night with college friends on Discord, but now those friends are graduating and drifting away too. Getting a second graduation invitation reminded them that they’ll likely be very lonely again, similar to high school, where they spent five years mostly alone and had to talk to themselves to cope. They feel resigned to being lonely for the rest of their life, though it only hits them hard on certain days like this.

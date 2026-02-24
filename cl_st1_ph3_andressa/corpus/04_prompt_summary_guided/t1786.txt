@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 120–180 words.
+
+The 16-year-old male poster lives with his parents and is trying to study for board exams but faces constant taunts, curses, and physical abuse at home. Every conversation with his parents turns hostile and violent, leaving him exhausted and unable to focus on studying. When his parents recently demanded perfection, he tried to explain that no one is perfect and was slapped, which hurt him emotionally more than physically. He feels like the family scapegoat, blamed for everything that goes wrong, including his mother’s illness, even though he cared for her by managing her medicine and nutrition, and he believes her disease is not related to stress.

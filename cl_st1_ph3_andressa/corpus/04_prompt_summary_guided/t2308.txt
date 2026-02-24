@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 142–212 words.
+
+The poster reflects on how they invest deeply in connections—showing up, caring, listening, being dependable—yet end up feeling like they fade from others’ lives. They feel they became “invisible” not because they were unimportant, but because they were useful and only valued when needed. This leads them to question whether friendships and relationships are truly real or just temporary stories. They suggest that loneliness might not be about lacking people, but about realizing how replaceable you are once your “purpose” is served, and they believe this feeling is more common than people admit.

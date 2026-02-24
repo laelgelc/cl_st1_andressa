@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 134–200 words.
+
+The poster regrets making friends and is slowly disconnecting from people because socializing feels exhausting and overwhelming. They feel their “true self” is a loner and have accepted possibly losing social skills. Being around others and trying to do everything right for people who love them takes up too much mental space, disrupts their thoughts, and prevents them from moving forward with their ideas. They just want peace and to be alone, talking to themselves without the pressure of social interaction.

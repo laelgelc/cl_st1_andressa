@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 144–216 words.
+
+The poster feels like they’re “going crazy” watching what they see as evil and terrible things happening around them, similar to events described in a quote from Anne Frank about people being dragged from their homes and families being torn apart. They’re disturbed that there has been political effort to remove Anne Frank’s diary from schools and libraries and to shut down the Department of Education, which they see as destroying education for a generation. They feel it’s “insane,” wrong, and are questioning whether they’re alone in caring so much about this.

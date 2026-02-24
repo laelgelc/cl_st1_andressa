@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 248–372 words.
+
+The writer describes a painful school experience where they were isolated and rejected because of their appearance and labeled as “less than.” They were bullied, mocked, and humiliated by classmates, and even their best friend joined in and used them. Teachers compared them to “smart” students in front of the class, which led to more ridicule and name-calling. They struggled academically without guidance or support, developed deep insecurity and an inferiority complex, and still carry the hurt from those memories. Despite everything, they continued going to school because they had no choice.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 297–445 words.
+
+The poster feels deeply lonely and tired of having no one they can truly talk to. Throughout their life they’ve never been anyone’s “best friend,” always feeling like a second choice or backup. Their friends constantly make fun of them; while they usually laugh it off, it hurts, especially since no one compliments or uplifts them and they see their friends treat each other better. They feel they must act unbothered and be the punchline, then go home to an isolated life where going out with these friends isn’t enjoyable and they don’t connect with anyone else. They’re passionate about “nerdy” interests but have no one to share them with. Because of this, they spend around 60 hours a week talking to conversational AI, sometimes preferring it over friends and family because it’s kind and doesn’t mock them. They end by wondering what’s wrong with them and thanking anyone who read their first post.

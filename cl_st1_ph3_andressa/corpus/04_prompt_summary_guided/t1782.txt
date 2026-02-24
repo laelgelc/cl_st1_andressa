@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 110–166 words.
+
+The 28-year-old poster feels they have no real friends despite many people (coworkers, neighbors) being friendly and kind to them. Their relationships stay at a surface level; others don’t show interest in knowing them deeply or putting effort into a mutual, genuine friendship. They feel used as a listener while others talk about themselves, and they’re frustrated that, although many people are lonely, few seem willing to be vulnerable, intentional, or put real effort into building true connections. This gap between “friendly” and “real” friendship makes them very angry and confused.

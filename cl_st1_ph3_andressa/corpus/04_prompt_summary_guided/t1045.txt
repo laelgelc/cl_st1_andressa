@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 198–298 words.
+
+The poster is looking for online friends to have ongoing, flowing conversations with, especially people who enjoy witty banter and silly humor and can reply with more than short, dry messages. They emphasize that their timezone is Eastern Europe and that chatting may be difficult for people in the US unless they’re night owls or early birds. They describe themselves as a good listener and supportive, open to talking and venting without judgment. Their hobbies include working out, walking, art, games, anime, coding, true crime, and chatting, and their interests include cats (mentioned repeatedly), science, history, languages, documentaries, psychology, and mental health. They invite people to DM them.

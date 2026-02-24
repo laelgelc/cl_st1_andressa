@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 88–132 words.
+
+The poster says they can’t trust women after being falsely accused of rape, which led to serious family problems and a long time in prison before the accuser admitted she made it up. Now at 20, they have PTSD, no job, and are living with their sister and her husband because their father thinks they’d be a bad influence at home. They feel like a burden, can’t afford anything, and feel their life is ruined.

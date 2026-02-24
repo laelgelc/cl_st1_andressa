@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 79–119 words.
+
+The poster says they’ve always been told they were “mature for their age” and didn’t get bullied, but still never felt successful and felt something was “off.” Now, as a teenager, they feel like they’re forcing themselves to act like a “typical teenager” because not doing so seems unhealthy. Their parents now say they have OCD and depression, and someone online suggested they might have ADD. They find it strange and unsettling that these possible mental health issues are only appearing or being noticed now, and they’re asking for others’ thoughts.

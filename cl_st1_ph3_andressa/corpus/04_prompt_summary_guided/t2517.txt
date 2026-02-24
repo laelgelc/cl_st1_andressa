@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 122–182 words.
+
+The poster is spending their 23rd birthday feeling deeply depressed and alone. They used to be excited about birthdays as a child, but now see the day only as a reminder that no one cares about them. They say no one, including parents, siblings, or acquaintances, remembers their birthday, and they end up with a heavy feeling in their chest and crying themselves to sleep. They didn’t expect to still be alive at 23 and struggle with disappointment and suicidal thoughts on their birthday. They say their only goal for the rest of the year is to stay alive and find distractions, and they express feeling extremely alone and hopeless.

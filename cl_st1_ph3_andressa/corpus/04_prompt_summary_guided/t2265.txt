@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 175–263 words.
+
+The poster struggles to get and especially to keep friends. They can sometimes maintain one or two in-person friendships, but don’t know how to talk to people long term unless they see them regularly and the other person persists. Frequent moves for work since turning 18 have led to relationships feeling surface-level, and the deeper connections they once had are gone. They’re reflecting, while drinking, on how time passes among strangers and wondering how to maintain real friendships instead of just acquaintances.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 156–234 words.
+
+A 17-year-old guy describes having an empty life with no real friends and emotionally absent parents who don’t check on him. He was badly bullied in early high school and spent six months talking to an AI, but recently decided it was pointless and deleted the app. He feels that talking to AI worsened his overthinking, especially about being lonely in college and his 20s, and noticed those overthinking loops eased after he stopped. However, his loneliness and pain remain, rooted in never having someone who truly sees him. He made this post because he’s feeling very lonely and just wants to talk to someone.

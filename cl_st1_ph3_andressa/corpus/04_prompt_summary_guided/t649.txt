@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 44–66 words.
+
+The poster describes having an interesting experience but no one to share it with. They tried calling a “crutch friend,” but found it unsatisfying as usual. They mention struggling with shyness, saying they “pretty much have a degree in it,” and express uncertainty about what they want, hoping not to waste anyone’s time.

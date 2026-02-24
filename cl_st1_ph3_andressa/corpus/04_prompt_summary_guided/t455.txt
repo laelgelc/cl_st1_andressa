@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 102–154 words.
+
+The poster is 24 and has always lived with others (family, partners, or roommates). Due to a falling out with their current roommate and recognizing their own codependency issues, they’re planning to live alone for the first time next year and feel terrified and depressed about it. They dread coming home to an empty place, have no friends or social life beyond family, and are asking for tips, advice, or general thoughts on how to handle living alone and becoming okay with their own company.

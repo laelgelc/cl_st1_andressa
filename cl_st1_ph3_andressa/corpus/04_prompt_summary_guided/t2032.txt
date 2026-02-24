@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 97–145 words.
+
+The poster describes working extremely hard—skipping lunch, staying late most nights, answering late-night emails, and canceling weekend plans for a project—only to be told by their manager in a 1-on-1 that they “lack commitment to the team.” They felt intense anger and the urge to quit but instead stayed calm and agreed to “work on that.” Back at their desk, they realized they have nowhere to express or release this anger, so they just keep swallowing it, and they wonder if others feel the same way.

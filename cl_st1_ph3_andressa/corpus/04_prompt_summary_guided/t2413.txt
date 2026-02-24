@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 115–173 words.
+
+The poster has no local friends due to moving a lot, and their online friendships have faded over time. They’re exhausted from constantly working to maintain basic human connection and are considering using a platonic “rent a friend” service they’ve heard about, though they worry paying for companionship might cheapen it. They’re conflicted, not currently able to afford it, and are asking others for their opinions on the idea for the future.

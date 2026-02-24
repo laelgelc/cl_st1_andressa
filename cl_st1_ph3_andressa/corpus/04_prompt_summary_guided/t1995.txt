@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 58–88 words.
+
+The poster describes waking from a terrifying dream where they felt they were escaping real danger. They reflect on how much of a privilege it is to feel safe in reality and to be able to reassure oneself that a nightmare “wasn’t real” and that everyone is safe. They end by expressing fear of a “living nightmare,” suggesting anxiety that real life might become as frightening as the dream.

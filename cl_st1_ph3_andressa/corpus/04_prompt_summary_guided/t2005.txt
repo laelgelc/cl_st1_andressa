@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 90–136 words.
+
+The poster describes realizing during a snowstorm, after crying all night, that they’ve been deeply lonely for a long time but hiding it. They say making friends feels impossible: others claim it’s hard too, yet don’t open up, and when the poster tries to connect, people pull away, leaving them feeling pushed aside. They’ve been distracting themselves with work and side activities to avoid facing this, and while they usually refuse to see themselves as a victim, openly admitting their loneliness now actually feels good and honest.

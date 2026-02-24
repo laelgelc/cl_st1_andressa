@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 153–229 words.
+
+The writer recently moved to a new city for studies about seven months ago and hasn’t been able to make any friends there. Before moving, life felt good: they had friends, did well in school, and had a girlfriend. After the move, they stayed in touch with old friends and their girlfriend by text, but the relationship ended in October. Since the breakup, their loneliness has intensified, especially because they used to spend most of their time with her online. Contact with old friends has also decreased, as they live in another city and the writer doesn’t want to bother them. They’ve been feeling very lonely for about three months, and it’s becoming increasingly hard to cope.

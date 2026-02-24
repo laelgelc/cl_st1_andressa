@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 76–114 words.
+
+The poster shares that their therapist pointed out they have no real external confirmation that they’re unlovable or ugly; those beliefs come from their own thoughts, not from others. This made them realize they might be someone whose inner struggles are invisible to others. While that realization brings a bit of comfort, they’re still bothered by the fact that they appear normal on the outside while feeling very different inside.

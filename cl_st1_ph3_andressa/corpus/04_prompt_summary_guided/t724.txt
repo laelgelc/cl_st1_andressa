@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 189–283 words.
+
+The poster moved from another country to California three years ago and feels stuck in a repetitive routine of working two jobs, going home, doing chores, and repeating. They find it very hard to make new friends because people already have their own circles or aren’t open to new connections. They are lonely and wish for a woman in their life to share home-cooked meals, talk about their day, and have meaningful conversations. They describe themselves as introverted, slow to open up, and not outgoing, and they enjoy long solo walks on the beach and hiking in LA, wishing they could meet someone with similar interests.

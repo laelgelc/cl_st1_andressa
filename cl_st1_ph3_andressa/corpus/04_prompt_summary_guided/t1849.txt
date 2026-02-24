@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 80–120 words.
+
+The poster feels truly alone due to a dysfunctional family and sees their current group as all they have, yet they still feel excluded. They discovered a secret voice chat that everyone else is allowed in except them, and they hear about group events they’re never invited to. When they bring up feeling left out, others briefly show care or invite them once or twice, then revert to excluding and ignoring them, making the poster feel like they only “exist” when others want to deal with them.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 151–227 words.
+
+The poster describes being dragged into a deep, ongoing depression by a life situation that hasn’t changed despite their efforts. They are in therapy and taking medication, but the core problem remains and they feel out of ideas. They’ve even asked strangers on Reddit for help but got little response, and feel like they’re down to their last bit of hope. They’re unsure if they’re suicidal, but wake up each day disappointed to still be here and having to face the same situation, and they express that they don’t want to keep dealing with it anymore.

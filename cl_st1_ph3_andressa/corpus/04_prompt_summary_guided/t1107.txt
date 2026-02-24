@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 81–121 words.
+
+The poster is a lifelong Texan who lost both parents in the last two years, has a brother living in Florida, and has had three strokes that prevent them from working. They live in a relatively small town, feel very isolated, and find it hard to meet people or make friends. They think about suicide often and previously gave their gun to their brother to make it harder to act on those thoughts. Bad weather and ice are currently keeping them from driving anywhere, adding to their isolation. They ask if anyone has any good advice and note that writing the post might have helped a little.

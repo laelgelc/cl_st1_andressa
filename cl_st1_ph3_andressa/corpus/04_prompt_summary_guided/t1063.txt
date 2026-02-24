@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 132–198 words.
+
+The poster is a college student who has never eaten alone in the dining hall but is considering doing it for the first time. They feel people at college don’t like them and believe they’re physically unattractive, describing themselves as an “ugly loser.” They worry that going alone will make them look like someone with no friends and that others will stare at them, unlike “normal” students such as athletes or people doing work. Because of this, they feel very uncomfortable and weird about the idea of eating in the dining hall by themselves.

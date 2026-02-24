@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 60–90 words.
+
+The poster feels inherently unlikeable and unlovable, saying that whenever they start to get close to someone, things fall apart once the other person sees more of who they are. They describe themselves as awkward, anxious, and afraid of other people, and say they don’t know how to exist in the world. They feel intensely lonely, are longing for real connection, and are in a lot of emotional pain.

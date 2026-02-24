@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 148–222 words.
+
+The post shares a quote from John O’Donohue (referencing Thomas à Kempis) about learning to inhabit one’s aloneness. It says that seeking distraction and false belonging in society leads to emptiness, but facing and accepting aloneness gradually transforms bleakness into a sense of true belonging and inner “home.” This inner grounding is not selfish; once you rest in yourself, you can connect with others more genuinely and creatively, without needing constant affirmation. The process is slow and can take years, but it is essential for coming into rhythm with your own individuality.

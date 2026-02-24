@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 69–103 words.
+
+The poster believes their friends ditched them because they couldn’t bully or control them. After realizing this, the friends decided to exclude them, seemingly hoping they would be miserable and lonely at university while others have friends. The poster, however, is determined not to be miserable and instead plans to stay calm and normalize enjoying their own company.

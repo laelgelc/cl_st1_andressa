@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 51–77 words.
+
+The writer says they have been ignored by others at school for as long as they can remember, starting in kindergarten and continuing through elementary and high school. They mention that during junior high they were recognized and not ignored for a time, which felt wonderful. They express hope that someday they will stop being ignored again and that this might happen soon.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 106–160 words.
+
+The poster describes having many social media “friends,” likes, and views, yet feeling they have almost no one to truly rely on in a crisis. They’re struggling with the paradox of being more digitally “connected” than ever while feeling lonelier and more isolated. They mention making a video about the hidden cost of having many followers and ask others if they share this experience and how many people they could realistically call at 3 AM for support.

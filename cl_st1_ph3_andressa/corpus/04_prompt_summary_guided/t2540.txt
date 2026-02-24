@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 223–335 words.
+
+The poster is a 22-year-old woman with panic-induced agoraphobia who rarely leaves the house and only has brief in-person contact, like at a liquor store. She works an online job that doesn’t pay much and needs to find a new one. She feels very lonely, misses simple daily interactions like saying goodnight or asking how someone slept, and hasn’t spoken to a friend in about a year, only interacting with strangers online. Her agoraphobia has worsened over time, and a panic attack in an empty movie theater now haunts her with recurring nightmares. She smokes constantly, drinks more than she can afford, and struggles with going to bed alone, longing for a partner and physical affection, which she hasn’t had in a long time. She dropped out of high school early and sometimes feels like having someone to come home to is a myth. She created this account specifically to post in this subreddit after realizing others feel this alone too.

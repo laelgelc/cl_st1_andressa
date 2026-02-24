@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 174–262 words.
+
+The poster describes a lifelong feeling of not belonging and self-isolating without understanding why. They’ve realized they are deeply afraid of hurting others and have always prioritized others’ well-being over their own. When someone shows interest in them, they leave to avoid causing harm, which ironically ends up hurting people and reinforcing their self-image as a threat, creating a vicious cycle. This pattern has shaped their life, leading them to abandon friends, let down family, and break lovers’ hearts. With this new insight, they hope to release their shame and guilt, apologize to those they’ve hurt, and eventually remember those relationships with nostalgia and joy instead of regret.

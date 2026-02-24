@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 107–161 words.
+
+The poster says they are always alone, with no friends and essentially no family except a mother who ignores them. They feel extremely miserable, unable to enjoy anything even when trying to distract themselves, and feel they can’t keep living like this but don’t know what to do. They ask if anyone can relate and want to know what others do in their everyday life to get through the day.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 66–100 words.
+
+The poster describes feeling deeply hurt and used after being suddenly blocked by someone they cared about. They say they tried hard to be nice and sweet, were told “wait I’ll be right back,” and then discovered they were blocked. This makes them feel like a disposable toy, unlikable, pathetic, and very sad. They end by hinting at dark or possibly self-destructive thoughts.

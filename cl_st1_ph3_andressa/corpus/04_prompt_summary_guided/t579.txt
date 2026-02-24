@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 66–100 words.
+
+The poster feels very lonely and increasingly angry over time. They say they are constantly working, haven’t had sex in over a year, and feel frustrated that they can’t just have fun and enjoy life. Their anger is affecting how they interact with others: they feel mad when talking to people, find themselves criticizing them over small talk, and say they now hate a lot of things.

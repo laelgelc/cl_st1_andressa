@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 98–146 words.
+
+The poster feels deeply lonely and ignored, like no one listens when they speak and they’re just talking to themselves. They compare their life to others their age who seem happy and social, while they cry themselves to sleep and believe they’re destined to be alone forever. They describe living in their body as a burden, feel “special” in a negative way that isolates them, and see their loneliness as an unchangeable fate that will last until they die.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 131–197 words.
+
+The poster describes briefly feeling happy and alive when a new boyfriend and a friend were both staying with them, giving them company and people to do things with. By mid-January, the boyfriend pulled away and the friend went to rehab, leaving the poster alone again. They suffer from severe depression, feel their life is an empty routine of work, TV, eating, showering, and sleep, and they strongly feel the lack of friends. They ask if others also have few friends and realize how important friendships are.

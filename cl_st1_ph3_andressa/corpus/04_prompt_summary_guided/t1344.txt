@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 54–80 words.
+
+The poster describes a painful experience where their family ignored them on what seems to be a special occasion, possibly a birthday. The family acted like they didn’t want to be there, said they forgot the cake, focused on playing with their dogs, and had a conversation without including or acknowledging the poster. They received no congratulations or recognition and feel labeled as “weird” with “problems.” They worry about how this kind of isolation might affect a 14-year-old’s developing brain.

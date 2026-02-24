@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 75–113 words.
+
+A 21-year-old who just finished college and started an IT job 150 km from home describes moving into a small 150 sq ft rented place with few amenities but enjoying the silence and personal space. They contrast this with college life, which was fun but lacked privacy, and with family life, where responsibilities felt constantly “in the face.” Now they like having the choice: go to the office for fun and human interaction, then return home for personal time and breathing space.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 162–242 words.
+
+The poster feels deeply lost and disconnected from themselves and others. They say they don’t know who they are, what they want, or why they’re here, and describe going through daily life on autopilot, often alone and feeling empty even when talking to people. They feel like there’s a wall blocking real connection and that they can’t truly care about things. They want to feel something real and be understood but doubt anyone would really care. Overall, they feel lost inside themselves, afraid they won’t find their way back, and say they really need something because they feel like they’re losing themselves.

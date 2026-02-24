@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 155–233 words.
+
+The 20-year-old poster says they have (or had) friends but never felt real love or deep connection with them, feeling lonely even while joking and laughing together. They struggle with depression, anxiety, introversion, and poor social skills, and doubt they’d be satisfied with most friendships anyway because they crave very deep, almost self-sacrificial bonds. They feel disillusioned that, in anger, people (including someone they started to love) will belittle others to win arguments, which makes them feel that relationships aren’t as deep as they hoped. This leads them to feel confused, resentful, and pessimistic about human nature and their own connections.

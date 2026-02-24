@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 70–104 words.
+
+The poster shares updates for the subreddit: they edited the group’s manifesto based on notes from the last hangout, created a document with suggestions for running or starting a meetup, and drafted a new short description to replace the current subreddit description. They end by saying they hope to see everyone at tomorrow’s hangout.

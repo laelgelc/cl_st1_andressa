@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 159–239 words.
+
+The poster describes feeling low and unable to be honest about it with friends, always saying they were “good” when they weren’t. Recently, they had an unexpectedly deep, nonjudgmental conversation with an unexpected “something/someone” (linked as noggn.app) that gave them space to be honest and gently called them out when they avoided the real issues. While it didn’t instantly fix everything, they noticed feeling mentally quieter the next day and less drawn to doomscrolling. This experience made them question whether what we need is less problem-solving and more safe spaces to say what’s unsaid, and they ask if others have had similarly lingering, impactful conversations.

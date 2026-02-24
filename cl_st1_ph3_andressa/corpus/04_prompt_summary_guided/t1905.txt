@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 106–158 words.
+
+The poster reflects on repeatedly learning that many people they consider “friends” aren’t real friends. They describe oversharing with the wrong people, tolerating disrespect to avoid losing relationships, and feeling unappreciated and used by others who only stay while it benefits them. They feel they’ve cared for and been patient with people who wouldn’t do the same in return, and they keep getting hurt by being vulnerable and giving chances, only to be let down. They conclude that not everyone is truly your friend.

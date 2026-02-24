@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 102–152 words.
+
+The writer feels useless, unloved, and unvalued, and is emotionally overwhelmed. Their boyfriend has been focusing on their faults, and although they believe he loves them, they don’t feel cared for or checked on. They feel taken for granted, as if everyone is better off without them, and they have very few people around. This is making life feel increasingly hard, and they’re unsure how long they can maintain their sanity.

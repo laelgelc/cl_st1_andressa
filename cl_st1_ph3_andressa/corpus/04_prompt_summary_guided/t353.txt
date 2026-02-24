@@ -1,0 +1,19 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 287–431 words.
+
+The poster is a married parent who feels trapped and is seriously considering divorce but has almost no income ($300 every two weeks), no place to go with their children, and untreated medical issues that prevent them from working or seeking disability. For 12 years they’ve been treated poorly by their spouse’s friends and family, and their spouse never defends them; recently he yelled at them for simply talking to one of his friends and threw a can at them, and his friends said he did nothing wrong. He hasn’t hit them but has punched holes in walls and doors. 
+
+He has also misled his friends into believing they had an open marriage initiated by the poster and one-sided in the poster’s favor, when in reality he was cheating on them (even during pregnancies) with multiple women, and the “open” arrangement was created so he wouldn’t have to hide it. The poster only tried seeing someone themselves last year, after he finally “allowed” it, and his friends again blamed them. They say they never really wanted to marry him but their family approved the marriage despite their objections. They are now severely depressed and feel like a burden, with no one to talk to.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 147–221 words.
+
+21-year-old Vitaliy is feeling isolated and going through a rough time, craving genuine human connection and meaningful conversations. He loves fiction and literature, is very into music (including past beatmaking), and would enjoy watching shows, movies, or cartoons with someone and discussing them. He had been studying to become a sailor but is currently on academic leave due to life circumstances. He’s curious about other people’s interests and what keeps them going, hopes to make friends, and notes that English is not his first language.

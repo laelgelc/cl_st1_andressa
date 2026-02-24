@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 68–102 words.
+
+The poster is an attractive man who’s often told he’s very handsome, even by strangers, but has still been alone most of his life. He felt lonely even around his friends, seeing those connections as superficial. He ended a relationship about six months ago, and since then everything feels strange; he now feels the loneliest he’s ever been and emotionally numb.

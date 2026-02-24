@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 209–313 words.
+
+The poster’s female neighbor, who was around their age, moved out a few months ago. They weren’t close friends, but her presence—greetings, small help, and the sound of another person nearby—made life feel nicer and less empty. Now the poster is alone on their floor, feels abandoned by the situation, and finds life bland and quiet. They’re not working due to difficulties, so their days feel like “nothing,” with no external distractions from their thoughts. The constant quiet and sense of total solitude feel unnatural and hard to cope with, and they’re wondering if others can relate to this ongoing emptiness.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 134–202 words.
+
+The poster says they used to be lonely but have now reached a positive mental state by elevating their mind and imagination. They no longer feel sad or lonely and describe their current experience as feeling like “heaven,” something they found while being alone. They suggest loneliness can be a temporary phase that eventually gets better, and they’re grateful that people left them alone because it led to this state.

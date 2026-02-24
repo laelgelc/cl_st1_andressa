@@ -1,0 +1,21 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 200–300 words.
+
+The poster is a 23-year-old who feels invisible and “dead inside.” They work in retail where customers treat them like they don’t matter, and their family doesn’t really understand. They’ve grown distant from their sister, who used to be their best friend, and most of their remaining connections are online, with distant relatives who don’t reach out.
+
+They’re grieving their father, who struggled with addiction and died of an overdose. They miss the loving dad he was in childhood but also feel hurt and angry about how things ended, wishing they could talk to him one more time and hear him say he loves them.
+
+They’ve never had a girlfriend and feel unnoticed romantically, even though they generally like being alone and just wish they had someone to share life with. They emphasize they’re not suicidal, but deeply want to be seen, cared about, understood in their loneliness and grief, and to feel like they matter.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 131–197 words.
+
+The poster reflects on a difficult week: they feel like a failure even as a casual sexual partner, have strong resentment toward their mother and don’t plan to visit her, and feel out of sync with their city’s social rhythm because of their schedule with preschoolers. They’ve cut off some people who sided with their ex, and now mainly interact with a landlady who seems more distant after learning they drink every weekend, and a new landlady who is passive-aggressive. They’ve reconnected with an ex-friend but feel they can’t rely on her socially due to lifestyle differences. Overall, they feel uncomfortable around people everywhere and express a desire to escape from everything.

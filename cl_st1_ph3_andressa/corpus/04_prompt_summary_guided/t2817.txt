@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 88–132 words.
+
+The writer says their year has been positive but extremely busy. Some of their projects are going well, but they had to postpone two others, including their “Unalone” project, likely until at least next summer, even though they still believe in it. They send warm thoughts to everyone, whether or not they celebrate Christmas and whether they are alone or with others, especially to those feeling lonely, and conclude that loneliness is what unites them.

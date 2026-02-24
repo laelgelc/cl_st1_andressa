@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 164–246 words.
+
+Cole feels very alone, especially after a recent self-harm relapse, which made him feel like no one really cares. He tried opening up to people this year and began to trust two people, but they ended up saying things meant to hurt him. Attempts to talk to schoolmates have left him feeling used and uncared for. His family life has its own problems (though not abusive). He is exhausted from struggling alone and is asking for a friend or someone to talk to, preferably via Instagram or Reddit, wanting to feel cared for and promising it won’t be one-sided. He apologizes in advance if no one responds and wishes others a good day or night.

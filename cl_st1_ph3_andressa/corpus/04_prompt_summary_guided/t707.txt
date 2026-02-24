@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 150–226 words.
+
+The poster’s best friend of two years has suddenly stopped talking to them, especially after the friend’s breakup with her boyfriend, and has even stopped attending their shared college class. The friend often praised her online friends and wrote an English essay about an online best friend instead of the poster, making the poster feel like a “filler friend” despite them being inseparable in senior year of high school. The poster also finds it very hard to make new friends in college because it seems like everyone already has established friend groups. On top of losing this friendship, their boyfriend recently broke up with them too, and they’re struggling to keep going and just needed to tell someone.

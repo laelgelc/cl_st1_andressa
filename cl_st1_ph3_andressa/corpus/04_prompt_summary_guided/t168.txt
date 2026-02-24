@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 130–194 words.
+
+The poster is a 25-year-old man from Morocco who has returned to university after several years working a low-quality job that he now somewhat misses. It took him four years and multiple failed attempts to get his baccalaureate as an independent student, not due to difficulty with the material but because he struggled to make himself study. At first, college seemed better and he was managing his work, but in the last few days he’s fallen back into old patterns, feeling unable to even get out of bed. He feels very detached from others, sees his peers as moving forward with their lives while he feels left behind, disconnected from classmates, and alone.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 134–200 words.
+
+The poster feels extremely lonely and has come to this subreddit mainly to feel less alone, not necessarily to make new friends. They recently lost the one person whose attention they relied on, as that person chose to leave, and now their routine is gone. They’re sitting in a dark room, too drained to do their large amount of schoolwork, feeling very depressed. They like being alone in general, but not to this painful extent, and they’re open to chatting with anyone who wants to talk.

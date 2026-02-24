@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 65–97 words.
+
+The poster feels they have a boring personality, are unattractive, unintelligent, and not rich. They’ve tried making friends online but people don’t stay in touch, and those who do rarely reply, leaving the poster feeling like they have to beg for attention. They have no friends to talk to or hang out with in real life, and their coworkers are older so they don’t connect with them. They express strong self-hatred and a wish to be someone else.

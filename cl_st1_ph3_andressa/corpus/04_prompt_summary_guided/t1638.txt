@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 85–127 words.
+
+A 25-year-old man says he’s lost almost all his friends while he was in prison and now only has one left. He’s been out for four months, works nearly full-time, and still lives with his grandmother, which he feels makes dating impossible. He doesn’t know how to make new friends, and after being ghosted recently, his loneliness has become overwhelming. He didn’t expect life after prison to feel this miserable.

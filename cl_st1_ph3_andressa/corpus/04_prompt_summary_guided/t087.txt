@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 169–253 words.
+
+The poster was bullied throughout childhood and their teens, which left them struggling socially and feeling like they’ve never had a real friend. As an adult, they’ve lived with minimal social interaction and usually prefer being on their own, not often feeling lonely and taking pride in being self-sufficient. However, it hurts them that they’ve supported others emotionally but, when they themselves reach out in need, they are dismissed, ignored, or rejected. They long for someone who will genuinely care, listen, comfort them, and reassure them that things will be okay, and they’re tired of having to face everything alone.

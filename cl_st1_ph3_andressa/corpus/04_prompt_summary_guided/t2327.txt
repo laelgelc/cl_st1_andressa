@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 105–157 words.
+
+The poster describes suddenly feeling low after returning from the gym and looking in the mirror. They don’t fully understand what triggered it but have been feeling down for a couple of hours, listening to sad songs, and worry the mood won’t fade soon. They mention having previously spent long periods isolated in a room listening to sad old Hindi songs and say they’ve fought hard for their peace, so they don’t want to return to that state. They hope the feeling will fade by the time they wake up and end by thanking readers and saying goodbye.

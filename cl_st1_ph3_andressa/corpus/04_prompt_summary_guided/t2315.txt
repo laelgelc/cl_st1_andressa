@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 54–80 words.
+
+The poster is a 35-year-old man from Spain who has felt alone his entire life and now feels extremely empty. He finds life very difficult without someone to love and care for. He doesn’t like going out or socializing, has depression and Asperger’s, and wants a simple, boring life. He believes most people wouldn’t want him, but says the pain of loneliness is very strong.

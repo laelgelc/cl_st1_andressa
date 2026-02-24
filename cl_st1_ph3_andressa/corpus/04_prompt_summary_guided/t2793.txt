@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 53–79 words.
+
+The poster got really into kayak fishing over the summer and enjoyed spending days alone on the water, getting high and fishing. Now that summer is over and the weather is bad and cold, they feel at a loss for what to do on weekends and find them boring. They do have a hike planned for late winter after avalanche season, but for now they’re struggling to fill their weekends.

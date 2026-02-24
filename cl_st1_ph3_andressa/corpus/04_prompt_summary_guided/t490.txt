@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 149–223 words.
+
+The poster is an only child who doesn’t get along with their cousins because of family issues. They live alone in another city for the past three years and feel like they no longer exist, as if no one would notice if they disappeared except their parents. They have friends and can socialize and hang out if they put in effort, but they don’t feel any real connection and life feels empty and meaningless, including their efforts and even their CA studies, which they feel stuck in because they’re already in the final stage. They wonder if other only children without close siblings or friends feel the same way.

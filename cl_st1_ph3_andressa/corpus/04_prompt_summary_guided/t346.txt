@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 184–276 words.
+
+The poster, a 36-year-old homo-demi man who is a movie buff and horror fan, just finished a stressful 72 hours preparing work and home for a big snowstorm and had to go in to close his theater. Now that he’s safely home and has checked in with his boss, family, and friends, he feels “off” and very aware of being alone once he puts his phone down. He’s excited for his snow day—planning to watch the snow, make treats, and stay cozy, with his Christmas tree still up—but is also using this quiet moment to reach out on the subreddit to find conversation and friends, and wishes safety to others who are snowed in.

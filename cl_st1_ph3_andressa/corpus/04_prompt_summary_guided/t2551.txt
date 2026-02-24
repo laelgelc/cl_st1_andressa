@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 134–200 words.
+
+The poster has few friends and feels they take those friends for granted. They believe getting a boyfriend would make life feel complete or at least less lonely, especially because they are touch-starved and rarely even get hugs. They want a romantic relationship to feel like someone’s first choice, to feel loved, and to have something worth living for. They’re unsure whether to focus on making more friends, finding a boyfriend, or accepting being alone. Although they know they have time to find a boyfriend in the future, they don’t understand why they should have to wait. Their social anxiety makes being around people difficult, leaving them feeling hopeless.

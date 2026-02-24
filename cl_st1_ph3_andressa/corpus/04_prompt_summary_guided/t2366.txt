@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 202–302 words.
+
+The poster is feeling very low and lonely. They ended a three-year on-and-off relationship about a year ago and still aren’t over their ex, who doesn’t respond to them and didn’t even open a long apology message they sent before New Year’s. This makes them feel like a waste of space and that their life is pointless. They say they don’t really have friends who are there for them, even though they are always there for others. They spend their days alone in their dark room, feel hated, and say their dad tells them to leave the house even though they’re only 20. They feel like if something happened to them, it’s questionable whether anyone would care.

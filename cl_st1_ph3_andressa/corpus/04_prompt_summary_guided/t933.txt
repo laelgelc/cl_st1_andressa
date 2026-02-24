@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 188–282 words.
+
+The post argues that most people fail not from lack of talent but because they quit too soon. Success is described as the result of small, consistent daily actions that compound over time, rather than sudden breakthroughs. Examples include reading 10 minutes a day, reaching out to one new person daily, and improving by 1% each day. The author emphasizes that consistency beats short bursts of intensity and that the key is showing up even when it’s not exciting. They suggest choosing one small daily action, tracking progress, and celebrating consistency, and they invite readers to follow them for more content on motivation, career growth, and personal development.

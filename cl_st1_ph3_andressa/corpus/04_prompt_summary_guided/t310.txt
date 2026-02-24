@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 268–402 words.
+
+The poster is a 27-year-old woman living in Las Vegas who recently lost her cousin, who was also her roommate and main support system. His unexpected death forced her and her dog to quickly find a new place to live, and although she now has a new apartment she likes, she often feels displaced and overwhelmed by how fast her life changed. She has strong emotional support from family back in Texas but feels guilty that they worry about her being far away. In Vegas, her circle is small—mostly just her dog and sometimes her boyfriend—as she quietly navigates grief. She’s also an aspiring nail tech trying to build a future, but her motivation is shaky under the weight of grief and instability. She’s asking others who have gone through sudden loss, displacement, or rebuilding far from home how they coped and what helped them keep going.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 65–97 words.
+
+The poster is turning 27 and is spending their birthday completely alone for the third year in a row. They usually manage their loneliness and socialize when possible, but birthdays are especially hard. They’re trying to make the day enjoyable by getting their favorite burger and playing skeeball, and they’re asking others for tips on how to add some joy to a lonely birthday.

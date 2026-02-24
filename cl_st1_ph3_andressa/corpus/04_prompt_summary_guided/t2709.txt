@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 156–234 words.
+
+The poster has always been a loner who enjoys their own company and mostly their significant other’s. Attempts to hang out with friends feel forced, anxiety‑provoking, and lead to overthinking and panic afterward. They feel they “should” have friends but don’t feel they need them, and are content with acquaintances. They worry about future events like a wedding with no bridesmaids and felt guilty and embarrassed at a recent baby shower where they had no close friends to invite despite encouragement from their boyfriend’s family. They also wonder if people with friends are just faking it and using energy to maintain those relationships, and they’re using the quarantine time to overanalyze and vent these feelings.

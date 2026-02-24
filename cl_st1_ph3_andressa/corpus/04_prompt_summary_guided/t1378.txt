@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 68–102 words.
+
+The poster feels people have become more distant and emotionally cold, and notices that many now turn to AI like ChatGPT as a “safe place” to express true emotions they don’t share with family or friends. They wonder how people feel after such AI conversations and question whether relying mainly on ChatGPT for emotional disclosure might make it harder to open up to real people.

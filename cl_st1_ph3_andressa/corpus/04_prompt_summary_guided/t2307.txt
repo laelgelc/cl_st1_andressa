@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 64–96 words.
+
+The poster, an 18-year-old with AuDHD and severe social anxiety, says they have had no friends since age 12 and find it nearly impossible to talk to people. They feel their fate is sealed, reject others’ reassurance that things will change, and believe that because of their ADHD they are “subhuman” and incompatible with other people, insisting nothing can change their mind.

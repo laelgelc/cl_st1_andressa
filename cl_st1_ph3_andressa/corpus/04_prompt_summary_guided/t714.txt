@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 102–154 words.
+
+The writer has recently ended a long marriage with no children and feels they have nothing to show for it. They stayed committed even as love faded and feelings changed, and now live alone in a house full of memories in eastern North Carolina. Coming home to an empty house is difficult, and they long to meet a kind, loving woman who will truly love them, stay through hard times, and help turn the house back into a home.

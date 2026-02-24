@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 110–166 words.
+
+The poster shares a quote about “chosen ones” who isolate not from being antisocial, but from feeling overstimulated and frustrated by “mediocrity,” having to dumb themselves down, and seeing patterns others miss. The quote says authentic, high-frequency people often lack friends because truth is costly and most people prefer distraction over growth, comparing such people to lighthouses that stand alone until the right ones find them. The poster says this “hits hard” for them and asks for others’ thoughts and where the people who are meant to resonate with them are.

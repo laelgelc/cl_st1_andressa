@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 134–200 words.
+
+The poster feels exhausted and insecure because they can talk easily and be funny with a girl over text, but in person they freeze up and feel like a “glitch.” They’re afraid that if they ask her to hang out or make a move, she’ll see that their in-person self doesn’t match their online personality, like they’re “catfishing” her with their own personality. An AI tool analyzing their texts suggested there’s an 85% chance she likes them back, and they agree, but they feel they lack the courage to take the next step.

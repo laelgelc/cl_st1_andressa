@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 186–280 words.
+
+The poster describes a life structured entirely around being alone: shopping for one, eating takeout for one, always driving with the passenger seat unused, and spending days off with no plans besides sleep or errands. They rarely get texts, don’t get asked about their weekends or dating life, and often go places like the beach or bar alone, where others are surprised they’re by themselves. They’re so used to doing everything alone that they’re fully self-sufficient, but they also feel starved for connection, quickly clinging to anyone who shows them kindness and then pulling back because they expect it to end badly. The post ends with a sad, heartbroken tone.

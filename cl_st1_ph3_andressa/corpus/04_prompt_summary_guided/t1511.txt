@@ -1,0 +1,21 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 266–398 words.
+
+The poster is a 17-year-old boy who feels deeply depressed and lonely. He tried becoming more positive and taking better care of himself but feels nothing has improved. He says he has no friends and that the few people he trusted talk behind his back and mock his humor, appearance, and mannerisms. He believes he is very ugly, hates seeing his reflection, and feels constant humiliation.
+
+He struggles to communicate with others, doesn’t understand people, and suspects he might have autism. He often fights with his parents because he’s afraid to go outside in case schoolmates see him and make fun of him. He is also scared to love or have a crush on someone because he feels like a creep and worries others will see him as a joke. His grades are very poor, and he may have to repeat 10th grade again.
+
+He longs for someone he can care about and be his real self around, not necessarily a romantic partner, just someone who cares. He repeatedly calls himself pathetic, says people always find reasons to make fun of him, and ends by saying he thinks he will kill himself.

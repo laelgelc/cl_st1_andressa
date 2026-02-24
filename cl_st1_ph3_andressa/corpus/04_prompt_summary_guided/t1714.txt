@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 216–324 words.
+
+The poster, a 24-year-old, feels stuck in the “middle” of everything and believes this is the worst place to be—neither especially good nor bad, popular nor a total loner. They feel overlooked, undervalued, and taken for granted, with no close friends or anyone who truly knows them. They see others having at least one close friend and wonder why they don’t, despite viewing themselves as humorous, easygoing, empathetic, emotional, and not insecure about their looks. They try to make others happy but feel no one cares enough to stay and get to know them. As a result, they feel unmotivated, unhappy, and like life is just mechanical, and they don’t know how to move forward or find the motivation even for self-improvement activities like going to the gym. They end by asking what they should do.

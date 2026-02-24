@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 190–284 words.
+
+The poster is frustrated with unhelpful, transactional support from psychologists and paid “gurus,” and wants to offer the opposite: free, nonjudgmental listening. They’ve created a private, anonymous 1-on-1 text channel system on Discord where conversations are later deleted by a bot. They emphasize they’re not a professional, don’t want to fix or judge anyone, and only care about genuine human connection. It’s free, with an optional donation for server costs. They invite people who feel overwhelmed or need to be heard to DM them for the Discord info.

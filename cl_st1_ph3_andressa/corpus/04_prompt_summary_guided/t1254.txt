@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 76–114 words.
+
+The poster is a 20-year-old who wants to become a professional boxer and is organizing their life around that goal. They have no friends, rarely talk to family, and feel they basically have no one in their life. Recently they’ve started feeling lonely and don’t know how to cope with it. They tried adding new hobbies for variety, but the loneliness remains. They are asking if there is any way to handle loneliness without having anyone in their life.

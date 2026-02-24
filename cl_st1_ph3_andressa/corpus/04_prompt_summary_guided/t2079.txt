@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 319–479 words.
+
+The poster feels completely defeated and has given up on trying to socialize. They have no friends and describe their loneliness as a consuming "complex," not just sadness. Attempts to connect with others end in silence or rejection, like when someone ignored their message for a day, leading them to angrily block that person to avoid feeling like they were begging for attention. They feel their social skills are beyond repair, compare themselves to an "abandoned building," and see blocking and aggression as their only way to feel in control. With only a phone and no real-life connections, they feel trapped, unwanted, and deeply hurt by being ignored. They say they don’t believe in self-improvement anymore and wish their need for social connection would just disappear so it would stop hurting. They ask if others feel like "abandoned buildings" too and note that they used AI to help write the post.

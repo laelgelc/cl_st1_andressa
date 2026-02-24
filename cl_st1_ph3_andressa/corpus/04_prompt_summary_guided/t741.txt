@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 123–185 words.
+
+The poster describes feeling completely and literally alone, with no friends, no family, and no one who knows them. They emphasize that this isn’t exaggeration: they have nobody in their life, no next of kin, and don’t know how to meet people. They’re struggling financially, barely avoiding homelessness, and say it took everything to write the post. They end by telling anyone reading to be grateful for whatever they do have, because some people have nothing at all.

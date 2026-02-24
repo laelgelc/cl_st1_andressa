@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 61–91 words.
+
+The post talks about how people often scroll on social media out of reflex, especially with short-form content, which takes up a lot of time and reduces motivation to socialize in real life. It then invites readers to learn more in a free article on Patreon, noting that all articles and wallpapers there are free.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 132–198 words.
+
+The poster has a job they enjoy and some friends, though most have left. They recently ended a relationship in August and now spend most of their time reading and going to the gym. They feel sad, lonely, and somewhat self-destructive, mentioning BPD-like tendencies (though they don’t have BPD). They’re considering getting a sugar baby but are unsure if it’s a good idea given their emotional state. In the past, they always coped with being alone by quickly connecting with someone via dating apps or social media, which they now recognize as unhealthy. This is the first time they’re not doing that, and it feels scary. They feel tempted to go to a rave and do drugs to feel something, but they know that’s probably not good, even though they like raves. They are asking for suggestions on what to do.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 57–85 words.
+
+A 28-year-old woman says she has no friends, family, or partner and feels very lonely. After work she has no one to contact, and the only notifications she gets are bills and job rejection emails. She wishes she had people to go out with to concerts or trips. She enjoys anime, food, trivia, and learning languages, and feels like she’s losing her mind from the isolation.

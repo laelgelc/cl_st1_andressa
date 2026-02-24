@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 99–149 words.
+
+The poster feels deeply lonely and ignored: their Snapchat is empty, attempts to start conversations go nowhere, and even the three friends they live with seem increasingly distant. Their life now revolves only around work, and they don’t have anything else to do. They also struggle with romance, unable to connect with anyone despite believing they’re not unattractive, being polite, and trying to find common interests. They feel they must not be interesting enough, and this ongoing rejection and isolation is starting to harm their mental health, leaving them wondering what is wrong with them.

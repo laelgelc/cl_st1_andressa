@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 229–343 words.
+
+The poster is a 25-year-old who feels they’ve never had a genuine female friend and only ever have shallow “hi/bye” interactions. They see others with close, natural bonds and feel left out. They describe themselves as caring and always available to help and support others, but feel this is not reciprocated and that people only value them for what they can do, not who they are. They think their introversion and difficulty opening up might play a role, and they notice that even male friends mostly contact them when they need something. This leads them to question whether something is wrong with them or if genuine connections are simply becoming rarer, and they wonder if others feel the same way.

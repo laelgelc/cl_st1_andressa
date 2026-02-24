@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 238–358 words.
+
+The poster has had no friends or social contact outside their family for two years. They lost their only close friend of 10 years after an argument and later realized that person was toxic. Now, at 26, they are in their final year of an adult high school program, but struggle to form connections with classmates, feeling others aren’t interested in them. They spend most of their time at home except for family trips, feel lonely, and are asking if anyone else is in a similar situation of having no friends.

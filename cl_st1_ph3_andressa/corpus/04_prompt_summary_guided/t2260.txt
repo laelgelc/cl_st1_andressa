@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 103–155 words.
+
+The poster is frustrated that common advice for loneliness—like meeting new people, trying new hobbies, or “loving yourself more”—doesn’t help them. They already have hobbies they love, meet new people, and have two friends they truly care about, but still feel lonely and see these things as separate from solving loneliness. They mention previously asking ChatGPT if there’s a solution to loneliness and getting an immediate “no,” and admit they used to use ChatGPT like a therapist but stopped. They are asking if there is any real, genuinely helpful solution to loneliness beyond the usual clichés.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 80–120 words.
+
+The 19-year-old author wants to chat with people aged 18–25 because they feel safer with peers, having been hurt by adults as a child. They enjoy JJBA, drawing, rock music, nature, animals, and bugs, and are online a lot since they don’t work or attend school. They’re too anxious to join group chats or servers and feel people dislike them because they struggle to talk in groups.

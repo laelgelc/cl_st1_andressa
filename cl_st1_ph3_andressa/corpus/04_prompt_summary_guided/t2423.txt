@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 93–139 words.
+
+The poster describes having no family support, friends, job, partner, or even a pet, and being a college dropout with Asperger’s and a high IQ. They say life keeps getting harder despite their efforts to improve it. They were homeless for three months, during which their belongings, including phones and ID, were stolen twice. They spent six months in a mental institution after multiple failed suicide attempts. They were raised by a narcissistic, increasingly greedy and apathetic family, were born without a father, and only learned they were autistic at 28. They end by saying they just wanted to share this.

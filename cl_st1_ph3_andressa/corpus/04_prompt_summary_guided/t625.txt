@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 101–151 words.
+
+The poster shares that this will be their first year spending Christmas, Thanksgiving, New Year’s, and their birthday completely alone. They are an orphan with no contact with their siblings, recently ended a long relationship, and have moved to a new state where they don’t know anyone. They feel strange about having no one to spend the holidays with and, lacking money, plan to just stay home and treat the days like any other. They say they’re not exactly sad, just finding it odd, and they end by wishing others have holiday plans and enjoy themselves.

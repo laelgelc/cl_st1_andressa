@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 118–178 words.
+
+The writer sits alone in a coffee shop, observing others and reflecting on their loneliness. They notice that people who are talking seem to already know each other and are deeply engaged in their own conversations, which the writer wishes they could experience. Although coffee might help socializing, they aren’t interacting with anyone. They see other people who are also alone but don’t seem approachable, leaving the writer feeling stuck and ultimately deciding to go home because it’s very cold.

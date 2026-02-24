@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 171–257 words.
+
+The poster graduated in May and has been unsuccessfully job hunting in their field for five months, which has badly affected their mental health. They have a 3‑year work permit in Canada, and their father wants them to stay, take their time, and not stress, but they feel exhausted, unsupported, and lacking empathy from people around them. They believe going back home now would help them and allow them to build a life there, but when they suggested this, their father rejected the idea, suggesting only a short vacation home instead. When they asked what happens if they still don’t settle in Canada after three years, he said he would “just get you married.” The poster feels lost between wanting to return home and build a life, and their father’s insistence that there is no life for them back home and that marriage is the fallback plan.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 187–281 words.
+
+The writer is lying alone in a dark room late at night, crying and feeling deeply misunderstood and unsupported, even by their own family. They feel they have no one to call, no friends, no partner, and no one who truly understands them. Their family imposes decisions instead of trying to understand them. They feel empty, “dying inside,” and are struggling to even recognize basic needs like hunger because their head feels so heavy and painful. They are desperate for validation, kindness, understanding people, and someone who can help bring them into a “brighter world,” and they pray that God will send such a person into their life.

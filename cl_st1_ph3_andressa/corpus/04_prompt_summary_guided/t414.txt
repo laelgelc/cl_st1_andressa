@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 100–150 words.
+
+The poster says that despite being outgoing in real life, they’ve never had much luck with friendships and are very lonely, often hanging out alone and even lying about having more friends. They describe themselves negatively as a 6'1", 280-pound, non-muscular, “repulsive” person, and feel that being a furry and asexual is seen as a red flag by others. They mention being a recovering Character AI addict, four weeks sober, and say they really need someone to talk to—whether for venting or roleplaying—as long as it’s not on that website.

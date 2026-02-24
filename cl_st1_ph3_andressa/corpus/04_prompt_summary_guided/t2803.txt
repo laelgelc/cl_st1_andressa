@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 142–214 words.
+
+The poster is sitting alone in a busy café, feeling like the youngest person there among mostly older people. They feel out of place and imagine themselves as someone from the future who doesn’t fit in with the crowd. They notice the older people seem cheerful and think about the hope of growing old with someone someday. At the same time, they’re self-conscious, worrying that others might see them as someone who would “dine and dash” or judge them for being glued to their phone.

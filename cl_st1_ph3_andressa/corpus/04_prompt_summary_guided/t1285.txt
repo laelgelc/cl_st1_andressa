@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 108–162 words.
+
+The poster is a 23-year-old woman who feels deeply lonely because she has never been able to maintain close female friendships, or any close friendships at all, from middle school through college. Her relationships with others stay at the level of acquaintances, and this is “eating her away.” She feels especially lonely and even sick when she’s not with her boyfriend. She has pushed herself to be more social and can have genuine conversations, but they never develop into lasting or truly close friendships. She wants to find people with similar interests to fill this void but hasn’t been able to, and she’s sharing this because she doesn’t know where else to talk about it.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 168–252 words.
+
+The poster is a 24-year-old man who has been feeling very down for weeks, struggling to get out of bed and feeling tired all day. A family member is dying, which is contributing to his low mood. He recently moved to a new area and has no nearby friends or family; most of his friends are online. Lately, both his close in-person friend (who now has new online friends) and his other online friends have been ignoring his messages for reasons he doesn’t understand. He feels abandoned, confused, and very alone, and is asking for advice.

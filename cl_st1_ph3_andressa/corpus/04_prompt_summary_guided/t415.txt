@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 204–306 words.
+
+The poster is a 19-year-old French student who has friends and a stable, calm life but still feels intensely lonely and overmatched, with no one they feel they can truly confide in. They feel unable to be honest about their emotions with friends and default to saying “I’m fine,” worrying that sharing their real feelings would seem ridiculous. They hoped that finding a romantic partner might give them someone to talk to, but recognize that’s not an easy or guaranteed solution. Their loneliness is making them increasingly grim, with disturbing thoughts and growing disgust toward others and themselves, and they feel more on the sidelines than ever, as if something is wrong with them. This is their first Reddit post, and they’re hoping that talking with a stranger might help, even though they find chatting difficult but would still be glad to get to know someone.

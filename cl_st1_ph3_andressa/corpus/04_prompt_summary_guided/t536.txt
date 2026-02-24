@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 175–263 words.
+
+The writer feels deeply lonely, unmotivated, and numb, describing life as a repetitive cycle of work, “rotting,” and sleep where nothing is fun anymore. They’ve just recovered from a heavy cold and severe headaches and, while they don’t feel acutely bad in this moment, they worry they might be going numb and feel useless. They believe they have always been and will always be alone, yet they long intensely for a mutual, loving connection—even if only for a few hours. They fantasize about a spontaneous road trip with a person they love, addressing this imagined person directly, wondering if they exist at all. They say life feels meaningless without this “you” to care for and question why they are even here if not for that person.

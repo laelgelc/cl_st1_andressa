@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 109–163 words.
+
+The poster is a high school student feeling especially lonely during COVID-19 social distancing. They feel torn between two conflicting sides of themselves: one that prefers staying in, playing Xbox, listening to lofi hip hop, and browsing Reddit, and another that wants a more stereotypical social life with sports, parties, drinking, and womanizing. They’re stressed because they can’t find a healthy balance between these identities, thought they had resolved it before, but the conflict has returned and they don’t know what to do.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 66–100 words.
+
+The poster says that after COVID lockdown, their social anxiety became extreme. They were about 11 when lockdown started, didn’t return to school afterward because they were scared, and feel they missed typical teenage experiences like parties and hanging out with friends. They started college in September, have no friends, haven’t had a friend since age 11, and feel very alone and unsure what to do.

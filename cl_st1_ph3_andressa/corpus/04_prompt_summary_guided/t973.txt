@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 138–208 words.
+
+The 17-year-old poster feels lonely despite having a good family and a few friends. They don’t feel they have anyone to truly share things with and strongly want a romantic partner and closer friendships. They feel like they’re just waiting to meet the right people and wish they could skip ahead to being 18 and more independent. They recognize it’s normal to want more but are struggling with impatience and loneliness, and they’re asking for advice on how to build a social life and cope in the meantime.

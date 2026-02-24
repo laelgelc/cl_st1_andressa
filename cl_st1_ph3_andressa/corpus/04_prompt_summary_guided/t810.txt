@@ -1,0 +1,19 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 295–443 words.
+
+20M poster feels especially lonely on his birthday: only one person has congratulated him, his family hasn’t, and he’s been sick with the flu for four days. He says he’s used to a lonely life and comes from a family where feelings aren’t discussed, which makes it hard for him to open up and be sociable.  
+
+About three years ago he met a girl on Discord; after a year of friendship they became long-distance partners and had a beautiful one-year relationship. She ended it around their anniversary for external reasons, while he still loved her. Ten months later, he doesn’t miss her specifically as much as he misses the emotional connection they had—being able to share his day, dreams, and feelings, and having shared goals that gave him direction when he previously felt lost. He mainly longs to have that kind of deep emotional connection with someone again.

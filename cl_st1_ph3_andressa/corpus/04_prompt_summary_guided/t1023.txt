@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 55–83 words.
+
+The poster struggles to socialize and finds it hard to mingle with people in their 20s, even though they believe technical skills can be learned over time. To push themselves, they booked a dance meetup after waking up. They went, met new people, interacted, and had a good time. As a result, their week passed without boredom, and they feel happy and thankful to the group called “Misfits.”

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 71–107 words.
+
+The poster hides their vulnerability and loneliness by acting strong and nonchalant around others. They flirt with men they know they won’t commit to because they’re afraid of getting hurt. They feel exhausted by these feelings, are still hurt from past experiences, and deeply wish they could feel safe and healed.

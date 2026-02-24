@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 121–181 words.
+
+The poster wants to become a film/TV actor and is unsure if they have the “it factor.” They describe themselves as hardworking, independent, and diligent, with only a couple of close friends and past work experience at a bakery. They have an upcoming meeting at an acting school and really hope to get in, saying this goal feels like all they have. They’ve had a rough time, often felt different and treated like an outcast, and use acting and music as an escape. They don’t like being alone and spend their time doing creative things and trying to make people feel emotions.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 209–313 words.
+
+The writer feels deeply lonely, unwanted, and questions whether they are unlovable, boring, or being punished for past mistakes. They feel left out and wonder why others seem to receive “miracles” in love while they do not. They long for someone who truly chooses them and struggles with feeling trapped in their own mind. They have strong feelings for a particular girl, describing many things they love about her—her looks, personality, love of music, nervous British accent, smile, presence, hugs, and soothing voice—but this affection intensifies their pain and leads them to question whether they are meant to be happy at all.

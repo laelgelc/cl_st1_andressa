@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 98–146 words.
+
+The post acknowledges that holidays can feel especially heavy and lonely, reassures readers that this doesn’t mean they’re broken or failing, and emphasizes that many people feel this way. The writer encourages readers to create new holiday experiences by reaching out, reconnecting, honoring lost loved ones, or welcoming new people and beginnings, reminding them that they matter. They also invite readers to upvote, give a reward, and follow their YouTube channel for more inspirational content.

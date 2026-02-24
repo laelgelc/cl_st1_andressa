@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 103–155 words.
+
+The 19-year-old female poster feels deeply frustrated and lonely because her female friends prioritize their boyfriends and hookups over her. She says they rarely text her but constantly text their partners, and they often ditch plans with her for men they’ve just met. This pattern makes her feel that she’ll never have a close female friendship and leads her to worry that things will be even worse when her friends are married. As a result, she feels that having a romantic partner has become a necessity to avoid being even more lonely.

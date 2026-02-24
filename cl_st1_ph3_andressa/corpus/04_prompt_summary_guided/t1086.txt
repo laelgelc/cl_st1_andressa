@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 50–74 words.
+
+The poster had been enjoying private messages with a woman from their home region (the Pacific Northwest) over the past several days. Something went wrong and they lost contact with her; they don’t want to spend time trying to get her back, but instead are asking for advice on what to do next.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 312–468 words.
+
+The poster is a 20-year-old college sophomore who struggles with depression but is strongly supported by a close-knit group of six friends they live with in a small apartment. This lively, always-together household keeps them from staying depressed for long, and they recognize how rare and special this bond is. Considering studying abroad made them realize their time living together is temporary; in two years they’ll all graduate and move away. This thought terrifies them, as they fear coming home to an empty place, feeling unbearably lonely, and possibly spiraling without this unique friend group. They feel both very lucky to have this now and very scared for when it ends.

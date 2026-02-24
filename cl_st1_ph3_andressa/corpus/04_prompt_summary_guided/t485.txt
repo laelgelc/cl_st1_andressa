@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 269–403 words.
+
+The poster feels that every attempt to socialize ends up annoying others, so they’ve tried to change their behavior. They’ve stopped sharing their feelings, believing that expressing sadness or happiness is draining for others, and aim to stay emotionally neutral. They also used to talk too much and have cut back to only speaking when spoken to, but this makes people see them as cold or upset, while speaking more makes them seem annoying. Feeling there is no middle ground, they’ve decided to stop trying to socialize or have friends and prefer to fade into the background, even though this choice is making them increasingly lonely.

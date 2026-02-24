@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 170–254 words.
+
+The poster graduated about four years ago and has been unable to enter the job market, only managing internships despite trying many different career paths and even learning to code. They feel far behind their peers, have lost contact with former classmates, and are at their lowest point. Although they used to enjoy their own company, the isolation is now affecting them. Their repeated failure to build a career has left them disconnected from life, with low self-confidence and a sense that they have nothing to say about themselves. They feel tired, lonely, disappointed, and full of self-hate, and are asking for friendly advice on how to continue with life in this state.

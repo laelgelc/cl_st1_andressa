@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 84–126 words.
+
+The poster says their girlfriend, who they felt deeply for and had beautiful times with, broke up with them because they objectified her. They deeply regret their behavior and feel they’ve lost the last person who truly cared about them. They say their family is gone, they have no friends or support, and feel there is nothing left for them in life. They express strong suicidal thoughts and say they want to die and have nothing left to lose, ending with “Goodbye.”

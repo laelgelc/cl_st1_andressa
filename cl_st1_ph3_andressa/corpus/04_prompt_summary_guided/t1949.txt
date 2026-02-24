@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 120–180 words.
+
+A 23-year-old man feels numb and extremely lonely, with his parents being the only people he talks to. He overheard them saying they’re tired of him always being around, and he understands because he feels he should have friends his own age but doesn’t. He believes he’s not interesting, can’t hold conversations, is very awkward, and speaks quietly, which makes it hard to be around others. This leads him to feel like he’s meant to be alone, not by choice but because connecting with people is so difficult for him.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 100–150 words.
+
+23-year-old man from Spain, socially awkward and never had a girlfriend, is looking for someone to talk to, mainly over text, with the possibility of meeting in person someday. He’s studying history at university, plays rugby, watches MMA, and recently started going to the gym. He says he’s not very knowledgeable about movies, shows, or music but is open to trying whatever others like, and he shares his Discord (jlkjnljl\_48403) for people to contact him.

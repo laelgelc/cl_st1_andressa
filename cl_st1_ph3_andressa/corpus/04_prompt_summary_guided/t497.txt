@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 68–102 words.
+
+The poster says they have no friends or family and recently lost their only friend, who abandoned them. They’re in a very bad situation, about to lose their apartment and their cats. They feel they have no one to turn to, feel hopeless, and with the new year approaching, it feels to them like “the end.”

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 82–124 words.
+
+The poster feels overwhelmed by many things happening in their life and feels like no one else is going through the same experiences. They describe having many original thoughts and getting very upset when they perceive something as unfair, but say they feel normal if they can talk it out—yet they have no one to talk to. Usual outlets like talking to a pillow, having a pet, or writing don’t help and may even make things worse. They ask others how they calm themselves down, noting that they can’t always talk to random people or distant acquaintances.

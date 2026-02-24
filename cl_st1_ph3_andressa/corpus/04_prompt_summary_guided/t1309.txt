@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 139–209 words.
+
+The poster is going through a very bad breakup and describes themselves as anxiously preoccupied and their ex as avoidant, which they see as a very difficult attachment pairing. They believe their ex may have been emotionally using them for the 8 months they were talking and wasn’t truly in love or seriously committed, based on her actions and words. They feel close to a mental breakdown and say the situation is deeper than just a breakup, involving false allegations made about them. They’ve made a one-hour video on an inactive YouTube channel explaining everything in detail and are asking for any support people can offer.

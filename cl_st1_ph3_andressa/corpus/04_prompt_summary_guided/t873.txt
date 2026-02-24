@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 146–220 words.
+
+The poster and their dad were kicked out of an RV park in Maysville, MI, where they had lived for five years, after a new owner favored short-term “weekend warriors” over long-term residents. They moved into a house, and now the only person the poster has is their dad, who is often away for work. The poster finds it harder to meet people in a neighborhood than in an RV park, where everything was within walking distance and socializing was easier. They have a disability that makes tasks like handling money difficult, can’t drive, and struggle to get a job. They don’t want dating or constant visitors, just a casual hangout spot to chat, but the only nearby place is a bar and grill that doesn’t really function as a social hangout.

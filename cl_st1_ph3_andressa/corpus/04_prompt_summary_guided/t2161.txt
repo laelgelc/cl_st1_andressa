@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 174–262 words.
+
+The poster feels deeply damaged by past trauma and believes they can’t be fully honest about it because the details make others uncomfortable. Although they have a supportive network and close friends, they still feel lonely and unable to form “real” connections, as if there’s a barrier between them. They suspect their own difficulty believing others could truly like them leads them to keep people at a distance. They’re trying hard to improve and understand that progress is slow, but they often feel intense anger, loneliness, misery, bitterness, and emptiness.

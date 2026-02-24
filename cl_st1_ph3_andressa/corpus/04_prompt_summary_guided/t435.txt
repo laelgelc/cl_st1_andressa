@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 107–161 words.
+
+The poster is a 17-year-old high school junior who feels extremely lonely and like an outsider. They’ve been single for three years but still vividly remember their ex and small details about her, which makes it harder to move on. They deeply want a relationship but believe it will never happen for them. Video games provide only temporary distraction, and seeing couples at school and in public intensifies their loneliness, which feels constant and unresolved.

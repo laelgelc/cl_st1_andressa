@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 59–89 words.
+
+A 16-year-old boy describes feeling very lonely and isolated. He says he is over 300 pounds, considers himself very unattractive, has no friends in real life or online, and no partner. He stays in his room all the time, doesn’t go to school, and feels like he’s going to die alone. He feels his family doesn’t care about his mental health and just tells him to “suck it up,” leaving him with no one to turn to.

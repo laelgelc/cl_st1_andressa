@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 102–154 words.
+
+The poster, who has epilepsy usually controlled by medication, describes having one of their worst seizure episodes: they fell and injured their nose, then continued seizing so badly they had to crawl to their bedroom to reach their medicine and water, and lay there seizing until the medication took effect. They feel that no one knows or cares about what they go through and, in their mid-30s, they fear that their future holds only more illness and loneliness.

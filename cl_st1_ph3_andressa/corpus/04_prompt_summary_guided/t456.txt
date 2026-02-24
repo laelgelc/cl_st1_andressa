@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 144–216 words.
+
+The poster describes growing up as a dreamer and, at age 20, deciding to learn music despite others doubting and warning it would be difficult. It took a long time to get instruments and about five years of serious learning before they truly found themselves and fell in love with their dream. They still consider themselves a beginner but feel they are finally on the path they always wanted, motivated by a promise to their younger self to make the dream come true. They explain that the picture they mention represents this personal journey and is not an advertisement, but something they hope will speak to others.

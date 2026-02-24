@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 117–175 words.
+
+The poster has recently lost their grandfather and their dog, and since then feels overwhelmed by grief and like everything bad is happening at once. They feel drained by their job, have no source of love or comfort, and describe feeling shattered and unable to remember what “okay” feels like. Grief hits them in sudden waves during normal daily life, and when they briefly feel distracted or happy, they feel guilty, as if it’s wrong to feel okay. They feel extremely lonely and just needed a place to express these feelings.

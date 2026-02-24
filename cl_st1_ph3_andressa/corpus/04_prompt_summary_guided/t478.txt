@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 82–122 words.
+
+The poster feels extremely lonely and bored, unable to focus on anything or enjoy activities. They start books and shows but quickly lose interest, don’t cook, and repeatedly download dating apps, then feel bad about themselves. Sometimes they go to bars, get drunk, and hope someone will love them, but it only makes them feel more stupid and lonely. They question why they keep doing these things and why they can’t just accept “defeat.”

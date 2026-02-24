@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 134–202 words.
+
+The writer reflects on “why care” about life and the future, feeling unable to express their thoughts and being misunderstood. They use a metaphor of the moon, whose unseen work keeps people safe but goes unappreciated, until a lone wolf howls in admiration. The moon stays because she feels valued, and the wolf stays awake to keep her company; they find mutual worth in each other but eventually must part. This leads the writer back to a sense of futility, questioning what the point of caring is if everything ends.

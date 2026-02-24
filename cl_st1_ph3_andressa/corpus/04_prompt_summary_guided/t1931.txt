@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 166–248 words.
+
+The writer feels very stressed and unhappy with their social situation at a small boarding school. Their roommate is generally nice but sometimes takes her anger out on them. Most girls in their class are immature, chaotic, or mean, and the boys are described as arrogant and disgusting. They feel caught between different groups of girls who are either chaotic/immature or shallow/mean, don’t feel like they belong anywhere, and just drift between groups.

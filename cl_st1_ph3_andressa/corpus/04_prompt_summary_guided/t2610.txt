@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 102–152 words.
+
+The poster has been a content loner for about 10 years, happy in their own company and never feeling lonely. After eating alone at a mall food court and seeing many couples, something changed and they started feeling lonely and wishing they had someone. This new feeling has lasted about eight months and surprises them. They believe they can’t maintain a relationship and have no relationship or social experience. They can’t afford therapy, don’t trust Google for advice, and are asking other loners if they’ve experienced something similar.

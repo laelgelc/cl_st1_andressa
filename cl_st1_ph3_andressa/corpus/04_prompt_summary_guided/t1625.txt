@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 141–211 words.
+
+The poster recently had a stroke (CVA) and was diagnosed with a brain tumor, undergoing chemo and radiotherapy, which has been very hard mentally and emotionally. They tried to lean on their best friend for support, but the friend said it was too much and didn’t want to hear it, so the poster blocked her, feeling hurt and disbelieving that their best friend wouldn’t support them. They now feel lonelier than ever, have few friends (mostly online) and want real-life connections. They also lost their boyfriend during this period, which made everything harder. They end by asking others how they cope with loneliness.

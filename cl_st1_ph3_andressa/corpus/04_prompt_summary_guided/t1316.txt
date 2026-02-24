@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 158–238 words.
+
+The poster says they’re outgoing and can make friends easily, but their friendships don’t last or become deep, long-term connections, and they don’t understand why. They worry they might be annoying, just a “friend of convenience,” or that old rumors about them are putting people off. They recently stopped taking Citalopram, which hasn’t helped their feelings. A current example is a friend who used to always want to hang out but now leaves their messages on read and doesn’t explain why. The poster feels lonely, doesn’t want to use a romantic relationship to fill the void again, and wants to improve at maintaining friendships but doesn’t know how.

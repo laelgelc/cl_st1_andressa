@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 80–120 words.
+
+The poster is a 32-year-old loner artist with a regular 9–5 job. On weekends they like to smoke weed or take shrooms, listen to music, and paint or draw. They also enjoy sitting in silence, meditating, and creating music. They sing, compose on piano, and make R&B/soul music using Logic. They’re interested in experimenting with their consciousness and learning about the metaphysical, and describe themselves as a loner artist nerd who needs reset time. They end by asking others what their interests are and what they like doing in their solitude.

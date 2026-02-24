@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 98–146 words.
+
+The poster feels hurt and lonely because their close friend, who used to come to them first with news and made them feel like they had a best friend, has recently made many new friends and no longer prioritizes them. As an adult, they feel childish for being upset but are deeply affected, especially since they don’t have other friends or a social life, which makes their days feel empty. They miss how the friendship used to be.

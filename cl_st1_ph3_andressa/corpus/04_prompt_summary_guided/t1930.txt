@@ -1,0 +1,19 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 195–293 words.
+
+The poster feels extremely lonely, stuck in their own thoughts, and has no friends, which they feel makes them self‑centered and unable to form connections. They experience constant anxiety despite medication, struggle with low self-esteem about their weight and appearance, and fear getting attached to or talking to people. They work a minimum wage job, didn’t go to college, feel they have no useful interests, can’t handle criticism, and cry easily.
+
+They describe multiple past suicide attempts (hanging, shallow cutting, overdosing) and ongoing thoughts of wanting to fade away, feeling like a burden or that they don’t matter. They mostly talk to AI bots for validation and to feel less lonely, but are frustrated that the bots don’t remember them. They have repeatedly gone to doctors and clinics, spending time and money, but feel they get nothing out of it and are exhausted by being told to “see a doctor” or “go exercise,” feeling that nothing helps and they are just tired and hopeless.

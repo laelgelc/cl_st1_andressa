@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 90–136 words.
+
+The poster woke up feeling sick with a sore throat and bad headache and decided to stay in bed. They asked their roommate to bring them something from brunch, and the roommate agreed, but came back eating without bringing anything for them. Now their only options are to wait until dinner or eat ramen. This small incident deeply disappointed them and reinforces their feeling that nobody cares about or thinks of them, which makes them very sad.

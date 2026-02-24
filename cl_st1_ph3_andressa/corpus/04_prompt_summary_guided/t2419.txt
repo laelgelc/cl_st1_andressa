@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 194–290 words.
+
+The poster describes how people often claim lonely people “deserve” their loneliness and could fix it just by working on themselves, as if good things automatically happen to good people and bad things to bad people. They note that society acknowledges victims of abusers but ignores “lonely saints,” assuming anyone suffering in isolation must have done something wrong. They recall an online friend who said all lonely men are bastards who deserve it, then hastily exempted the poster as an exception while still condemning others. The poster feels that people talk this way about lonely people in the abstract, never directly, and suspects it’s because it’s easier for them to label suffering as karma than to accept the world’s unfairness and nuance.

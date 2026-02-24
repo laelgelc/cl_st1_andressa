@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 187–281 words.
+
+The 16-year-old poster says they don’t see themselves as a loner but feel very alone and usually avoid sharing problems online. They had depression about a year ago, which left lasting emotional scars. They feel untalented and inferior to others, consider themselves not particularly good-looking, are insecure about being short (170 cm) and not muscular, and struggle with getting any success with girls, believing they’ll never have a girlfriend. They have used drugs and alcohol, previously with an addiction, and now occasionally use them as a way to numb themselves rather than actively wanting to die. Despite their struggles, they say they enjoy helping other people with their problems.

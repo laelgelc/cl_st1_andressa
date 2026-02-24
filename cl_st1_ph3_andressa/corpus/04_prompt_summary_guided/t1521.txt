@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 145–217 words.
+
+The poster is looking for an authentic friendship with someone who deeply identifies with Dominique “Dom” DiPierro, not just casually but in a profound way. They want a woman who feels alone even in a crowd, refuses shallow or empty connections, and values direct, sometimes painful honesty over any kind of lie. They describe someone who appears strong outwardly but carries an inner crack that makes her genuine rather than broken. Location doesn’t matter; what matters is clear, unfiltered communication and a shared way of being in the world. They emphasize that only people who truly resonate with this should respond.

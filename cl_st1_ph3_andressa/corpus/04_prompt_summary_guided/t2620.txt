@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 98–148 words.
+
+The poster says they’ve always struggled to emotionally connect with others, which is a big reason they became a loner. They do have people in their life (family and a partner), but still feel no real emotional connection, even with those closest to them, and have resigned themselves to pretending to be understood. Their emotions feel very deep, and they strongly crave someone—friend, family, or romantic partner—who can meet them at that depth, but they haven’t found anyone. They ask if others feel the same and if they’ve also closed themselves off for this reason.

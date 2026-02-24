@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 144–216 words.
+
+24-year-old woman describes a life of extreme isolation due to overprotective parents who never allowed her to have friends or meet peers, leaving her with no social skills and no experience of real-life friendships. She feels trapped living at home because her parents are old and frequently sick, and the house feels more like a hospital than a home. She resents her mother for dumping problems on her and blocking every attempt to escape, but also feels guilty for these feelings because her parents provided basic needs. Her hobbies and ambitions have withered in this environment, she feels ashamed of where she lives, and she is deeply frustrated and lonely. She doesn’t want advice and is just venting.

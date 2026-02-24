@@ -1,0 +1,19 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 314–472 words.
+
+The poster feels very lonely and notes their therapist says many clients feel the same. They see loneliness affecting many people they know, including a married friend, and say it’s not tied to money, since both millionaires and people near homelessness feel alone. They try to live with community values, compromise, and less self-obsession, and don’t think loneliness is just about people being socially bad or lazy.
+
+They believe real connection requires mutual risk, uncertainty, and giving up some control, but feel society treats relationships like corporate risk calculations—people cut others off at the first red flag and protect their inner worlds. The poster admits they also sometimes cut people off who “don’t serve” them and wonders if more patience could help. They feel disposable and used for their career status rather than valued for who they are, and they’re mainly ranting but hoping others can relate and share how they cope.

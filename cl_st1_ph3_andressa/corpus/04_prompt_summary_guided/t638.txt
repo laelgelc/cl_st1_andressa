@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 170–256 words.
+
+The poster says they don’t really have close friends, just one extroverted friend they see a few times a year, and they feel like they’re not special to him. After recently celebrating their birthday with this friend, they decided to stop “wasting” their youth and went to a party alone. The experience felt lame and awkward; they mostly looked at their phone and blame themselves rather than the party. Feeling a bit drunk and unsure, they’re wondering if they should just accept this situation or if others have been in a similar place and how they managed to change it.

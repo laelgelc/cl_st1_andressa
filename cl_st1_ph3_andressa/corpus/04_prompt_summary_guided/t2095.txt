@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 58–88 words.
+
+The poster is 20 years old and has felt deeply lonely their whole life. They’re afraid this loneliness will last forever and say they’re not scared of death, but of lifelong loneliness. They mention having previously attempted suicide and describe feeling defeated because, despite trying hard to be social, make connections, and improve themselves, nothing seems to change their loneliness.

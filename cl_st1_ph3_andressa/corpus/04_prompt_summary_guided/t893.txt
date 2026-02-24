@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 150–226 words.
+
+The poster feels an intense, possibly unprecedented level of loneliness and is scared about the future, especially when school starts and they’ll be more isolated. They only work weekends, which limits time with family, and they feel their family is falling apart. Aside from the people they live with, they have no friends, no girlfriend, and only one online friend they barely talk to. Their life feels like a cycle of working, doomscrolling, eating, and sleeping, with no one to do fun things with. They emphasize that they won’t hurt themselves or anyone else, but the emotional pain is strong. They miss laughing, having a life outside their routine, and having people to be silly with, and they feel overwhelmingly alone.

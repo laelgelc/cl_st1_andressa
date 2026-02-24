@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 105–157 words.
+
+The poster hates that they quickly develop romantic feelings for any woman who shows them kindness or attention, even when they know she’s probably just being friendly. This has happened many times, and despite telling themselves it’s “just being nice,” a part of them still catches feelings. As a result, things become awkward, and they end up pulling away to avoid making it weirder or getting hurt when they find out she’s already with someone else.

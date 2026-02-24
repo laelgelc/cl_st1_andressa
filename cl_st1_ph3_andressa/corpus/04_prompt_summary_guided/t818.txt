@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 36–54 words.
+
+The poster believed they had found “the one,” but the relationship ended and now they see that person as “the one that got away.” They’re hopeful they’ll eventually find someone else who fits what they want, but they’re hurting and frustrated that what they thought they already had has disappeared.

@@ -1,0 +1,19 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 307–461 words.
+
+The poster dislikes their birthday because it reminds them they feel like they’re doing nothing with their life. They recently started a tough construction job in -15°C after a year of almost no work and feel weak and inadequate compared to older coworkers who don’t complain. For several days they’ve felt emotionally numb and in a mental fog, even forgetting their own birthday, which only their dad and grandma acknowledged.
+
+They feel something is deeply wrong and that they can’t live like “normal people.” A brief moment of warmth came from playing Minecraft with a friend, but it faded, and that friend has said they should stop talking someday. They have friends in real life but feel unable to talk to them about their emptiness. They describe themselves as asexual and uncomfortable discussing it. They live in Latvia as a Russian, feel disliked because of their nationality and the war, feel they have no homeland and no friends who truly understand them, and must use English instead of Russian. They often cry and now feel a deep emptiness, comparing life to an arthouse film in a foreign language where something is happening but they don’t understand it. They’re not even sure why they wrote the post.

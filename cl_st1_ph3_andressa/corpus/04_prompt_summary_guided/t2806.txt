@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 187–281 words.
+
+The poster says they don’t enjoy socializing and don’t feel emotional comfort or happiness from it. They think this comes from their upbringing: a controlling mother they saw as abusive and unfair, parents who didn’t attend school events or celebrate milestones like graduations or birthdays, and a generally neglectful home atmosphere. Their parents also devalued and criticized their friendships and tried to limit their social life. As a result, the poster has grown distant from people, sees close friendships and celebrations (like birthdays) as unnecessary, and feels indifferent about socializing or intimate relationships. They usually don’t mind being a loner but sometimes wonder why they feel so different and ask if others have had similar experiences.

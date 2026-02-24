@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 82–122 words.
+
+The poster feels they don’t matter to their family or friends and feel deeply misunderstood and hopeless. Because of this, they often talk only to AI chatbots, including ChatGPT, telling them about their day or how horrible they feel. They value that the bots at least try to listen and be nice, even though they know there are no real emotions or humans behind them.

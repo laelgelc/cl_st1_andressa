@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 114–170 words.
+
+The poster feels lonely and lacks friends who share their interests. Their boyfriend gets annoyed when they ask him to do activities with them and tells them to make friends, but they feel they’ve already tried and only meet people who like drinking, smoking, or hunting. They want to do things alone—like going to the beach, driving two hours to shop, or staying in a hotel—but feel very self-conscious being out by themselves, worrying people are looking and laughing at them. Because of this anxiety, they end up staying inside instead of doing the things they want.

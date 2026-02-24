@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 53–79 words.
+
+The poster feels very lonely, especially when they see online clips of friends gaming together and sharing hobbies without judgment, and when they see couples around them. They have never had a valentine, were always left out at school when others received roses or special grams, and instead experienced rejection, which has made them used to feeling this way.

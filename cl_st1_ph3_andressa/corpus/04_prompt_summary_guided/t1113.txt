@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 83–125 words.
+
+The poster feels deeply discouraged and hopeless about finding a partner. They say they’ve tried talking to many women but never “click” with anyone, and the effort is always one-sided with no one responding or showing interest. They don’t see themselves as extremely unattractive or stupid, but they’re exhausted from searching for a “special person” and tormented by imagining a life where someone loved them. They question whether they are unlovable or so bland that no one cares about them.

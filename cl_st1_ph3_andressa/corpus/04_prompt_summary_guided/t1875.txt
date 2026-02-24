@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 55–83 words.
+
+The poster longs for a real, in-person friend they can spend time with—someone who enjoys their company, laughs at their jokes, listens to them, and shares physical affection like hugs. They haven’t had this kind of connection in a long time. Most of the time they feel okay, but having a dream about it reminds them how much they miss having somebody and emotionally unsettles them.

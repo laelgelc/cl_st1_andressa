@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 178–268 words.
+
+The poster describes a toxic social environment in their college where many guys constantly put others down and provoke reactions to gain attention and status. If someone doesn’t join in, they feel left out. A few people target the poster as soon as they arrive, insulting them to entertain others, then act nice when no one else is around. Even otherwise “good” people are influenced by these behavior patterns and start seeing and calling the poster an asshole too. The poster experienced a similar dynamic in 7th grade and left that friend group, but now feels stuck with this environment in college for four years and doesn’t know what to do.

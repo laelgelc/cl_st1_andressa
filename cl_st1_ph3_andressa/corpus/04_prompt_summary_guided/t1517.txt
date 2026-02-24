@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 94–142 words.
+
+The poster grew up in an abusive, loveless, broken home and had to figure out life alone. They’ve had three failed marriages and no children, lost their true friends (some passed away), and discovered other friends weren’t real. They struggle with trust issues and poor social skills, avoid going out, and fear rejection, which makes them withdraw. Loneliness hits hardest at night before bed, and they feel exhausted from “crying inside.”

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 244–366 words.
+
+The poster is a 21-year-old woman who has long felt she doesn’t want to live past 30, and these feelings have intensified after the recent death of her ex-boyfriend, whom she still considered her boyfriend and loved deeply. Their relationship left her with lasting emotional hurt and self-esteem issues. His family has been supportive but is now upset with her and expects her to mediate their conflicts, while no one checks in on her first. Her friends also don’t reach out unless she initiates contact. She has no car, money, job, or place of her own and feels she has nothing going for her. She is dealing with significant physical health problems, exhaustion, emotional instability, and has borderline personality disorder, which she can sometimes manage but not always. Her relationship with her own family is strained, and she feels unable to eat, sleep, relax, or enjoy things she once liked. She is trying to cope but questions the point of it all and feels scared being so alone.

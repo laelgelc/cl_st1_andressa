@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 101–151 words.
+
+The poster feels conflicted about their friendships: they technically have friends but doubt that these friends truly like or care about them, and they worry they’re a burden when they talk about their problems. They feel chronically lonely and misunderstood, and are torn between two options: either accepting “reality” as they see it (that no one really understands, cares about, or likes them, and isolating themselves as a loner) or continuing to make an effort to get closer to people and try to be appreciated.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 203–305 words.
+
+The writer is confused about their feelings for a long‑time friend who has liked them for years. When he confessed 6–7 months ago, they felt weird and ghosted him, then reconnected three months ago and started talking daily. They felt both attached and “icky” and recently stopped talking to him again because they felt suffocated, telling him they’d never like him even though they’re unsure of their feelings. After he sent a kind, non‑pressuring message about how much he likes them, they cried, couldn’t sleep, and now miss him but don’t know if it’s genuine or just loneliness. They feel very guilty, are hurt and overthinking, suspect they might have a fearful‑avoidant attachment style, and want to work on their feelings but don’t know where to start.

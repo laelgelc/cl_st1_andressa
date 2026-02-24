@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 141–211 words.
+
+The poster feels deeply lonely despite surrounding themself with people and trying hard to be friendly and involved. They recently did bar service at a queer venue, put effort into their appearance, and smiled at everyone, but people only spoke to them when they initiated. They feel like a fifth wheel and an intruder, with no real friends where they live, so they chose to keep working instead of taking a break. They apologize for “whining,” saying they’ve been told not to be so whiny, but hope it’s acceptable on this subreddit. They see themself not as a “cool butch girl” but as a clingy, lonely weirdo who’s trying too hard.

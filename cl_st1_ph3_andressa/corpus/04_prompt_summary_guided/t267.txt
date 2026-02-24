@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 96–144 words.
+
+The poster says they keep meeting nice people but don’t have the energy to maintain friendships or get to know new people right now. They dislike being FaceTimed and texted frequently, especially after clearly telling these people they’re not in a place to have a friendship. Despite this, the others keep messaging multiple times a day. The poster is taking six months to focus on themselves and doesn’t see a problem with that, and asks if anyone else experiences this.

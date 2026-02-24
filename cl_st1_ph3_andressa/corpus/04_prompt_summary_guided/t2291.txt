@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 53–79 words.
+
+The poster has recently started trying to take better care of themselves and do more than just lie in bed, but they feel no motivation or will to continue. They describe the effort as extremely hard and feel conflicted: they know they need to do it “for me,” yet they almost can’t, and they question what the point is if they’re already in a bad place.

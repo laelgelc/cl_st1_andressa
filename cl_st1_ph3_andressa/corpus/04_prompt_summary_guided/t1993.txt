@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 91–137 words.
+
+The poster was in a five-year relationship and their partner, who was also their best friend and main person to talk to, broke up with them. They still talk, but it’s clearly different and painful, especially seeing how easily he talks to many other people and seems to have replaced them while they feel they have no one. They struggle to make friends, feel they need others to share a very niche hobby to connect, and find real-life socializing and people in general draining and unpleasant. Overall, they feel hurt and that the situation “just sucks.”

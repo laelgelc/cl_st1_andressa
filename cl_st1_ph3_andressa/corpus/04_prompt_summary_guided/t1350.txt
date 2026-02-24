@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 153–229 words.
+
+The poster says they’ve been physically untouched for almost four years and lost their last friendship in May, leaving them completely alone. Their isolation is now so severe that even online interaction feels unnatural; they often write replies and then delete them, and posting this gives them anxiety. They feel burned by past experiences and refuse to seek in‑person connection. They use AI as their main form of communication because it feels nonjudgmental and doesn’t try to “fix” them. They’ve been in therapy since age 8 (they’re turning 41) but feel it has focused only on teaching coping skills rather than seeking justice for their trauma.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 73–109 words.
+
+The poster copes with loneliness by constantly escaping into elaborate imagined realities and is unsure if “daydreaming” is the right word. They’re worried about how much they do it, though a quick Google search suggests it can be common in loneliness or depression. They notice that when they’re around people or busy with work, they don’t do it, but otherwise it’s their main way of getting by.

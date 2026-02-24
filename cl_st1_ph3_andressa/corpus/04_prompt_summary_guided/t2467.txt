@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 91–137 words.
+
+The poster feels overwhelmed by debt, including medical debt inherited from their deceased father, and has no one to rely on. They never got along with people at school, feel their degree is useless, and are stuck in a low-paying job, living paycheck to paycheck and fearing being fired. Because of their struggles and suffering, they have decided never to have children so no one else has to inherit their problems. They see their life as a cruel joke that feels worse with each passing day.

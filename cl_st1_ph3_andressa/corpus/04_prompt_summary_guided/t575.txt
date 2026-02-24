@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 143–215 words.
+
+The poster is spending Thanksgiving alone in Northern Virginia for the first time since COVID, after recently breaking up with their live-in boyfriend and preparing to move out next week. Their family and most friends are in New York, and they chose not to travel to save money for the expensive move, though they’re second-guessing that choice. They’ll see family at Christmas/Yule and have New Year’s Eve plans in Vegas with friends, but today they feel lonely because local relatives are away and friends (including the ex) are busy with partners or work. They’re with their longtime cat, planning to see a movie (“Rental Family” with Brendan Fraser), eat at Cracker Barrel, and call their parents, but they mostly just want the day to pass quickly and are reflecting on how they ended up in this situation, asking if others are in a similar spot.

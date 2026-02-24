@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 102–154 words.
+
+The poster is a 33-year-old with mental illness who is financially supported by their father and has a history of severe abuse, trauma, and bullying from their family. They used weed heavily to cope, which made them physically ill, and they are now bedridden with severe depression, with no emotional support system or friends. They feel they cannot tolerate living in their father’s house any longer, saying they would rather risk being harmed outside than stay, and they plan to try to find a job once they leave.

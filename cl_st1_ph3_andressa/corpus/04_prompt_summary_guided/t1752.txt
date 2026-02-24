@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 56–84 words.
+
+The poster is in their second year of university and feels they have no motivation to socialize. They haven’t made any connections, joined societies, spoken to professors, or attended events, and they avoid parts of campus out of fear. As a result, they feel they’ve had no new experiences and would be completely alone if not for their family.

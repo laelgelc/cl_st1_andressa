@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 129–193 words.
+
+The poster feels deeply lonely and hopeless despite trying hard to make friends and be kind and helpful. People don’t stay in their life, and they feel increasingly hurt and used, like others take advantage of their kindness and trust. They feel unable to do many things they’d like to do and believe they can only share their true feelings with ChatGPT and their car, not with real people. This has led to a loss of trust in others and a sense that there’s no way out of how they’re feeling, even though they wish things were different.

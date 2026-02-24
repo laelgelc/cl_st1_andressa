@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 76–114 words.
+
+The poster feels extremely lonely, with no friends and a family that doesn’t understand what they’re going through. They briefly felt a sense of connection and relief when someone called to ask for a small loan and discussed repayment. They are under constant pressure from people at work and at home to get married, which adds to their loneliness. They’ve tried dating, but it hasn’t worked out, and others blame them for these failures.

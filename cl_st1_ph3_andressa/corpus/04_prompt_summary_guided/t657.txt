@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 127–191 words.
+
+The poster feels disrespected and not taken seriously at work because of their appearance, voice, and mannerisms. In their romantic relationships, they’ve been neglected and cheated on in two out of three relationships, and one ex abandoned them at a mall—forcing them to walk 30 miles home while they were there to look for an engagement ring. They’ve also been told that only a desperate girl would ever love them. These experiences have led them to give up on people and strongly dislike others.

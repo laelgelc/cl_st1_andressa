@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 174–260 words.
+
+Ammar, a professional concept artist who goes by “Untamed Draws” online, feels deeply lonely despite having a creative “dream job” and many interests like art, music, games, food, self-care, home building, and gardening. As an empath, he feels others deeply but currently lacks meaningful human connection. He’s reaching out in hopes of finding someone who understands this kind of loneliness and is open to slow, deep, or quiet conversations about life, art, existence, or everyday things.

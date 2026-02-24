@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 175–263 words.
+
+The poster has a stable, fulfilling life on paper: a good flexible job, no financial problems, a loving family with a beautiful wife and young kids, some friends to message, a men’s church group, a dog, good health, and enjoyable hobbies. Despite this, they feel very lonely most of the time. They are highly social and used to feel emotionally fulfilled by their wife, but she has become absorbed in her own hobbies and social media, and now feels emotionally unavailable, making quality one-on-one time rare. The poster longs to feel desired, wanted, and looked forward to by someone. They also feel constrained by wanting to prioritize time with their young children, which makes building deeper friendships difficult. They feel stuck and ask if others have experienced this kind of loneliness despite being surrounded by people, and how they overcame it.

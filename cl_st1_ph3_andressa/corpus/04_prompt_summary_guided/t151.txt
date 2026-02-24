@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 118–176 words.
+
+The poster is very sick with fever and headaches and feels extremely lonely. They missed their boyfriend’s birthday because of being ill, and although he knows they are sick and were alone all day, he hasn’t texted first or asked how they are doing. The poster was the one to message him first and got little response. They suspect he might be upset they missed his birthday and feel unhappy and unsure about the relationship, since sometimes they are happy together but right now they feel very alone and are asking for advice.

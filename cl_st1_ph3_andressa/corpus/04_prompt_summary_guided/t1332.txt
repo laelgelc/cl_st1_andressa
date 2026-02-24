@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 140–210 words.
+
+The poster feels intensely lonely and abandoned, with no one to talk to in low moments—not even their twin. Their mother no longer calls, and their best friend ignores over 30 unread messages, including an “I love you.” They’ve tried to become more likeable by developing skills like exceptional cooking for others, while secretly struggling with anorexia that often goes unnoticed. Despite having a wide social circle, they feel excluded as others are absorbed in their families or relationships. Living in a remote village deepens their sense that they could disappear or move far away and no one would really notice.

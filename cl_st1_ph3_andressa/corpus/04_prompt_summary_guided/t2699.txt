@@ -1,0 +1,21 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 294–440 words.
+
+The poster has recently cut ties with a long-term friend group that was full of drama. The final straw was discovering that two friends had made mocking YouTube videos about them; when confronted, those friends responded by punching them in a “half-jokey” way, which made the poster decide to leave the group.
+
+After a school lockdown, they’re now returning and feel anxious about being alone. They’re in a small British school year where everyone knows each other; they’re on good terms with many classmates but don’t feel they have much in common, and with only about a year left before college, they don’t feel motivated to build new friendships.
+
+Their main concern is that acquaintances often ask where their old friend group is when they see them alone, and they don’t want to explain the situation or revisit the drama. Because of COVID restrictions, their year is confined to a small area, so people will easily notice they’re by themselves. They’re asking how to deflect attention and questions while still being able to stay alone and “do their own thing.”

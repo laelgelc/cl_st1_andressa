@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 106–160 words.
+
+The poster describes feeling intensely lonely, with no messages, no one checking in, and no plans. They replay past rejections and awkward moments in their head, taking them as proof they’re not worth reaching out to, which makes it harder to try connecting and feel like they’re disappearing. They say acknowledging how much it hurts has been the first step to breaking the cycle a little, and they ask if others also feel overwhelmed by silence and what recurring thoughts make it worse for them.

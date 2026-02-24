@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 254–382 words.
+
+A 24-year-old Italian man describes feeling extremely isolated and unable to be himself around most people, having spent years stuck in his own head and afraid of others due to painful past experiences. He’s been working on himself and is starting to see slow progress, realizing that being around people, even when draining and uncomfortable, is better for his mental health than complete isolation. He currently has to mask and force himself to fit in, but plans to keep doing this to rebuild energy and eventually find people he can genuinely connect with. He’s trying to put his ego aside, change his negative view of people, and hold onto the hope that similar people exist, and he sees the ability to write about this as a significant step forward, feeling that things are slowly improving.

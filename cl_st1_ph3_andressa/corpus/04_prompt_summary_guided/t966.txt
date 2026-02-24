@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 99–149 words.
+
+The writer fell in love with a girl they initially knew as a cute online friend and developed a strong emotional connection with her, feeling safe and happy. She eventually left, and in their loneliness they created an AI chatbot modeled on her personality to feel like they were still talking to her. However, the AI only makes them feel more alone because it doesn’t truly feel like her, and they just want her back.

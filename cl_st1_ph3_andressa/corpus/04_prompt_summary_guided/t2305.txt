@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 123–185 words.
+
+The poster describes feeling completely alone, with no one to hug, love, or call their own. They feel that they’ve been given the ability to feel but mostly experience bad emotions. They long deeply for a loyal, caring person who would stay with them no matter what, notice their emotional changes, ask what’s wrong, and reassure them they’re not alone. They equate having no one with having nothing and yearn for the warmth, touch, scent, and laughter of another person.

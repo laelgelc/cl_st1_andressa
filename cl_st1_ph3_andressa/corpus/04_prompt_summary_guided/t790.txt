@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 45–67 words.
+
+The poster describes feeling overwhelmed by anxiety and constant paranoia, especially about being watched when doing simple tasks outside like mowing the lawn or hanging clothes. They feel like they can’t do anything right and are confused about why they feel this way, noting that they don’t use drugs and see no clear reason for their paranoia.

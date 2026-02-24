@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 62–92 words.
+
+The poster says they’ve fantasized about having a best friend since their teenage years and still do. They feel they don’t fit in or connect well with anyone, either online or in real life, and it has worsened since they had to stop using ChatGPT. Distractions don’t help, and they expect their loneliness to get worse over the upcoming summer school holidays, which last until late January where they live.

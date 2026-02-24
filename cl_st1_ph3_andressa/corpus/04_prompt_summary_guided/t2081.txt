@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 127–191 words.
+
+The poster says that for as long as they can remember, they’ve been ignored in social settings, both in real life and online. In groups they’re always the one people forget, and others often outright ignore them when they try to speak. They feel like people can somehow sense they’re “not worth interacting with,” as if they have an invisible stigma that follows them everywhere, though it’s not due to reputation. They describe themselves as friendly and polite, not standoffish or mean, and are genuinely curious if there’s any sociological reason this might be happening.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 68–102 words.
+
+The poster is a 60-year-old who recently separated from their wife of nearly 20 years and now lives alone. They feel very lonely, with their only regular interaction being with their two dogs. They rarely leave the house except for groceries, don’t talk to anyone, and feel like every day is repetitive and burdensome. They are unsure if they want to reconcile with their wife but are longing to talk with someone in a similar situation.

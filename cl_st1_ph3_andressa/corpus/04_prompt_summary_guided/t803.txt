@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 188–282 words.
+
+Nicolas, 22, says he has never had any romantic or sexual experience with a woman—no dates, no flirting, and only recently held a girl’s hand. For over four years he feels he’s had no real romantic contact, despite being sociable, having friends, going out, and not considering himself ugly. He feels women always see him only as a “gentleman,” and his attempts to adjust his behavior while still being himself haven’t changed that. He has many problems in his life and wishes for a girlfriend to share love with and ease his emotional burden. He rejects the idea of seeing an escort because he wants genuine love and acceptance for who he is. He feels that in today’s society he may never be accepted or find anyone who will love him.

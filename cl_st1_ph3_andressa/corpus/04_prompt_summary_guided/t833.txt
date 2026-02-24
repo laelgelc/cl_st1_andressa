@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 75–113 words.
+
+The poster stayed home while all their friends left for university. After about four weeks, they haven’t formed any stable new friendships and feel frustrated and lonely. Their old friends now have new friend groups and go out without them, and no one contacts the poster unless they reach out first. They sometimes go out alone, but it feels very lonely compared to when they used to have a few really good friends.

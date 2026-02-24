@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 74–110 words.
+
+The poster says they genuinely like being alone and don’t need friends, relationships, or other people to be happy. They dislike social rules and beliefs that say everyone should have friends or get married, and they feel society sees preferring solitude as bad and unacceptable. They don’t care about society’s expectations, see themselves as different, don’t want to be a “sheep,” and are asking if it’s wrong to feel this way.

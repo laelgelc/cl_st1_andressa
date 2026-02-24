@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 120–180 words.
+
+The writer feels emotionally drained every day and especially hurt on special days like their birthday, when family criticizes their behavior, appearance, and even their friends. They used to feel confident and think they looked pretty, but repeated negative comments have damaged their self-image. They’ve tried coping by eating less and isolating themselves, but both are painful. Although they have many friend groups, they still feel alone and can easily imagine their friends being happier without them. Attempts to get used to being alone or to make themselves happy haven’t worked. Because of their experiences, even small gestures like a “thank you,” a birthday wish, or a gift mean a lot to them. They apologize for the length of the post and mention they are new to Reddit.

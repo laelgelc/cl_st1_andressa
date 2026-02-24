@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 242–362 words.
+
+The poster describes a series of difficult relationship experiences: first, realizing too late that they had been in love; then, out of desperation for affection, entering a short but horrible relationship with someone they didn’t really like, which taught them not to lower their standards. Later, they developed feelings for an old friend but now believe those feelings were driven more by fear of being alone than genuine love, so nothing serious happened. They’ve since adopted two principles: not letting fear, uncertainty, or despair guide their choices, and not settling for harmful relationships. They’ve been alone and somewhat lonely for about a year but mostly okay with it. However, they now fear not whether someone will love them again, but whether they themselves will ever truly feel love again, as they feel like they’ve been “thinking” their emotions instead of really feeling them and worry they may not be able to fully feel again.

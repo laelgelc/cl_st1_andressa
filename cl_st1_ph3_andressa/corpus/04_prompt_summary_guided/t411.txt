@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 148–222 words.
+
+The poster has struggled with depression and intrusive negative thoughts their whole life, and used being in a relationship as a way to quiet those thoughts instead of seeking proper help. After that relationship ended, they felt alone again, but this time not by choice, and now feel like they’re meant to be alone and don’t deserve love, comfort, or another person’s calming presence. They recognize these thoughts come from an “ill‑minded” place but still find them exhausting, and are using the post as a way to vent.

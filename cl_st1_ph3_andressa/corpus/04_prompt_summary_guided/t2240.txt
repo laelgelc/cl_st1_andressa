@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 82–122 words.
+
+27-year-old woman with social anxiety and depression says she used to overshare and lost many people, and now has no friends. Her parents sometimes pressure her to get married, but she’s afraid that marrying without a social circle will trap her, especially if things go wrong and she has no support. She’s also worried about her safety and security as a woman in India and feels clueless about what to do, unable to find an answer.

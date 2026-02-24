@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 68–102 words.
+
+The 19-year-old poster feels extremely alone and believes people around them genuinely hate them. There are awful, false rumors about them, possibly including new ones they don’t even know about. They’re frustrated and confused that the same people who made their life hell in high school are still treating them badly afterward. It makes them angry that those people are living their lives with friends while the poster feels stuck at rock bottom, exactly where those people want them to be.

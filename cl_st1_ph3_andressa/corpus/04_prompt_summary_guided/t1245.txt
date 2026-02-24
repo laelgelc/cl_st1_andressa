@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 118–178 words.
+
+The poster recently discovered that someone they saw as a close friend had been dishonest and sharing their personal vulnerabilities, so they tried to end the friendship and eventually blocked them when it became too emotionally draining. Now, at the start of the new year, they feel very alone, with no one to talk to outside their family, and they’re conflicted—partly regretting cutting this person off even though they know the friendship was unhealthy. Over the past year they’ve experienced multiple losses: moving back home, losing friendships, losing their first love, and feeling like they’ve lost their old sense of self, as if everything familiar is falling away. They’re asking how others cope with this kind of loneliness and life transition, and what helps them stay hopeful that better people will eventually come into their life.

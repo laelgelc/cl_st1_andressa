@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 155–233 words.
+
+The 19-year-old male poster feels that no one in his life likes or cares about him. He says he has no friends, and his parents have explicitly told him they don’t care about him, comparing it to not caring about a stranger. A recent incident with friends—where one assaulted him while drunk and the others only contacted him to ask for money for accommodation and then ghosted him—made him realize they don’t care about him either. He also struggles to make friends or feel comfortable in public because of visible third-degree burns on his face and arm. He mainly wanted to share this with someone and thanks anyone who reads his post.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 169–253 words.
+
+The poster has recently come out of a few difficult years grieving a parent and other tough life events and, for the first time in a while, actually wants to celebrate. They’re used to doing things alone and prefer their own company to being around people who make them uncomfortable or misunderstood, but being out in loud, social environments where everyone is with someone else ends up feeling intolerable and like a waste of time and money. They have mostly online, male acquaintances from dating apps but don’t want that kind of dynamic anymore. They’re considering celebrating by going to a ski resort for a day or treating themselves to a spa day, alongside doing some side work and studying.

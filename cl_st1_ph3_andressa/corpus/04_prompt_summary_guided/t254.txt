@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 311–467 words.
+
+21-year-old man, still a virgin with little dating experience, describes how last summer his life seemed to be improving: work promotion on the horizon, school going well, working out regularly, and meeting a shy coworker he found very attractive who shared his interests and was friendly toward him. She moved away for college, then later returned and became flirty; they sexted and planned to meet, but plans fell through. Feeling it was his last chance and growing impatient, he confessed his feelings, and she replied that she doesn’t catch feelings. He then got drunk, sent her nasty, forceful messages, and she blocked him. Since then he feels hopeless and lost, quit his job due to the toll it took, is still in school but uncertain about his future, has stopped working out, is isolating himself, and feels that whenever life starts to come together, it eventually falls apart.

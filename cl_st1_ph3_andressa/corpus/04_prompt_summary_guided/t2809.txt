@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 136–204 words.
+
+The post shares lyrics describing someone who feels detached from others and increasingly indifferent to a specific person. They find comfort and freedom in solitude, preferring their own company over social interaction. While others make friends and socialize, the narrator feels that no one can understand or match how they feel, and they experience a kind of private, internal “party” in their own head where others aren’t invited.

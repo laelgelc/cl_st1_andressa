@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 118–176 words.
+
+The poster, Wren, is a 15-year-old who feels hurt and confused after repeated experiences of being ghosted by three people and once being dumped for another girl. Her most recent boyfriend suddenly blocked or removed her without explanation, which she interprets as being ghosted again. She describes a pattern where guys talk about a future together and say they love her, but leave as soon as she becomes attached, and she questions why men can discard her so easily and seem not to care about her feelings.

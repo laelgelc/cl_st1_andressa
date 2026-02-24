@@ -1,0 +1,19 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 231–347 words.
+
+A 20-year-old trans woman describes feeling very lonely and unseen. She transitioned in adolescence and has lived her teen and young adult years as female, so her experience differs from many other trans people, and even her cis female friends can’t really help with her dysphoria or trans-specific concerns. Other trans women tell her to “count her blessings” because she’s considered pretty, but she still feels used by men who want her physically but don’t love her.
+
+She repeatedly goes through a cycle where a guy is nice to her, games with her, seems fine after learning she’s trans, then suddenly ghosts or blocks her, even though she mainly just wants friendship. She feels that being trans is very lonely: society and politics often portray trans people as perverted or mentally ill, men need to be “taught” how to love her or don’t try, and making friends in America is hard in general. In an ideal world, she imagines herself as someone’s wife and mom without the constant anxiety of seeing transphobic posts and comments online. While transphobia doesn’t usually affect her directly in daily life, it still hurts her emotionally.

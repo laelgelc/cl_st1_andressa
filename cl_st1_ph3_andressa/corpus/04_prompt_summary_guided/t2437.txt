@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 112–168 words.
+
+The poster is a 23-year-old who recently started at a university after community college. They have a partner and some friends, but feel lonely because their friends rarely initiate contact and often ghost them. When people say they want to hang out or do things together, the poster follows up to make plans but is repeatedly ignored. They actively try to meet people through clubs and volunteering, get numbers, and reach out, but still get ghosted. This pattern feels exhausting and discouraging, and they’re wondering if others experience the same thing and feel like giving up.

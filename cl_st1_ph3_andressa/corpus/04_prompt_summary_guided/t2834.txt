@@ -1,0 +1,28 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 262–392 words.
+
+The group shares updates on organizing a loneliness-related hackathon and community:
+
+- Josephe is building a simple, functional website.
+- A new member, Steve, has joined and will compile literature/references for the site.
+- They brainstormed hackathon content, format, and ways to involve more people, including using Meetup groups and possibly having local, in-person branches instead of being fully online.
+- They discussed whether the hackathon should be part of a larger effort, and how to do that without a central organization.
+- They want to create a clearer mission statement and guiding principles beyond what’s in the current subreddit wiki.
+- They note that “purpose” is a key issue for lonely people and may focus on that, as it has a more positive tone than “loneliness.”
+- They plan to reach out to experts (like well-known authors) to help and spread the word.
+
+Action items: Josephe continues the website, okko7 works on the mission statement, and Steve prepares a reference list.  
+Next hangout: Saturday, May 5th at the same time on Discord.

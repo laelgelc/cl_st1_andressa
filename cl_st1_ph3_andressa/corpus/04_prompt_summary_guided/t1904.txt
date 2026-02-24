@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 87–131 words.
+
+The poster feels that talking to people online actually makes their loneliness worse. They want in-person friends to talk to, spend time with, and hug, but believe that kind of friendship only exists in adolescence and not at their current age. They think the only way to get that closeness now would be to get a boyfriend, but they’ve never dated and don’t know what to expect, yet feel they have no other choice. Deep down they have some idea of what might happen, but it feels so hopeless that they try to ignore their own thoughts about it.

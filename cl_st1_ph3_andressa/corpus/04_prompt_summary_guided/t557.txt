@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 162–242 words.
+
+The poster is spending Thanksgiving, Christmas, and New Year’s alone after choosing to distance themselves from a family that made them anxious and forced them to “walk on eggshells.” They feel sad and lonely, especially during the holidays, but also relieved and more adult, and they believe this choice will help them create a healthy, safe, empowering home for their future children. They describe going on a solo date, enjoying their own company despite the loneliness, and they express empathy and prayers for others in similar or worse situations, hoping everyone will eventually find lasting, worthwhile companionship.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 138–206 words.
+
+The poster reflects on the paradox that social media, originally promoted as a cure for alienation, has instead coincided with people feeling as lonely and isolated as ever. They describe users as “sad seekers of human connection” who are increasingly isolated in their own islands, tribes, and cliques. They argue that technology only masks, rather than solves, basic human problems, and suggest that understanding loneliness requires looking beyond social media to deeper, more elusive psychological or universal causes.

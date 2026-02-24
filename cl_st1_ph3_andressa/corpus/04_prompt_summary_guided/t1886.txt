@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 132–198 words.
+
+They’re on a week-long work trip with meetings and training that they intellectually appreciate, but their social anxiety is making it very hard to benefit from the experience. When it comes time to socialize and network, they feel intense emotional pain and can’t bring themselves to talk. At a team dinner, everyone else was talking while they stayed silent and felt out of place and overwhelmed, which is a familiar pattern throughout their life. They feel this is why they have no friends and don’t go out in their free time, because they can’t handle these social situations. They’re also dreading an upcoming awards dinner with a dance floor at the end of the week.

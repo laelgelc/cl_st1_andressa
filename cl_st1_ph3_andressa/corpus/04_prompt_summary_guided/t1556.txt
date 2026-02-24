@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 106–158 words.
+
+The poster feels they have no control over their life and that their mother gets angry no matter what they do. Their mother tried to take their phone away because they use it a lot, but the poster says they use it so much because they have nothing else to do. When she forcibly took the phone, it caused them to bleed in several spots. Now their phone use is limited to about two hours a day. Being online and listening to music are the only things that calm them, and they’re wondering if it would be better not to give the phone back at all. They say they can’t take much more of this situation.

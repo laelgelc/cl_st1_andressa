@@ -1,0 +1,19 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 285–427 words.
+
+The poster is 22 and has a rare physical condition that they believe makes it impossible or unfair for them to be in any kind of romantic relationship. They discovered this at 13 and decided then to avoid relationships, which was devastating. Now they strongly crave emotional and physical intimacy but feel they must suppress these desires and shut down any romantic interest they feel in others.
+
+They recently formed a friendship with someone they’re drawn to and think the other person might like them back, but they keep pulling away because they feel it wouldn’t be fair and that they don’t deserve love or happiness. They believe some people, including themselves, are simply not meant to be happy. They feel unable to talk to anyone about their situation, so they suffer in silence, crying alone, and are asking for tips on how to cope.

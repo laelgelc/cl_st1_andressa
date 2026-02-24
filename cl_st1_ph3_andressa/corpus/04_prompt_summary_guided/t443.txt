@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 240–360 words.
+
+The poster is a 19-year-old (20 in May) struggling with BPD, depression, and anxiety, who feels especially lonely and distressed on New Year’s Eve. Because they were in and out of school in high school, their friends drifted away, and now they have almost no friends besides a long-distance boyfriend who is currently busy traveling with his own friends. Attempts to make plans with another friend failed because that friend chose to go out with others, which deepens the poster’s sense of rejection and panic. They feel like a loser, guilty and selfish for being upset, and worry about seeming overly dramatic, even though the loneliness feels very heavy. They feel robbed of the teenage experience they imagined—going out, partying, and feeling carefree—and wish they could be someone else for the day. They know others also spend New Year’s alone and are trying to accept it, but they are spiraling emotionally and use the post as a rant to get their feelings out.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 306–458 words.
+
+The writer is a college student who has always valued being alone and now feels they don’t enjoy social interaction, struggle with small talk, and seem unapproachable. They question their purpose in life and feel unhappy and empty. Although they see themselves as caring and helpful and believe they could relate to others if given a chance, past negative experiences have led them to view others as “bad guys” and to stop giving people opportunities to know them. They also have intense facial rosacea, which they feel makes them look like a “monster or alien” and leads to frequent ridicule and name-calling. This bullying and being judged only by appearance have made them give up on trying to form relationships and feel that no one cares about who they are inside.

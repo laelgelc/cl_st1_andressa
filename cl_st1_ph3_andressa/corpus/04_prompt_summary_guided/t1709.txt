@@ -1,0 +1,21 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 326–490 words.
+
+The poster is a 22-year-old who feels deeply lonely and like an outsider. They didn’t go to college and work a low-level customer service job, which makes them feel like they’ve already failed at life despite wanting to prove they’re smart and capable. 
+
+They grew up mostly with their grandma and feel this affected their ability to form close connections; they have no solid friend group, overthink everything they say, and struggle with self-image, sometimes feeling pathetic and ugly. Undiagnosed ADHD made school very difficult, leading to poor focus, procrastination, social avoidance, and no good habits, and they worry they’d still struggle with university now. Social situations, the gym, and going out drain them, and they feel awkward, anxious, and “kinda autistic” in how much they overthink.
+
+They have been trying to improve: losing weight, working out, treating acne, and making small self-care changes, but feel discouraged that at 22 they’re “behind.” More than success, they want connection—friends, maybe dating, someone to talk to—without feeling like a burden or being seen as unambitious or boring. They’re posting because they have no one to talk to and are asking for advice.

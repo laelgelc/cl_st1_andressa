@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 39–59 words.
+
+A 21-year-old man, who is an only child, feels deep loneliness and pain about not having siblings. While he recognizes that being an only child can be peaceful, he feels an empty void when he sees others doing things with their siblings or friends and is hurt by knowing he’ll never have that kind of bond.

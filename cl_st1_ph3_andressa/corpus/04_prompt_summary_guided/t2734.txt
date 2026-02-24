@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 55–83 words.
+
+The poster feels they’ve never maintained friendships because they didn’t truly have much in common with past friends or the friendships weren’t good. They’re asking others why they are lonely—whether it’s by choice, due to sadness, bitterness, or other reasons—and inviting people to share and support each other.

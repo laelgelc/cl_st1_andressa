@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 144–216 words.
+
+The poster has only two friends they hang out with, but feels left out because those two can talk more easily with each other and often make them the butt of jokes. One friend insults them and the other joins in, and they also give the poster a hard time for not currently working, even though the poster is job-hunting and in school. Despite feeling uncomfortable and thinking the friendship is strange, these two are the only real friends left after others have taken advantage of their kindness. The poster is about to transfer to an out-of-state school and is wondering whether to end the friendship or just tolerate it.

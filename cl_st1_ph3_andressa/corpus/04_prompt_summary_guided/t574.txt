@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 108–162 words.
+
+The poster is autistic and disabled, feels deeply lonely, and says typical advice to be less lonely (like going to the gym or improving social skills) isn’t realistic for them. Their awareness of being alone is constant and so intense that any romantic content in media ruins their day. They used to be high all the time but have been sober for a year, and sobriety hasn’t eased the loneliness; they don’t want to go back to using because it interferes with the few activities they still enjoy. They’re not asking for ways to be less lonely, but specifically for advice on how to accept their loneliness and think about it less so they can still enjoy what they have.

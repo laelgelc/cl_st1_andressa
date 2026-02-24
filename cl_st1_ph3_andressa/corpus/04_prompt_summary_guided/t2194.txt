@@ -1,0 +1,21 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 202–304 words.
+
+The poster has felt this way their whole life: social events feel like a chore, even though they often enjoy them and then want to leave early. They feel they always want what they don’t have in the moment and wonder if they’re choosing the wrong people. 
+
+They used to have close friendships in their teens and early 20s, but after moving abroad those friendships became distant, and now they have no in-person friends they see regularly. Their life feels like a repetitive cycle of work, working out, and sleep, as if they’re just killing time waiting for life to start, which feels especially hard in winter.
+
+They realize most past friendships came from school/university and felt “forced” or initiated by others. At home they miss having close friends they can be themselves with, but they feel they have no mental energy or motivation to build such friendships now. Approaching 30, single, they feel things are unlikely to improve and are mainly venting these feelings.

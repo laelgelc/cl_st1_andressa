@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 93–139 words.
+
+The poster is trying to help a friend with autism who is being judged and socially bullied for his special interest in playing with people’s hair. The friend lives near Jackson, Michigan, is 18+, and wants to find someone with long hair who enjoys having their hair played with and also likes video gaming. Because of the bullying and poor treatment, he has become depressed and suicidal. The poster cares about his mental health, wants him to make good friends, and invites people to DM them for his contact information.

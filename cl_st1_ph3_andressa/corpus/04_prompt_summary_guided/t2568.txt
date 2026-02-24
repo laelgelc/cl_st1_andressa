@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 73–109 words.
+
+The poster is about to turn 21, has recently moved to a new state, and feels lonely because their family is far away and they only have a few casual work acquaintances. They’re unsure how to spend their birthday, considering just going out for a drink and then going home, but that feels depressing. They’re asking for suggestions or advice on what to do.

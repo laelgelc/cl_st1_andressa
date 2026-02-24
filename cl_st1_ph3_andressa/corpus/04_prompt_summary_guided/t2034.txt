@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 150–226 words.
+
+The poster feels like they are going insane, with intrusive violent and self-harm images, frequent crying, anger (including beating up their brother), hyperactivity, and severe anxiety. Their smoking and nicotine use are extreme and constant. They desperately want a close, reliable friend who genuinely cares, communicates often, shares everyday things (games, calls, pics, reels, socials), is non-toxic, doesn’t ghost, and is emotionally present. They feel that if they can’t find this kind of friend, they might mentally fall apart.

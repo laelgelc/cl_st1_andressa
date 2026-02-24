@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 91–137 words.
+
+The poster says they have a loving family, a job they enjoy with great coworkers, and good friends. Aside from some manageable money issues, life is going well. They live alone near their office and feel happy and fulfilled when they’re at work, at home with others, or with friends. However, when they return alone to their room, they feel terrible and lonely. They’re asking how to get over this feeling of loneliness when alone and are willing to do anything to change it, asking the community for help.

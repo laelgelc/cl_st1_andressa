@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 50–74 words.
+
+The writer describes the painful realization that the one person they believed they could trust isn’t who they thought, and that their relationship was far less meaningful than they imagined. They feel like they were just a burden to that person and are left feeling completely alone, unseen, and unheard.

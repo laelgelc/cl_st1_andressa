@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 273–409 words.
+
+The poster started a new job in February with four male coworkers, and they all initially spent a lot of time together during year-long training classes. Over time, the poster distanced themselves after realizing the others seemed childish, sexist, unfaithful to their girlfriends, and two-faced toward classmates, which reminded them of high school behavior. In response, the group appears to have excluded the poster: they made a new group chat without them, stopped sharing notes, and lied about having a needed folder. This is the first time the poster has felt like an outsider and “loser” at work. They say they have a good life and friends outside of work but now feel dread and disgust about work and just want the classes to end. They refuse to fake friendships with people they don’t like and are asking if they’re overreacting and what might help.

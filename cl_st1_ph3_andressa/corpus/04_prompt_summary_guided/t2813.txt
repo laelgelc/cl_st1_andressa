@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 128–192 words.
+
+Max, 27, has felt lonely for most of his life, often without realizing it because it felt natural. He now recognizes how deeply loneliness drains his energy and affects his well-being. This led him to start researching loneliness and its impact, hoping to help himself and others who feel isolated and to do something good. He invites others to share their experiences in the comments or via direct messages and would love to chat, aiming to make the world less lonely together.

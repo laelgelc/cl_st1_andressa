@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 274–412 words.
+
+The poster describes having a nearly “perfect” life in most areas: they own a house despite low wages, have long-term good friends, a stable values-aligned career, and strong motivation to manage significant health problems. Love has always been deeply important to them, starting from a powerful first love at age 12 that still affects them 20 years later. The one thing missing is a romantic partner, and this absence causes severe depression that therapy, DBT skills, enjoyable activities, and time with friends have not relieved. Their therapist agrees there’s no other major life imbalance; their emotional need for romantic companionship is simply very strong. They feel desperate, unable to soothe this pain by focusing on other areas of life, and are asking if anyone has ideas they haven’t tried.

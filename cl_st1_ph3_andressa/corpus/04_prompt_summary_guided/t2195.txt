@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 132–198 words.
+
+The poster describes wanting to talk with people from other countries just to connect, but feeling blocked by language barriers. They find current translation tools tiring and unnatural because of constant copy-pasting and stiff, emotionless results that ruin the flow of conversation. They wonder if automatic, background translation that preserves tone and emotion—without aiming for perfect accuracy—would make cross-language conversations feel more natural and less stressful, and ask others whether this would actually help or still feel awkward.

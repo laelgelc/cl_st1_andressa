@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 138–208 words.
+
+The poster says they haven’t had friends since elementary school, and the isolation got worse after COVID. They feel there’s no one nearby with shared interests, so even being more outgoing wouldn’t help. They’ve been single their whole life and are closeted, which makes flirting with men feel risky because of potential homophobia or being seen as weird. They’ve had two good friends in the past, but both moved away after a few months and reconnected with other people, leaving the poster feeling like they were just a temporary phase in those friends’ lives, even though they still think highly of them.

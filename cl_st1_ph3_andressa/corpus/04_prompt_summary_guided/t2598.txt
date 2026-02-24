@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 98–146 words.
+
+The poster felt lonely and went to a bar for social interaction but ended up feeling unhappy and disappointed with people there, including a man bragging about selling drugs. They feel resentful about wanting social interaction, admit to disliking their coworkers somewhat, and have a generally negative view of people and society as “decaying,” while acknowledging they’re not any better themselves. Overall, they conclude that people mostly “suck,” even if there are some things people can agree on.

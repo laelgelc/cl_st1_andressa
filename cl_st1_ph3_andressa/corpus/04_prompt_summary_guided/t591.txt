@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 74–110 words.
+
+The poster describes being rejected by a hookup they were hoping would text back so they could have someone to talk to and maybe get a hug. This has happened to them many times before, making them feel worthless and very unattractive, like they can’t even maintain a casual hookup. They say they have neither meaningful nor meaningless relationships and feel completely alone. In response, they are binge eating sugar and burgers, using it as a way to take out their anger on themselves and to reinforce their belief that they are a useless, unwanted person.

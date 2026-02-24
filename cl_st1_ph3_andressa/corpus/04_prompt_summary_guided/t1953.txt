@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 90–134 words.
+
+The poster reflects that “following your dreams” can feel like a joke if it means risking being alone, saying nothing you achieve is better than being known and seen, and wishing they’d realized that earlier. In an edit, they soften this view, saying that pursuing your dreams teaches you a lot about life and yourself and removes the “what if” question. They admit they are extremely lonely some days but feel more themselves on other days, and they encourage others to take a chance on life.

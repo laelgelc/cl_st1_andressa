@@ -1,0 +1,19 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 202–304 words.
+
+The poster is venting about feeling exhausted and discouraged by loneliness and dating. They’ve tried new hobbies and meeting new people but nothing feels interesting, and they recently ended things with someone who wasn’t right, even though it means being alone again. They’re tired of the “trial and error” of trying to find a partner and question whether they’re cut out for it.  
+
+They still deeply want connection, intimacy, and someone to come home to, and wish that if they’re meant to be alone, their desire for connection would just disappear. Their days blur between distraction and work, but the longing and fear of lifelong loneliness linger. They feel they’ve been alone most of their life, are frustrated with the idea of endless “self-love” and “self-work,” and conclude that finding someone seems to come down to luck, while they remain scared of being alone forever.

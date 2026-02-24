@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 106–158 words.
+
+The poster feels guilty for joining the subreddit and describes a recurring pattern where any attempt to be positive is followed by major setbacks. In the past two weeks, about four people have suddenly cut off contact despite seeming to get along well, including a friend of two years who had promised never to leave. Another person has told them to wait until they’re drunk on the weekend to share “bad news.” Because they missed a lot of school due to family issues, they now hardly know anyone and are wondering if it’s normal to have this much “bad luck” with people, as it seems to happen to them all the time.

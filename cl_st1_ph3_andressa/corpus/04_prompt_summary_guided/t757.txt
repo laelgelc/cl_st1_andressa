@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 103–155 words.
+
+The poster feels extremely lonely and wants to leave their current life and everyone they know to start over. They say the only thing that would make them happy is making music or streaming, ideally living with someone (or multiple people) who would let them stay with them so they can create content together. They haven’t done much of it yet but believe they’d be good at it and would love it. They say this needs to happen quickly, express desperation, and mention they’re thinking about ending their life and wanting to disappear and begin a new life.

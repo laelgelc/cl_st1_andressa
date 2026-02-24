@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 56–84 words.
+
+The poster has just turned 18 and feels extremely lonely, believing they missed out on typical teenage experiences like relationships, parties, and close, genuine friendships. They spent most of their teen years isolated in their room, feel they don’t have a true childhood friend to hang out with, see others as self-centered, and feel like an embarrassment whenever they speak.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 122–184 words.
+
+The poster feels deeply lonely even when surrounded by people. They are introverted, struggle with anxiety, and feel disrespected socially and romantically—ignored by girls, joked about, or treated like background noise. This has led them to doubt their own value and feel small, ashamed, and insignificant. They’re frustrated that common advice like “change your mindset” or “fake confidence” doesn’t work for them and only makes them feel more disconnected. They don’t have a solution, but they believe pretending to be someone else isn’t it, and they reach out to others who feel the same “quiet loneliness” to say they truly see them.

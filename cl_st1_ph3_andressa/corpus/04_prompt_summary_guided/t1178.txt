@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 75–113 words.
+
+The 22-year-old poster says they haven’t left the house in two years and have lost all motivation to do anything, despite having creative skills like drawing, 3D, and game making. They say they “really need help” getting back to normal life and specifically ask if there are any girls with a “savior complex” who might help them. They add that it’s depressing that most replies on the subreddit seem to come from older men seeking support themselves.

@@ -1,0 +1,19 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 191–287 words.
+
+The poster feels extremely lonely and excluded, describing themselves as nobody’s “number one” and not really on anyone’s list. They say they’ve put in effort—reaching out, inviting people, trying to connect—but get no reciprocation. Seeing others in groups with plans, inside jokes, and shared history makes them feel even more left out and socially awkward, like there’s no place for them.
+
+They wonder why they’re always on the outskirts, not invited, and why they’ve had to become a “loner” who appears to enjoy doing everything alone. They feel like nobody’s close friend and are often the last to hear news about people they thought they were building relationships with. They conclude by questioning what is so wrong or unlikeable about them, saying they’re willing to change or grow but don’t know what about themselves others find so off-putting.

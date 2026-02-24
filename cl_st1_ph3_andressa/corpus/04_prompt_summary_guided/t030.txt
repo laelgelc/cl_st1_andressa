@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 55–83 words.
+
+The poster describes having intense anxiety that began in their first week of college before COVID. Now they work in a call center just to get by, but they really dislike being there. Even though the people at work are nice, they prefer to be alone and suspect they might be an introvert who has been forcing themselves to be social. They clarify they meant “school” in their original post.

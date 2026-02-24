@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 61–91 words.
+
+The poster feels inherently and completely alone in all ways, including romantically and platonically. Even when they are with their favorite people who show them lots of love, they still feel a deep, unshakable inner void and loneliness. They wonder if they will always feel this way regardless of how much love they receive and ask if anyone else can relate.

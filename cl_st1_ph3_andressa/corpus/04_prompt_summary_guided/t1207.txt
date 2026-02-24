@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 106–158 words.
+
+The poster describes spending their youth focused on interests, schoolwork, and TV, having crushes but never acting on them, and failing to find a girlfriend even during gap years. Their only date-like experience was going to senior prom with a friend, which they’re unsure even “counts.” They see themselves as not social and believe this explains why finding a partner is so hard. Seeing other shy people find love makes them feel worse, and they feel hopeless about ever finding a first love, questioning what “miracle” would make it happen.

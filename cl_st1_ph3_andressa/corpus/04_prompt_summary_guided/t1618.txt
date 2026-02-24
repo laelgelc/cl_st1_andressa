@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 81–121 words.
+
+A 17-year-old girl is posting for the first time, saying she’s desperate to find someone to talk to and has made illogical choices because of her loneliness, including disrespecting her boyfriend, which she regrets. She writes conversations with herself for introspection and self-kindness, but it also makes her feel miserably lonely. Aware that she may be acting immature for her age, she still hopes it’s not a bother and asks others how they deal with loneliness.

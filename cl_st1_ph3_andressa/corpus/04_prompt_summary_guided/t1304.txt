@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 36–54 words.
+
+The poster says that some days it’s especially hard to reach out to others, even people they already know. They’re wondering if small things like journaling or talking to an AI companion can ease loneliness, and they ask others what helps them during quiet, lonely moments.

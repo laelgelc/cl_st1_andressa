@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 138–206 words.
+
+The poster is struggling with ongoing romantic frustration after a heartbreak in July and hasn’t tried dating since. At work, they feel invisible and unattractive because women talk to other men but never to them, which makes them feel hurt, angry, and like they’re repulsive. Constantly seeing others in relationships—something they deeply want—intensifies their frustration and anger, and they doubt these feelings will change. They also add a side note that the subreddit currently has no moderator and needs one to handle spam and prevent removal.

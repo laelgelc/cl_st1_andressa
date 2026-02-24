@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 53–79 words.
+
+The poster recently ended a 10-year relationship and feels about as happy single as they were in the relationship, just in different ways. However, seeing couples makes them feel like they’re missing out. They feel a conflict between their body telling them relationships are good and their mind telling them they don’t need one, and they ask if others experience this too.

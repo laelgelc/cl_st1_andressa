@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 170–254 words.
+
+The poster feels deeply hurt and worn down because no woman has ever wanted to get to know him beyond initial dates, and he keeps getting ghosted from dating apps. He’s so burned out that he doesn’t want to date anymore, yet lifelong singleness is also taking a heavy emotional toll. He maintains hobbies, does sports, goes to the gym and runs, and produces music. Recently he rejoined a local football (soccer) team, and the weekly matches give him a brief sense of purpose and adrenaline, but now there’s a winter break. His current routine is just work, workout, sleep, which he finds unbearable, especially on weekends. He longs to be loved by a woman but feels he has no hope left and is just trying to stay strong and survive, using the post as a vent.

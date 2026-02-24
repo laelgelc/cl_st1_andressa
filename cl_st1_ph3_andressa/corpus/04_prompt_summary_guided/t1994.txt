@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 196–294 words.
+
+The poster is a 23-year-old university student who also works and feels out of place because they’re not into partying, drinking, or smoking like most people around them. They had a horrendous childhood and joined the RAF at 18 to escape sexual abuse, later deploying to Afghanistan for aid. After leaving the military and starting university, they’ve felt very lonely. Others often come to them for advice and see them as a wise figure, and they have one best friend—an ex-Afghan soldier—but language, culture, and gender differences make that friendship challenging. They sometimes preferred deployment because, despite the horrible situation, they felt a strong sense of purpose and connection with people there, unlike now, where they struggle to relate to anyone. They have normal interests like football, the gym, and investing, but their past has deeply shaped how they see the world.

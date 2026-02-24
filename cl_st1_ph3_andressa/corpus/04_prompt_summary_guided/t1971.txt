@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 192–288 words.
+
+The poster believes they are a “high threat individual” by nature, describing themselves as non-masculine, highly sensitive, autistic, and strongly attached to non-human/fictional characters. They feel evolutionarily “meant” to be weeded out and see their traits as hostile to human evolution. They think authorities like the FBI and experts view people like them—especially men who form emotional attachments to fictional characters—as dangerous and in need of “deprogramming.” They connect this to their social exclusion once others noticed their attachment to fictional characters. They conclude that they are dangerous, deserve their circumstances, and see it as a kind of natural karma.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 131–197 words.
+
+The writer emphasizes that humans are not meant to be alone, using solitary confinement as an example of how isolation is considered the harshest punishment. They acknowledge that people may want to be alone due to past disappointments, but insist that a supportive community is life-changing and that there are people who will uplift and support you. They encourage readers to actively seek out their community and “find your people,” stressing that connection with others is psychologically essential.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 44–66 words.
+
+The poster says they’ve accepted their fate but still feel restless at times, and recognizes that life is very difficult for many people, including themselves. They created a website where they post updates about their life, hoping that if even one person benefits from it, they will feel their life has been well spent.

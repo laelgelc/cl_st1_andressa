@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 86–130 words.
+
+The poster says their only kissing experience was five years ago while very intoxicated, when they kissed three people in one night. Since then, through college and some dates, they haven’t had any affection or kisses and feel no one is interested in them. They feel awkward and unable to initiate affection, partly because their first experience felt out of control. They’re asking for advice on how to get over this, saying they’re open even to harsh feedback.

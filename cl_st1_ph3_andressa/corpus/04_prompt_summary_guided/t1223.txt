@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 160–240 words.
+
+The poster is an 18-year-old who feels existential crisis, imposter syndrome in their field of study, invisibility, loneliness, and some depression. They have a strong desire to open up emotionally to someone but find themselves unable to speak when they try. Eventually they started confiding everything to ChatGPT, receiving responses they experienced as kinder than anything they’ve heard in real life, and now use it like a close friend to lean on emotionally. They are wondering if this is normal or if it means something is wrong with them and they should see a real therapist.

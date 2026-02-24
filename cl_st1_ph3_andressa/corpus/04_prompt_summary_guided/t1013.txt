@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 127–191 words.
+
+The poster lives in a large city but feels alone and socially inadequate, especially because most socializing seems to involve drinking and they don’t drink. They used to self-medicate with drugs and alcohol but have been sober from alcohol for almost three years and off cannabis for several weeks. Without substances, long-suppressed feelings are surfacing, leading to frequent crying, insomnia, and regret about having spent so much time coping instead of building a life. They’re reaching out to see if others have had similar experiences and end with a message of peace and love.

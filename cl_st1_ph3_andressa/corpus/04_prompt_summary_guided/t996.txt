@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 123–185 words.
+
+The poster is 49 and feels completely alone after devoting their entire life to their family. They have no family, no friends, and are currently living in a domestic violence shelter. Everyone they loved or shared history and jokes with is either dead, gone, or unsafe to be around. They’re unsure why they keep trying to rebuild a life and find it hard to believe they could ever again have people to care for and share things with. They had been looking forward to playing “Rage and Bloom” with a beloved family member this summer, but that person is now gone, along with their apartment and everything else.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 325–487 words.
+
+The poster says Star Wars started as films they loved but evolved into a genuine spiritual framework for them. They now see themselves as a Jedi—understood as a keeper of peace and history guided by the Force, which they equate with intuition or instinct. They feel the Force has improved their life, given them real faith where traditional religion failed, and helped them move away from self-hatred and “the Darkside” (laziness, lies, and despair) toward choosing happiness. They’re frustrated that others see their beliefs as craziness or self-promotion, insisting they truly believe this and aren’t seeking fame. They invite others who feel lost to learn more and link a YouTube video about the Force.

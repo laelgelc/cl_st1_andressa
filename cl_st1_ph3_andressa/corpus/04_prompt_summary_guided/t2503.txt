@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 167–251 words.
+
+The poster says that over the past couple of years they’ve become unable to manage or maintain friendships and don’t even know how to text or keep in touch anymore. They haven’t made any meaningful new friends; people are just acquaintances, and no one reaches out to them. They suspect they unconsciously push people away and feel it’s their fault. They’ve managed to keep a girlfriend and are very grateful for her, since they feel they have no one else. Their home life is also unhappy, with a miserable family that gets angry at them, so it’s not an escape. They feel like they could disappear easily. They get anxious when trying to get close to people, worrying they’ll say something wrong or be misread, which ends up pushing people away anyway. They’re not sure they even want advice and mainly just needed to vent.

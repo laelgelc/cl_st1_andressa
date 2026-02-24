@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 213–319 words.
+
+The poster usually enjoys alone time but has started feeling a deep loneliness despite having a husband, friends, and family. Their friendships feel surface-level, and they don’t feel like anyone’s “best friend,” nor have they experienced a typical close best-friend relationship as a woman in her 20s. Their husband is their best friend, but in a different way. These feelings are stronger now because there are activities they don’t want to do alone, like going to the gym or socializing after church, where they feel awkward and left out. They want to talk to people and make friends but don’t know how and feel scared, and they don’t want to stay stuck in this lonely cycle.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 222–332 words.
+
+28M feels out of place with almost everyone and struggles to find topics to talk about, except with a couple of close friends who share similar tastes and inside jokes. They feel unable to have interesting or deep conversations, either because topics like politics are too complicated or others don’t seem interested in anything beyond small talk. They miss meaningful dialogue and say the deepest conversations they have now are with ChatGPT. They used to be extroverted but now feel they have nothing to say, even with family, beyond basic questions like “how’s work going?”. This situation is draining their energy, and they long for friends who recharge them instead of making them feel exhausted and lonely.

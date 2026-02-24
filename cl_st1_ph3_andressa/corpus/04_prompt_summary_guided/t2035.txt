@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 53–79 words.
+
+The poster describes retreating into a private mental “pocket dimension” where only they exist, free from troubles and worries, resting in a peaceful void. However, this escape is limited, and they feel forcefully cast out of it, having to wake up and return to what they call a pitiful world, repeating the same cycles and patterns. They say that waking up is the worst part.

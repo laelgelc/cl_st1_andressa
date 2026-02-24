@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 91–137 words.
+
+The writer was a content loner in high school who didn’t seek friends, until an extroverted acquaintance from middle school transferred to their school and started making friends. By following her, they ended up with their current friend group. They reflect on how much this depended on her actions and wonder how different their high school experience would have been if she hadn’t switched schools or been so outgoing.

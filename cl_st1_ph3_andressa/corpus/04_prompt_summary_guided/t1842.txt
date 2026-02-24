@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 218–328 words.
+
+The 22-year-old poster recently moved to a new city for work and has started feeling a deep, unfamiliar loneliness. Although they had many friends back home, they now realize those relationships weren’t very emotionally close, and they don’t feel they can truly open up to them. They recognize they struggle to open up in general and have never had a single person who feels like a safe space. Seeing others on social media with “besties” and very close bonds makes them feel empty and quietly jealous, and they’re using the post just to put these feelings into words.

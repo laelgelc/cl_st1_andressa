@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 135–203 words.
+
+The 21-year-old poster describes a traumatic life: drug-addicted parents, a brother who died, a sister in prison for unknowingly lacing their cousin, and being moved through foster homes. They now live with a family friend and are trying to rebuild their life but feel they have no real parents, no sibling bonds, and have lost all their friends due to moving. A woman they deeply loved didn’t truly care about them, which shattered their belief in love. Although they’re fit and decent-looking, they feel increasingly indifferent to making friends, doubt that love is real, struggle with nihilistic thoughts, and feel unfit for love with no one to pour their heart out to.

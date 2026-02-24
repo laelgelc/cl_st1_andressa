@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 155–233 words.
+
+The poster (21F) recently had her boyfriend break up with her two weeks before her birthday, after he had said nothing was wrong. Each breakup feels like a personal failure rather than a learning experience, and none of her relationships have lasted a year despite her feeling like she’s doing everything right. She’s putting a lot of pressure on herself because she wants to be married with kids by 25–26 and is anxious about the limited time left for meeting someone, building a relationship, and getting engaged. She’s asking for advice on how to be successful in relationships.

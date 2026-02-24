@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 104–156 words.
+
+The poster says their life still feels like Covid lockdown because they live in almost total isolation. They are autistic and find talking to people extremely difficult, describing it as like putting their hand in a bag of spiders. They communicate using a text-to-voice app, so even brief interactions (like asking for medication at the pharmacy) are rare and slow. They worry that if something happened to them at home, it could be months before anyone noticed, so they feel they need to make some kind of contact for their own safety but don’t know how to start. They are asking for any suggestions and say they will take all advice seriously.

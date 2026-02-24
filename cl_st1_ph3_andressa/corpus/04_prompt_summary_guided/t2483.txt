@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 154–230 words.
+
+The poster found a plushie they hid when they were 13 and it triggered intense sadness and nostalgia. Now more than 10 years older, they feel like an “old ugly man” who never had a girlfriend and believes there is no saving them. They feel unloved, abandoned, and out of place in a world they see as favoring selfish and abusive people. They apologize to their mother and their younger self, feel like they are drowning while others ignore their pain, and say they can’t stop crying and just want to be held.

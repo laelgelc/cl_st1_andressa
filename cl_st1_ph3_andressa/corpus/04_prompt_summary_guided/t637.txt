@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 82–122 words.
+
+The poster describes looking in the mirror and feeling intense self-hatred about their body, believing they are much bigger than others their age. They say former peers who were their size have lost weight, leaving them feeling alone and left behind. Because of their body image, they shower in the dark, get dressed with their eyes closed, and avoid sports at school and outside. They emphasize how much they hate themselves, note that even after losing 2 stone they still feel very fat, and feel like nobody else feels the way they do.

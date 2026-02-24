@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 78–116 words.
+
+22M who used to be more social but became isolated after moving to a new state post–high school, where there are no peers his age. Academic struggles and COVID worsened things, leading to losing touch with friends and spending the last few years mostly alone. He lives with family but finds it hard to fully open up to them, is trying to stay strong and move forward, and isn’t seeking sympathy—just wondering if others can relate.

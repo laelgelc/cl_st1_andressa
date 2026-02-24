@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 35–53 words.
+
+The poster reflects on how loneliness is such a universal feeling yet still hasn’t been “resolved.” They express gratitude for the group, saying that even though it’s not an in-person interaction, knowing others feel the same makes them feel a bit less alone.

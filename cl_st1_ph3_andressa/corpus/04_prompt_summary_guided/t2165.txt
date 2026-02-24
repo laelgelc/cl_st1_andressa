@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 182–274 words.
+
+The poster is a male (age undisclosed) who used to be a joking, unserious kid but decided about a year ago to become more mature, quiet, and focused on working out. Now he feels miserable and unmotivated. People at school frequently make fun of him and question why he looks or acts sad, and he’s stopped trying to explain himself because no one, including his parents, seems to take him seriously. He pretends to be fine and still jokes around, but it’s forced and exhausting. He tries to stay quiet and distant, yet people—mostly girls—keep approaching him and asking what’s wrong.

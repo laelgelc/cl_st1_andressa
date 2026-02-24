@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 110–164 words.
+
+The poster lives a very solitary life, keeping busy with work, movies, and video games, and feels they have no one they can truly talk to. They do have friends, but it feels like those friends only talk to them when necessary. When they feel lonely, they experience a painful, heavy feeling in their chest. They’ve never dated, struggle to hold or start conversations, and usually go places alone, which they find peaceful but also painful when they see other people sharing moments together and wish they had that. They feel their story might not be worth others’ time but wanted to write it out.

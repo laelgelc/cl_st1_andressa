@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 116–174 words.
+
+The poster is a 26-year-old, 9 months postpartum, who feels very isolated and has no real sense of family community. Their relationship with their mother is abusive and conflictual: the mother threw boiling water and a cup at the poster’s brother, causing injury, and then took the poster to court after the poster took the brother in. The poster’s dad is still in their life, is a present grandfather, and is retired and traveling. They are in therapy and also dealing with the pain of having been cheated on during their pregnancy, which adds to their loneliness and isolation. They describe themselves as an open book and are willing to answer appropriate questions.

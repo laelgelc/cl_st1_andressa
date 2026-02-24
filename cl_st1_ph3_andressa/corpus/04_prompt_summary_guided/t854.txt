@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 123–185 words.
+
+The writer feels deeply lonely and unwanted, longing for someone to approach them and genuinely want to get to know them. They constantly fantasize about finding a partner while seeing others happily in relationships, which makes their own isolation feel worse. They fear they’ll always be the friend who never finds love, and that dreams of marriage, children, and a happy life will never come true for them. They wish they were different and had whatever it is that others want, but at the core, they simply want to feel wanted.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 149–223 words.
+
+The 20-year-old poster has a few friends but no one they consider close and has never been in a long-term relationship. They’re naturally comfortable being alone, don’t feel pressured to change that, and are content in their own world. However, they still dream of having a family and a few very close, “brother-like” friends. They’re trying to meet new people and improve current relationships but feel inexperienced in forming truly close bonds, and they’re asking for advice on how to build those deeper connections.

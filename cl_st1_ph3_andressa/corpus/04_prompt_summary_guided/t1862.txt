@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 220–330 words.
+
+30-year-old woman feels extremely lonely and hurt. After moving cities for college, she lost contact with almost everyone from before, and college was socially bad except for one friend whose friendship continued after graduation. She stayed in that city for work, but her coworkers are at different life stages with different interests, so she has no close bonds there. She spends most days alone and has become somewhat numb to it, but now even her one close college friend has started ghosting her and leaving her on read, which deeply hurts her confidence. She wishes she could make friends, like joining a DnD group, but her shyness stops her from reaching out to strangers. She feels she may have to just endure it and is writing to get this off her chest.

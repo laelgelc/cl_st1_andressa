@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 104–156 words.
+
+The poster just learned that a family member was found dead at home, with no autopsy results yet, and they fear it might have been self-inflicted due to the person’s struggles. They have little experience with grief over close family, feel very sad, lonely, lost, and triggered, and are unsure who they’re allowed to talk to or what to do. They’re reaching out hoping someone will hear them and understand what they’re going through.

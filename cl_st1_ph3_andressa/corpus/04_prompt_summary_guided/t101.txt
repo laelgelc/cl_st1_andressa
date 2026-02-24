@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 160–240 words.
+
+The poster shares that their life has become consumed by their child and career, leaving little time to leave the house or interact with others. They feel a quiet, everyday kind of loneliness and miss small gestures of care, like someone genuinely asking about their day or sending simple messages. They aren’t seeking romance, but rather genuine conversation and connection—someone who sees them as a person, not just a role. They invite others who feel similarly to talk, asking only for honesty and kindness.

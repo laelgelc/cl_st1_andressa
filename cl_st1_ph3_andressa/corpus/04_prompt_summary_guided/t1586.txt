@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 99–149 words.
+
+The poster is concerned that on a subreddit where many people are in a bad mental state, some users pretend to struggle just to take advantage of others. After they made a venting post, they received many messages that started out normal but then turned weird and sexual. Even after clearly saying they are a minor, the senders did not stop. The poster is frustrated that this happens so often and that it’s rarely discussed.

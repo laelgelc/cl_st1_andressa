@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 94–142 words.
+
+The poster is looking for people like themselves: social, interested in meeting new people, but without lasting high school or college friendships due to being busy, moving a lot, or dealing with personal issues in their teens and 20s. They’re not addressing introverts who don’t want friends or people only seeking romance. They wonder where to find others in this situation—maybe in online games with chat off—and ask if such people are actually out there and reachable. They also ask, if someone doesn’t currently go out, where they *would* want to go socially.

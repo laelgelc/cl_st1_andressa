@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 102–154 words.
+
+A 24-year-old man describes feeling more lonely than ever over the past couple of years and says he’s at his breaking point. He stays up very late to distract himself from negative thoughts, but it’s getting harder each day. He hides his emotions from his mother and only gets emotional when she’s not around. He says relationships haven’t worked out, feels lost and numb, and says life doesn’t seem to mean much to him anymore, and he doesn’t know what to do.

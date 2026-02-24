@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 242–362 words.
+
+The poster is spending their birthday feeling very depressed and negative. As an immigrant, they don’t have close friends or family nearby and feel very lonely. Some people did celebrate and give gifts, but it felt forced and obligatory, which hurts more and makes them feel like their existence is a burden. Many close friends forgot to wish them, and they’re dealing with breakups, depression, homesickness, and the sense that people are too busy or drifting away as they get older. They’ve been crying a lot and feel physical pain from it. They’re grateful to those who genuinely cared but worry they’re exaggerating and fear that if they share these feelings with friends, they’ll be seen as too sensitive and abandoned. They especially miss having their family around.

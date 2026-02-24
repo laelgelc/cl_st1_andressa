@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 91–137 words.
+
+The poster, a 22-year-old, feels hurt and lonely on their birthday because most friends, including their best friend, didn’t wish them a happy birthday. Only one friend and a few family members did. They’re unsure if others forgot or just don’t care, and they’re sadly not surprised, saying they haven’t had a genuinely happy birthday since they were about 7 and hope things get better in the future.

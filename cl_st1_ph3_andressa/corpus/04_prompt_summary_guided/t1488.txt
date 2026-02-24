@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 90–136 words.
+
+The poster feels intensely lonely to the point of feeling physically sick and tormented, with little relief for days. They say their body feels like it’s caving in and they’re in a lot of emotional pain. They don’t know what to do and are urgently looking for someone to chat with on Reddit tonight. They’ve been using doctor-prescribed medication in “emergencies” to sleep and numb the loneliness, and although they say they’re in control of it, they feel stuck and unhappy about having to rely on it, even for a few days.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 204–306 words.
+
+The poster is a 26-year-old who has never experienced mutual romantic love and feels like they’ve always been in the background, watching others have what they long for. Despite having a seemingly solid life with football, the gym, and a career as a software developer, they feel emotionally empty because their feelings are never returned and they feel unseen. They question whether the problem is bad luck, their own flaws, or something else, and describe a deep loneliness that comes from never having been chosen or given the chance to experience heartbreak. They fear they may always be the forgotten one who is there but never loved.

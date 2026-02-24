@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 197–295 words.
+
+A 32-year-old man in the UK says he’s been alone for over two years and has felt intensely lonely for about a year. He’s financially stable, owns his home and car, has no debt, and works hard, but feels there’s no point in his achievements without someone to share life with. Attempts to meet people in real life and through dating apps have mostly led to people asking him for money, which has made him increasingly distrustful and disillusioned. He feels a painful emptiness, wants a family and a partner, and finds his thoughts going down a dark path. He asks if others feel the same way.

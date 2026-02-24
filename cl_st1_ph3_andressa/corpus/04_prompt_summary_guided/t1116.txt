@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 81–121 words.
+
+The poster describes a lifelong feeling of not being seen or understood, even since childhood, and feeling essentially alone. They are trying hard to improve their life and do well in university, but their loneliness feels overwhelming. They wish they had someone who truly understood their feelings and shared their desire to get better, but they feel their current friends wouldn’t understand. They see the idea of sharing this painful part of their life with someone as probably just a fantasy and say they are mainly venting.

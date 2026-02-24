@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 145–217 words.
+
+The poster feels emotionally exhausted from always being there for others while no one shows up for them. They say most people are generally nice, but no one (except possibly their parents) shows real concern, care, or affection. They have a couple of friends and some acquaintances, but still feel that nobody truly cares and that their existence is taken for granted. After years of hoping things would change and that they’d be loved the way they want, their expectations from people keep decreasing, making them feel more distant from the world. They wonder if it ever gets better and if it’s possible to live with zero expectations from anyone.

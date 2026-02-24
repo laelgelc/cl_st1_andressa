@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 191–287 words.
+
+The poster is a 17-year-old who feels very alone and can’t understand why they don’t have a romantic relationship when their similarly awkward, nerdy friends do. They wonder if something about how they talk or act is putting people off, even though they see themselves as respectful and considerate. They feel annoyed watching their friends be affectionate with their partners and strongly long for a girlfriend to share simple, intimate activities with (like building LEGO, watching movies, drawing, walking, or watching sunsets). They worry they sound needy or jealous but say they just deeply want to be loved, to be someone’s “special someone,” and to have a person they can escape reality with for a while.

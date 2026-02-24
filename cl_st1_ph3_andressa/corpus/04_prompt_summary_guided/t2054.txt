@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 105–157 words.
+
+The 21-year-old male poster hates February and especially Valentine’s Day because his life has been filled with repeated romantic rejections and humiliations since elementary school. He recently thought he had finally found someone, but it ended the same way as all his past attempts. Valentine’s Day makes him feel especially alone, as his parents and all his friends spend it with their partners while he has no one and no support. He feels worn down and unsure how much longer he can keep enduring this.

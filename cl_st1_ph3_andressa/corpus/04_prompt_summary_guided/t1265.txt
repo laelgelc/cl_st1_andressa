@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 307–461 words.
+
+The poster feels deeply unloved and rejected, believing their parents hate them and their sister sees them as a weird, horrible person. They describe being antisocial, unable to cry despite wanting to, and feeling like a failure and a burden who only causes disappointment, anger, and sadness in others. They carry long-term trauma, regret saying hurtful things in self-defense, and feel that others’ negative views of them are ultimately correct. Although a part of them imagines future success, they are convinced they will always be miserable, abnormal, and unlovable. They see themselves as trash, believe their existence has no significance, and feel they only take without giving. They have repeatedly contemplated suicide, are thinking about methods that would be easy, painless, and go unnoticed, and wish that someone would truly love and understand them in a lasting way.

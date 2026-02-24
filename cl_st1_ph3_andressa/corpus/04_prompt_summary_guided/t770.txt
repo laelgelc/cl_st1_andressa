@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 258–388 words.
+
+The poster is still in high school and feels chronically isolated despite knowing and talking to many different people. They rarely get invited out, aren’t included in group chats, and feel that no one truly values or wants a close connection with them. In middle school they had a strong friend group and hung out often, but in high school their friendships have become distant and invitations have decreased each year. They feel like they’re “rotting away,” worry they’re disappointing their parents because they only go out for school soccer or family activities, and even their one romantic relationship felt more like just friends. They describe themselves as quiet but sociable, with diverse interests and friends in many groups, yet still feel alone and unwanted. They’re hurt by how empty high school feels and wonder if life and relationships actually get better after high school, especially since they plan to have a traveling job and likely won’t see current classmates again.

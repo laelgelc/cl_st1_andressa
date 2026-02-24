@@ -1,0 +1,21 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 313–469 words.
+
+The poster is in a small online friend group of 5–6 people and has known two members, Jeff and Steve, for over six years. Steve often targets them with toxic comments (calling them corny, saying he’s tired of their voice and laugh) and doesn’t talk that way to others, making the poster wonder if they personally annoy him. When the poster brought this up, Jeff dismissed it as normal tension from knowing each other so long and said “Steve’s just being Steve.”
+
+The poster generally trusts Jeff but still feels unsure after a “school stereotypes” joke where Jeff described them as the kind of kid who would sneak into the girls’ locker room, which later made them worry Jeff might see them as creepy or overly mischievous. Jeff has also called both the poster and Steve “chaotic,” saying the poster is just louder.
+
+Overall, the poster is questioning whether they are the problem or if their friends are, feels something is off in the group dynamic, and fears that if they disappeared from the group, no one would notice or care.

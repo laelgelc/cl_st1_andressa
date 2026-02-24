@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 229–343 words.
+
+The poster is a high school student who feels they’ve become an introvert and are very lonely. They miss having close friends to talk to, play games with, and people who reach out to them first. Their social life revolved heavily around an ex, and after the breakup and quarantine, they realized how much they depended on her and then drifted apart from others too. They miss the close, open friendships they had in middle school, and find that games and YouTube feel empty alone. They’re focusing more on grades now but feel like that’s all they do. Despite the loneliness, venting feels good, and they’re hopeful that university will be better and less lonely.

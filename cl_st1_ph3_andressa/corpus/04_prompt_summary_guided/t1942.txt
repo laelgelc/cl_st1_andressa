@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 158–236 words.
+
+The writer feels deeply lonely and jealous when they see other people who seem “normal,” connected, and comfortable together. They feel like a freak who doesn’t belong and never truly fits in. Although others may be pleasantly surprised to see them, no one actively seeks them out or thinks of them on their own. They long for someone to genuinely miss them and come looking for them, but feel that this is asking too much.

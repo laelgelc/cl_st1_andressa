@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 126–188 words.
+
+The poster is a 14-year-old about to start high school who feels constant dread and loneliness. They have no close friends, only superficial school friendships, and feel like there is something wrong with them that makes others, including family, dislike them. This has led them to question whether they are a decent person. They are very ambitious and want to achieve great things but worry that their inability to maintain friendships means they won’t succeed in life. They are asking people their age or older for advice on how to get rid of these feelings, change their mindset, and feel more “caught up” with everyone else.

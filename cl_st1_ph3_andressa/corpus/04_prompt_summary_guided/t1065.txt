@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 101–151 words.
+
+The poster describes a man who doesn’t like or feel attracted to them, yet sends them photos of his dates and refuses to see them, which they feel is toxic and attention-seeking. He is actively dating others but doubts those relationships will work out. The poster finds his personality unlikeable and notes he has serious physical and mental health issues. Despite recognizing he is mean and not someone they want long term, they feel emotionally attached and still want to see him one more time, even though their body and logic say no.

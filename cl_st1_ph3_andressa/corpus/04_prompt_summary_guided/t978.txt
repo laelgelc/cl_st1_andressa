@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 62–92 words.
+
+The poster says they’re not perfect-looking but deeply want real, lasting love with one person for life. They don’t know how people find love and feel unsure how to meet someone. They wish to be someone’s first and last true love, with genuine feelings and warmth (they mention a preference for Japanese girls but say it’s not that important). They want their first girlfriend to also be their last, so they’re just waiting.

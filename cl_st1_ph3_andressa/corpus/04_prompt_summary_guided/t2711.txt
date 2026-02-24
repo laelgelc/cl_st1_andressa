@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 193–289 words.
+
+The poster reflects on realizing that throughout their life they blamed others for not loving or listening to them, seeing themselves as a victim and viewing open expressions of love as weak or “uncool.” They now recognize that the problem may be that they themselves haven’t known how to give love, and this realization hurts their pride. They describe being a loner, feeling dysfunctional, and fearing that they don’t know how to love people in the way they need, comparing love to a currency they can’t pay. They want to love but are unsure they’ll ever feel confident they’re doing it right.

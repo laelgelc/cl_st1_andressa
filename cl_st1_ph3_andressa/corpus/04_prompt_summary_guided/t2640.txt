@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 118–176 words.
+
+The poster’s apartment is messy and would take about eight hours to clean, but cleaning feels emotionally painful, like “a piece of me dies.” They consider hiring a maid but feel it’s “too easy” and somehow wrong. They imagine that being married would solve practical needs like a clean home and sex, but worry about losing their solitude and note that with longer lifespans, marriage could mean many decades of that trade-off. Hiring a maid and seeing sex workers also feels wrong and incomplete, lacking love, connection, and an unconditional bond. They feel stuck in a catch-22 between wanting connection and help, valuing solitude, and feeling that purely transactional solutions are missing something essential.

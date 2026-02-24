@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 72–108 words.
+
+The poster’s 40th birthday is coming up, and their current plan is just to watch *The Fifth Element* and go to bed. If asked what they’d really like, they’d choose a small gathering with close friends, tacos, and Cards Against Humanity, or even indoor electric go-karts, though they see that as unlikely. Their true wish is to spend the night with a special someone, but they don’t have one, so it’s probably going to end up as a solo movie night.

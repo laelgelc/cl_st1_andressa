@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 185–277 words.
+
+The poster created a new account and is trying to reconnect with a girl they used to talk to on this subreddit, but they don’t remember her username and can’t find her. The girl once posted here about how no one wanted to be her friend because she seemed unfriendly, though the poster says she was actually nice when they talked. The poster, a girl from Spain who wrote in Spanish, is hoping this person will see the post and recognize them, while avoiding sharing any personal details for privacy reasons.

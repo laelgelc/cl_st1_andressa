@@ -1,0 +1,21 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 241–361 words.
+
+The writer’s partner, whom they describe as their whole world, began a 5‑month prison sentence on December 16. They’ve been together for 22 months, living together almost the entire time, and recently got a flat together. Since he went in, they’ve only had one brief reception call and are unsure when they’ll next speak.
+
+The writer is deeply depressed and lonely, struggling to function and even took a day off work because they couldn’t get out of bed. They sleep surrounded by his clothes and scent, and home now feels empty and painful instead of comforting. They miss his physical presence, especially lying on his chest and hearing his heartbeat, and waking up each day feels like losing him all over again.
+
+They feel like no one would notice if they disappeared, describe their life as feeling like hell, but are forcing themselves to keep going and working so their partner will still have a home to return to.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 186–280 words.
+
+The poster hasn’t had friends for a long time, so they’ve been using Reddit and other social media since age 11 to share their thoughts and questions. They feel that on Reddit, almost every post attracts criticism, often harsh, because strangers don’t care about their feelings, and they see this as a consequence of living among billions of people who only value those they know. They say being attacked by many people online feels awful, especially when they’re just being vulnerable and misunderstood, and they’re exhausted from constantly arguing. They wish they could share their thoughts with a real person without having to defend themselves all the time.

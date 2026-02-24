@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 279–419 words.
+
+A 25-year-old man with borderline personality disorder describes feeling utterly alone and socially rejected. He recently received a significant double promotion at work, but it feels empty because he has no one in his personal life to share the news with. Although coworkers are proud of him, coming home to silence makes the achievement feel meaningless. He longs for someone who is genuinely excited about him and his life, recognizing that this intense need for attention and affection is part of his BPD. He ends with a bittersweet, half-hearted “Go me, I guess.”

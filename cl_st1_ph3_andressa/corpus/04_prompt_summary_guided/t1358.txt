@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 182–274 words.
+
+The poster has always disliked the holidays because their family treated them like a cook and waiter for over 16 years, making them serve and clean while sitting alone in the kitchen and taking them for granted. They were pressured into buying expensive last-minute gifts that were then dismissed, while receiving little in return, and had an ex who threw tantrums about attending family events. They’ve now moved away from their toxic family to another state, aren’t celebrating or putting up a tree, and feel there’s no point in the holidays—but at the same time, they’re surprised to find they miss the chaos and haven’t yet found a sense of calm in their new, lonely situation.

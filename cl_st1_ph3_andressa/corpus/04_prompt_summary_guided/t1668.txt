@@ -1,0 +1,19 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 187–281 words.
+
+OP (19) explains that her 23-year-old boyfriend has been feeling sudden, intense loneliness in recent weeks. He lives alone and works night shifts, while she lives with roommates, studies, and has two daytime jobs, leaving her with very little free time. Most of her free time goes to school or being with him. They both work 6 days a week, and they see each other regularly, sometimes staying at each other’s places for a couple of days.  
+
+Because of their opposite schedules, they barely overlap: when she wakes up, he’s just getting home from work, and when she finishes her day, he’s getting ready to leave. He’s been thinking a lot about moving in together to feel less lonely, but she doesn’t feel ready to live together yet and imagines that happening only after college or even after marriage. She feels the relationship is good and that they’re both growing together and individually, but she’s struggling with how to help him feel less lonely and is asking for advice or ideas.

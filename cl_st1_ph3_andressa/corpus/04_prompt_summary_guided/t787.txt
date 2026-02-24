@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 128–192 words.
+
+The poster’s pregnant girlfriend left them on their birthday and is now completely ghosting them, having blocked them on all platforms and not responding for days. They’re overwhelmed, crying constantly, and feel they can’t handle the situation. Although the relationship had problems and friends say they’re better off, they deeply miss her and everything about being with her, and now believe she hates them. They feel extremely lonely, have no one they feel truly connected to, and say their life feels like it’s over.

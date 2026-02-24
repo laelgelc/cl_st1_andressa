@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 39–59 words.
+
+The poster is expressing confusion and frustration about social interaction and relationships. They wonder why other people aren’t like them and why they feel pressure to carefully craft replies so others don’t leave. They’re unsure when to end conversations and wish they could be completely unfiltered (“speak gibberish”) and still receive affection like hugs and cuddles. They also express disgust toward others and even stronger self-disgust, feeling that they themselves are “way more gross.”

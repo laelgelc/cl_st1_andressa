@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 66–98 words.
+
+The post is an invitation to join a Discord group of over 200 members that is explicitly safe and welcoming for the LGBTQ+ community. The group talks about movies, games, TV shows, events, and tabletop games, and also has a book club where members can access a free copy of the current book. The poster shares an invite link and encourages interested people to join and try it out.

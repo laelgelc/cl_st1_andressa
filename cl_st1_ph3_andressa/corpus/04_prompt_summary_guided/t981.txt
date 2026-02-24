@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 110–166 words.
+
+The poster has lived 20 years without ever having a best friend or a romantic relationship. Others are often surprised to hear this, which makes them feel like they must be doing something wrong. They feel like they’re always a third or fourth choice to people, never someone’s first priority or the person others are excited to see. Although they sometimes feel genuinely okay being alone and waiting for the right person, the long wait has worn them down, and they’re starting to give up on the hope of finding someone who will choose them first.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 150–224 words.
+
+The poster says that every winter, especially from late December to January, they feel much lonelier than in summer, even though their lifestyle is the same and they live with other people. They describe themselves as an introvert with low social energy who still craves attention and wants to be the center of attention. In winter they struggle to leave their bed, don’t feel like going to the gym, and can’t seem to start studying for the semester. Even Instagram now feels draining. This seasonal loneliness has been happening for 4–5 years and makes their heart feel very heavy, and they ask if others experience the same thing.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 110–164 words.
+
+The poster found a gift they had planned to give their young neighbor Gabby for her birthday. During a March blizzard, the poster had helped Gabby and her brother Mario by bringing blankets and reading to them when their family was scared and without power. About a month later, the family suddenly moved away while the poster was out, and the neighbor told them after the fact. Gabby had been crying for the poster, whom she called “Marky,” like the poster’s niece does. Now, with Gabby’s birthday coming and not knowing where the family went, the poster feels very alone and says the loss of both their neighbors and their own family is taking a heavy emotional toll.

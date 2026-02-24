@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 48–72 words.
+
+The post says that the best kind of love is shown through actions—how people treat each other, stand by each other, and show up when it matters, rather than just relying on the feeling of being in love. It also invites readers to check out an article on their Patreon, noting that all articles and wallpapers there are free.

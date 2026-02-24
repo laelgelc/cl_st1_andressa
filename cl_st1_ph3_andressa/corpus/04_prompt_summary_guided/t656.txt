@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 229–343 words.
+
+The poster is a first-year college student living away from home for the first time. They were excited to go home for the holidays, expecting comfort and happiness, but their parents quickly started questioning why they were staying so long and complained about “wasting” rent. Feeling unwanted, the student cut their visit short. Later, when they suggested coming home only during summer, their parents again focused on money, saying there was no point in coming for a month because of rent and travel costs, and that they should just stay and eat at the mess. The student understands the financial logic but feels deeply hurt and rejected, as home and their parents used to be their main source of comfort. Now, in a new city with no friends or support, they feel broken and are asking if others have experienced home no longer feeling like home and how they cope with that.

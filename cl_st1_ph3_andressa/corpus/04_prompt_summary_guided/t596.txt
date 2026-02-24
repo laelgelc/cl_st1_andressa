@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 155–233 words.
+
+The poster is around 30 and feels incapable of making friends unless others initiate and show interest first. Whenever they try to talk to new people, conversations and budding friendships become awkward and eventually fade, and this happens with everyone they meet. They say they try to step out of their comfort zone and talk, but don’t understand what cues they’re giving that push people away or make things awkward. They’ve read books and articles on making friends, influencing people, and matching others’ energy, but still can’t identify what they’re doing wrong. They mention they “have looks” and are seriously asking for suggestions on what might be going wrong and how to fix it.

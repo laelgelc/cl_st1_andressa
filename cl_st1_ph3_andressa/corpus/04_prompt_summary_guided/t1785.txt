@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 260–390 words.
+
+The poster describes a lifelong pattern of rejection and exclusion, starting in grade school where classmates and even teachers ignored them, and their only friend was a kind cleaning lady. Attempts to make friends in childhood, adolescence, and university all stayed superficial, with people not including them in activities; no one invited them to graduation parties or came to theirs. Romantic efforts also failed, including being ghosted after a few dates. Therapy has been discouraging, with one therapist ending sessions after five visits and another never scheduling a second session. Family and work relationships remain superficial despite their efforts. Over time, they’ve become emotionally numb to rejection and now expect to be ignored, feeling surprised when that doesn’t happen. Their only real friends are their parents.

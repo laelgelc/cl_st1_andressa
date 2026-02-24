@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 226–340 words.
+
+The poster is feeling scared and physically unwell after a drinking binge, worried they might be experiencing withdrawal symptoms. They’ve been invited to someone’s house to watch football and are anxious about unreliable taxi services for getting there and back. Despite not really wanting to drink again and usually ignoring social invitations, they’ve decided to go, planning to set a strict time limit and leave by around 11:30. They think going out might at least push them to get cleaned up, stay busy, and use the stress as motivation to tackle other tasks they’ve been putting off, like tidying up.

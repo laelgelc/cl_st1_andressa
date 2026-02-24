@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 124–186 words.
+
+The poster has been in a long-distance relationship with their boyfriend for three years, seeing him on weekends since they attend colleges a few towns apart. They’re stuck in a bad roommate situation that limits in-person contact with friends and are about to take a break from work because of poor mental health and school stress. As a result, they feel they’re relying too heavily on their boyfriend for support and worry they’re smothering him. He has a better living situation, is more solitary, and seems okay with limited in-person contact, while the poster feels like they’re clinging to him as their only lifeline and fears that depending on him too much might damage the relationship.

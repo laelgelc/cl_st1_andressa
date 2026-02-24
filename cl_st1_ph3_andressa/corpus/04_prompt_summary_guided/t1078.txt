@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 54–82 words.
+
+27F says she’s realized she is “the problem” in her relationships. She struggles to believe in people and expects others to disappoint her, so she tends to withdraw or run away before they can. When people actually treat her well, she becomes extremely anxious because it challenges her beliefs, which she finds terrifying.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 114–172 words.
+
+The poster has been seeing a lot of “blackpill” content online that claims people’s likability is mostly based on looks. This makes them wonder if that’s why they struggle to form connections in real life, even though they do fine socially online and have some online friends. Accepting the idea that looks (and thus genes) can’t be changed, they speculate that maybe they weren’t meant by God to procreate but instead to serve some other purpose in the world. They mention doing something impactful or transformative, referencing Travis Bickle’s assassination of the pimp controlling Iris as an example, and ask if others have ever thought this way.

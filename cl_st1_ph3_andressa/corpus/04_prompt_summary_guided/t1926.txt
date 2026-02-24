@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 66–100 words.
+
+The poster says they haven’t had a real-life friend in over 10 years, and even past “friends” didn’t feel genuine. They’ve never had a girlfriend and feel intense, indescribable loneliness and pain. They have very little family left and fear that when their remaining family is gone, they will be completely alone. They feel paralyzed by anxiety and fear, and their future looks bleak, including a deep fear of dying alone.

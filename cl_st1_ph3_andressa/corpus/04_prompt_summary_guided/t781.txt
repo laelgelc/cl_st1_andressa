@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 70–104 words.
+
+The poster is a first-year university student who initially made a few friends, but those friends suddenly began ignoring them. Later, the friends called and told the poster not to talk to them anymore, saying the poster would “get them in trouble,” though the poster doesn’t know what they did wrong. The poster accepted this and ended the call, but now expects to be completely alone at university starting the next day.

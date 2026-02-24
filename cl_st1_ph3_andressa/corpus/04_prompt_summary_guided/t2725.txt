@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 70–106 words.
+
+The poster has just finished Basic Training and had hoped it would make them less of a lonely “loser,” but nothing has changed. They note that passing basic is more than others expected of them. After spending more time around people, they feel they actually hate people, believing others only held them back during training, whether on purpose or not. They conclude they might be better off as a loner and describe other people as “kind of cancer.”

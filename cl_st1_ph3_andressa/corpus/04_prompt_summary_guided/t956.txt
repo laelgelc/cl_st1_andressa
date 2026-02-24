@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 88–132 words.
+
+The poster feels intense anxiety and near panic attacks when they see people their age at the mall who are fit, well-dressed, with friends and partners, because it highlights how stuck and nonfunctional they feel. They see themselves as a failure, haven’t had a loving hug in a year, and feel deep sadness when they see girls their age. They miss human love, believe no one cares about them, and feel that their suffering and even their death would not matter to anyone.

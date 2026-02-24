@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 206–308 words.
+
+The poster feels abandoned and confused by their childhood friends. The friends say they are close and call the poster “one of the homies,” but don’t invite them to hangouts, call, or message. When the poster asked one friend why they weren’t invited, the friend said he assumed the poster wouldn’t come. During a very difficult time—when the poster’s father had cancer and surgery—one friend showed no concern and only met up to talk about his new girlfriend, then stopped paying attention once he was in the relationship. The poster feels lonely even in group settings, like they’re just there by themselves, and worries they might be dumb or too sensitive. They have no one to talk to and are looking for someone to say something.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 152–228 words.
+
+The poster feels especially lonely today. They’ve never had a big friend group, struggle to trust and open up, and currently only socialize at work, where relationships don’t extend beyond the workplace. They rarely see their boyfriend due to opposite schedules and their kids, and he hasn’t met the kids yet, though they plan to change that and stay in touch via calls and FaceTime. They wish they had friends to talk to and hang out with. The pandemic has left them feeling stuck and unmotivated to move forward in career and life. They’re likely moving to another state next year, which makes them hesitant to start anything major now. They ask for advice on dealing with their loneliness.

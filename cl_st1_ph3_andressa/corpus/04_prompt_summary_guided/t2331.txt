@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 182–272 words.
+
+The poster says they’re not exactly sad about never having kissed a guy and have actually turned down chances, which later seemed like the right choice given how those men turned out. They describe a longtime introverted friend who had some experience in college and later lost her virginity to a coworker who then moved away, leaving the friend very depressed and heartbroken. Now, that friend frequently brings up the poster’s inexperience, suggesting they go out so the poster can “finally have your first kiss.” The poster finds these comments hurtful and insulting, feeling the friend is treating their lack of experience as something shameful, as if having standards is wrong and as if no one has ever wanted them.

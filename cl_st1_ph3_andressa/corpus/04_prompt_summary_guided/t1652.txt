@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 168–252 words.
+
+The poster says this is their first Reddit post and they feel exhausted with life and living where they are. They feel they have no purpose and that people who once cared have stopped. They describe always putting all the effort into relationships—reaching out, responding, investing time and energy—without anyone reciprocating. They deeply want someone who genuinely cares, who messages good morning and good night, calls them, invites them to hang out, and offers physical affection like hugs and cuddling. They feel extremely attention-, affection-, and touch-deprived, and say their trauma makes it hard to feel love from others. Seeing other people receive the affection they crave is very painful, and they feel they can’t keep going like this.

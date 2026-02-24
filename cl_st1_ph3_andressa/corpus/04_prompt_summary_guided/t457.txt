@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 133–199 words.
+
+The 27-year-old poster recently lost their father, leaving just them and their grandmother, and the loss has made them terrified of eventually being completely alone. Their grandmother isn’t in bad health, but the thought of her eventual death makes them feel paralyzed. They have no romantic relationship, only go to work and then home, and while they do have friends, they live in different towns and are busy with their own lives. They feel very lonely now and are afraid of how much worse it will be when it’s “just” them. They can’t afford therapy and are asking for advice.

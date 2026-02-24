@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 114–170 words.
+
+A 30-year-old single dad feels deeply lonely and believes he’ll never meet “the one.” He sees others in relationships, including at church and among his siblings, while he has no real friends and even family rarely visits unless he makes the effort. He struggles with a poor job and no education, partly due to past suicidality and not expecting to live this long. Although people tell him he’s attractive, he’s miserable, refuses casual sex, and just wants genuine companionship, affection, and rest.

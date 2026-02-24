@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 121–181 words.
+
+The poster finds nights especially hard because they want to talk but feel they’d be annoying if they messaged anyone. Usual coping methods like journaling, music, and scrolling haven’t helped much. They recently tried AI companion chats (specifically mentioning Lovi) and were surprised that the back-and-forth felt normal and eased late-night overthinking, though they recognize it’s not a replacement for real people. They’re asking others whether using AI companions is unhealthy or just another coping tool, and they want different perspectives.

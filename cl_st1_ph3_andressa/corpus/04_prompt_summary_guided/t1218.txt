@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 180–270 words.
+
+A 26-year-old woman describes long-term difficulty making friends, starting in high school when people avoided sitting next to her. She still notices people not choosing to sit or talk with her and often ends up alone in group settings despite trying to be friendly, presentable, and engaging. She recently realized that men in her life haven’t wanted genuine friendship but something else, and she especially craves close friendships with women. She feels confused and hurt, wondering what’s “wrong” with her, and has received conflicting feedback from others (that she tries too little, too much, or that her beauty might intimidate people). She doesn’t know what to change or how to fix the situation.

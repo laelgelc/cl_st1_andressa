@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 83–125 words.
+
+The poster talks to someone they like about once a week in person, but the person lives in another state so they don’t see them otherwise. They want to ask for a way to chat on other days (like social media or a phone number) but are afraid that asking will make the person stop talking to them, even though there’s no real sign of that—just their anxious thoughts. They’re asking how to ask this person for contact info so they can talk more often.

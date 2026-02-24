@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 118–176 words.
+
+The poster feels deeply burdened and lonely when using social media. Seeing others—especially women—sharing rich social lives and strong networks makes them feel unwanted, invisible, and excluded, both online and in real life. They question why others seem to receive support and attention effortlessly while they must constantly work to maintain any connection, which often fades. This contrast creates a strong sense of unfairness and painful FOMO, and they wonder why they can’t have a similarly happy, meaningful life.

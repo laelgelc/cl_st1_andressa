@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 142–212 words.
+
+The writer is a university student who feels intensely lonely despite being surrounded by people. They aren’t close with their roommates, and their friends never invite them out and usually reject their attempts to hang out. They mainly spend time with their boyfriend and his friends/roommates, and feel like they don’t have their own friend group. Although they understand people are busy with school, they feel especially alone when they see others having fun together. They have very few close friends at school, don’t know how to cope with the “crippling loneliness,” and are trying to return to old art hobbies for comfort but still feel very sad.

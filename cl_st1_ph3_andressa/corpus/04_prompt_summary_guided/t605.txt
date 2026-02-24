@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 118–176 words.
+
+The poster is an immigrant in the UK, married to a British husband who isn’t very social. They consider their parents, their husband, and even their cat as their best friends and feel generally happy and content without traditional friendships. At the same time, they yearn for more human connection and would like someone to do social activities with, like getting coffee or taking a clay course—things they can’t really do with their husband, cat, or family. They’re wondering if it’s strange to feel this way and whether they “have to” have friends.

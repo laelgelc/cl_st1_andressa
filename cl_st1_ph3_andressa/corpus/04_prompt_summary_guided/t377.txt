@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 109–163 words.
+
+The poster says they’ve never actively made friends; all their past friends were people who approached them first in school, college, and family circles. Now they work in a different district, still within the same state, and only talk to old friends about once a week because everyone is busy. They believe there are friendly people around but feel unable to approach strangers, struggle with small talk, and are slow and inconsistent at texting. They also don’t know how or where to make friends online.

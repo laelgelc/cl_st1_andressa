@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 236–354 words.
+
+The poster recently lost a best friend and a romantic partner and feels extremely lonely. At 41, they are finally addressing long-standing unresolved trauma with a psychiatrist and therapist and know it’s the right choice, but their loneliness is overwhelming. They’ve tried seeking friendship on the subreddit with mixed results and recently met someone they admire, yet they still struggle to maintain friendships, often isolating, forgetting to check in, and feeling pathetic about it. Attempts to go out and be around people only make them feel sadder. Their mental health has been very poor, making life feel pointless, and they describe feeling trapped in a self-destructive cycle where every attempt to reach out for help seems to backfire.

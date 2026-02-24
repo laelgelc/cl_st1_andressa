@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 284–426 words.
+
+The writer describes a very painful period in their life. A year ago, their boyfriend killed himself in front of them online, making this time of year especially hard. They are close to graduating school but feel lost, with no plans, hobbies, or sense of purpose, and spend most of their time lying in bed. They feel disconnected from their family, who shame them for being bi; they are also trans but not out about that. They feel unattractive and unwanted by both women and men, have very few friends, and were recently ghosted by someone they liked. Someone they were very close to—who felt like a mother figure and the best person in their life—stole from them, and now they have to see her every day while doubting that she ever truly cared. They have attempted suicide many times and see death as their only way out, feeling that no one cares. They say they might just be “yelling into the void” and leaving something behind in case they eventually die by suicide.

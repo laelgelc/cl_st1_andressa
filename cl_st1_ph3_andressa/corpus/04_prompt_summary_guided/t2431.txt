@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 113–169 words.
+
+A 46-year-old person, living only with their 74-year-old father, has no partner or children and just one friend. After past negative experiences and “sick” people who put them down, they cut those people out and now struggle with trust, making it hard to meet new people and hang out. They feel extremely lonely and often wonder how others manage to have families, support, and friends. They’ve considered church as a way to connect but find it boring and feel people there may have agendas. They’re reaching out and trying to figure out ways to socialize.

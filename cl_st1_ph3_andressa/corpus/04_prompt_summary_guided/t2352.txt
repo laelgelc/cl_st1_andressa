@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 117–175 words.
+
+They say that about once a month they feel a heavy wave of loneliness and a fear they’ll be alone forever, but it always passes, so they never take action. They feel like changing their situation would require changing too many things about themselves, including traits they see as fundamental and unchangeable. They believe that 99% of people dislike their personality, and they in turn dislike 99% of people. They feel lonely for a person who doesn’t exist or is extremely hard to find, and even if they did find someone they truly click with, they think they’d still cause problems and things would be difficult in a different way. They don’t want romantic love, just companionship.

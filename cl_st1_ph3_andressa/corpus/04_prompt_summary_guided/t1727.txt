@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 127–191 words.
+
+The poster just turned 20 and spent their birthday alone but more positively than the previous year. They pushed themselves to eat at a restaurant alone, visit a local museum, and go on a small trek to a nearby waterfall that’s become a popular couples’ spot, which made them feel awkward as the only single person there. Despite missing companionship and feeling self-conscious about the looks they got, the peaceful environment helped calm their anxiety and let them enjoy the experience. Compared to their 19th birthday, which they spent doomscrolling and gaming and ended up feeling miserable, they’re glad they went out by themselves and feel the day was at least a little better.

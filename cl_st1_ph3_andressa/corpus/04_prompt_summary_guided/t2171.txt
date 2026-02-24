@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 57–85 words.
+
+The poster feels touch-starved and neglected, with only online connections that don’t meet their need for physical affection. There’s a guy who has feelings for them, but they’re unsure if they like him back and feel pressured to do things they’re not in the mood for or comfortable with. They miss cgl and hope a counselor can help them make sense of their feelings and situation.

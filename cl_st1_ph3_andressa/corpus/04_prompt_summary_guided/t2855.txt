@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 133–199 words.
+
+The writer was given a weekend pass from a hospital ward, their first time out for more than an afternoon since early December, and planned to use it to unpack and organize their new bedsit. Once there, the silence and lack of noise made them feel intensely lonely, and attempts to use music and shows for background noise didn’t help. They began to spiral, were triggered by something related to their PTSD, dropped a picture frame, and ended up in A&E before being sent back to the ward. They still feel very alone, have no nearby family after moving across the country about a year ago, and are asking how people cope with crushing loneliness.

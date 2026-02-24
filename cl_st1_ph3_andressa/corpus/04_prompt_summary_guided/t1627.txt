@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 226–338 words.
+
+The poster is 30 and used to make friends easily in high school and university, including deep online friendships, but now struggles to connect and currently has no friends. Many of their past friendships ended, often not because of anything they did, yet they still feel deeply hurt. They live with their parents and are working on opening a coffee shop at home. They don’t see their life as objectively horrible and even recognize some privilege, but feel something inside is “broken” and are in constant emotional pain. They feel that the love and support they gave others amounted to nothing, and are disturbed by how easily people can discard long-term connections and ghost others without consequences. They conclude that in life, people can hurt and “wreck” others and remain unscathed, while the loving, caring ones end up paying the emotional price.

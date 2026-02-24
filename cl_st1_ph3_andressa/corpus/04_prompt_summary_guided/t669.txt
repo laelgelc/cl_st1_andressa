@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 122–182 words.
+
+The poster has experienced deep loneliness and is working on something to help with social and emotional isolation. They want to better understand how others experience loneliness, what helps, and what makes it worse, especially in terms of words and comfort. They’re inviting people who are currently lonely or have been lonely to talk with them—either over coffee in Lyon, France, or via a ~20-minute call. They emphasize that it’s confidential, not commercial, no personal info is required, and their goal is to understand common patterns and make the other person feel genuinely heard.

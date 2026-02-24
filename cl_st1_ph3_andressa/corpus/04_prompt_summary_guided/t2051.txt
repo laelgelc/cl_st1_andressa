@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 134–200 words.
+
+The 35-year-old male poster feels deeply lonely and unable to find compatible people, a sense of belonging, or lasting connections. When he does form bonds, it’s usually with socially popular people who don’t seem lonely and who eventually move on and forget the connection, leaving him wondering what he lacks and whether the problem is bad luck or his own behavior. He feels scared that the world seems lonely for him despite the huge population, and is confused and frustrated that, even within his own Anglo-European cultural sphere, he can’t form enduring relationships and remains single and effectively friendless.

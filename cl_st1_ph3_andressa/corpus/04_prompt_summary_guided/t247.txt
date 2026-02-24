@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 107–161 words.
+
+The poster is a college business major who was invited to the subreddit and thinks it feels like a cool, secret club. They have a decent number of friends and a few close ones, but don’t talk to them often and sometimes feel lonely. Their outlook on the future shifts between optimism and pessimism. They enjoy animals, astronomy, video games, anime, and movies (especially catching up on commonly referenced ones), and they play on PSN. They also like discussing dystopian futures and paranormal topics and mention having some related stories. They end by thanking readers and wishing them a better day.

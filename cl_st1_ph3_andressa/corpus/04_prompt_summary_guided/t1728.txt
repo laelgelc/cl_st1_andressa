@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 239–359 words.
+
+The poster feels deeply lonely, is in emotional crisis, and has no one to talk to for reassurance or validation. When they try to talk to acquaintances or not-so-close friends, those people change the subject and don’t validate their feelings, which makes them feel uncared for and without anyone to lean on. They say they would gladly listen and help if someone else were in their position, but they don’t have anyone who would do that for them. They cry for hours trying to calm themselves and wish for just one empathetic person to spend a short time helping them untangle their thoughts. They’ve tried coping by walking around the city and jogging, but it doesn’t help; they dislike being alone and prefer being in public places like libraries or cafes just to not feel so alone. They want social interaction and someone to “catch up” with, but they’re afraid of burdening or disturbing others with their needs, especially while they feel in crisis. They ask if anyone has felt the same and how they got through it.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 182–274 words.
+
+Eli, a 14-year-old boy, used to spend breaks with a group at school but recently he and one friend have been increasingly excluded from activities. He already struggles with depression and existential fears, and this exclusion is making things worse. He forces himself to get up each day and act cheerful while feeling close to falling apart. His parents are divorced, he only sees each of them every other weekend, and his father works late so he is alone for much of the day. He is trying to find friends online through games and social media, but many people don’t want to interact with someone his age and already have their own friend groups. He feels uncertain about how he will cope in the coming years or manage adult life and worries that his problems might seem insignificant compared to others’ posts.

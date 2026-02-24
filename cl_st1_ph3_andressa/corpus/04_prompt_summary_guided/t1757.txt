@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 260–390 words.
+
+A 16-year-old girl describes long-term struggles with friendships and feeling hated or seen as a “pest” by former friends and even strangers. She’s frequently insulted about her looks, called ugly and a “rat,” which has made her feel physically sick, give up on caring about her appearance, and fear social interaction. She transferred to online school but is still afraid to turn on her camera or interact with classmates. She feels unwanted even by her family, including her brother and his girlfriend, and believes she’s unworthy of relationships, leading her to avoid people both offline and online. She’s extremely afraid of rejection and hatred, even when considering posting positive comments. She also notes that previous posts on this subreddit from another account attracted predatory comments from adults and asks others to report such behavior.

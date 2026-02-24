@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 198–298 words.
+
+The poster enjoys being alone because it lets them hear their own thoughts, but they feel conflicted about being a loner. They see humans as social animals and think that, like a lone wolf versus a pack, a solitary person is weaker and outnumbered by society, which makes them view being a loner as a social weakness. They feel overwhelmed by social obligations they never asked for and describe struggling against their own identity as a loner, both loving and hating their privacy. They conclude that being a loner is a complex issue for them and ask others to give arguments in favor of being a loner and to share what they enjoy most about it.

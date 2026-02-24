@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 122–182 words.
+
+The poster is a 26-year-old woman who feels very lonely as she approaches 27, especially seeing people her age getting married, having kids, or enjoying active social lives. She has no best friend and only a couple of people she talks to casually. Although she’s somewhat introverted and can be content alone, she deeply wants at least one close friend, not necessarily a romantic partner. She feels envious of others her age, like a loser for never being approached, and hurt that when she does meet someone, they eventually leave her for other friends. She feels awful and miserable and is using the post to vent.

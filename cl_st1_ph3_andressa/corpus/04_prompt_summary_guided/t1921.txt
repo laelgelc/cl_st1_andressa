@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 60–90 words.
+
+The poster is 31 and feels emotionally drained, like life is gray and endless. When they try to share their feelings with their mom and others close to them, they feel brushed off and labeled as too sensitive. They feel guilty for distancing themselves but believe they need to protect their own well-being. Most days they feel like life is just passing them by, and they’re hit by sudden waves of loneliness, sadness, and anxiety. They’re hoping someone else can relate.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 314–472 words.
+
+The poster is a 29-year-old from Iran who moved to the US for a master’s degree and has been there for four years, recently relocating alone to Texas due to immigration requirements. They feel they’ve always been alone in every context—college, work, travel, and activities—and are usually the one who has to reach out to others. Remote work has intensified their loneliness. They’ve come to see being alone as their default mode and even feel somewhat lost when with others, always returning to solitude. They do things like going to museums or the cinema alone and are comfortable with that, but it’s painful to see others enjoying these activities in groups, which feels inaccessible to them. They’ve paused dating because they value their alone time and find the constant communication and small obligations of a relationship not worth the trade-off for occasional shared activities.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 185–277 words.
+
+The poster, a 23-year-old from a small village in rural Italy, has been without friends for about nine years and is spending yet another New Year’s Eve alone. They feel lonely in every area of life—university, work, gym, running, watching movies—and are exhausted and unhappy doing everything by themselves. They question whether they were wrong not to adapt, to want friendships to form naturally, or to avoid certain experiences to stay true to their principles, and they wonder if friendship is just a matter of luck. They say they wouldn’t wish their level of loneliness on anyone, wish others a good New Year’s Eve, and ask for a movie recommendation to watch alone.

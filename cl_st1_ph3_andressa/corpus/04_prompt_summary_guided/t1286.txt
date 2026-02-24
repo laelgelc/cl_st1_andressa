@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 139–209 words.
+
+The poster describes intense, long-term loneliness and isolation. As an adult, they feel they can’t safely make friends at work and are no longer in school, so they’ve lost that social avenue. They try going out and attending clubs, but those are mostly older people, and younger people they meet don’t maintain contact, so potential connections quickly fade. This has been going on for six years, with no real friends, no sense of belonging, and no community. They feel out of options, sick of the situation, and even wonder if they don’t belong in their country. They’re questioning when life stopped “happening” for them.

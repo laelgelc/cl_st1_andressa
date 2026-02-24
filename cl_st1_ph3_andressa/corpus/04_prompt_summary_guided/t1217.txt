@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 188–282 words.
+
+The poster describes repeated failed “talking stages” with girls, including a recent one on Snapchat that suddenly ended, like many before it. They haven’t been in a relationship for three years and since then have felt hopeless, sad, depressed, and stuck in a dark place, sometimes feeling abandoned by God. They believe they’ll always be lonely and say they wish they could die rather than keep living like this. They’re also struggling with unemployment, having been repeatedly turned down for jobs (including a recent rejection from CVS), which they say is another major factor worsening their mental health.

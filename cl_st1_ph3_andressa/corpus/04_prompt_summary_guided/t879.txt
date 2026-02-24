@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 49–73 words.
+
+The poster feels deeply hopeless and believes life is just a series of disappointments. They feel used by others and blame themselves for allowing it. They are hurt that people in their life don’t even bother to read their messages. They question why they are still alive and why they lack the courage to end their life, and describe themselves as talking to “nobody and everybody.”

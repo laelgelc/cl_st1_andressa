@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 70–106 words.
+
+The poster feels deeply lonely and lost, living mainly to support others and not knowing what they want in life. They struggle to make and keep friends, as the few they had have drifted away. Their girlfriend seems uncommitted and only engages when she wants something, leaving the poster feeling unwanted. Overall, they feel like an empty shell, more of a tool for others than a real person.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 74–110 words.
+
+The poster is a 19-year-old man, two years out of school, who feels deeply miserable and lonely. He’s still a virgin, has only kissed a girl a few times, and has had just one relationship, which ended badly and left him feeling mistreated. He sees himself as average-looking but having high standards, and feels that as time passes his chances of finding someone shrink. No one has ever told him “I love you,” and he believes he will die alone.

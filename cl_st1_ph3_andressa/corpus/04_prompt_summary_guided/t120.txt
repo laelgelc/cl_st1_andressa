@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 110–166 words.
+
+The poster is looking to meet new people and make friends, preferably with those 18 or older who are real, blunt, and straightforward. They describe themselves as an open book, chill, and easy to talk to, and they enjoy horror, music, writing, and experimenting with AI art. They’re fine with slow or late-night conversations and want genuine people who actually want to talk. They invite others to comment or message them, share their favorite movies or music, or just say something random about themselves.

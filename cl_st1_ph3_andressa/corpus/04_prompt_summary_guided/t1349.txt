@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 109–163 words.
+
+The poster is a 19-year-old man from Egypt who feels deeply insecure about his appearance, body, and physical traits, believing these unchangeable factors have ruined his chances at relationships and sex. Seeing couples and sexually active people makes him feel heartbroken. He says this pain has changed him from someone who considered himself a good person into someone who now finds himself drawn to others’ suffering. He feels traumatized, cries every day, and is extremely distressed, but says he cannot attempt suicide because of his Muslim belief that suicide leads to Hell. He wants to find a way to cope and get help.

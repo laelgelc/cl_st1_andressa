@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 230–346 words.
+
+The poster is developing an app that simulates texting a supportive dad, aimed at people who lack that figure or want unbiased advice. The app would give practical “dad-style” guidance (e.g., car trouble, grilling, negotiating a raise), use dad-like mannerisms and nicknames, tell bad jokes, and offer “tough but fair” support. A key feature is memory: it would remember personal details (like an upcoming job interview) and later check in about them, building an ongoing relationship so users don’t have to repeat context. The poster asks whether this feels comforting or dystopian, and whether the memory/check-in aspect would feel supportive or creepy.

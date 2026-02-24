@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 84–126 words.
+
+The poster says they’ve spent almost their entire life in their room, from childhood to nearly adulthood, with no real-life experiences. They struggle to make friends, have depression and anxiety, and have never been in a relationship. Most of their time is spent consuming media like video games, movies, and small hobbies. They feel very sad about having “0 experiences,” deeply lonely, and wish for someone to love and comfort them, and they express having no desire to live.

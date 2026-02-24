@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 144–216 words.
+
+The poster feels they don’t truly connect with anyone and is tired of always catering to others so they have a good time. They long for a mutual, equal friendship where both see each other as a “number one” best friend, share and understand each other’s loneliness and pain, and support each other. They’re exhausted from doing everything alone and want someone who “gets it” and reciprocates their energy. They also prefer not to be with another introvert, but with someone more ambiverted who enjoys going out and having fun as well as staying in.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 133–199 words.
+
+The poster is up late, unable to sleep and feeling extremely lonely. They have a loving family and a few friends but, due to depression and social anxiety, they haven’t been going out for months. A girl was interested in them a few months ago, but they weren’t ready for a relationship, so contact ended. They feel like they deserve to be lonely and see themselves as a burden, which makes them afraid to start a relationship and “burden” someone with their problems. They’re hurt by always being alone, feel like a failure compared to their friends’ “normal” lives, and feel empty and sad but unable to cry. With no one to share these feelings with, they’re turning to Reddit.

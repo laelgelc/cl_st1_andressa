@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 158–236 words.
+
+The poster enjoys alone time but feels increasingly lonely and wants a genuine, understanding companion or “soulmate,” not necessarily a romantic partner. They feel like they don’t belong anywhere: their family lives in another state, their close friends (whom they never fully trusted) are moving to another country, and they’ll be starting work in healthcare soon. Their demanding schedule—waking at 4:30 a.m. for an internship and returning at 4 p.m., then being too tired and busy with assignments—makes it hard to maintain online chats or build connections. They’ve long felt lost and lonely, and those feelings are intensifying.

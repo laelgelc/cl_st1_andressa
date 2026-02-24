@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 151–227 words.
+
+The poster has been depressed since childhood, felt like an outcast, and now struggles with anxiety when talking to new people. They finally have people around them they like, but they’re afraid those people make fun of them behind their back and exploit their friendliness and helpfulness. They feel they’re outgrowing their current friendships but don’t know how to make new friends due to poor social skills, leaving them feeling stuck, confused, and lonely. They add that these feelings are starting to make them more mean and angry, which they dislike but don’t know how to change.

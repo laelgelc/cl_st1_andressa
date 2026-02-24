@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 160–240 words.
+
+The poster feels deeply lonely and scared they might stay that way forever. They have friends, but when they try to open up, their friends respond shallowly, which makes them shut down and deal with their feelings alone. They’re exhausted from always being the one to reach out and wish someone would check in on them first, because right now they feel like they only exist when they initiate contact. Things were stable in the second half of last year, but since the start of 2026 their mood has crashed: they wake and sleep feeling heavy, and the silence feels suffocating. They keep questioning what’s wrong with them and why they’re so easy to ignore, and they feel themselves spiraling, afraid that this loneliness will eventually consume them if nothing changes.

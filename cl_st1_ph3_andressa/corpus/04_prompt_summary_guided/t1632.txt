@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 178–266 words.
+
+The poster is starting a project to provide daily connection and support to lonely people, inspired by their own past experiences of feeling isolated and their current gratitude for having supportive people in their life. They believe everyone deserves to feel seen and cared for and are asking others to complete a short (3-minute) survey to help them understand where help is most needed, with an option to join a free trial of the project. They also share an Instagram account to follow the project’s progress and ask readers to share the survey.

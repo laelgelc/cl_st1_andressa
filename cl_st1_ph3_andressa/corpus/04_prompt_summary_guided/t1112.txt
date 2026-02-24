@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 85–127 words.
+
+The poster admits they’ve treated the people they cared about badly—drinking heavily, being a slob, nearly cheating, and neglecting those who depended on them—burning almost all their bridges. They’re now trying to get help and have been sober for three months, but still feel an empty “hole” inside and are now feeling long-delayed emotions. They miss their people more than they ever imagined.

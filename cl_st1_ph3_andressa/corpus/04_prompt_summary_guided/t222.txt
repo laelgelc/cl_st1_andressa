@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 72–108 words.
+
+The poster is exhausted and discouraged from repeatedly trying to meet people without success. They have no friends or romantic relationships and feel that social events are pointless because they always come home alone and “empty-handed.” They’re losing hope and motivation, would rather just go to the gym and sleep, and feel sick and tired of trying. They wonder why people seem to find them repulsive and express a wish not to wake up when they sleep.

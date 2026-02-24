@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 134–200 words.
+
+The 17-year-old author describes having childhood trauma that makes them act childish and “cringe” as they try to relive the childhood they feel they lost. They have no real-life friends, feel uncool, and mostly just listen to music and watch Instagram reels. They say people usually get bored of them, judge their behavior, and leave, which makes them very clingy and easily attached because they don’t feel loved in real life. They’re looking for a genuine friend through DMs, asking people to introduce themselves properly (age, name, gender), not just say “hey,” and they strongly dislike being ghosted or treated as a source of entertainment.

@@ -1,0 +1,19 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 274–410 words.
+
+The poster describes how, at the end of summer, nearly all their friendships collapsed after a former friend spread a vile, sexual rumor about them, likely to push them out so he could date a mutual friend. Out of a group of about 18 people, only two remained close. Recently, one of those close friends became distant, stopped initiating contact, and barely replied. When confronted, she admitted she had heard and believed the rumor and no longer felt comfortable being friends. 
+
+The poster is hurt that multiple friends have ended the friendship without talking to them and feels their fears of abandonment keep being confirmed. This has severely damaged their ability to trust others, feeding into an internal narrative that “everyone will always leave me,” and they don’t know how they’ll ever feel secure or believe that someone truly has their best interests at heart again.

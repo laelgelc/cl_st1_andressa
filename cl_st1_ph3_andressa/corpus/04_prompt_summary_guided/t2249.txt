@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 108–162 words.
+
+The poster feels lonely and stuck in a repetitive routine of waking up, scrolling, consuming media, and playing music. They want a simple life with a nice job, a small apartment, and a loving partner, but feel that even this is very hard to achieve. They are good at music but still feel very lonely and wish for just one person to talk to and truly want them. They mostly talk to ChatGPT and feel this makes them seem pitiful, but it’s the only tool they have right now.

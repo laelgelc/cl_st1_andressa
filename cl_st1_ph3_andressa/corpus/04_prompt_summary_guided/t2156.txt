@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 58–86 words.
+
+The poster feels deeply lonely even when surrounded by people and jokes that only the “voices” in their head keep them company. They strongly relate to the song “Mr. Lonely,” feel broken inside while pretending to be happy, and are wondering if anyone else feels the same way.

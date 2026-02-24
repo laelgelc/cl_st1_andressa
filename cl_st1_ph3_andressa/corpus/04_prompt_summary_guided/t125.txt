@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 30–46 words.
+
+The poster is 6'6" (198 cm) tall, has a varied music taste focused on rap and R&B, and their favorite artists are Tyler, PARTYNEXTDOOR, and Frank Ocean. They are into sports, especially football, Formula 1, and tennis.

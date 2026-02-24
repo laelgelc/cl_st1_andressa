@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 82–122 words.
+
+The poster describes feeling isolated, lonely, rejected, and like an outcast. They feel their mental health is being worn down and are becoming resentful, angry, and more aggressive. They no longer feel open to others, believing people are lying and predatory, “stuck in the ape kingdom.” They feel their mind doesn’t function like a “normal” person’s and are stubbornly unwilling to change just to fit in with people they feel wouldn’t “bother to be human.”

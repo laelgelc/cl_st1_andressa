@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 118–178 words.
+
+The poster, now in their second year of college, says they’ve never had real friends since early childhood. People initially act friendly but later use and abandon them, and they’ve often been bullied, avoided, or unfairly blamed. Once naturally extroverted, they’ve become more introverted and guarded because of these experiences. They feel deeply hurt by never having known genuine friendship and question whether something is wrong with them or if they’ve just met the wrong people. They ask if others relate and how they cope with feeling invisible or disposable in friendships.

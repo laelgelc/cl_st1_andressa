@@ -1,0 +1,19 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 288–432 words.
+
+17-year-old girl who’s had a very hard time making friends since starting high school. She’s only made about two in-person friends and regularly talks to just one, but worries about bothering her. She’s tried making friends online for a year, but it always follows the same pattern: she joins conversations or directly asks to be friends, things go okay for a short time (a few days to a few weeks), then the other person disappears or loses interest. 
+
+She feels people seem to enjoy her presence but don’t actually want to get to know her, and repeated failures have led to self-deprecating thoughts. She’s stuck in a cycle of trying to make friends, getting tired and stopping, then feeling lonely and trying again. She’s also frustrated that when she’s shared this struggle online before, no one seemed to care. She wants advice but doesn’t want to be told to just make more friends in real life, since she feels people don’t approach others like that anymore.

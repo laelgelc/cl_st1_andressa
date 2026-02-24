@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 186–278 words.
+
+The poster used to have a large circle of friends but is now very lonely. Their life changed after becoming a single mother: they are exhausted most of the time, stressed, and their health has worsened. Their friends are still child-free and carefree, and now see the poster as too serious, negative, and problematic, while the poster sees them as somewhat childish. They feel they must fake being positive and fun to get attention, but when they act like their true tired, pessimistic self, people drift away. They feel trapped between being fake and accepted or real and rejected, and currently feel very alone. Living in a rural town with established social circles and few ways to meet new people, and having no supportive family, makes the loneliness worse.

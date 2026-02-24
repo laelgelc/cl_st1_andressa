@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 113–169 words.
+
+The poster reflects on their childhood, describing years of depression, daily suicidal thoughts, and a deep, early understanding that loneliness would be a permanent part of their life. They’re angry that the adults around them didn’t notice or didn’t care, and that as a kid they never got the help, real friends, or reassurance they needed about their mental health. Now, as an adult who finally understands these issues, they feel it’s too late, they’re still alone, and they just want help, which they see as bitterly ironic.

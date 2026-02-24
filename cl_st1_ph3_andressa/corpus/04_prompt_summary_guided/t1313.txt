@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 92–138 words.
+
+A 29-year-old woman is on a mostly two-week break from work and is trying to use the time productively—doing chores, reading, and walking in the park—but everything feels empty. She feels intensely lonely and has a strong, urgent urge to swipe on dating apps and get attention from any guy, just to have someone. She knows this isn’t a healthy or effective solution and believes she should learn to tolerate being alone, but at the moment it feels impossible.

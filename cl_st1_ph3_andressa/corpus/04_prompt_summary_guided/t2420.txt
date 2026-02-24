@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 238–358 words.
+
+The poster is a physically isolated under-18 who struggles to make friends in real life and has turned to online friendships since 2019. They currently have three main online friends (“S,” “A,” and “L”) whom they care about deeply, but they feel increasingly unimportant to them. None of these friends remember the poster’s birthday or seem to know basic personal details, even though the poster knows a lot about them. The friends often prefer to hang out with others and only talk to the poster briefly when bored. When the poster raises these concerns, the friends dismiss them and change the subject. The poster feels guilty for caring less, feels used and overlooked, but also feels unable to cut contact because these three are their only form of communication.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 98–148 words.
+
+The poster describes themselves as a loner with no social skills and feels like a failure after having to repeat a grade. They say they hate everyone at their school and feel intense anger toward other students, especially because others skip or don’t work but they are the one who gets sent to the office. They mention a specific student who repeatedly tells them to get a gun and kill themself, and this has led them to feel there is no point in living or being on earth with “dumb people and kids.”

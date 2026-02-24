@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 188–282 words.
+
+The poster used to be a happy loner with friends and time to recharge alone, but at 36 they now have no friends, are divorced, and can go months without speaking to anyone. They spend their time alone smoking, listening to music, watching YouTube, anime, and especially solo vloggers to feel less alone. They feel hopeless about making new friends or having a romantic relationship and worry they’ve forgotten how to socialize. They express empathy for others who are involuntarily alone and ask both voluntarily and involuntarily lonely people how they cope with the silence and fill the void where relationships would be.

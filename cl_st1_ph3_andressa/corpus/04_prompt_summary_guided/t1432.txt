@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 84–126 words.
+
+The poster briefly felt better at work, thinking coworkers were talking to them more, but now believes it was fake and that everyone hates and judges them. They feel unable to live with the constant sense of being judged. They wish no one would talk to them but don’t want to be rude. They’re unsure whether telling others, including close partners, that they want to be alone is selfish, especially since people already judge them for being alone.

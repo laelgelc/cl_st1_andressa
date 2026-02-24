@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 150–224 words.
+
+The poster hasn’t been in love for nine years, and that past relationship didn’t work out; the memory of being in love now feels faded, like a worn-out VHS tape. They just returned from a remote camping trip with their best friend, drinking, smoking, and listening to music, and also talked on the phone with another friend who, like them, is 23 and has never been kissed or held hands. Although they enjoyed the isolation and had hoped for snow, they strongly wish they had a woman to share these kinds of trips and mutual hobbies with, someone who loves them. They emphasize they don’t want to “settle down” or “start a family,” but do want a loving partner to share experiences with.

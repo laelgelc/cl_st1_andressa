@@ -1,0 +1,19 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 166–250 words.
+
+The poster struggles with bad anxiety and tends to isolate, so they don’t have many friends. They’re mostly okay with it and spend time with their brother and enjoy being alone, and they have one best friend, but they rarely see each other and mostly just send reels online because the friend is busy moving out.  
+
+Recently an old online hookup messaged them and made them feel giddy, which reminded them of high school when they had friends to gossip with about crushes. Now they feel they have no one to share those feelings or even light topics like TikTok influencer drama with; their brother doesn’t really get it. They wish they had a close female friend to talk to and feel that people don’t understand their anxiety or why they sometimes go quiet for a few days.

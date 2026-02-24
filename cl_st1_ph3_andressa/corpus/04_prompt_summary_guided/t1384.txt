@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 130–196 words.
+
+The poster feels that over the past six months they’ve realized their relationships are one-sided: they consistently show up for others but don’t receive the same support in return. When they try to open up, they get advice instead of empathy, which makes them feel like a burden and leads them to keep things to themselves. This emotional load is becoming very heavy, especially with the holidays intensifying their grief, sadness, and sense of alienation from people who claim to care. They’re hoping to connect with others who understand what it’s like to feel unseen.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 218–326 words.
+
+The 14-year-old poster feels increasingly lonely and uncared for. Their friends joke in ways that feel hurtful, and when they tried to open up about their feelings, the friends dismissed it as corny. They’ve never had a girlfriend and, as a Muslim boy, haven’t really looked for one, but now strongly crave love, affection, and reassurance that they are worthy of love. Watching romance anime has intensified these feelings by showing them the kind of care they long for. They sometimes wonder if people would care if they died, but say they would never kill themselves or self-harm because it’s forbidden in the Quran and they don’t want to waste their parents’ efforts. They feel their parents’ care is more of an obligation and want someone outside their family to genuinely care. They see Reddit as a slightly corny but necessary outlet to express these feelings to someone other than ChatGPT.

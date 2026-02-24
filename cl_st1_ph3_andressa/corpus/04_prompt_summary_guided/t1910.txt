@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 100–150 words.
+
+The poster is 27 and feels completely lost in life. They were adopted, never knew their biological parents, and were thrown out by their stepmom at 15, after which they’ve lived alone. They believed they had good friends but realized they are actually alone and have had no one to talk to, even by phone, for over three years. They’ve isolated themselves in their room, don’t go out, and no one reaches out to them. Attempts to meet people through friendship communities and dating apps have failed, leaving them feeling lost and without anyone to talk to.

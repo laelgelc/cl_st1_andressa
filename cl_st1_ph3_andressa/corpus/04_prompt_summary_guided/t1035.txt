@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 93–139 words.
+
+The poster feels exhausted and hopeless about social interaction, describing attempts to talk to people as a pointless, Sisyphus-like effort. They believe they are unlikeable and possibly abrasive, and can’t accept that anyone would genuinely want to spend time with them. They say they are frequently ghosted or stood up, which reinforces their belief that being around them is a burden. This leaves them feeling deeply frustrated, often on the verge of tears, extremely tired, and questioning why they should even keep trying.

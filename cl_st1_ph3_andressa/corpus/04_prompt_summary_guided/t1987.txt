@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 157–235 words.
+
+A 19-year-old man feels chronically tired, unhappy, and emotionally drained. He has two best friends but one is busy with college and the other lives in another city, and he doesn’t have a girlfriend. He teaches at his mother’s colleague’s coaching center and is good at it, but still feels something is “eating” him inside. He feels his father secretly hates him and believes he can’t make him proud, and his mother’s demands now feel selfish, which he wonders might be due to his own laziness. He previously sabotaged a good relationship in high school because he felt he wasn’t good enough, and now, even when girls flirt with him in college, his fear of not measuring up or being able to give them what they want stops him from making a move.

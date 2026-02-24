@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 54–80 words.
+
+The poster says they’ve always felt like the “odd one out” in friend groups, but as they’ve gotten older they’ve accepted this. They’ve realized they don’t need to search for a “tribe” because they’ve had one within themselves all along. They just found the subreddit, like it, and end by wishing everyone well.

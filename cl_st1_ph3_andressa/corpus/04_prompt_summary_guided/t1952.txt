@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 223–335 words.
+
+The poster feels isolated and hopeless living in a small “pseudo city” where they’re a minority and struggle to fit in. They dream of moving to a big city like New York or Chicago, but despite having a 4‑year degree and certifications, they haven’t received any job offers for months in what they describe as a terrible 2026 job market. They previously took a leap of faith and moved to Boston without a job, enjoyed the urban environment and public transit, but couldn’t find work and had to move back in with their parents. They believe suburban sprawl and car‑centric infrastructure worsen loneliness and mental health. They long for at least one close in‑person friend or a relationship, or simply to live around more people, and say they’re currently giving up and just passing the time by smoking cannabis every day.

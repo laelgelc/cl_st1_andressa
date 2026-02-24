@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 106–160 words.
+
+The poster feels loved but still deeply lonely and tormented. They miss their friends, parents, and familiar food, and feel they have “everything” yet have lost themselves. After giving up their career, they feel empty and unable to relate to peers who focus on earning money, seeing themselves as possibly childish for still longing for their working life and sense of purpose. They criticize the idea that it’s good for a woman to have nothing to do, saying it leads to losing oneself and confusion about personal values. They conclude that love and marriage are not necessary in life and warn others to be careful and stay aware.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 239–359 words.
+
+The poster describes having clinical depression for four years, during which they isolated themselves and lost all their friends. Recently, with therapy, medication, lifestyle changes, and determination, their mental health has improved and they feel hopeful and energetic again. They’ve been pouring their energy into building a startup whose beta will launch in 2–3 months, and it feels very meaningful to them. However, they now feel isolated and miss having people to talk to about the emotional and practical ups and downs of building a startup. They invite others—especially people interested in or working on startups—to DM or comment so they can connect and talk, saying they’d be grateful for even one or two new connections. They mention they’ll share more about the startup after the beta launches, as it’s closely related to what helped them out of their depression.

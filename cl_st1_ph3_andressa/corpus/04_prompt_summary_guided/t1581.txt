@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 201–301 words.
+
+The poster is making a short film about a lonely teenager in an Indian suburban city who copes by recording video journals. To better understand loneliness, they’re asking for movie and book recommendations that portray loneliness and solitude in a way that is raw and somewhat depressing but still hopeful, not overly cynical or intentionally bleak. They’d prefer stories about teens or young adults, ideally in suburban settings, and are especially interested in modern portrayals of loneliness, fragile online connections, and people in suburbs who don’t really understand each other. They liked Rilke’s “Letters to a Young Poet” for its view of solitude as painful but important for creators, but found “The Catcher in the Rye” didn’t fit the tone they want. They’re open to films in any language (preferably English) and want books that balance melancholy with hopefulness and/or humor.

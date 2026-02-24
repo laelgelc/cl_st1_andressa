@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 81–121 words.
+
+The poster describes being extremely shy since childhood, which has led to having no friends and cutting themselves off from people after moving. They avoid interacting with neighbors and don’t talk to anyone on social media, feeling like they exist but are invisible. This has left them feeling deeply lonely, broken inside, and silently suffering, and they wonder if others experience the same thing.

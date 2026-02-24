@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 110–164 words.
+
+The writer feels extremely lonely and says they ruin all their friendships and relationships by lashing out, hurting people, and pushing them away when they feel bad. They rely heavily on others for validation and love because they feel none for themselves, and attempts at self-love and enjoying time alone haven’t worked. They fear they’ll repeat the same mistakes with anyone new they talk to. Being without someone makes them feel stressed, anxious, worthless, and unable to be productive. They feel something is wrong with them and say they need to stop lashing out and get help but don’t know what to do.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 62–92 words.
+
+The poster feels that nothing in their life goes well and struggles to explain everything that’s happening. They have no one to talk to and no friends, and feel completely lonely. They’re losing interest in their hobbies and no longer enjoy things they used to. They describe their life as boring and say they hate it and hate themselves.

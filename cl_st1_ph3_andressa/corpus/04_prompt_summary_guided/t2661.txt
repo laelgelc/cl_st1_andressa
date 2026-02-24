@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 78–116 words.
+
+The poster reflects on how COVID-19 has forced people to stay home and socially distance, causing many to feel lonely without seeing friends and family. They ask if anyone instead feels comfortable in their solitude during the pandemic, and admit that they personally enjoy being alone and have grown used to it over the years.

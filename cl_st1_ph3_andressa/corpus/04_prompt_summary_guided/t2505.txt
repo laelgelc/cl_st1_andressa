@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 204–306 words.
+
+19M who has felt lonely his whole life shares how he’s trying not to give up. His main strategy is being genuinely curious about other people. He learns languages and enjoys talking to workers at his college from places like Rwanda and Kenya, which has led to small but meaningful interactions and even meeting other students. He also starts simple conversations, like complimenting someone’s tattoos at the gym. He acknowledges this doesn’t guarantee deep connections but believes it greatly increases the chances of making friends. He encourages others not to let anxiety stop them from trying, but to face their fears like a main character in a movie would.

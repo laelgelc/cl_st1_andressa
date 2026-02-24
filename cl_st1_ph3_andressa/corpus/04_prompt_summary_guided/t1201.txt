@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 234–352 words.
+
+The writer describes feeling very lonely, rarely getting meaningful messages and realizing they hadn’t had a real (non–small talk) conversation in weeks. Their life had become a repetitive cycle of work, brief small talk, and sleep, with old friends far away and only occasional contact. Recognizing how empty and stale this felt, they decided to stop waiting for destiny and instead actively put themselves in situations where they could build a social life, without forcing conversations or chasing people. Over time, their phone became a source of real connection rather than just doomscrolling. They encourage others not to get too comfortable with isolation and to take action if loneliness is bothering them.

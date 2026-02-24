@@ -1,0 +1,19 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 197–295 words.
+
+The poster is usually very lonely, has never been in a relationship, and spends most of their time alone at home or working night shifts. After working over 100 hours during Christmas and New Year’s with nothing else to do, they decided to treat themselves to a solo trip to a luxury all-inclusive resort in Mexico. 
+
+Although being surrounded by couples and groups made them feel lonely at times, they still had a great, relaxing experience: reading on the beach, enjoying food and drinks, visiting Mayan ruins, and having a whole golf course to themselves. They share this story with the community to say that, if possible, others should treat themselves too—it felt good to feel “normal” for a while despite the loneliness.

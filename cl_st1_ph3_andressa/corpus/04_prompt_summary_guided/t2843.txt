@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 144–216 words.
+
+The poster is a 24-year-old man who has realized he has no friends. After returning home from university two years ago, his old friends moved on with their lives (kids, moving away, joining the navy), and his university friends either moved far away or lost contact. He has spent weekends at home with his parents and recently started going to bars alone, which makes him feel worse as he sees what he’s missing socially. His coworkers are much older, so he doesn’t feel they’re suitable friends, and his attempts at dating via Tinder haven’t worked. He feels stuck and unsure what to do.

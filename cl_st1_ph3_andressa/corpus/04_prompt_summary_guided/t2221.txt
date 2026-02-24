@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 109–163 words.
+
+The poster ended a 7‑month relationship at the end of summer with a man who first seemed sweet but then told her she wasn’t enough for him. After a few months’ break, she started dating again after Christmas and had high hopes for a new guy, but he has started ghosting her. She feels hurt, wonders why she’s so easy to let go and never enough, and knows she should focus on herself but feels pressured by time because she wants to get married before her parents die. This pressure has led her to contemplate settling for someone, and she says things have gotten really bad.

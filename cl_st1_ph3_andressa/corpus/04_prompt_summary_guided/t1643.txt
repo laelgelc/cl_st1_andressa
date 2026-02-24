@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 161–241 words.
+
+The poster feels lonely and lacks long-term local friends because they didn’t grow up in their current city and work a solo gig job without natural social contact. They try attending events to meet people, but results are inconsistent, and they feel others don’t value new connections or find it too much effort to maintain them once the initial excitement fades. They ask if others also feel lonely and what main barriers they face in making and keeping friends—such as busy lives, work, societal expectations, fear of creeps, or the effort required—and invite others to share their experiences.

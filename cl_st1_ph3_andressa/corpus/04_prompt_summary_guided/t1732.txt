@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 93–139 words.
+
+The poster hasn’t hung out with anyone in a long time and spends most of their time at home. They’ve met some cool people online, but their current online friends live too far away in other parts of New York, so they rarely see them. They wish they could meet people in NYC who would be up for chatting and hanging out once the weather improves. They mention that trying to find happiness from within hasn’t worked for them.

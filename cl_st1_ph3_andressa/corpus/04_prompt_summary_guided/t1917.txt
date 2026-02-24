@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 66–98 words.
+
+The writer feels intensely lonely and questions why their life is this way, even wondering if they are being punished by God. They left school in 6th grade and are now finishing university, but have no friends from school, university, their city, or anywhere else. They long for someone to hang out with, talk to, or text daily, and repeatedly tell themselves that they are boring and not good for people.

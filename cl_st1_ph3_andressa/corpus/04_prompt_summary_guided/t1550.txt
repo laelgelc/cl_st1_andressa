@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 145–217 words.
+
+The poster feels they are at a strange, transitional point in life, questioning whether their renewed pull toward faith is about God, loneliness, or nostalgia for the community and certainty of their religious childhood. They feel intense emotions and a strong sense of self, yet still wonder who they truly are. They are unsure whether this search will lead to gain or loss, something eternal or just a reflection of themselves. They describe moving forward in contradiction—wanting certainty but finding comfort in doubt, seeking answers while holding onto questions, and stepping into the unknown with both awareness and uncertainty.

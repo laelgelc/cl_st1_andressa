@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 150–226 words.
+
+A 26-year-old man feels constantly lonely and like he doesn’t fit in anywhere. He goes through a routine of college, gym, work, football, and home but feels he’s just going through the motions rather than really living. Although he talks to people at college, work, and football, he doesn’t see them as real friends and feels like a third wheel, as if people talk to him but not with him. Even in group settings he feels left out and isolated. He wonders if anyone besides his immediate family would notice if he disappeared for a while and believes the world would just keep going without him.

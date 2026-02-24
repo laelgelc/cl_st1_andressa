@@ -1,0 +1,19 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 294–442 words.
+
+An 18-year-old college student just received a 2.93/5 GPA and needs at least a 4.07 next semester to keep their scholarship. They’ve always been a high achiever with As and medals in high school, but since starting at their dream university in their dream major, their motivation has disappeared and their mental health has been declining.  
+
+They feel very close to failing for the first time and don’t know how to cope, ask for help, or even where they’re going in life. Although they have supportive people around them (friends, family, boyfriend, counselors), they feel deeply alone, unable to open up about their struggles and instead silently hope someone will notice. They feel emotionally blocked—wanting to cry but unable to—stuck in constant discomfort and big but muted emotions that cloud their thinking. They’re exhausted, don’t know what to do anymore, and wrote this post because they feel they need to tell someone and get space to think.

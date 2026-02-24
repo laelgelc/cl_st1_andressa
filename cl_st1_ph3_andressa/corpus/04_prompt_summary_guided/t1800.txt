@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 230–346 words.
+
+24F says she’s afraid of both romantic and platonic relationships because everyone she lets in eventually leaves. She feels she has trauma, poor social skills, and some annoying traits, including sometimes lying randomly in conversations out of nervousness and not knowing what’s “normal” to say. She usually goes through her days not talking to anyone, and although she recently started college again, she avoids forming intentions with people because she’s scared of getting hurt. In class she copes by dissociating and pretending it’s just her and the professor. When a guy asked for her number on the first day, she gave it out of fear of awkwardness and then felt depressed. The only person she talks to is her therapist once a week, but she feels the therapist is emotionally checked out, sighs loudly, and seems like she doesn’t care, which makes her feel boring, strange, and unwanted. Lately she feels content with the idea of disappearing. She also asks that no one message her with sexual intentions.

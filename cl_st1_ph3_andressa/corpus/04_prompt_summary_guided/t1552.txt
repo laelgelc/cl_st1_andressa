@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 30–44 words.
+
+The post announces that author Don Martin is currently live on Zoom discussing his audiobook *Where Did Everybody Go?*, which focuses on loneliness and the idea that people need other people. The poster describes it as a fantastic conversation on an important topic and shares the Zoom link for others to join.

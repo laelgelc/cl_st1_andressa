@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 310–466 words.
+
+The writer lost their last grandmother two months before the new year and is struggling with a quiet, persistent grief, even though they weren’t very close and she wasn’t a “favourite” grandparent. Everyday moments trigger a dull ache and a sense of emptiness, especially as classmates talk about missing their own families. They miss their grandmother’s steady background presence, her voice, repeated stories, and forgetfulness, and are surprised by how deeply her absence affects them. They feel something inside has shifted or broken, and they don’t feel understood in real life because others assume they’re fine due to the lack of closeness. They share this online hoping others relate to missing someone more than they expected.

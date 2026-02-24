@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 61–91 words.
+
+The poster feels a vague, persistent sadness because the few people who used to be in their life are no longer around in the same way. Now at 30, most people they know have families, while they don’t. They’re not sure they even want a family, maybe just someone special, but they feel lonely because everyone else is busy with their families, and they miss being able to just go to someone’s house and spend time together.

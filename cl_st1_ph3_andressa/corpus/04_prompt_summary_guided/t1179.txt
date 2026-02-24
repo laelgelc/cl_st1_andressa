@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 42–62 words.
+
+A man in his mid-20s, currently living abroad, feels that the career path he chose isn’t working out. He hasn’t been able to share this with anyone and is wondering if it’s okay to restart his career now. He’s worried about financial stability and whether he’ll be able to recover, and he feels extremely lonely.

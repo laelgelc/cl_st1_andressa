@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 126–188 words.
+
+The poster is nearly 70 and has never felt popular or particularly liked, despite genuinely liking people and trying to connect. They have a couple of friends who often criticize them, including one narcissistic friend, and they see this as part of a lifelong pattern of not fitting in. They describe themselves as kind, open, and chatty, but say they replay social interactions afterward and feel anxious, likely because they’re so used to criticism. They are not in crisis and aren’t seeking advice, but want to hear from others with similar experiences of being generally unpopular or not fitting in, to know they’re not alone.

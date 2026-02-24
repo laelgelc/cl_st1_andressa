@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 91–137 words.
+
+The poster left their family and girlfriend to pursue a career abroad because their mother insisted it was important for their future and that they could enjoy their relationship later. They now deeply regret this decision, feel intense misery and depression, and harbor hatred toward society. They are hurt that no one, including former high school friends, has contacted them, and they describe their loneliness as comparable to that of an 80-year-old with no family.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 82–124 words.
+
+The poster says they do have a decent number of friends and know people in all their classes, and they usually eat lunch with them. However, they don’t feel very close to these friends, who all seem to have their own groups. At dinnertime, those friends go off with their groups, leaving the poster to eat alone, which makes them sad—especially because they’d rather eat lunch alone than dinner.

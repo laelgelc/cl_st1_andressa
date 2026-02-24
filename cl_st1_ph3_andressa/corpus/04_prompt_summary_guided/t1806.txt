@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 83–125 words.
+
+The poster feels chronically alone: no one messages them, their email is only bills, and only their mom calls occasionally. They struggle to maintain friendships or keep people interested in talking to them. They describe themselves as quiet and believe there’s nothing particularly wrong with them, but they can’t shake the loneliness. They’re asking for advice on how lonely people can stop being lonely without seeming needy.

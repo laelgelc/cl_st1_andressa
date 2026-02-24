@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 131–197 words.
+
+The poster moved to a new country a year ago and initially thought they were forming a friend group, but later realized those people acted differently behind their back. This left them feeling hurt, disliking the fake, draining dynamic with others from their home country, and now feeling completely alone with no one to rely on or be themselves with. The loneliness is affecting their ability to focus on work and studies, trapping them in a mental loop and making them feel like they don’t belong either in the new country or back home. They’re unsure how to rebuild but wanted to express their feelings instead of keeping everything inside.

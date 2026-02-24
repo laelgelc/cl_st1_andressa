@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 268–402 words.
+
+The poster feels lonely and directionless after losing most of their friends, and they acknowledge their own role in that. They’ve been bottling up their feelings while trying to stay positive, but when they do open up, others don’t seem to understand. They feel like they haven’t been of value to anyone and sometimes just want to be heard or physically comforted, something they haven’t experienced in a long time. They say they’re on a path to recovery, but it’s painful knowing they’ll likely recover without their old friends seeing them happy or being there on bad days. They aren’t asking for sympathy, only for someone to listen, and they’re unsure what they’re doing.

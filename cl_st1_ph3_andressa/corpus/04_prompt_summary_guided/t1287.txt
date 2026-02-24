@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 93–139 words.
+
+The poster feels deeply lonely and is aching for someone they can’t have, someone they know they can’t trust. Despite knowing this and recognizing the relationship won’t return to how it used to be, their feelings aren’t fading; instead, the pain and longing are getting worse over time. They describe this as the most painful loss they’ve ever experienced and are struggling with lingering hope that things might go back to the way they were.

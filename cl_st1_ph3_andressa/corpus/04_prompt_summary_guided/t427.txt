@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 96–144 words.
+
+The poster is 37 and recently lost their first pregnancy, then needed surgery and was told they must have a full hysterectomy, ending their chance to have biological children. Their only sister died of cancer a few years ago, and now they only have their mom and stepdad. They feel that no one understands their fear of being old and alone, and people dismiss their worries when they say things like their body will only be found because a neighbor smells it. They also mention they are not rich and can’t afford options like surrogacy.

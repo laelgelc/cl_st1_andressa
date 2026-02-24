@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 63–95 words.
+
+The poster is in a lot of emotional pain and wants a place to vent about their needs and desires with nonjudgmental, like‑minded adults. Their intimate life is closely tied to their romantic life, and they feel this subreddit might not be the right place to talk about those topics. They’re unsure if they’re wrong about that and are asking if there’s a more appropriate subreddit for such vents.

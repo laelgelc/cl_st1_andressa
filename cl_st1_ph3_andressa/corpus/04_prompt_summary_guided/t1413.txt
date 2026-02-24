@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 139–209 words.
+
+The poster wants a monogamous romantic relationship with dates, sex, and shared holidays, and ultimately wants to be a girlfriend and wife. Instead, people only see them as a friend, and they feel chronically “friend-zoned.” They genuinely care about their friends and ask about their partners and relationships, but hearing about others’ happy relationships while having none of their own is becoming painful and makes it harder for them to stay supportive.

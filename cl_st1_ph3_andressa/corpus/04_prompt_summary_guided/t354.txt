@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 115–173 words.
+
+The writer reflects on how plants endure drought without panic or complaint: they let go of what they can’t sustain, focus on what matters, grow stronger in hidden ways, and even in death nourish future life so that nothing is wasted—not waiting, suffering, or loss. The post ends with the writer expressing a wish to be like a plant.

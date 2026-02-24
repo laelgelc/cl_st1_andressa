@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 89–133 words.
+
+The writer feels very alone and blames themselves for their situation, believing they always make things worse and “mess everything up.” They miss talking to people and wish they could change the past but feel they can’t. Now they only communicate with their dog, feel that no one else wants to talk to them, and think they deserve this loneliness. They describe their life as dark, much worse because of being alone, and say they hate their life right now.

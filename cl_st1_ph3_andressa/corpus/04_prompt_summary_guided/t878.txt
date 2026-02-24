@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 130–196 words.
+
+The poster feels deeply lonely, used, and uncared for, to the point of paying someone to act like they care. They feel people in their life are indifferent and can’t share how bad things are because others are dealing with their own problems. They describe intense emotional pain using imagery of a “black dog” and juggling a grenade, feeling close to breaking point. They say they’re not actively suicidal but would willingly go on a suicide mission, and they write partly for others to know they’re not alone, even though they can’t see a way out of their situation.

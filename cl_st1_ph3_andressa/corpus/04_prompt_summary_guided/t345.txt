@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 100–150 words.
+
+A 17-year-old high school student feels deeply disconnected from reality and from others, unable to have genuine conversations and only managing superficial interactions. They struggle to make friends because they feel very different from those around them, find most people’s behavior absurd, and sometimes feel like others aren’t even real, which makes them question their own sanity. As a result, they isolate themselves and are asking for suggestions on how to make friends or any helpful philosophy or advice, saying they feel like they’re going crazy and don’t know what to do.

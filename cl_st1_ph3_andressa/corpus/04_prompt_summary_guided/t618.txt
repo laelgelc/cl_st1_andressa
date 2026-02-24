@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 181–271 words.
+
+The poster reflects on how life has changed over 12 years: they first watched a movie in a big group of neighbors and families, but now went alone to its re-release. They describe how social circles shrink, people get busy, relationships get messy, yet you survive. It took a lot of courage and inner hesitation to go alone, and in the theater they noticed mostly couples and families, with no one else alone. They interacted with nearby people, repeated the movie’s dialogues (felt anxious it might disturb others, but others were doing it too), and enjoyed the film as much as when they rewatch it on their laptop. Their mom often stops them from rewatching comfort movies, but when they’re alone and need comfort, they watch them anyway, with “Chennai Express” being a fun, happy comfort film. They mention learning and experiencing new things, and they quote SRK’s line from the movie about escaping problems by solving them, expressing a hope they can actually apply that in their life.

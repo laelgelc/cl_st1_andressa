@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 134–200 words.
+
+The writer bought a cheap ticket to a club night hoping to grow as a person, be less dependent on others, and have new experiences they missed when younger. Something went wrong afterward, and they now feel they ruined everything and regret buying the ticket. They’ve decided not to go, to return to a previous resolution of not looking forward to things to avoid disappointment, and plan to stay in their room all weekend and Monday, only leaving for basic needs while working on assignments, believing no one will care.

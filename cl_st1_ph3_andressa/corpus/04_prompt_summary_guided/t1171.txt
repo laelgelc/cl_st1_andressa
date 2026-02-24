@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 192–288 words.
+
+The poster, at 25, realizes they’ve never had true friends—only acquaintances, and no one they can be fully open with. Their husband was their closest person and main emotional support, but they are now divorcing and he is with someone else, which leaves the poster feeling empty and alone. They’re uncertain and scared about the future, including relationships, life with their child, and how to cope without support. At the same time, they recognize a hard truth: they never built supportive friendships and now need to learn to rely on themselves, find joy in small things, and gradually open up to new connections and potential future friends.

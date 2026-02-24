@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 101–151 words.
+
+The poster went out with former high school classmates they don’t consider real friends and didn’t enjoy the bar’s music or overall vibe. They feel they haven’t found “their people,” have never even kissed anyone, and only get messages for work-related reasons. They’re bored, unable to enjoy things, and feel like a passive passenger in their own life, believing they’ll never have a partner and that people tend to drift away from them. They also feel that therapy isn’t the solution to everything.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 151–227 words.
+
+The poster has no partner, no friends, and hasn’t gone out with anyone (even just for coffee and conversation) for years. This level of isolation is harming their mental health. They know some people live like this and remain stable, and they want to hear from those people specifically. They ask how others in similar situations structure their daily life, where they find meaning and emotional grounding without close relationships, whether it’s something you learn to accept or if there’s a key mindset/habit, and what has helped them avoid falling apart. They don’t want clichés or generic encouragement, but concrete, real experiences and practical advice.

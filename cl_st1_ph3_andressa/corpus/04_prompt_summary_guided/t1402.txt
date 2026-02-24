@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 65–97 words.
+
+The poster is a man struggling with loneliness and finds it difficult to open up to family or friends. He wants to overcome his loneliness, build genuine connections, and improve his mental health. He’s asking others for strategies, routines, communities, habits, personal experiences, or resources that have helped them cope with male loneliness so he can feel less isolated.

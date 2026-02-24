@@ -1,0 +1,19 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 246–370 words.
+
+The poster is a 21-year-old living in a very rural part of the southern U.S., where they’ve always felt like a depressed loner. In high school they had no real friends, and the few people they talked to moved away for college. They feel isolated as one of the only non-conservative, non-illegal-activity peers who stayed, and believe their progressive views make it hard to connect with locals.
+
+They describe having nowhere nearby to socialize, almost no people their age around, and days that blur together in a fog of low motivation and constant tiredness. They work at a hospital 30 miles away and will become a nurse soon, but can’t afford to move for another 6–12 months. They talk with coworkers but don’t feel they’re true friends, and they’ve barely spoken to anyone outside work in months. They’re asking if others have experienced this kind of rural isolation and whether anything helped, or if they just have to wait until they can move to a city.

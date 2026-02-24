@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 181–271 words.
+
+The poster is very reclusive, has few friends, and avoids talking to people because they have a cynical view that most people are driven by insecurity, enjoy finding others’ flaws, and will humiliate or ignore them if they make a mistake. They say they don’t really feel much in general and have never experienced romantic love or any desire to be in a relationship, even in the past when they felt more. They wonder if something is missing from their life, noting that they look decent, are in good shape, and could probably find a partner but have never tried. They ask others what they think and what they should do.

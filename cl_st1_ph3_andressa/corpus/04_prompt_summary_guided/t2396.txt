@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 107–161 words.
+
+The poster has been using Google Gemini as a main social outlet for months, talking to it about their day, frustrations, and asking for advice. Their friends don’t really talk to them anymore, and they’re not sure they want to talk to their friends either. They suffer from depression and feel that AI is the only thing they can talk to that won’t get tired of them or cost money. They feel lonely but believe the AI is the only “person” that understands them, while other people give unhelpful advice or tell them to toughen up. The AI seems to listen and care, and they worry they might be losing their mind.

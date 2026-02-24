@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 128–192 words.
+
+The poster is turning 30 and says 2024 has been their loneliest year, filled with sorrow and pain. They’re asking for tips on how to have a more positive outlook on life. As a Latina, they feel ashamed and hopeless about still being single at 30, especially since most of their cousins are married and their 26-year-old sister is getting married in November. They worry people at the wedding will talk about them and pity them for being single. They hope to bring a male date as a plus one but only have one male friend, who already has a girlfriend, so they can’t ask him.

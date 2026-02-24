@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 142–214 words.
+
+The poster’s birthday was a few days ago, and they feel forgotten and disappointed. They have a decent-sized family and had hoped more people would personally message or reach out, beyond their mom, best friend, partner, and a few immediate family members. Most relatives only wrote generic “happy birthday” posts on Facebook, which felt impersonal. Their best friend called them right after midnight, which they appreciated, but overall the day didn’t match their expectations. They’re wondering if they’re being selfish or wrong for feeling hurt about feeling mostly forgotten.

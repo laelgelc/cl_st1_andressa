@@ -1,0 +1,19 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 287–431 words.
+
+19-year-old male starting his second year of college feels extremely isolated and lonely. He grew up without siblings, had no friends until 6th grade, lost that friendship, has no close family relationships, and only sees seasonal coworkers for part of the year. His first year of college involved a harmful and dangerous social situation, and now he’s going into his second year completely alone.
+
+He wants to make friends and “put himself out there” but feels stuck. He’s tried joining clubs, but his school has very few, and the ones he joined have disbanded; he checks the club list daily but finds nothing suitable, and he can’t start his own club without 15 people. His school has little party culture, and he doesn’t drink or know where parties are. The campus is overwhelmingly female, and while he’s fine with having female friends, he’s afraid of seeming creepy or romantically interested. He admits he struggles with small talk and sometimes self-sabotages but is genuinely trying and would be happy with even one friend or a small group. He’s asking for advice on what to do.

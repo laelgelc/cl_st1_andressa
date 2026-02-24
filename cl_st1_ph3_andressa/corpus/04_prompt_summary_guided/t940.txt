@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 33–49 words.
+
+An 18-year-old male feels desperate, alone, and like he has been lonely his whole life. He’s going through difficult things and feels like he doesn’t care anymore, and all he wants is someone’s company and good friends, even if they’re awkward.

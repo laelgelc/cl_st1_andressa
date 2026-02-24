@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 149–223 words.
+
+An 18-year-old woman is offering paid, strictly platonic, SFW online companionship. She’s available to chat about life and hobbies, watch shows or movies together, keep people company while they work or study, or do light texting throughout the day. She describes herself as friendly and a good listener, is open to negotiating a fair rate, and can use Discord, Reddit chat, or other safe apps, with payment via PayPal. She clarifies that this is non-romantic, non-sexual, and she is not paying others, but providing a companionship service.

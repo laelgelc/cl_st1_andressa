@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 141–211 words.
+
+The poster feels unwell lately and has no one to talk to, so they’re seeking advice. They describe having a weak nervous system and a difficult character, always feeling weird, out of place, and different from others. Growing up, they only had 2–3 school friends and spent a lot of time on video games and the internet, procrastinating. They’ve since quit gaming and other “bad interests” and recently feel like they’ve finally “woken up” and started trying to do something with their life. However, they currently don’t have a job, can’t afford therapy or clinical help, and feel stuck.

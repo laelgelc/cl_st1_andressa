@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 112–168 words.
+
+The poster describes booking a salon appointment hoping to fix the back of their hair and have a normal, friendly chat with the stylist. Instead, the stylist refused the task, which the poster experienced as disrespectful and disappointing. They believe this happened because they see themselves as “ugly” and feel people hate them on sight and don’t think they’re worth the effort. They generalize this to salon workers being rude and hateful, and say this experience reinforces why they’ve avoided salons for years.

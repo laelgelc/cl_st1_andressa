@@ -1,0 +1,21 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 228–342 words.
+
+The poster met a girl through a mutual friend on Discord and they’ve been part of the same group for years, occasionally meeting up in person. She has dated other people in that time, but recently they’ve been talking more and seem to be connecting on a deeper level, with friends teasing them about dating. 
+
+He (31) and she (27) discussed a group meetup this year. He texted her saying he’d like to visit and maybe do something together for their birthdays, which are two weeks apart. She reacted positively and asked if he meant the group meetup, and he replied suggesting they could do the group meetup then and also do something earlier, just the two of them. She hasn’t replied to that message for about 12 hours, though she did send him something on Instagram an hour after his text.
+
+He’s conflicted because on New Year’s Eve, when she was drunk, she told a friend she’d date him if he lived in the same town, and she also called him that night and said she loved him. They live in different states, and he feels he might be “cooked,” but he wants to know where he stands because he’s had a crush on her since they met.

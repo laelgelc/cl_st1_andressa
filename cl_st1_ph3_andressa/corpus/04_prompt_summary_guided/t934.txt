@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 71–107 words.
+
+The poster feels completely left out and alone, crying while writing and every night for the past week. They feel unable to make friends, don’t know how to heal or what to do, and say that even talking about it makes them cry more. They feel like everything is “over” and express a strong sense of hopelessness.

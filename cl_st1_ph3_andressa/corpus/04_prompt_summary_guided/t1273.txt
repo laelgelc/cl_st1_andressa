@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 237–355 words.
+
+The poster is angry at TikTok creators who criticize lonely people for using AI companions in the name of environmentalism. They feel these people target vulnerable, isolated users instead of holding companies and systems accountable, and that this only deepens the loneliness that led them to AI in the first place. They point out the hypocrisy of focusing on AI’s environmental impact while ignoring bigger issues like factory farming, and note that not everyone has the privilege to go vegan or to form real human connections. They resent being told they “just don’t try” and contrast others’ mild social anxiety with their own diagnosed, debilitating social anxiety, saying they have tried everything but social success is largely luck-based. The post ends with them expressing suicidal thoughts.

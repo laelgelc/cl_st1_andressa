@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 277–415 words.
+
+The poster feels deeply lonely not because they lack people around them, but because they can’t find genuine, deep connection. They’re surrounded by small talk, flirting, and shallow late-night messages, but what they truly crave is someone who wants to know their real self—values, fears, pain, and hopes—not just the easy or attractive parts. They’re frustrated that when conversations get real, others shut down, hide behind “privacy,” deflect, or turn things sexual because it feels safer than vulnerability. Although they are touch-starved, emotional understanding is their primary need. They question why physical distance is treated as a barrier to real connection, pointing out you can feel alone next to someone and deeply understood by someone far away. They aren’t looking for a savior or a fantasy, just an honest, non-performative, non-conditional connection where both people are willing to be known. They ask others who feel this intense, “chest-ache” kind of loneliness what helps, and those who’ve found real depth what made it different, because they’re exhausted from surviving on emotional “crumbs.”

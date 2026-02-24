@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 102–152 words.
+
+The poster stays busy with work and hobbies during the week but feels the pain of loneliness on weekends, when they feel they’re “supposed” to be having fun with others. Their roommates and acquaintances seem to be out at social events, while they have no one to go out with, no one to chat with, and not even a virtual hang. They don’t want to attend events alone, and the contrast with others’ social lives makes their isolation feel especially hurtful.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 80–120 words.
+
+The poster feels especially lonely while their father and stepmother are away celebrating their anniversary. They really want a girlfriend and have been trying through online dating, but it’s draining their mental health and making things feel hopeless. Almost no one has talked to them today, which has made the day particularly difficult. They’re venting about feeling like finding a girlfriend or meaningful connection seems impossible right now, though they still hope it will happen someday.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 182–272 words.
+
+The poster is grieving their mother’s recent death while also facing a move and a real risk of homelessness due to the housing crisis in Canada. They feel deeply alone and unsupported: only a distant cousin checks in occasionally, while their immediate family doesn’t, despite them having asked for help for years. They describe long-term struggles and poor mental health, feeling like their life is mostly bad with very rare good moments, and they’re losing hope because they don’t see enough positive payoff to keep going. They wish they had someone to hug them, stay by their side, and help them through this.

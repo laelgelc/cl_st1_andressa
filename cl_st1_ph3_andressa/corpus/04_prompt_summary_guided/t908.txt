@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 159–239 words.
+
+The writer struggles to describe their loneliness, calling it cold and empty. They wake up with regret and wish for endless sleep, not death. Although they have family and friends, they feel unknown because they hide behind a social mask to conceal how hurt and “damaged” they feel. They believe they are isolated forever because nothing matches the depth of a past relationship: someone loved them deeply, but the relationship ended before they could fully return that love. Losing that connection makes them feel that they will probably never love again and leaves them questioning why they should even try.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 191–287 words.
+
+The poster shared a love poem online hoping to find someone to love, but no one responded and only bots told them it broke rules, which made them feel worse. It has been up for over a month with no real replies. They describe themselves as “just a fat kid” that people ignore at school and scroll past online, and they feel that no one cares enough to talk to them outside of school. They posted in the subreddit to feel less alone but now feel their thoughts aren’t special or deep, just common and unimportant. They see themselves as not poetic, not hardworking, not smart—just someone pretending their ordinary thoughts are deeper than they really are.

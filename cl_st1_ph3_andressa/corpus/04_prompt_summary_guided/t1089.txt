@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 126–188 words.
+
+The writer reflects that they used to believe they were always hated, ignored, and never had a normal life or intimacy, but now realizes that wasn’t entirely true. They suspect some people may have been interested in them and remember having at least one friend, though their mind insists they were never close to anyone. They describe a cycle where rejection led them to close themselves off and become emotionally stunted. They feel that while circumstantial loneliness can be fixed, their decision to stop expressing themselves turned their situation into their own fault and ultimately led to their current state of severe alienation, where they think about their life every day.

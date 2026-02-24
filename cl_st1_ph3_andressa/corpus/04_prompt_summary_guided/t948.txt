@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 78–116 words.
+
+The poster feels completely empty, hopeless, and intensely lonely. They experience constant rejection and notice people’s attitudes change after seeing their face. Attempts to be friendly—smiling, saying hello, waving—are met with people, including their own family, intentionally avoiding them. They often feel like breaking down and crying in public and are left wondering why no one can love them.

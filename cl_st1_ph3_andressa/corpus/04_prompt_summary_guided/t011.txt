@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 125–187 words.
+
+The poster describes feeling extremely lonely and “pathetic,” to the point that they get a strange, almost pleasurable tingle when they insult themselves, because the insults feel true. They say they still love themselves but also harshly criticize themselves, especially when fantasizing about a crush they believe is out of their league and thinking they’ll never have a social or love life. They feel they can’t even feel safe in their own mind anymore and are asking if anyone else experiences this for validation.

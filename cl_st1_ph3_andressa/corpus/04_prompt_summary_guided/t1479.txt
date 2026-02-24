@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 176–264 words.
+
+The poster describes dreading their birthday in recent years, even though it’s the one day they get attention from friends and family. They realized it’s because birthdays highlight how many friends they’ve lost, who doesn’t care, and how lonely they really are. Past celebrations either had no one show up or people came but ignored them. This year only four friends remembered and about a quarter of their family said nothing. They say they no longer care and reference Phil Dunphy’s idea that having zero expectations means people can’t disappoint you.

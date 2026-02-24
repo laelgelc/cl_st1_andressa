@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 49–73 words.
+
+The poster thought they had finally met a friend, but after less than two days of chatting, the other person blocked them without explanation. This experience reinforces their feeling that they don’t know how to make or keep friends, as people always seem to leave without saying why. They say they have no friends and just want someone to be their friend.

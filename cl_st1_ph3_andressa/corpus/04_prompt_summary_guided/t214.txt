@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 50–74 words.
+
+The poster reflects late at night that high school didn’t bring much good for them. They feel they were too stuck in their own head, hated academics, and were too afraid to try new things, which led them to miss out on a lot despite a few good moments. They now question what they were thinking back then.

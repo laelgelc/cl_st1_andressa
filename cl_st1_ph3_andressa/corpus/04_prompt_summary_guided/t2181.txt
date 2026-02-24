@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 147–221 words.
+
+The poster describes feeling intensely lonely and unseen despite having people around and daily interactions. Their loneliness comes from many small hurts: not being listened to, being forgotten, feeling like their needs are inconvenient and their feelings “too much.” They feel tolerated rather than truly known or chosen, like a ghost moving through life while appearing fine on the outside. They’re exhausted from carrying this quietly and fear disappearing into a life where they aren’t deeply known. They ask if others have felt “fundamentally unseen” and how they found their way back to feeling real again.

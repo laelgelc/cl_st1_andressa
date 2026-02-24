@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 53–79 words.
+
+A 28-year-old, recently separated for the second time from their children’s other parent, feels alone and stuck. They have three kids but can’t see them because the ex is angry and withholding contact. They have no car, no home of their own, no money, and are sleeping on their alcoholic father’s couch. They feel they have nowhere to go, nothing to do, no positive friends, and are spending Christmas in this situation.

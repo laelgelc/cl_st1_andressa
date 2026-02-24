@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 95–143 words.
+
+The poster is 23 and feels they were never supposed to live past 20 or even high school, so they never formed long-term goals. Now they feel lost, aimless, and unable to imagine themselves in five years except as not existing. They want friends and a girlfriend but believe they’re too mentally messed up and insecure to have relationships, and living day by day without change feels bad and empty.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 62–92 words.
+
+The poster describes feeling an intense, almost life-defining obsession with certain things, characters, or people. They feel that life seems pointless if they can’t have what they’re obsessed with, and although they know they could try to improve themselves and let go of the obsession, they don’t want to—they want the thing itself. They ask if others also feel that everything they’ve ever wanted is just an illusion and ultimately unattainable.

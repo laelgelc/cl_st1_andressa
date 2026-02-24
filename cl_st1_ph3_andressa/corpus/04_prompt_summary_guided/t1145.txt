@@ -1,0 +1,19 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 206–310 words.
+
+A 17-year-old Indian male feels deeply lonely and disconnected from others. He has some friends but doesn’t trust them, fearing they’ll share his personal issues and make fun of him, which he’s seen happen. He goes on morning runs to be alone and feels his parents don’t understand him. He believes he has no one to love and no one who loves him, feels like a burden, and thinks he’s better off alone.
+
+He overthinks before speaking, feels like he’s always pretending to be someone else, and has lost sense of who he really is. He’s never been in a relationship and believes having one might solve his problems by giving him someone to confide in. He feels he’s wasted his life by not doing more, doesn’t belong where he is, and struggles to connect because people around him don’t share his interests. Self-improvement feels fake and routine, like trying to be someone he’s not. Seeing others connect makes him feel like something is wrong with him, and he fears he’ll never find someone who truly understands him.

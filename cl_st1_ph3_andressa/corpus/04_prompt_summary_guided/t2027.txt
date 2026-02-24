@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 129–193 words.
+
+The poster is struggling badly in school and is close to being forced to drop out, despite initially being excited about studying something they’re interested in. Their former school companions have grown closer to each other and now exclude them, leaving them feeling lonely and rejected, especially after chasing them to lunch and regretting it. They have no friends to talk to, had hoped for one close friend throughout school, and have been crying a lot, especially after trying and failing recent tests. They’re torn between dropping out before being forced to and staying, since either way they feel lost.

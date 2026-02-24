@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 221–331 words.
+
+The poster feels exhausted, deeply sad, and emotionally numb, saying they don’t even understand their own feelings. They avoid talking to family and feel like their “soul is dead.” They have no close friends beyond coworkers, don’t trust people, and stopped hanging out because it didn’t make them happy. Their dating life feels pointless and every time they care about someone it feels worthless. They feel stuck in life with no clear goals or future, and are struggling with financial problems, overthinking, trust issues, depression, and anxiety. They’ve tried various coping methods, including religious faith and both good and bad strategies, but nothing has helped. Therapy hasn’t felt useful because they can’t explain what makes them sad, and they feel lost about what to do with their life.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 126–190 words.
+
+The poster feels hurt and excluded because a woman in their life constantly talks about her parties, dates, clubbing, and vacations, including the attention she gets from guys, while never inviting the poster to anything. When the poster expresses a wish to be invited or go out, she ignores them, yet still relies on them for favors like rides. The poster feels used and as if she is flaunting her fun life in front of them, comparing it to someone eating candy in front of a child who has none.

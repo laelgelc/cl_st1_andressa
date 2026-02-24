@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 191–287 words.
+
+The poster feels very lonely and rarely leaves the house, and deeply misses close, consistent connections. They say they actually connect with people easily but want someone who will be emotionally present every day, checking in morning and night. Others often misjudge them as being sexually driven or “chasing women,” but they insist they’re just craving affection. They’d be happy with a close, loving bond with anyone (man or woman) despite being straight, and they’re willing to give affection in return. They’re frustrated that people claim to be too busy to connect while spending hours arguing online, and they feel that nowadays people don’t really want to build genuine connections, which is especially hard for them as a sensitive person.

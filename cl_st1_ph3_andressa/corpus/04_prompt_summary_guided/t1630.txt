@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 114–170 words.
+
+The writer describes a life of deep, long-term loneliness. They grew up with emotionally abusive and neglectful parents who made them feel invisible, had almost no friends due to being autistic, and had to face hardships alone without support. They finally made a good friend at 21, but that friend now lives in another city. They feel frustrated that they can’t ask for support, that others assume their life is easy or fun, and that they must pretend everything is great because people act like they shouldn’t feel the way they do, leaving them feeling unseen and unable to complain.

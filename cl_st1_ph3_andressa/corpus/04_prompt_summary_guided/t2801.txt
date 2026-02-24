@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 70–104 words.
+
+The poster says they’ve never really sought out friends but still have a few good ones and generally feel more comfortable alone. They were a shy kid, attached to family friends, and were never encouraged to go out and make friends, which contributed to their quiet nature. They emphasize that not all loners are angry or bitter; some, like them, are simply happy being alone.

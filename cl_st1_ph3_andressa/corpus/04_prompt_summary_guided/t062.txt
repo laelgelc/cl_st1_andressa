@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 74–110 words.
+
+The poster says they act extroverted, loud, and funny online but are very different in real life. In person, they feel judged when walking around and worry they’ve said something wrong or offended others when they talk. They describe themselves as very sensitive, overanalyzing facial expressions and jumping to negative conclusions, which they sum up as extreme self-consciousness or social anxiety. They end by thanking readers for listening and wishing them a nice day.

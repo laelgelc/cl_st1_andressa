@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 151–227 words.
+
+The post provides a template for users to introduce themselves in the subreddit, asking for age (18+), a brief self-description, what they’re looking for (e.g., venting, friendship, gaming), and any extra details like location or favorite things. It lists removal criteria: mentioning gender (e.g., M4F), being underage, writing long walls of text, or breaking subreddit rules. The post emphasizes that this is not a place to seek relationships, encourages users to interact with others’ comments, and invites questions or concerns via comments or modmail.

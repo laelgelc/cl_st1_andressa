@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 99–149 words.
+
+A 29-year-old man from the UK says he has no friends and that every time he makes new ones, they eventually ignore him, leaving him alone again. He feels he’s always there for others when they need him, but it never lasts. This repeated pattern has made him very anxious about trying to make new friends and increasingly depressed and fed up with being alone and having no one in his life.

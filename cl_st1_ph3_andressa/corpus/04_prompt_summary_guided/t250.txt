@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 102–152 words.
+
+The poster has a Japanese test in two hours but feels unmotivated to leave the house despite knowing they need to in order to improve. They plan to contact their psychologist again but doubt how effective therapy will be, feeling that some emotional scars never heal. They describe intense emotional distress, torn between wanting to curl up and die or scream everything out for catharsis. They feel lonely and resigned to putting on a façade of being fine in what they describe as a pseudo-dystopian world. They end with a Japanese sentence acknowledging that every day is difficult and encouraging themselves to keep trying.

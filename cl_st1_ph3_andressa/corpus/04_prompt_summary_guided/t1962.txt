@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 113–169 words.
+
+The poster describes nights when they feel extremely lonely, wanting to cry, be held, spoiled, and feel loved, even though they sleep alone in a big dark room. They mention they are a man and have been sad and fighting loneliness for a long time. Despite feeling very weak on some nights, they say they are strong, won’t give up, and will keep moving forward and dreaming until they find love or die trying. They also say they are thankful for what they have and reference a song their mind is “mocking” them with.

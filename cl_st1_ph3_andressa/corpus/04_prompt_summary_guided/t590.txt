@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 246–370 words.
+
+The poster moved from their hometown to a new engineering job in Boston hoping to be more social, but felt extremely lonely, isolated at an office job where they mostly talked to a computer and were far from their small family. After three months they quit, moved back home, and then traveled alone in Europe, as they usually travel solo (also having gone alone to Europe before and to Japan). They’re starting a new job but dread it, expecting more isolation plus a one-hour commute each way. Most weekends they’re alone, spending time biking or hiking; they avoid eating out due to dieting and don’t drink, so bars feel pointless and awkward. Their social activities like racing sailboats are on hold for winter. Dating is rare, with about one date every six months via online apps. They feel very alone even when out in public places and are questioning whether their level of isolation is normal, believing most people spend weekends doing things together.

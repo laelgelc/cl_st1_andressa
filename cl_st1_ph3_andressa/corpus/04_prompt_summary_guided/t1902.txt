@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 161–241 words.
+
+The poster moved about 200 km to a small town a year ago to live with their partner and now feels lonely and isolated. They never had many friends and mostly spent time with family, but after their mother died two years ago they drifted away from them. The small town feels closed-off and unwelcoming despite their efforts to meet people through ukulele classes, pilates, and the gym. Visiting family by bus is exhausting, and they don’t drive because it scares them. Their partner works rotating 12-hour shifts, so they rarely see each other. They don’t regret moving but want virtual friends to chat, video call, watch shows, and play games with, and are asking for platform recommendations since randochat hasn’t worked well.

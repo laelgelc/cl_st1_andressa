@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 95–143 words.
+
+The poster’s main hobby is playing video games like Mario, Smash, Call of Duty, and Fortnite, but they often have no one to play with. They love music, especially Uzi, Carti, and Pierre Bourne, whose music they find great for vibing. They don’t watch many movies or TV shows, but really enjoy the ones they do see, listing Into the Spider-Verse, Brooklyn Nine-Nine, and Chilling Adventures of Sabrina as favorites. They invite people with similar interests to message them.

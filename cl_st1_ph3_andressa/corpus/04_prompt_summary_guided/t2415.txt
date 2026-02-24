@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 50–74 words.
+
+The poster describes themselves as outgoing and able to talk easily with anyone, but says their one-on-one connections rarely last. They often feel a strong vibe with someone in the moment, but after parting ways there’s usually silence, with only occasional brief greetings. They had hoped meeting people in person would lead to better, more lasting connections than online interactions, but it hasn’t worked out that way and they’re left craving more human interaction.

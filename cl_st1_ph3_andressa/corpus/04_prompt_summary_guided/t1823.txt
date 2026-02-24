@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 82–122 words.
+
+The writer feels overwhelmed and “destroyed” by loneliness that keeps returning no matter what they do. They’ve lost both a girl they liked and a great friend, and remember being very happy when they were together. Now those people are gone and seem to be enjoying their lives, while the writer feels they meant much more to him than he did to them. He feels like he was just “another close friend” to them, while they were everything to him, and he’s questioning if this loneliness will ever go away, saying he doesn’t want to feel this way.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 206–308 words.
+
+The poster says they genuinely enjoy being alone and their own company, even though they’re not socially awkward and can talk to anyone if they want. At school they avoid crowds, sit away from others at lunch, and see most people as mere associates, with only about four real friends; their brother is their only best friend, yet they still prefer solitude. They describe being bullied for being fat in elementary and middle school, which traumatized them and made them not want to talk to people, even though they were apparently considered “popular” in 6th grade. Now they distinguish between being lonely and being alone: they have people they can talk to but choose to be alone. They also don’t want to get married and like the idea of a quiet, drama-free life.

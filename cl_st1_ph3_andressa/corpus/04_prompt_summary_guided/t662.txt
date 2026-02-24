@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 189–283 words.
+
+They moved to a new city two months ago for online college and now spend most of their time alone in their room, only going out for food or small errands. They have no friends or partner there and recently joined a gym hoping to meet people, but everyone already seems to have their own groups, and their attempts to say hi don’t lead anywhere. Most days they lie in bed watching reels or YouTube, feeling increasingly anxious, sad, disconnected, and sometimes depressed. Being alone is starting to feel heavy, and they overthink a lot. They’re asking if others have gone through something similar and are looking for advice or stories on dealing with loneliness and making friends in a new place.

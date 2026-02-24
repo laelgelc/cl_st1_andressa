@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 82–122 words.
+
+The poster feels conflicted about being a loner. They feel some guilt for not being more outgoing and sociable in high school and college, thinking their experiences might have been different if they’d joined groups and chatted more. At the same time, they’re very comfortable with solitude and feel it’s hard to find people who share their interests and views, believing most people are nasty and judgmental. They ask if others also feel guilty for being loners.

@@ -1,0 +1,19 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 332–498 words.
+
+The writer fears ending up alone and now feels completely alone. They are independent and generally at peace at home, but their friends rarely, if ever, reach out first, so contact has faded. They ended a relationship a little over two months ago, still miss their ex intensely, but keep him blocked because they don’t trust he could change and are trying to choose themselves.
+
+Their best friend was also an ex from years ago, and they relied on each other emotionally. Concerned about being too needy and dependent, and noticing his new night work schedule, they mutually decided to go no contact and blocked each other. Later, an old friend suggested this ex-best-friend might still have romantic feelings, which made the writer question whether that friendship was genuine or just him hoping for another chance. Now they feel they’ve lost the two most important people in their life in a short time, are unsure whether to seek answers or just move on, and are finding the situation extremely hard.

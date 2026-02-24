@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 138–208 words.
+
+The poster is a 22-year-old man who feels deeply lonely and isolated. He has very little family contact, rarely sees the family he does have, and struggles even to respond when they reach out. He has no friends or romantic partner and spends most of his time alone, working as a delivery driver where he also doesn’t interact with others. He cares for his mother, who has MS, but often lacks the strength to leave his room. This has been his life since around 2019, and he feels tired, empty, and unsure if the problem is his personality, lack of effort, or something else. He wonders if he is “damned” to this kind of existence and is asking if anyone has found a way to navigate what feels like a meaningless (or possibly meaningful) conscious existence.

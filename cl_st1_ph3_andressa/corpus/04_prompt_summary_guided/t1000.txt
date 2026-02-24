@@ -1,0 +1,19 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 265–397 words.
+
+24M, single, no kids, hasn’t been in a serious relationship for 2.5 years. He’s grown a lot since his last relationship and learned to genuinely enjoy doing things alone, not just cope, but still sometimes feels waves of loneliness and misses the feeling of being emotionally safe and sleeping next to someone (though he doesn’t miss his ex specifically). 
+
+He only has the occasional hookup or fling once or twice a year and sometimes tells himself maybe he’s just not meant to end up with someone, even though he quietly wants to fall in love again. Most of his friends are now getting married and having kids, so friendships feel different. He’s in the military, spends most of his free time at the gym, sees himself as kind of boring, and finds it ironic that friends say he’s good-looking and wonder how he’s still single. He’s not sure why he posted and apologizes for possibly wasting people’s time.

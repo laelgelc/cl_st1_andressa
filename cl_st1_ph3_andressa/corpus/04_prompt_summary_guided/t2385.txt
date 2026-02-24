@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 142–214 words.
+
+The writer reflects on choosing solitude despite others worrying about their loneliness. They say being alone is easier and more authentic, because they can manage their own emotions without burdening others or changing who they are. They acknowledge sometimes wanting affection, like a hug or a smile, but overall prefer not to deal with other people’s emotions. They state they are not suicidal and that their death wouldn’t matter much in the grand scheme, yet they still don’t want to die—they just want to “do me.” If they do end up caring about someone, it’s rare and should be appreciated.

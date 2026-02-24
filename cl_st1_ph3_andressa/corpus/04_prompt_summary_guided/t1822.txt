@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 154–232 words.
+
+The poster used to enjoy being alone and never felt lonely, finding comfort in their own company and hobbies. Now in their 30s, their hobbies no longer satisfy them, they have almost no friends, and they often feel that time spent on dates or with friends is wasted, especially when others dominate conversations. They deeply crave a meaningful connection where they feel seen and understood, and feel empty and very sad, though they don’t think it’s depression. Sometimes they seek validation by talking to several men for attention, but quickly get bored and end up feeling even more frustrated and lonely. They describe their post as coming from a place of desperation.

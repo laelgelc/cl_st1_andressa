@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 245–367 words.
+
+The poster is 46 and has never had a real romantic relationship. In their early 30s they tried going to clubs, danced and made out with a few women, and sometimes got numbers, but overthinking or coming on too strong led to being ghosted. They describe their life as lonely and have mainly focused on work and family. They don’t expect their situation to change and ask others to share what it feels like to be loved and wanted in a relationship, since they doubt they’ll ever experience it themselves. They mention having previously felt suicidal but now feel they can probably endure life to the end. They note that many others go through similar loneliness, encourage them that they’re not alone, and reflect that watching life from the sidelines leaves you without relationship “battle scars” but with a sense of emptiness, concluding that in the end everyone is alone.

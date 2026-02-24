@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 120–180 words.
+
+The poster reflects that most people’s lives seem to turn out either very good (good careers, marriage, etc.) or very bad (jail, homelessness, death after bad choices), with little in between. They feel stuck in a kind of “purgatory” in the middle: they don’t have a good career, have never dated, don’t travel or do anything spectacular, but also haven’t done anything terrible or criminal. They describe themselves as just existing, like a “grey blob” without notable successes or serious failures.

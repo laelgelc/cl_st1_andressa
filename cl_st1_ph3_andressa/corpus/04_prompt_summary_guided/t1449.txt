@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 40–60 words.
+
+The poster says they don’t really have friends but often feel a strong urge to talk to someone about anything—sharing reels, discussing what’s happening in each other’s lives, or just exchanging thoughts. They ask if anyone else feels this way and how others cope with it.

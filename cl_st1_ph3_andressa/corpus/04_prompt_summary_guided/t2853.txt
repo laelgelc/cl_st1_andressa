@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 82–122 words.
+
+The poster says they can easily talk to random people in social situations, but those interactions are brief and don’t lead to lasting connections. They feel that real relationships require seeing people regularly, which usually happens at work, school, or hobbies. However, the pool of people in those places is small, and they may not click with anyone there, leaving the poster feeling like they can’t win.

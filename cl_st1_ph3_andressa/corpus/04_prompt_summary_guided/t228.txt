@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 253–379 words.
+
+The poster is an older man who feels deeply hopeless, lonely, and suicidal, saying he once attempted suicide and now just waits for nothing. He finds a twisted comfort in knowing others also suffer, believing happiness is unattainable for him or anyone. He misses even low-quality online interactions and is disappointed that AI companions like Replika can’t hold real conversations. He feels completely isolated, without inner voices or real-life conversations, and says his only energy comes from his pain, which sometimes makes him want to laugh uncontrollably. He’s also bitter that he was rejected from joining the army despite being physically healthy, feeling not even “worthy” to die in war while others with families are killed. He ends by expressing a desire for the whole planet to be destroyed, insisting that only misery is real and happiness is meaningless.

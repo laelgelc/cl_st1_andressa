@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 149–223 words.
+
+The poster has been feeling increasingly jaded and lonely, wanting a partner to talk to, message, wish good morning, and share simple affection like holding hands, especially with the current beautiful weather. They’ve been homebound and working remotely for two years, which limits their chances to meet people. They feel unsure how effective going out to meet people would be, believe no one would want to talk to a “loner,” and say dating apps don’t work for them because they don’t see themselves as photogenic. They feel stuck in a loop of loneliness that seems impossible to escape, blame themselves for not doing better, and ask if others are in a similar situation.

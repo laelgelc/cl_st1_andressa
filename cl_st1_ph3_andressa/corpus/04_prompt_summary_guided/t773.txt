@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 54–82 words.
+
+The poster feels destined to be alone and believes they are stupid and only used and discarded by others. They feel they give people what they want but receive nothing in return, think they will never be anyone’s special person or be enough for anyone, and see themselves as the unwanted “last one on the shelf.”

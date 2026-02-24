@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 68–102 words.
+
+The poster feels very lonely and unsure what to do. They were on a call with people they call “friends,” but feel these people only tolerate them, treat them badly, and laugh at them rather than with them. They used to have a group chat and more friends, but after things became complicated, they were asked to list all their friends and could only name about three, which made them realize how lonely they really are and wish they weren’t.

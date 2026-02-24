@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 202–302 words.
+
+The poster is a 26-year-old woman in grad school who feels very lonely and confused about adulthood. Most of her friends have graduated, many are now married or focused on relationships, and she feels like friendships disappear once people get a partner. She’s hurt that married friends seem to prioritize their spouse over maintaining friendships, and even her unmarried friends mainly talk about finding a relationship, making her feel their friendship will end once they couple up. This makes her reluctant to invest in friendships or future wedding events. She feels anxious, alone, questions the point of life, and worries that after finishing school things will get worse, with nothing ahead but a 9–5 and even fewer connections. She’s asking if this experience is common at her age.

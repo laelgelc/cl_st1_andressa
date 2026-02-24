@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 83–125 words.
+
+The poster is an introvert who has always enjoyed being alone and finds it hard to start conversations or be around people. Their mother doesn’t really understand this preference for solitude, though the poster knows both parents care about them. They sometimes enjoy going out, like having dinner with their dad, but generally prefer being alone. They are asking if anyone else lives like they do.

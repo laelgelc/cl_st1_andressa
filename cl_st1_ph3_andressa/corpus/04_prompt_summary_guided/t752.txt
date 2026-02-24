@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 125–187 words.
+
+The poster just turned 18 and has been struggling with suicidal thoughts since around age 15. They say their life hasn’t been objectively bad and they know their parents love them, but they can’t feel that love or believe positive things people say about them. They’ve never been happy with anything they do, have trouble trusting compliments, and feel very unloved. They’ve never had a girlfriend and have turned down people who asked them out because they don’t love themselves and don’t understand why anyone else would. They feel tired of everything and sometimes want it all to end, but they also think that if they can’t be happy, they can at least try to make others happy.

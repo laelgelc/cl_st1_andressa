@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 256–384 words.
+
+The poster describes being heartbroken after a nearly 3-year relationship ended over a year ago. After finally feeling ready to try dating again, they experienced two painful rejections in quick succession: one from a coworker who responded harshly and professionally to what she saw as unwelcome attention, and another from a woman they’d met at a bar who replied with a simple “No” six days after being asked out. These experiences have made the poster feel like they should emotionally “shut down” again, joking about focusing on the gym, junk food, and using heartbreak as “preworkout.” They express feeling like they’re meant to be alone, not by choice, and invite others to share advice, support, or similar stories.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 253–379 words.
+
+The poster, a 21-year-old woman, feels hopeless and overwhelmed by constant hardships, especially the recent death of her boyfriend, with whom she shared many plans and daily routines. She lacks support from her father and has a strained, unhealthy relationship with her mother and family, though her late boyfriend’s family has been kind and supportive. She wants to move closer to them, but her mother reacts negatively. She has Borderline Personality Disorder, which she feels worsens conflicts and makes her feel like a problem and hard to be around. She was recently diagnosed with PCOS and already has arthritis that threatens her dream of being an artist. She feels mentally unstable, alone, suffocated by her suffering, and questions whether life is worth continuing without her boyfriend.

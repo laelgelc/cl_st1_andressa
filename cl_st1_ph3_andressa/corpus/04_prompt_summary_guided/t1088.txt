@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 132–198 words.
+
+The poster struggles with wanting to do things with other people and finding it hard to do activities alone once they’ve done them with someone else. Their therapist encouraged them to go to the movies alone, which felt uncomfortable and awkward but they managed to do it. They prefer driving and exploring with others rather than by themselves. Their therapist has also told them to try to be their own best friend, which is difficult for them, especially since they mostly have online friends and few in-person ones. They want to improve at talking to and meeting people in person, and are asking for advice or examples of what others have done to put themselves out there offline.

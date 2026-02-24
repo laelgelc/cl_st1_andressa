@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 62–92 words.
+
+The poster explains that their subreddit will remain up but initially asked members to move to r/LonelyButLoner, a similar and slightly larger subreddit created around the same time, to avoid duplicate communities. Later, they edit the post to say that their own sub has grown even larger and they’ve decided to just let it continue and see what happens.

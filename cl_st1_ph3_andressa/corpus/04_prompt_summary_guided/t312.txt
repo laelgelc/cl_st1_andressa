@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 82–122 words.
+
+The poster addresses lonely people in the community and says they found hope and peace by turning to God/Jesus. They explain they used to feel the same way but now believe God wants to be with them and that talking to Him helped them. They clarify they’re not trying to force religion, just sharing what worked for them, and end by saying “God bless” and that you’re never truly alone.

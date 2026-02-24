@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 49–73 words.
+
+A 15-year-old girl feels extremely lonely and is tired of having no one to talk to, spending time just looking at her phone or staring at the ceiling. She is urgently looking for friends around 14–15 years old to talk to because she can’t stand being alone anymore.

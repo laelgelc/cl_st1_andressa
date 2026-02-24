@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 126–188 words.
+
+The poster lives in a rural small town they feel no real connection to, using it only for work and shopping. They feel disconnected from their community and work in a place where most people are friends/family or know each other well, and the workplace also hires felons. There is no training or leadership at their job, so they have to figure everything out alone and get no support when they ask for help. They describe themselves as “single-ish,” neurodivergent, and an INFJ, and feel that loneliness is an inherent burden for them. They are asking what might help ease their loneliness.

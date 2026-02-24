@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 261–391 words.
+
+The poster has been unemployed for a year while developing an app called Augmy to help with loneliness and depression by letting people share their mood in real time with family and friends through visual “progressive flowers” that bloom or wither based on how they feel. Motivated by their sister’s past suicidality while studying abroad, which the family didn’t know about for years, they want to reduce similar experiences for others. They believe loved ones can both cause and heal pain, and hope the app can make it easier to communicate struggles without directly “unloading” on others. They invite people to try the app (available via Google Play testing and Apple TestFlight) and share feedback or suggestions.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 66–100 words.
+
+The poster has been trying to make friends on Reddit, especially to find someone to play Terraria with, but their attempts keep failing—people only want brief chats or never actually play games together. This repeated disappointment is making them feel like Reddit might not work for finding real friendship and that they might be meant to be alone, and they ask if others feel the same way.

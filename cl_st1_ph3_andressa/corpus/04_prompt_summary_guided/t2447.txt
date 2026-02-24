@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 133–199 words.
+
+The poster is a recent computer science graduate who is self-employed and works from home. They are neurodivergent and find making new connections scary and difficult. They still have some high school friends they see about once a week and feel lucky for that, but a breakup with an ex—who had been their best friend despite an unhealthy relationship—left them feeling more alone. They say they make many NSFW posts but actually just want to be around other people. Even small, genuine interactions like someone saying hi or asking for directions briefly brighten their day. They feel that making friends as an adult is much harder.

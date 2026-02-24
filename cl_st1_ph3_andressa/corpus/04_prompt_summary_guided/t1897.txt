@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 181–271 words.
+
+The poster is a 22-year-old who previously attended community college, where depression led to failed classes and a low GPA. They now live in a controlling, abusive, and mentally draining household while working as much as possible and mostly supporting themselves financially for school. They recently transferred to a highly competitive university but are struggling and feel themselves slipping back into depression. They get no financial aid because of their low GPA and living with their parents. The university gives lowest housing priority to transfer and commuter students, so their chances of on-campus housing are almost zero, and off-campus housing is very expensive. They don’t have a car and rely on a 30–45 minute shuttle commute, which prevents them from joining clubs since meetings are after shuttle hours. They feel extremely alone and are asking for advice on what to do in this situation.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 208–312 words.
+
+The poster is a 21-year-old male college student who quickly develops intense crushes on girls after brief interactions. He usually just glances at attractive girls and looks away, but if a girl talks to him, he starts imagining a whole future with her and then needs weeks to calm down and accept it won’t happen. After a final exam, he briefly met a very attractive prospective student who asked him about the school; he was tired, had a headache, felt his heart racing, and thinks he gave awkward answers. He already has a crush on a classmate but feels he’d choose this new girl instead. He wishes he had convinced her to attend so he could see her again and is asking for tips on dealing with being alone or finding someone.

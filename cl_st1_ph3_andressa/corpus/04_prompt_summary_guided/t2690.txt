@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 72–108 words.
+
+The poster describes themselves as a loner at school with no friends, often called weird and sitting alone during breaks. They say people do try to talk to them and make friends, but it never works out. They feel like they don’t enjoy socializing anymore, partly because they believe they’re more mature than their classmates or don’t see a need for friends. They’re asking for advice on why they might be this way.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 243–365 words.
+
+The poster has trauma related to women because most girls they’ve known have bullied or betrayed them, so they struggle to trust women and people their own age in general. They feel they don’t fit in: they’re a furry, a homebody, unemployed, not in school, without a driver’s license, living in a very rural area and fully dependent on their father. They find they only get along with older men (around 28+), and currently have three such friends, but those friends are often busy or in different time zones. When they tried to make new friends, the only respondent quickly sexualized them, calling them “baby” and asking them to move in, which upset them because they just want platonic older male friends, not a sugar daddy. Older men make them feel calm, but they feel weird and sexualized for preferring their company. They’re tired of gaming alone, being stuck at home, and feeling isolated.

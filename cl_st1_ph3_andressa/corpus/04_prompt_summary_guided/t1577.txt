@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 64–96 words.
+
+The writer is going on a biology class trip to an animal enclosure and feels disheartened and lonely because they have no one to pair up with. They resent that the teachers require working in pairs and would rather have stayed home. They’ve tried talking to classmates, but feel that others see them as annoying and treat what they say as a nuisance.

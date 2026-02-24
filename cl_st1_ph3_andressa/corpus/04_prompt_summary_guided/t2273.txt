@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 278–416 words.
+
+The poster is a husband and father of four who feels deeply disconnected from his family and full of resentment. His wife of 25 years is chronically ill with multiple serious conditions, and all four children have special needs, including a youngest child who is nonverbal autistic. For 16 years he has been the sole breadwinner, and for the last five years he has also done about 90% of the cooking and cleaning. When he asks for help or even small things like his wife getting up earlier to share breakfast or coffee, he’s told he’s asking too much. He feels his role at home is to take care of everything, never disagree, and not ask his kids to do anything, which leaves him feeling like a “glorified servant.” In contrast, he feels respected and valued at work, which feels like a vacation compared to home. He works out a few times a week and smokes weed after work to cope and stay emotionally stable, but he wishes he could feel happy without relying on it. He emphasizes he is not depressed or suicidal, just exhausted, silenced, and tired of doing it all.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 242–362 words.
+
+The poster is a young mother in the UK who had a baby 8 months ago and feels completely alone. Her daughter is her world, but her relationship with her partner is falling apart; he has become angry and emotionally abusive since the baby was born, and neither of them is coping well. She feels abandoned by former friends and believes people her age don’t want contact with someone who has a baby. She has a long history of loneliness, having been the “loner” at school who was tolerated but excluded. She’s looking for friends, especially other young parents (but is open to anyone, worldwide), and shares that she’s into art, wants to become a tattoo artist, plays League of Legends when she can, and enjoys silly, low-stakes conversations. She’d like to use VRChat or Discord but can’t afford VR gear, and she’s desperate to be appreciated and seen as more than a “worn out dead beat young mum.”

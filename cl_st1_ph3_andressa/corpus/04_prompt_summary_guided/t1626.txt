@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 222–332 words.
+
+The poster has felt lonely for 4–5 years but has learned to cope better over the last six months. Focusing on small, positive social interactions and finding enjoyable solo activities has helped them feel more confident and willing to put themselves out there. They encourage cutting off friends who aren’t really there, accepting that rejection is hard but that both rejection and doing nothing can lead to loneliness. They stress that there are many people in the world, that hobbies should be chosen for personal enjoyment rather than just to meet others, and that changing your mindset is a slow, difficult process that doesn’t cure loneliness but makes it easier to cope with.

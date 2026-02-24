@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 115–173 words.
+
+The post says it’s not dating advice, but encourages people to focus on becoming the best version of themselves—strong, beautiful, creative, and not needy—rather than chasing relationships. The writer compares people to a “rare Pokémon” whose ideal partner will find them when they’re in good condition. They suggest knowing what you want in a partner (even writing a list) and trying to embody those qualities yourself. By doing this and not rushing things, you’re more likely to attract not just someone you like, but someone you truly need, while living your life in the right place and at your own pace.

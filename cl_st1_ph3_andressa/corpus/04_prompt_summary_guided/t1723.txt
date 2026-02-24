@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 67–101 words.
+
+The poster, using a throwaway account, feels extremely lonely and depressed because they have no real friendships and are tired of fake ones. They’re confused and hurt about why all their friendships keep failing, wondering if people got bored of them and questioning why those friendships existed in the first place. They feel they haven’t changed as a person and don’t know how to be a friend anymore or what to do.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 139–209 words.
+
+The poster describes a relative who wants to start a small paid chat/voice service offering casual, one-on-one conversations for lonely people who want someone to talk to or share thoughts with. It would be friendly social interaction, not therapy. The poster is unsure if this is a good idea and asks for opinions on whether there’s a real need for such a service and where it could be shared or advertised without being spammy or inappropriate. They invite both positive and critical perspectives.

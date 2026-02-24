@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 73–109 words.
+
+The poster describes a series of overwhelming life problems: a father who hates them, a wife who betrayed their trust, and extremely high debt they cannot pay with their current income. They have also recently contracted dengue (which they note is called breakbone fever in English) and have complications that could be fatal if untreated. They say they are no longer able to fight and just wanted someone to know this.

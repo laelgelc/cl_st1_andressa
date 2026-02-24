@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 101–151 words.
+
+The poster feels deeply depressed, empty, and exhausted. Their mother dismisses their mental health, treating them as if they’re just “acting” depressed and trying to fix things with superficial gestures instead of understanding. At work, they feel insulted, mistreated, and like a doormat, forced to hide their pain behind a poker face. They are extremely tired of all of this and feel overwhelmed.

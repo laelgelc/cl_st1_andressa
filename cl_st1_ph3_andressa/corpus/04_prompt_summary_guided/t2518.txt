@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 104–156 words.
+
+A 16-year-old boy describes feeling lonely and unloved since age 11, which led to depression. He was bullied at school and called names. At one point he wanted to end things, but stopped himself because he felt responsible for helping a friend with depression and promised never to leave that friend. Despite this, he still feels very alone, wants to cry but can’t, and longs for someone to hug him and tell him everything is okay.

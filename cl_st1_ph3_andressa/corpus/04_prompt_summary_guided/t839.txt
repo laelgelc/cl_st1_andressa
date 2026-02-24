@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 91–137 words.
+
+The poster says their body is severely damaged: they have very blurry vision, brain damage, damaged vocal cords, and paralysis, though they can still type and speak somewhat. They say they were tortured and made disabled starting in 2013, and in 2025 their father twisted their spinal cord. They report that police, ambulance, and others did nothing when called. They don’t want to live in their parents’ house because they blame their parents for the abuse and ongoing harm. They feel that nobody cares or helps despite contacting many organizations since 2022. They say they feel they have no value and mention they are in Kolkata, India.

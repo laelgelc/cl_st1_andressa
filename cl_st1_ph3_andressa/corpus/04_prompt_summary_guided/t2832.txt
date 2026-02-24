@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 327–491 words.
+
+The poster has uploaded a draft manifesto for “Unalone” to their shared Google Drive, incorporating another member’s notes and adding scientific evidence and references. The manifesto argues that loneliness is a serious public health threat, worsened by factors like busy work lives, technology, and social anxiety, and cites research showing high loneliness scores (especially among Gen Z) and links between strong social ties and survival. Unalone views human connection as a fundamental right, sees loneliness as distinct from depression, and acknowledges it varies by person and context. They are exploring ideas such as a decentralized organization modeled on Alcoholics Anonymous and a hackathon on loneliness, and the poster invites constructive criticism.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 106–158 words.
+
+The poster, a 17-year-old from Belgium, used to love Christmas but no longer does because she now has to care for her sick mother. When her family realized her mother needed care, they all left and cut off contact, even during Christmas. She feels alone, forgotten, and never anyone’s first choice. She is reaching out in hopes of finding someone her age, ideally also from Belgium, to talk to and possibly meet up and become friends.

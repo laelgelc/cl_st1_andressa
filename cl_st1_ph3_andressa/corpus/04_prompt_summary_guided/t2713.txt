@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 101–151 words.
+
+The poster says they don’t understand other people and others don’t understand them, so close connections feel impossible despite past attempts. They limit interactions to practical cooperation and discussion. Seeing many posts about loneliness and wanting friends or loving family, they ask if anyone has truly removed people from their life and lives happily alone. They’re curious how “actual loners” live and how they manage the trade-off between avoiding people and still benefiting from the conveniences that other humans and civilization provide.

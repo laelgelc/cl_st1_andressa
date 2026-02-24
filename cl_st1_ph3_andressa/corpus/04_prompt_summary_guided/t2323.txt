@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 82–122 words.
+
+The poster describes feeling like a loner, similar to the quiet person in the corner of a classroom who can’t approach their crush because they don’t want them to know they have no friends. They spend all day in the university library between classes and worry about what others think of them. They wonder how classmates and people in public perceive loners and wish they could know honestly, even if the truth is harsh.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 139–209 words.
+
+A 20-year-old man says he just lost his best friend after making a hurtful joke about her. He realized he went too far as soon as he said it, but it still deeply hurt her. This made him see a pattern: he believes he has no friends because he is the problem. He feels he doesn’t know when to stop joking, tries to match others’ humor to be liked, and ends up coming across as an asshole and fake. He concludes that being a “smartass” is all he knows, blames himself for being alone, and doesn’t know what to do next.

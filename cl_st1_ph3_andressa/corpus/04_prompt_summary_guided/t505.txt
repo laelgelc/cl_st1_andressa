@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 84–126 words.
+
+They started a new class in August without any of their former classmates. They do have friends in the new class and get along with them, but feel like they’re not really seen, even during class. Outside of school they have no contact with anyone except for homework, which makes them feel lonely. On top of that, they have romantic feelings for one of their classmates (in a class of 4 boys and 9 girls).

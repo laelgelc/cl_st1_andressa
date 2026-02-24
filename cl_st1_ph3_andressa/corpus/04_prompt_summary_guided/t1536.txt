@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 90–134 words.
+
+The writer describes a deep, persistent emptiness and loneliness that feels rooted in their very being. They feel like they fade out of people’s lives and believe there is nothing special or important about them that others can see. Despite being hurt by people they care about, they continue to love them and endure the pain so others won’t feel what they feel. They end by sending love and strength to others who are lonely.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 49–73 words.
+
+The poster feels deeply lonely despite having friends. Being around people actually intensifies their loneliness. They feel stuck in a cycle: they’re lonely and want someone to talk to, but making new friends feels too strange and difficult, and they haven’t found that one person they can truly connect with.

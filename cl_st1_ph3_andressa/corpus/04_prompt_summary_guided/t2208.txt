@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 142–212 words.
+
+The poster is 24 and feels deeply lonely and unaccomplished, like they haven’t done anything meaningful. Outwardly their life seems fine—they work and keep going—but internally they feel stuck while others move forward in careers, relationships, and confidence, as if they missed some important memo. They struggle to feel proud of anything and aren’t sure if they’re truly building a life or just distracting themselves as time passes. They’re not seeking pity, just being honest, and they reach out to say others who feel this way aren’t alone and to ask how people who’ve been through this managed to get through it.

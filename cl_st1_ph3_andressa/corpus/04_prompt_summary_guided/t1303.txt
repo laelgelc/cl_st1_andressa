@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 127–191 words.
+
+A 22-year-old man in Cuba feels very alone and has hit a dead end trying to connect with the few people around him through social media. He isn’t looking for advice, just to share his feelings. He feels people have become hypervigilant, defensive, and quick to judge, always searching for hidden motives, which makes social interaction exhausting and pushes him to withdraw. He also feels that society now sees people more as members of collectives than as individuals, with inherited labels that erase individuality, making it harder and harder to build bridges with others.

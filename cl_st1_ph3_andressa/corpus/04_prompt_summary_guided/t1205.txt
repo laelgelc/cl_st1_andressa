@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 217–325 words.
+
+The poster feels generally busy and not lonely in the usual sense, but strongly misses deep, idea-focused conversations rather than small talk or networking. They don’t want more friends or ongoing relationships because they lack time and energy to maintain them and don’t want to do that half-heartedly. They’ve tried dating/friend apps, meetups, networking, and online communities, but these either create expectations of constant contact, feel shallow, or are draining. They’re looking for a way to have meaningful, interest-based conversations that don’t turn into relationships with obligations—just occasional, thoughtful talks with no pressure—and they’re asking if others feel the same and how they handle this need.

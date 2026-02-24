@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 91–137 words.
+
+The writer is a girl in India with an anxiety disorder who finds it very hard to socialize and make friends. Because of this, she feels lonely and empty most of the time and becomes clingy or desperate when she does make friends, trying hard not to lose them. At college, she hides her awkwardness and pretends to be happy while seeing others in friend groups going out together, but she usually comes and goes alone with little real interaction. Attempts to find online friends haven’t worked, and although she acts happy in front of others, she cries when she is alone.

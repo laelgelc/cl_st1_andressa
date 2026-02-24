@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 66–100 words.
+
+The poster feels exhausted and put off by social media, describing it as full of overconfident “dumb takes,” people who either exaggerate problems or dismiss real ones, and a vocal toxic minority spreading vitriol. Because of how toxic and tiring it feels, they struggle with how to meet their psychological need for connection when social media makes them want to withdraw and isolate instead.

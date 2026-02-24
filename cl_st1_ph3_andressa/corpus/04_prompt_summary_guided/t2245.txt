@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 44–66 words.
+
+The poster struggles with small talk and feels this makes it hard to make new friends. They don’t know how to keep casual conversations going and tend to start with deep or controversial questions instead of light topics. Their only friend has told them they need to work on their social skills, which they feel they lack, and this makes them sad.

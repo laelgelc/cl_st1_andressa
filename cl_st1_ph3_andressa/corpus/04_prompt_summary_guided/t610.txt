@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 66–100 words.
+
+The poster lost their girlfriend and most of their friends last year and now almost no one wants to see or talk to them. They only get texts from family and one friend. They’ve spent the past year alone in their room, feel like they’re losing their personality and motivation, have no interests anymore, and deeply miss having people to talk to and share life with.

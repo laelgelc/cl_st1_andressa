@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 61–91 words.
+
+The poster invites others to share their favorite media (movies, shows, books, webcomics, podcasts, YouTube series, etc.) with a rule of no judgment toward anyone’s choices. They share their own favorites: the movie “Hot Fuzz,” the manga “Mob Psycho 100,” the book “Watership Down,” and the TV show “What We Do in the Shadows,” and ask others what their favorites are.

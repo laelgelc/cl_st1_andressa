@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 51–77 words.
+
+The poster feels more alone than ever and hates having to talk to a screen instead of a real person. They feel their life is falling apart, have no one to rely on, and wish they could disappear so everything would end. They describe feeling this way every day and see no escape from their exhaustion and despair.

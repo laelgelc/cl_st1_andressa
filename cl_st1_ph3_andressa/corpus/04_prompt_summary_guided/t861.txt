@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 46–68 words.
+
+The poster is struggling after their birthday because one person (C) didn’t show up or be there, and another (A) decided to stay just friends. They feel unwanted and are trying to come to terms with the idea of fixing themselves and living happily alone, even though they had hoped to share their life with someone.

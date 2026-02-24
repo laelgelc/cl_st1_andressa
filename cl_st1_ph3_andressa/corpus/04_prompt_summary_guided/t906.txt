@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 63–95 words.
+
+The poster says they have had no friends and have been alone for years, and they’re starting to feel the negative effects of this isolation. They wonder if it’s a Gen Z issue, saying many people seem antisocial and quick to leave when bored. They ask if others have similar experiences and compare themselves to people like Luigi Mangione or even serial killers, noting that even they had friends, which makes the poster question if they are truly unlovable.

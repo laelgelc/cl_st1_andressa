@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 198–296 words.
+
+The poster is a 31-year-old woman and stay-at-home mom of three who just graduated earlier than planned after working very hard while managing kids, a house, pets, and a boyfriend. Her excitement faded quickly when she realized she has no real support system. Her parents criticized her as selfish for going back to school instead of focusing only on the kids, and her boyfriend gave a brief, distracted “I’m proud of you” before returning to his phone. She has no friends, feels she doesn’t know how to make them anymore, misses face-to-face interaction in an online world, and feels lonely and disappointed that no one celebrated her achievement, not even with a simple family dinner.

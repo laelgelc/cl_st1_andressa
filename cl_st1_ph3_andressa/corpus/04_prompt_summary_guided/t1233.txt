@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 198–298 words.
+
+The writer feels they have lived with loneliness their entire life and have never been chosen or wanted by others. As a child and teenager they didn’t socialize, felt strange, and spent school years without talking to anyone, even being left unpicked in PE teams despite trying and being willing. They see this pattern of rejection in all areas of life, including with animals and romantic interests, and believe others see something in them that makes them despise them. They feel useless, rejected, and convinced no one will care when they die. This has led to intense hatred toward everyone and everything, disgust with life, inability to stand their family, and a belief that there is nothing for them in the world and they just want it all to end.

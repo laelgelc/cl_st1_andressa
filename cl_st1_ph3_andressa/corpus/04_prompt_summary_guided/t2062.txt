@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 210–314 words.
+
+The poster has a birthday coming up and finds birthdays increasingly difficult, likely connected to childhood issues and CPTSD. They feel very lonely, empty, and unsure what to do with their life, and birthdays are especially sensitive because they are a recovered suicidal person. They’ve invited friends, but some haven’t responded and those who did can only come in the evening, leaving them alone most of the day and feeling guilty or silly for inviting people. They usually end up crying on their birthday and feel sad and confused about it, especially now that they’re single after having a partner for the last two birthdays. They’re asking if others struggle with birthdays, how to make the best of the day when alone, and why birthdays can be so difficult.

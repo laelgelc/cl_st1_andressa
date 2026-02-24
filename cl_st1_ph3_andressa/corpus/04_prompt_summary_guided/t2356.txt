@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 115–173 words.
+
+The poster lives mostly off the grid in the Canadian forest with a humble, simple lifestyle and believes everyone, especially introverts, feels lonely sometimes. To keep loneliness from turning into depression, they stay active with music, art, exercise, and observing nature. They also avoid things they feel worsen loneliness or mood, such as alcohol, drugs, smoking, overeating, dark or sad media, and social media, and they emphasize maintaining positive thoughts.

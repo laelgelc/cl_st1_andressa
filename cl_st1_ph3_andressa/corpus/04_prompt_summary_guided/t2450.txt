@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 54–80 words.
+
+The writer describes a technique they use when crying: they lean forward, shut their eyes tightly, and watch their tears fall downward from above, comparing it to rain in reverse. This helps keep their eyes from looking too watery. In the right light, they notice the tears glisten like falling diamonds as the light passes through them.

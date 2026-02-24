@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 245–367 words.
+
+The poster tries to use the internet to meet people with similar values or who are also lonely, but often ends up clashing with them. A recurring insult they receive is some version of “no wonder you’re alone,” which especially hurts because they’re already struggling with loneliness and are making a vulnerable effort to reach out. In a recent example, someone mocked them as “weird” for contacting them after finding a public post related to a shared interest, then used that same insult when the poster said they didn’t want to talk anymore. The poster accepts that not everyone has to like each other, but feels this specific insult is extremely cruel—comparable to attacking someone over a loved one’s illness or dead pet—and it makes them question the point of trying to connect with people, online or offline.

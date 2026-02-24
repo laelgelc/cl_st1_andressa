@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 221–331 words.
+
+The poster is a 21-year-old man who has never had close friends or a girlfriend and feels very lonely and ignored. He’s been improving himself physically but struggles a lot mentally and has no one to really talk to; his mother only gives superficial “cheer up” advice. He feels like a burden when talking about his problems and worries others don’t want to “play therapist.” He believes he needs to work on himself before building meaningful relationships and is asking people who’ve had no relationships and felt invisible how they made progress. He’s very worried his growing loneliness might lead him to harm himself and is seeking any advice on becoming content alone and building relationships.

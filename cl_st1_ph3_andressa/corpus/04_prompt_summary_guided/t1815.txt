@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 82–122 words.
+
+The poster is a 22-year-old with a very small circle of friends who feels extremely lonely at night after finishing work. They struggle to sleep, get bothered by random thoughts, and often just stare at the ceiling. Even when they try to keep their mind engaged before bed, they still feel a strong need to talk to someone but have no one to talk to. They ask if others feel the same way at night and how they cope with loneliness when everything is quiet.

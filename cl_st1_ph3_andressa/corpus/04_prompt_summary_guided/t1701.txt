@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 245–367 words.
+
+The poster is an 18-year-old who recently graduated high school. They used to hang out with friends multiple times a week but now only see friends about once a month, spending most of their time with their girlfriend and studying. They describe themselves as somewhat introverted and feel hurt that they rarely get invited to things unless they initiate, which they’ve mostly stopped doing. In high school they had many friends while their girlfriend had few, but now the situation is reversed: she spends lots of time with her friends while they spend most nights and weekends alone. They feel like they should be going out and partying more at their age, worry they might be boring, and fear they’re missing out on life experiences.

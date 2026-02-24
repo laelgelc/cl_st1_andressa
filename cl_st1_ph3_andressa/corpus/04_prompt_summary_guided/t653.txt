@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 158–236 words.
+
+The poster feels intensely lonely and lost. Their friends have moved away, they feel like an outsider at work, and they come home to an empty house. Even on days off they stay home, struggling with a sense of having lost control of their life and not knowing what they’re doing. They’ve tried therapy and antidepressants but still feel they have no one to talk to and question their own worth, feeling they don’t deserve nice things and wondering what the point is. Although their partner moved in this year, opposite work schedules mean the house still feels empty. They feel pressured to “do something” with their life, see themselves as a failure, and are deeply unsure how to convince themselves they are worth it.

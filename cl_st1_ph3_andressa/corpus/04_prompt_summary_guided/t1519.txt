@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 116–174 words.
+
+The poster is a 24-year-old non-traditional student who feels older than other students and lacks a support system. They feel sad seeing others surrounded by friends and are trying to leave their comfort zone by attending a full-day outdoor college activity, but their anxiety is increasing. They’re worried about showing up alone while others come in friend groups and about being awkward due to their age difference. They ask for advice on how to integrate when they don’t know anyone and how to make friends as an older student among mostly younger people, because they genuinely want to push themselves and build connections.

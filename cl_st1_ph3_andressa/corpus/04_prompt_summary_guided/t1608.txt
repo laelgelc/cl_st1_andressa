@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 118–176 words.
+
+The poster feels emotionally numb and unsure whether they’re just exhausted, misunderstood, or lonely. They find it very hard to make genuine, deep connections and feel that most interactions are surface-level. Although they have two close friends, those relationships still feel distant and supporting them can feel exhausting. Sometimes the numbness is a relief because they don’t have to feel everything, but other times they wish they could feel something so they wouldn’t feel so alone and empty.

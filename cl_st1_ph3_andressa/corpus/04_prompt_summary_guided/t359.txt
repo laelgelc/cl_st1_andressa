@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 130–196 words.
+
+The writer feels invisible and ignored both at home and at school. Family members don’t talk to them at gatherings, and at school no one seems to notice or care when they’re absent, except when others need someone to fill their own loneliness. They describe themselves as a “quiet emo lesbian” who ends up sitting alone and often talks to themselves out loud. They feel they ruined a good relationship because they didn’t know how to express their feelings, which has put them back into a lonely, unhappy mindset. They say they can’t feel happy without smoking to avoid negative thoughts and describe themselves as a “sad nobody.”

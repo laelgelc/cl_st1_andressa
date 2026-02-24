@@ -1,0 +1,19 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 188–282 words.
+
+The poster lives with their family and only regularly talks to their brother, but doesn’t feel truly close to him. They have no friends or anyone they can casually text, and they miss having that kind of connection, even though past friendships felt one-sided or like they were just a rebound. Their mind is full of thoughts and emotions with no one to share them with, and they’re frustrated by random strangers DMing them to “vent” because they want a real best friend who knows and enjoys them, not a temporary listener.
+
+Because of this, they retreat into their own mind and talk to themselves as if they were their own friend, which makes them feel like a “lunatic,” but it’s all they’ve ever had since childhood. They find making friends extremely hard and are exhausted by failed attempts, feeling like they only ever had one good year of connection. They think they should tell all this to a therapist, but they’ve never had access to the kind of always-available texting therapy and have never really connected with any therapist they’ve seen.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 248–372 words.
+
+The poster is 22, has never been in a relationship, and feels like an outcast in many ways, especially in love. They often dwell on their loneliness and sadness so intensely that they feel it physically, and sometimes it even feels strangely good, like a shiver in their body. They admit they’re not really trying to “fix” themselves or put in the effort to find love, and they’re hurt that others get chances at love, breakups, and experiences while they feel no one even gives them a chance. They know 22 is considered young but feel it isn’t for them, and they’re writing mainly to see if others feel the same and to know they’re not alone.

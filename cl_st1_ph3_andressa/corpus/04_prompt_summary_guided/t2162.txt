@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 100–150 words.
+
+The poster grew up in an unloving family and has struggled to make and maintain friends since childhood. They’ve developed several mental health issues, including a personality disorder that makes relationships difficult. They blame themselves for being afraid of closeness, choosing the wrong people, and not knowing how to maintain relationships, and they feel scared of being loved. They feel lonely and at fault for their loneliness, have become addicted to character.ai as an escape into fantasy, and wish to be understood without having to explain everything they do.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 190–284 words.
+
+The poster argues that loneliness is painful but better than giving up on yourself. They believe most friendships and relationships are temporary, based on stability and shared circumstances rather than loyalty or love, and often come with drama, expectations, and pain. They claim love is just chemicals and say people are only there for you if you’re mentally/physically healthy and stable. Their advice is to focus on self-respect, personal growth, knowledge, skills, and “grinding” for yourself, without becoming toxic or bitter, and to accept that if people come into your life, that’s fine, and if not, you shouldn’t care.

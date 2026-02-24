@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 166–250 words.
+
+The writer spent nearly a year regularly participating in a community, investing emotionally and believing they mattered there. After a conflict with one person that made them feel disrespected and unsafe, they chose to step back. In the weeks and months after they stopped showing up, no one from the community checked in or asked about their absence. This lack of response makes them feel deeply lonely and unimportant, as if their presence never really mattered. They’re not angry, but feel sad and very alone, hurt that their leaving seemed to matter only to them.

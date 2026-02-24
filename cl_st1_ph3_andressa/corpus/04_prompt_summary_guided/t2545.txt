@@ -1,0 +1,19 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 262–392 words.
+
+The writer feels increasingly lonely and has felt this way since childhood. They grew up in an intelligent, overprotective family in a small village, with few chances to meet other children and difficulty making friends. Their peers see them as weird and have bullied them, and they still rarely see people their age. They have hobbies like drawing and use the internet, but even online they feel out of place and unseen.
+
+They feel that others only see their outward appearance and aren’t interested in their inner world, thoughts, or the books and movies they like. They feel like a stranger in the world, fear being lonely for the rest of their life (not just romantically), and long for one sincere companion who also feels deeply alone. They feel lost, unsure what to do, and wonder if there is any way to fulfill their dream of finding someone like them. They apologize for their English and thank readers for their time.

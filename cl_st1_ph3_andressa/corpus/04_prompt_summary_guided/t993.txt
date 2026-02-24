@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 163–245 words.
+
+The post describes how prolonged solitude slowly turns from peaceful to painful. At first, being alone brings clarity and calm, but over time the silence becomes suffocating and mentally harsh. Loneliness quietly undermines self-worth, makes reaching out feel scary, and leads to feeling unseen and unheard. Gradually, the person feels hardened, guarded, and deeply tired, as if their sense of self is being worn away until they can no longer remember what it’s like to be truly understood.

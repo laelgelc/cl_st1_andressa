@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 100–150 words.
+
+The poster finds it easy to make friends with strangers online but struggles to have friends in real life. They used to think their husband’s friends were also their friends, but now feel excluded: they aren’t invited to group hangouts or gaming sessions while others are, and they have to ask to be included. They feel unwanted, like they don’t belong, and their husband doesn’t acknowledge the problem. This leaves them feeling that if they went missing, no one would care.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 53–79 words.
+
+The poster feels extremely lonely and has no one they can message for advice, to rant, or to share daily updates with. Their ex broke up with them two months ago, leaving them feeling even more alone and struggling, especially that night. They are starting to blame themselves and wonder if they are the problem and that’s why they have no one.

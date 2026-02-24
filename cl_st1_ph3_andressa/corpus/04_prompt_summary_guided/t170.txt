@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 169–253 words.
+
+The poster is feeling exhausted, hopeless, and wants someone to talk to. They’re currently jobless, which is straining their marriage, and they’re overwhelmed by a mortgage and credit card debt. They feel their friends are unhelpful and dismissive of emotions, and they don’t have many to begin with. Their parents are aging and need financial support, and they have a poor relationship with their much older sister. They feel like they always end up with terrible managers, don’t know what they’re good at despite 13 years of work, and say that being jobless now feels like a norm. They’re questioning whether to give up and are struggling with how suddenly life can feel like it’s fallen off track.

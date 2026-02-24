@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 161–241 words.
+
+The poster says they only have two friends and are looking for more, promising to be very active and to add people back. They’re an introvert who has gone through a rough, lonely period but feels life is getting better and wants to show others that loneliness doesn’t define their worth or future. Their main interests and hobbies are music, acting, and singing; they’re going to be in a short film this year and will be traveling in February, planning to post daily. They ask others what they like to do alone for fun and invite people to comment and check out their Reddit page.

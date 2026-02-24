@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 157–235 words.
+
+The poster is a 20-year-old who feels very lonely, depressed, and hopeless, with a bad once-a-week job, no friends, no social life, no relationship, and difficulty finding other work. They escape their empty life by playing GTA V, especially director mode, where they drive around, change weather, turn off wanted levels, and go on chaotic rampages. They find the game deeply immersive and use it for hours as their main coping mechanism, saying it’s the only thing keeping them going. They don’t care if others think they should “face their problems.” They also praise how good the game still looks after 10–11 years and hope GTA 6 will be just as immersive, successful, and even bigger.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 67–101 words.
+
+A 26-year-old man describes being stood up on a date and waiting an hour and a half with no contact before going home. When he went to vent to his best friend—whom he describes positively as a good, married, tall, awesome guy—the friend tried to help by giving him the number of a 17-year-old girl as a new date. The age difference (26M vs 17F) disturbed him, and this incident is making him question his friendships and feel more alone than ever.

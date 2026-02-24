@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 62–94 words.
+
+The poster describes meeting an 80-year-old woman who recently lost both her sister and her husband. Despite her losses, the woman is writing a book and has been working on a recipe website for over a year. She was extremely happy to receive even one like on her site. The poster asks others to visit and like her website, saying it would mean a lot to her and that she has some fun recipes.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 114–170 words.
+
+The poster has been depressed for many years and previously had intermittent therapy, psychiatric care, and medication, which they stopped due to money and time issues. Now they feel deep boredom, resentment, and discomfort with how their life has turned out, living more out of obligation and unable to feel happiness, excitement, or fulfillment. Their life has become increasingly lonely since young adulthood, with very few friendly or loving relationships and many worries. They struggle with sleep, have daily nightmares, and experience panic/anxiety attacks, wishing they could receive a sincere, comforting hug. Their days feel long and painful, they find it hard to even cry, and they are asking for advice.

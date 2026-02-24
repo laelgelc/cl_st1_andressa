@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 126–188 words.
+
+The poster feels like a burden whenever they speak and says they are almost socially invisible except during emotional meltdowns. They believe that once you “fall out” of your own life, you can’t get it back. They feel that being a misfit, disabled, or a minority makes you worthless in society and a “net negative,” leading others to eventually leave or avoid you. They see it as their fate to be left behind while others move ahead, and describe a progression from being alone to becoming lonesome, reclusive, estranged, and finally desolated and unable to connect with anyone.

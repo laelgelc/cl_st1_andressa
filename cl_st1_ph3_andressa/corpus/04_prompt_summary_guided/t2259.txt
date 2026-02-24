@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 96–144 words.
+
+The poster describes a monotonous daily routine of working, coming home, cooking, eating, doing tasks, and sleeping all alone. Cooking used to be enjoyable but now only highlights their loneliness and feels joyless. They feel that others dismiss their feelings as “normal” while those same people have partners to share life and meals with. This contrast deepens their sense that nobody cares and makes everything feel pointless.

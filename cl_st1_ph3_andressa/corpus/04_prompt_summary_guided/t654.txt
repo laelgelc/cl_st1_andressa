@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 117–175 words.
+
+The poster has created a first draft of an app called LIFT, designed to support people in emotional distress (e.g., loneliness, health issues, addiction, trauma, domestic abuse). The app is free and anonymous: users can sign up and post about their issues, while volunteers sign up and specify the areas in which they’re willing to help. The goal is to match people in need with volunteers for emotional connection and practical support. The poster doesn’t share the URL but asks the community for feedback on the idea.

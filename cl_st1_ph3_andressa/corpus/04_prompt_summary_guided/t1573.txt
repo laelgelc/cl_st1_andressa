@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 290–434 words.
+
+The writer feels exhausted, lonely, and stuck, like everything is both out of reach and right in front of them. They struggle to form meaningful connections, push people away, and then feel hurt and confused when no one is there. They keep themselves extremely busy to feel a sense of purpose but still feel they’re wasting time and becoming more disconnected. They’re tired of people fading out of their life, of feeling like they’re begging for attention, and of having no one to share their life or happiness with. They don’t let anyone in romantically because they don’t know what they want and often don’t feel respected. Overall, they feel deeply alone, unable to reach out to anyone, and are exhausted from constantly trying to convince themselves that being on their own is enough.

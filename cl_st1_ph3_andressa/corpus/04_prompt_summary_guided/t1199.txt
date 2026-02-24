@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 77–115 words.
+
+The writer describes feeling broken and damaged, with a heart in pieces that can’t be fully mended. They walk a difficult, unchosen path, facing judgment and hurt from others. Despite this, they see themselves as someone who wants to lift, hold, protect, and love another person, even to the point of destroying anything that threatens that protection. They express a deep wish to give everything they have to stop the other person’s pain, saying they would give their soul if they had one to give.

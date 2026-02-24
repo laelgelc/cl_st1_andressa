@@ -1,0 +1,21 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 286–428 words.
+
+The poster describes meeting her ex-husband at 21, marrying, having a child, and staying with him for six years despite his serial cheating. Eventually he left her and their son and wants nothing to do with the child. After a year she started dating again and entered a long-distance relationship, later moving two hours away from her family to live with him. 
+
+They were together 3.5 years, during which she mostly supported him and their three kids (her child and his two). When he was unemployed and depressed, she helped him by spending hours applying for jobs, and he eventually found work he enjoyed, got promoted to manager, and received a company truck. After this, he broke up with her as well. 
+
+She feels both her ex-husband and ex-boyfriend used her and left once they had “got everything” from her. Now she feels alone, used, with most of her “light” gone and no family nearby to turn to.

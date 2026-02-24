@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 42–64 words.
+
+The poster describes repeatedly being ghosted, including a recent experience where someone spent two days complimenting them as beautiful and funny before deleting their account. Because this keeps happening, they feel it can’t always be the other person’s fault and conclude that the problem must be with them.

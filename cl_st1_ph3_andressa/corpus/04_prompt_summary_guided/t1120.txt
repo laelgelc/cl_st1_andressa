@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 86–128 words.
+
+The poster describes a very painful, lonely Saturday morning that feels worse each time. They expect to spend yet another day alone, as they have many days before and likely will in the future. What hurts most is the absence of a woman who genuinely likes and desires them, both physically and emotionally—someone who wants to be with them, feels safe and cared for by them, allows them to be there for her, and also wants to be there for them.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 94–140 words.
+
+The poster describes finally getting their tool app approved after a 3‑month App Store review delay due to its use of Screen Time for an auto check‑in feature. The app has no backend server and keeps all data and device usage private within Apple’s local sandbox. To pass review, they added a feature to block distracting apps during bedtime to improve sleep. They are also planning a feature that schedules a message to an emergency contact before doing something dangerous, which can be canceled once the user is safe, inspired by a Reddit comment about setting a timed text before risky activities.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 77–115 words.
+
+The poster feels extremely lonely and fills their time by working 50 hours a week and training 15 hours a week because they have nothing else to do. Despite this, they still have free time to dwell on how unhappy and lonely they are and believe they will be alone for life. They’re frustrated with dating apps, saying people only flirt online and then ghost them. They feel so desperate for connection that they’d pay for in-person friends, but believe they must be such a bad person that nobody would even accept that. They end by questioning the point of life.

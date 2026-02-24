@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 218–326 words.
+
+The poster has long felt like an outsider in their extended family. Their dad has a girlfriend whose relatives form a big family, including a non-biological cousin whose father died around 2016. Since that death, the poster has barely spent time with that cousin and other cousins, and feels there’s now a barrier between them. They are often left out of fun activities like trips to Six Flags and only see the family in the summer or when sleeping over at an uncle’s house. They also feel ignored by most of the uncles and aunts, who rarely talk to or invite them, except for one uncle. The poster cried to their biological uncle on their mother’s side, who told them not to worry and that it’s the other family’s loss. The poster is asking whether they should even care about being left out.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 222–334 words.
+
+The writer is a 20-year-old who has been depressed for 3–4 years and still struggles with negative thoughts, emotional numbness, and worsened physical health. They feel deeply unsupported and unloved: their family hasn’t given them care or support, their best friends abandoned them during their lowest point, and they no longer have good friends. Their boyfriend prioritizes his friends over them, takes them for granted, repeatedly disappoints them (including on their birthday), and doesn’t understand them, especially regarding his friendships. As a result, they feel extremely lonely, disappointed with life, and are unsure how to respond to their boyfriend’s behavior, while strongly wishing for someone who truly understands and cares about them.

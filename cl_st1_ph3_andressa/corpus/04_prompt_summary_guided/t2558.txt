@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 150–224 words.
+
+The 22-year-old woman writing the post has lost her four closest friends over the past year, all of whom ended the friendships abruptly over text. Two of them told her to seek therapy in their final conversations. She feels deeply hurt and disrespected, especially because she had always valued and invested heavily in these friendships by planning hangouts and wanting to spend more time together. Despite feeling like she was treated poorly, she would still take them back if they reached out, which makes her feel degraded. She is heartbroken that people who knew her so well decided their lives are better without her, and now she feels completely alone.

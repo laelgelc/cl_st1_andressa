@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 150–224 words.
+
+The poster feels they’ve given up on connecting with people and describes feeling like an outsider or “alien” around others. They say their autism makes it hard to move beyond acquaintances and their depression kills their motivation to try. They struggle to keep conversations going and feel anxious, like they need a script. They’re very jealous and upset seeing girls their age with friends, believing that will never be them. They haven’t had a real friend since around age 10 and have never been anyone’s “best friend.” Living in a small city in New Zealand, they feel it’s too late to form new friendships at their age, especially with autism. They long for a friend they could feel comfortable with, but currently their only friend is their grandmother.

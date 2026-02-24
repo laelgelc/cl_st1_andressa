@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 72–108 words.
+
+The poster says they have no real-life friends, receive no texts, and usually get ghosted after a few days when trying to make friends online. They’ve been trying to distract themselves but lately feel increasingly bad. They describe themselves as not handsome, smart, funny, or talented, struggle to keep conversations going because they feel they have nothing interesting to talk about, and express deep hopelessness and a wish to be someone else.

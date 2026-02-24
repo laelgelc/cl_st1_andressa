@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 38–58 words.
+
+A 56-year-old person describes feeling very lonely: their wife never talks to them and they haven’t had sex since 2008. They have no friends or anyone to talk to. They say they’ve been handling this for a long time, are new to Reddit, and are asking if others are in a similar situation.

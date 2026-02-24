@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 126–190 words.
+
+The poster is grieving the loss of physical intimacy with someone whose hand they once held and whose warmth they deeply miss. It has been a year, and they feel they will never again experience what another human being feels like. They feel fundamentally unlovable and disconnected despite living among billions of people, and believe others would rather do anything than be with them. They see themselves as worthless and awful, think their loved ones would kill them if they truly understood how they feel, and express a strong desire to die, fearing even their suicide attempt would be another failure.

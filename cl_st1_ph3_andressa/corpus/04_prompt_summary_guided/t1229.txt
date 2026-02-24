@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 301–451 words.
+
+The poster feels hurt and confused because men treat her very differently than they treat her friends. Her friends get crushes who act decent, do nice things, buy gifts, and invite them places, even when the friends aren’t interested in dating. In contrast, when men show interest in her and she clearly says no but offers friendship, they often react badly: excluding her from the social circle, ignoring her, or even becoming hostile, insulting her, and smearing her to others. She doesn’t string them along and is considered conventionally attractive, so she doesn’t understand why she gets this negative treatment while her friends can “simply exist” without the same social fallout. This pattern makes her feel less than, isolated, and like she’s always the one treated differently, seeing only the “ugly side” of people.

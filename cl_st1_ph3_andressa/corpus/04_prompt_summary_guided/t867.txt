@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 112–168 words.
+
+A 41-year-old married person with two children feels extremely lonely and emotionally disconnected in their marriage. Their daily life is just work and sleep, with no one to really talk to. They haven’t had sex with their spouse in about 10 months, and communication is limited to household logistics. They are the sole financial provider and feel overwhelmed and like they’re “going out of their mind.” They don’t want to cheat but feel like they’re disappearing, are afraid divorce would harm their children by leaving them without a father, and are struggling with a growing porn addiction. They say they’ve never felt so alone.

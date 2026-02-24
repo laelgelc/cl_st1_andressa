@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 55–83 words.
+
+A 26-year-old man is spending his first Christmas alone. His wife has flown to be with her family, and he has no one else around. He’s passing the time by cleaning and sitting at home, but feels very lonely and lost because he’s used to 25 years of sharing gifts and opening presents with others.

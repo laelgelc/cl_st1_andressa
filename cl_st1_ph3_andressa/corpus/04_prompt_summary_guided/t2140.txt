@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 115–173 words.
+
+A 23-year-old man shares that he separated from his partner on June 29, 2025, after nearly seven years together. He reflects on how the past few months have changed him, in both good and bad ways, and wishes he could go back and do things differently. Although he has tried to move on when he felt ready, he still reminisces, feels unhealed, and holds some hope they might get back together. He doesn’t talk to many people, so writing this post feels relieving for him.

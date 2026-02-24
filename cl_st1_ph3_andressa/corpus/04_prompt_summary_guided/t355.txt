@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 109–163 words.
+
+The poster is heartbroken and angry after a breakup. Their ex, who once talked about marriage and seemed like a different person, has changed and now feels like a stranger. He admitted he hasn’t loved them for a while. They’re in their mid-twenties, had hoped to marry soon, and now feel like time is slipping away. They feel very down about the failed relationship and mention having no family or friends for support.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 126–188 words.
+
+The poster is a 19-year-old male who has spent the past few years working on his birthdays because he has no one to celebrate with. He has no relatives and recently lost the one person he considered like a sister after quitting a job they shared. He has no friends, family, or close coworkers, and spends time scrolling through YouTube, streaming services, and his game library without actually engaging with anything. He feels like he doesn’t exist, can’t motivate himself to do anything worthwhile, and feels he needs someone else to do things with. He asks for solo hobby ideas or game recommendations to help him feel something and “pretend” he has a life. He mentions having crippling depression, slight schizophrenia, and ADHD, and says it has been like this since he was 7.

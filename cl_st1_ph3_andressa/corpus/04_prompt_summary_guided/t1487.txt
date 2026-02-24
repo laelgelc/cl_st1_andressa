@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 106–160 words.
+
+A 13-year-old 8th grader says several friends are planning to kick them out of their friend group after they got mad at one friend for stabbing them with a pencil. They don’t understand why they’re being excluded, feel very not okay, and are worried because the school year is only half over and they share many classes with two of the people involved. They have very few friends and only one online friend, and are asking for advice.

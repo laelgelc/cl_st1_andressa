@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 35–53 words.
+
+A 32-year-old man has severe social anxiety and overthinking, which have left him isolated and without social contact or relationships for the past seven years. He struggles to talk to new people, especially women, and is feeling increasingly distressed by his loneliness, asking others for help.

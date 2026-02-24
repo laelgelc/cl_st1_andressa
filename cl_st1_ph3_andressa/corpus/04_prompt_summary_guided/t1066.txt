@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 106–158 words.
+
+The poster, who is about to turn 17, has been feeling very lonely lately. When their mom asked what they wanted for their birthday, they jokingly said “a girlfriend,” which is unusual for them to share. They say they communicate better with females than males and are hoping someone will message them to get to know them. They describe life recently as feeling like a “gut punch” and ask for DMs, saying they don’t care about the other person’s age as long as they’re not under 16.

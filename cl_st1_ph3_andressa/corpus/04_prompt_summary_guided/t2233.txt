@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 128–192 words.
+
+The poster says that on the surface their life looks fine—they have routines, goals, and social interactions—but they still feel a persistent, quiet loneliness, especially at night or when life slows down. They don’t always want company, but they long to feel understood without having to pretend to be okay. They overthink conversations and question whether they matter to others as much as others matter to them. Some days they’re productive; other days it feels like they’re just distracting themselves from an underlying emptiness. They’re not asking for advice, just expressing their feelings in a place where others might relate, and they end by reassuring anyone who relates that they’re not alone.

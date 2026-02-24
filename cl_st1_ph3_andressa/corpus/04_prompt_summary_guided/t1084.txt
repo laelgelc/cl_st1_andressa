@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 150–224 words.
+
+The poster believes loneliness is a problem we can solve ourselves by becoming more valuable to others through improving technical and social skills. They say this approach has helped them with their own loneliness and now want to build something for people who are willing to work on self-improvement first, then seek social validation. They propose working one-on-one to identify a high-impact goal (professional or personal), create and execute a plan, and explore suitable socializing opportunities and self-presentation. In return for helping others, they hope to learn what to build for a future product, and they invite interested people to message them.

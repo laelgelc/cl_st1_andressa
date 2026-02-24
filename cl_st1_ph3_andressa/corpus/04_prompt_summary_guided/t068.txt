@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 176–264 words.
+
+The poster finds it very hard to meet like‑minded people and form deep, meaningful friendships. They’ve had friends before but didn’t feel genuinely interested or connected, so those relationships felt like “coasting in limbo” and not enjoyable. Because of this, they mostly stay at home and play games, which makes them happier than shallow socializing. They still want real connections and have experienced them a few times in the past, but they worry about being alone later in life. They end by apologizing for the rant and inviting others to share similar experiences or message them.

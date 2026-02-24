@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 218–326 words.
+
+The writer, around 40, feels they’ve been slowly shutting down emotionally after a lifetime of being the listener, helper, and “emotional sponge” for others. After a major life reset at 40 and trying to “protect their peace,” this has turned into total isolation. They reach out to people they thought were close, but no one calls, replies are brief texts, and they can go days or weeks without speaking to anyone. They feel like they’re forcing conversations and are realizing those they see as close may not see them the same way. They’re exhausted from holding a smile for others for 25 years, and while they still believe in the power of a simple smile, they’re struggling with deep loneliness and the difference between being a loner and feeling truly alone.

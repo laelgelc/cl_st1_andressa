@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 132–198 words.
+
+The poster reflects on different experiences of loneliness, comparing a colleague who feels lonely because they don’t know how to talk to people with their own feeling of being “too much.” They ask the community a series of questions about what makes others feel lonely, their thoughts about loneliness, what’s hard about changing it, what they’ve tried that hasn’t worked, what has helped, what people misunderstand about them, and what they believe is the root of their loneliness. They hope people will share so everyone might learn from each other.

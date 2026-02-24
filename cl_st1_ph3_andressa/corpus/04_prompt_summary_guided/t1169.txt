@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 98–148 words.
+
+The poster talks about the current loneliness epidemic and how many people lack social connection and social skills. They suggest that, while making real-life friends is ideal, having online video conversations with strangers (e.g., on Zoom) could be a helpful short-term option to chat, practice social skills, and build confidence. They share a painful experience of calling two loneliness hotlines and getting no answer, which made them feel vulnerable and rejected. They then ask others what they think of this concept as a business idea.

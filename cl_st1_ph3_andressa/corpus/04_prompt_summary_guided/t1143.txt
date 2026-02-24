@@ -1,0 +1,19 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 292–438 words.
+
+25F recently moved back to her home country after 4 years abroad and started a 9–6 job she dislikes, leaving her demotivated and spending most days alone. She has good long-term friendships and sees some friends weekly, but feels mostly alone day to day and is tired of it. She just ended a one-month fling that left her emotionally dysregulated and has realized she likely has a fearful-avoidant attachment style, which makes romantic relationships and consistent connection hard.
+
+She wants to focus on writing, academic research, and essays but feels overwhelmed about where to start, and she craves a way to express herself authentically without “performing.” She’s been dealing with family issues, learning and enforcing boundaries while still being somewhat financially dependent on them, and doesn’t want them influencing her career. Gym and eating well help, as do somatic healing and therapy (though she wishes she could go more often). Overall, she feels lonely, lost, confused, and is looking for a way to express herself and connect with others in a way that feels true to who she is.

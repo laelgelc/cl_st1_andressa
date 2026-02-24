@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 152–228 words.
+
+The poster has a chronic disability that makes walking very painful, and doctors don’t know the cause. They were okay at first, but after about six months their condition and feelings worsened. They feel empty, lonely, and stuck in their room all day, with no gaming friends or online communities. They try to distract themselves with philosophy, anime, and learning new skills, but have almost no one to share these interests with and feel lost and directionless. They sometimes join streams but worry about making others uncomfortable. Their family tells them to go outside, but walking hurts too much. Their real-life friends have graduated, moved away, and become busy, and the poster feels they shouldn’t burden them. Their emotional pain intensified around last December when they graduated.

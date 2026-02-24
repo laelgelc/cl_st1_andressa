@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 217–325 words.
+
+A first-year college student starting their second semester feels distant from their dorm friend group, even though they hang out and do things together. Over winter break they realized they weren’t as close to the others, who all seem closer to each other and sometimes leave them out. For the past two weeks they tried harder to connect by texting more and being around them, but two group members told them they were being too friendly for how close they actually are, that they’re not part of the “inner bubble,” and that it felt like they were forcing themselves in, especially since they hadn’t been around when the others originally bonded (partly due to going through a lot and neglecting the friendships). The group rarely responds digitally, and the student now feels clingy and embarrassed, but still thinks they’re cool people and wants to be closer, especially since they don’t have many other friends, though they’re trying to branch out. They’re unsure what to do next and are asking for advice.

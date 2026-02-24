@@ -1,0 +1,19 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 305–457 words.
+
+The poster has been trying to understand their own loneliness and, with a small team, has interviewed over 150 mostly Gen Z people without directly mentioning loneliness. They cite a UK report showing nearly half of university students often feel lonely and many fear being judged if they admit it. Their findings: people typically have 400+ online mutual followers but regularly talk to only a few; 86% wait to be invited rather than initiate plans; 75% would join an activity if a friend was interested; and 93% have tried something new because a friend was involved.
+
+The poster feels their loneliness comes from knowing many people but being close to very few, struggling to deepen surface-level friendships, fearing rejection, and avoiding inviting people out—similar to the pattern they observed in others. In response, they’re building an app where users post things they’d like to do (e.g., visit a market, try a café, learn tennis). Friends who are genuinely interested are automatically added to a group chat (attendees are hidden until you join), then the group plans the activity and gets a shared photo album afterward. They hope this removes the pressure of direct invitations and fixed dates and might help them hang out more, but they’re unsure and plan beta tests for January. They ask readers if they relate and whether such an app would genuinely help or is missing something.

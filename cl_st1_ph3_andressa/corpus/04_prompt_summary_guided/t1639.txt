@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 139–209 words.
+
+The poster is a 51-year-old man who feels he has zero friends. He has colleagues and family but hasn’t made a new friend in about 25 years, and past friendships have faded away. He stopped trying to make friends, has given up on the idea of having any, and believes he has nothing to offer as a friend. He’s also stuck in a bad relationship because he fears loneliness and lacks support to leave, though he doesn’t think he’s a bad person. He’s tired of pretending he has friends, feels ashamed of this and has hidden it for many years, and is posting mainly to finally admit this to himself.

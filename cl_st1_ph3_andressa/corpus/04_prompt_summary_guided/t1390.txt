@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 51–77 words.
+
+The poster feels especially lonely on some days and finds it hard to reach out to people. They’re considering AI companion apps for simple conversations during those times and are asking others who’ve used them whether they were helpful at all or just felt empty compared to real human interaction. They want to hear different perspectives.

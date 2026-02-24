@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 186–278 words.
+
+The poster is an only child living in a different country from their family and has always been used to being alone, emotionally independent, and enjoying their own company. After starting college, they met a girl who wanted to be very close friends and demanded constant attention, long late-night phone calls, and frequent outings despite conflicting schedules. The poster values personal space and sees time at home as a needed break from socializing, and they prefer bonding in person rather than over the phone. The friend frequently got upset about the poster not being open enough or attentive enough, so the poster ended the friendship because it was too overwhelming. Now they are questioning whether they are the problem, if this will keep happening, and whether the situation was weird.

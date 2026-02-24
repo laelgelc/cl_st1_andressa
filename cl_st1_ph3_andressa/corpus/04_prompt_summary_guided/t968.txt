@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 270–404 words.
+
+The writer feels that no one will ever genuinely love them and that men only approach them for sex or to use their body. They describe only attracting creeps or players, feeling unattractive and not worth real effort or care. Dating apps make them feel desperate and devalued, as if they are only wanted for explicit pictures. They believe that anyone truly desirable wouldn’t need dating apps and compare themselves to clearance or discarded items. They feel easy to abandon, insignificant, and only good enough to be a rebound, never someone’s first choice or “the one who got away.”

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 58–88 words.
+
+The poster says they never had friends growing up and didn’t spend much time with their siblings. Throughout life they’ve only had a few relationships, a few family members, and their kids. They haven’t been in a relationship for about nine years, have no family members left, and their children moved out at 18 and never returned. They feel confused about why their life turned out this way and hope that one day their pain will go away.

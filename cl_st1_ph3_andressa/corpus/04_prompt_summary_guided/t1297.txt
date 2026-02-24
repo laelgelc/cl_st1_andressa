@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 150–224 words.
+
+The poster feels especially small and empty at this time of year, with no one to talk to or share laughs with while others seem busy and happy. Five years ago, their ex‑wife cheated and left, and most mutual friends stayed with her, deepening their isolation. Now 50, they find dating exhausting and feel unable to connect with a trustworthy, compatible woman, despite seeing themselves as loving, reasonably attractive, and financially stable. Repeated disappointments and lies have led them to give up on trying and resign themselves to a lonely life. They apologize for the negative tone and say they’re just venting because they have no one else to talk to.

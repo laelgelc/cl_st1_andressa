@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 170–254 words.
+
+The poster describes realizing their partner was cheating. They noticed early signs like him hiding his phone, avoiding intimacy, and making excuses. One night he said he was going out with a “cousin,” but a friend sent the poster a photo of him at a bar with a female coworker behaving intimately with him. When he came home and lied easily about the night, the poster understood he was not only unfaithful but also comfortable lying, which hurt them the most.

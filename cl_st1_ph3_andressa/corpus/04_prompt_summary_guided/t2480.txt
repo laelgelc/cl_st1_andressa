@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 154–230 words.
+
+The poster had to drop out of college due to a combination of bad circumstances and now can’t afford to return, and also can’t bear living with their abusive mother again. They’re about to start their first adult job but believe coworkers can’t be real friends. They have no friends from college or high school and feel they don’t know anyone outside their family. They miss the social opportunities college offered, like clubs, and feel that in their culture adults don’t talk to people outside their existing friend groups. They feel doomed, extremely lonely, and are having thoughts of “doing the worst” tonight, unable to sleep while feeling this way.

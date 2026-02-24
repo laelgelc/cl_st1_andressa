@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 104–156 words.
+
+The 19-year-old poster feels their life is meaningless and believes things could have been very different if they’d received proper support earlier, like an autism diagnosis, grief therapy, and mental health treatment (DBT/CBT). They describe being moved between two distant continents multiple times, trying their best to survive, but ending up finding comfort only in toxic environments that fueled self-destructive behavior. They feel things should never have gotten this bad and conclude that their family failed them.

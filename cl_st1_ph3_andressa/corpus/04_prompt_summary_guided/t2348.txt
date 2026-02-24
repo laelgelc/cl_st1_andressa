@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 89–133 words.
+
+The poster says they also struggle with loneliness but have found that volunteering helps. Volunteering lets them meet different people, make friends or acquaintances, and not be alone, while also feeling good about giving back. They suggest looking into places like animal shelters, food pantries (including church ones even if you’re not religious), or hospitals, and applying online or by phone. As someone living in a different state from where they’re from, they say volunteering has helped reduce their loneliness.

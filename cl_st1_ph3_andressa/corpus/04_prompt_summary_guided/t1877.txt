@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 58–86 words.
+
+The poster reflects that most people’s behavior toward others changes with their moods—warm when they feel good, cold when they feel bad. In contrast, they feel they are always “down” and never experience an “up” mood. This constant low state makes them feel invisible, as if the world looks everywhere except at people like them, leading them to sometimes wish they could just disappear.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 159–239 words.
+
+The poster has been feeling very depressed and experiencing suicidal thoughts, even though they don’t actually want to die. They’ve tried to talk to their parents about getting a therapist, but feel very awkward and say their parents don’t listen, dismissing their concerns as drama or attention-seeking because they haven’t complained before. The poster describes themselves as socially awkward and says they can’t find the courage to fully explain what’s going on, but they really want help and are asking for advice. They add that being queer and dealing with homophobic people who don’t accept their existence makes everything worse.

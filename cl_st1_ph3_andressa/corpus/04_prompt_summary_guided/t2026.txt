@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 115–173 words.
+
+The poster is a 20-year-old who moved to another country for university and has been living alone for a year. Their life feels very quiet and repetitive: going to class, then home, then to an exhausting fast-food job, then back home. After work they wish someone would be there waiting for them. They’ve made a few friends but are shy, scared to reach out, and describe themselves as clingy and very selective about who they like. They end up doing everything alone and wonder if this lonely, isolated routine is just how life is meant to be.

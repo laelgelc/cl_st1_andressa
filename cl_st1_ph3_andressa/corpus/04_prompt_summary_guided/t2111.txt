@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 113–169 words.
+
+The poster feels deep self-disgust and emotional pain despite trying to stay stoic and strong. They usually delete what they write but are posting in case it makes someone else feel less alone. Their current girlfriend left for “greener pastures” because they weren’t what she wanted anymore, and they say they understand why no one would want to be with or around them. They feel miserable with themselves and rationalize that it’s better for her to be happy without them than miserable with them.

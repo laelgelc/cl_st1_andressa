@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 96–144 words.
+
+The poster is a younger brother who feels depressed and lonely watching his older brother frequently go out, drive to different friend groups, and have fun. While the older brother is always texting and laughing with others, the poster mainly only texts him and has no real friends outside of school. They try to convince themself they’re better off alone but don’t believe it, feel unhappy staying home with their parents, and feel lost about what to do or how to cope with these feelings.

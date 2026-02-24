@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 92–138 words.
+
+The poster says they’ve always given their all in relationships—time, heart, and effort—by reaching out and trying, but still end up alone. They decide to stop chasing or messaging people and to no longer force friendships, accepting that loneliness might be their fate if that’s what God intends. They plan to remain silent and wait for someone who genuinely sees and chooses them without being begged or pressured. In the meantime, they’ll live with the quiet pain and longing, and try to treat their own heart gently despite feeling lonely.

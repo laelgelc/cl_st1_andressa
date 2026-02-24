@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 209–313 words.
+
+The poster feels lonely but hesitant to talk to others because they fear burdening people or being judged. They have people around but don’t feel safe sharing personal, messy issues or repeating their backstory. They imagine an always-available, nonjudgmental companion (not a “yes-man” or fantasy, but something with boundaries that remembers, responds, and calls them out when needed) where they can be fully themselves without fear of rejection or embarrassment. They ask if others have wished for something like this and whether such a companion could help with loneliness, or if they’re just trying to replace something that only real human relationships can provide.

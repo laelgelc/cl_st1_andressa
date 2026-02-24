@@ -1,0 +1,19 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 227–341 words.
+
+The poster used to be comfortable with lots of alone time as long as they had regular social events with a small group of friends and acquaintances. Romantic relationships feel overwhelming to them, so friendships were their main source of connection. Over the last decade, those hangouts have steadily declined to almost nothing; now they’re lucky to get one night a month at a friend’s house, where kids make it hard to relax or talk. They bought a house two years ago but only one person has visited. Friends without kids don’t invite them because they don’t want a “third wheel.”  
+
+They have bad social anxiety but push themselves to go out since the pandemic eased, yet they do almost everything alone and feel like a loser being by themselves at events. They feel things will only get worse and are close to giving up even on their long-term friendships.

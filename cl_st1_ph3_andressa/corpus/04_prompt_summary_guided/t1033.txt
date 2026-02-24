@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 224–336 words.
+
+The poster is frustrated and confused that when people say “we should hang out,” they often don’t actually want to make plans and may even act irritated when the poster tries to schedule something. They recently had an old friend reach out, say they missed them and wanted to hang out, but when the poster suggested a specific day, the friend responded awkwardly with “oh ummm” and “lol,” making the poster feel weird for taking it seriously. This pattern has happened to them repeatedly, leaving them feeling lonely, isolated, and like giving up on trying to make friends because they don’t understand what they’re doing wrong.

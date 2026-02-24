@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 57–85 words.
+
+The poster is reflecting on emotional-care professions, noting that having fewer people in your personal life might reduce scheduling stress, empathy fatigue, and holiday conflicts. However, they’ve also heard that such jobs can seriously affect mental health, especially if you lack a strong support network on or off duty, and they’re asking others what they think about this.

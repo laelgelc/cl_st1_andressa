@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 91–137 words.
+
+The poster is a 15-year-old who feels lonely and abandoned because their friends are always “too busy” and end up ghosting them, especially after they moved and lost the few people who gave them attention. They feel they should have a social life at their age but don’t. They’re trying to make new friends online and invite people with similar interests—Harry Potter (while strongly disliking J.K. Rowling for being transphobic), Stardew Valley (including doing a co-op farm), Vulture Culture, Wilbur Soot, or just generally chill people—to message them.

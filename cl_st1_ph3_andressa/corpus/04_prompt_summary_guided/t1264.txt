@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 303–455 words.
+
+The poster lives alone and can go days without any contact, leaving them feeling detached from their own life. Around family they hide their loneliness, sensing that it makes others uncomfortable, so it’s never discussed and they feel quietly unsupported rather than outright abandoned. They know they’re free to change their situation and understand what steps they’d need to take, but feel paralyzed and lacking courage, which makes their freedom feel like a prison and turns the blame inward. They feel like they’re wasting time and failing at something basic, functioning on the surface (work, eating, daily tasks) while feeling trapped, frozen by choice, and disappointed in themselves. They wish they had someone to lean on but don’t feel that’s really available, so everything feels like it rests on them alone. They’re not asking for advice, just needing to express this honestly and to say that if others feel the same, they’re not alone.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 91–137 words.
+
+The poster feels they give off an unsettling, “weird” vibe that makes others uncomfortable, to the point that even people who might normally be creepy avoid them. They feel invisible to men except as someone to be avoided, and say that simply entering a room or doing normal things like refilling a water bottle makes others uneasy. They believe this negative image was imposed on them as early as age four by caregivers, and now feel trapped in the role of a villain or creep, even though they don’t want to be seen that way.

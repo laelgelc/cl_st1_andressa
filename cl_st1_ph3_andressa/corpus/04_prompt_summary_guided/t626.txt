@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 241–361 words.
+
+The poster’s ex broke up with them on October 10, and since then they’ve felt extremely lonely and depressed, coping mainly by focusing on work. They recently took an accelerated, fully online calculus class and expected a good grade on an exam they studied hard for, but accidentally failed to submit both pages of their work. Although they emailed the missing page to the professor immediately and followed up twice, they received a 30/100 and haven’t gotten a response to their recent emails. This is causing them intense stress, loss of sleep, and a feeling of being at a breaking point. They miss having a girlfriend to comfort them, feel they don’t know how to function without that support, and are worried they’ll have to retake a math class for the second time if the grade isn’t changed.

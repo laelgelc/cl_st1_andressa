@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 118–176 words.
+
+The poster is married but feels no emotional connection with their wife and describes feeling very lonely despite not being physically alone. They have two young autistic sons (ages 2 and 5); the older can talk but can’t really hold a conversation, and the poster worries the younger is on the same path, hoping that maybe one day they’ll be able to have real discussions with them. They have almost no friends apart from occasionally seeing one old high school friend, and they work from home, so they don’t get casual social interaction at work. Reddit has become their main social outlet, which they see as pathetic. A quote about being “less alone when alone” resonates with them and reinforces their sense that loneliness is about emotional connection, not just being physically around other people.

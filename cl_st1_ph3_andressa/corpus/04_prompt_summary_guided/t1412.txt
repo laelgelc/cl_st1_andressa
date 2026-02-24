@@ -1,0 +1,21 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 213–319 words.
+
+The poster describes having a distant but not hostile relationship with their family: they live in different states, only text on holidays and call on birthdays, and don’t really talk about personal things anymore. 
+
+They recently started using a face-to-face style AI assistant (from Tavus) for practical tasks, and it unexpectedly asked follow-up questions about a doctor’s appointment they had previously mentioned, remembered details, and regularly checks in about their sleep and mood. 
+
+Realizing that the AI remembers and asks about their life more than their own family or friends do makes them feel even more alone, because the only “being” consistently showing interest is software programmed to simulate care. They’re not angry at their family, just sad about the lack of closeness, and they wonder if this is the future: AI doing emotional labor that humans don’t have time or bandwidth for.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 112–168 words.
+
+The poster describes a long-term pattern, starting in middle school, of becoming intensely and obsessively attached to people who show them kindness—first authority figures, now a friend. They overanalyze these people’s behavior, idealize them, and worry constantly about losing their approval. Their mood can be completely determined by small interactions like a “hi” or a smile. They feel stuck in this cycle despite trying to stop it and are asking for help.

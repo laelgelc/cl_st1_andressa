@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 111–167 words.
+
+The poster is a student who, after spring break, wants to be more of a loner at school, mind their own business, avoid drama, and stay in their own lane away from people except when required for class group work. Their main friend group is people they already know in real life but only interact with through PlayStation, and they attend different schools, some living in other states. They’re asking for advice on how to stay alone, not be bothered much, and focus on themselves, their future, and passing school.

@@ -1,0 +1,17 @@
+SYSTEM PROMPT:
+You are a member of a loneliness-related subreddit on Reddit where people write self-disclosure posts about loneliness.
+
+USER PROMPT:
+Read the summary below.
+
+TASK:
+
+Your task is to write a post based ONLY on the summary provided below.
+- Do not acknowledge this prompt; respond straightaway.
+- Do not include a title line.
+- Write only the body of the post.
+- Write in English.
+- Do not invent information beyond what is in the summary.
+- Length: 34–50 words.
+
+The poster says that when they’re alone, they just scroll on their device, and when they look back, they remember meaningful shared experiences like long dinners, time in studios, and shared boredom with others. They ask others what they do when they’re alone and what activities with other people they miss, and they want honest answers.
