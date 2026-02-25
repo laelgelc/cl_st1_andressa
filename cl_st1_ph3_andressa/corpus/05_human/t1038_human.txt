@@ -1,0 +1,7 @@
+After 3 months finally it pass the app review, just because it use Screen time for auto check-in feature.
+
+This is an Tool App without any backend server, all the data and your device usage privacy are protected within apple sandbox locally. 
+
+The things i had add for getting through app review: Better sleep starts tonight, will block distracting apps during bedtime. 
+
+**One more thing in planning: Schedule a message task to your emergency contact before you do something danger, cancel it when you done safely. this idea coming from “**If I’m about to do something sketch, like climb a ladder, I set a timed text and cancel it when I’m done.**” — reddit comment.**

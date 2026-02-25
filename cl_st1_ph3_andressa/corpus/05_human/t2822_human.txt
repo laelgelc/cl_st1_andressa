@@ -1,0 +1,5 @@
+On today's meet-up we agreed to use [ghost](https://ghost.org/) for the website, so I quickly set up an instance. I also will change the theme in the next couple of days.
+
+You can visit the website at [unalone.live](https://unalone.live)
+
+Please send me a DM with your email so I can add you  to the list of .

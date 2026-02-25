@@ -1,0 +1,17 @@
+Hi everyone,
+
+I’ve been working on a project and I really need a gut check from this community.
+
+Basically, it’s an app designed to simulate the experience of texting a supportive dad. I know AI can’t replace a real father, but I wanted to create something for people who might not have that figure in their life (or just need unbiased advice).
+
+Instead of just being a standard chatbot that gives generic answers, I’m trying to make it feel like a genuine relationship:
+
+* **It has real utility:** You can ask it practical things like how to jumpstart a car, how to grill a steak, or how to negotiate a raise, and it gives solid, dad-style advice.
+* **It has "Dad" mannerisms:** It uses specific nicknames (like "sport" or "kiddo"), makes bad jokes to cheer you up, offers that specific brand of "tough but fair" love. But is also adapts to the user. 
+* **It remembers you:** This is the big one. If you tell it you have a job interview on Tuesday, it will remember to ask you how it went on Wednesday. It builds a memory of your life so you don't have to re-explain your context every time you open the app.
+
+It will have tons of cool features that add to the realism - including checking in on you, randomness, analyzing your messages in order to provide a personalized response, and much more. 
+
+**My question for you:** Does this concept feel comforting to you, or does it feel too dystopic? If an app "remembered" your personal details to check in on you later like a parent would, would that make you feel supported or creeped out?
+
+Thanks for the honest feedback.

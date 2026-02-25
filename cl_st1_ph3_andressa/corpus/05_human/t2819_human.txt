@@ -1,0 +1,11 @@
+We're repeatedly talked about the idea of developing an unalone app, without going into any details though. 
+
+A couple of features such an app could have: 
+
+* Connect with some "buddies"
+* Meetup calendar / events nearby
+* Tracking of progress (things we can do on a daily basis regarding loneliness)
+
+Recently my attention was drawn to the open source project behind [Habitica](https://habitica.com/). (Code released as open source [here](https://github.com/HabitRPG)). Also check out [this video that explains how it works](https://www.youtube.com/watch?v=BxxKm7tSL6I). I think that would be a great basis for a tracker app. Other features could then be added. 
+
+What do you think? 

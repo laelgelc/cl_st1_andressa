@@ -1,0 +1,19 @@
+ Hello everyone,
+
+I had previously written about making a webapp that allows lonely souls to share what kind of loneliness they feel and how they are feeling that day with the world. I was happy to see many replies and personal messages saying that it helped a bit with their loneliness. It was also interesting to see almost 2000 anonymous logs, and all the different reasons for their loneliness.
+
+As you might expect, many felt lonely because they lacked romantic partners, closely followed by not having friendship. What was interesting though was what they thought attributed to their loneliness. Many found communication skill as what was holding them back, almost twice as many as those who said physical appearance was the cause.
+
+I wanted to do more with the webapp so that people don't just post how they feel like their shouting into the void, but actually verbally talk to others in similar situations so that they can work on their communication skill AND actually make meaningful connections with people across the globe.
+
+I was sprint-coding for the past 2 weeks so that I can have this audio chat feature ready by Valentines Day because I know this day can hurt so much for people without someone to spend with. I wanted to have it ready before Midnight, my apologies.
+
+I added a feature in the audio chat where, when you talk to someone and enjoy the conversation, you can send them a rose 🌹, which the receiver can use as a way to find you another day to continue the conversation.
+
+I plan to be on the platform for most of the day on V Day. I would love to talk to you as I have also previously suffered from loneliness and I vowed to myself to create something to help others who might be going through similar things now.
+
+If you want to check it out, you can visit lonelyworld <dot> info (use . for <dot>)
+
+&#x200B;
+
+Allow me to end this by wishing you Happy Valentines Day.
