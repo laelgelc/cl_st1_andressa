@@ -42,7 +42,7 @@ python keylemmas.py \
     --cutoff 3
 
 python select_kws_stratified.py \
-    --ceiling 420 \
+    --ceiling 250 \
     --human-weight 2 \
     --max-total 1200
 # output: corpus/09_kw_selected

@@ -1,9 +1,4 @@
 #!/usr/bin/env python3
-import os
-import math
-import argparse
-from collections import defaultdict
-
 """
 python keylemmas.py \
     --input corpus/07_tagged \
@@ -12,6 +7,11 @@ python keylemmas.py \
 
 cutoff = minimum percent presence requirement.
 """
+
+import os
+import math
+import argparse
+from collections import defaultdict
 
 # POS tags to keep: nouns, main verbs, adjectives (NO ADVERBS)
 VALID_TAG_PREFIXES = ("NN", "NP", "VV", "AJ")
