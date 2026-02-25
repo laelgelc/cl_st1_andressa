@@ -17,11 +17,11 @@ lemmas = [
     if kw.strip()
 ]
 
+# Ensure stable, duplicate-free keyword list (keywords.txt is usually already unique)
+lemmas = sorted(set(lemmas))
+
 # === Step 2: Create index map for unique lemmas (proper numbering) ===
-unique_lemmas = sorted(set(lemmas))   # remove duplicates + stable order
-
-lemma_index = {lemma: f"{i+1:06d}" for i, lemma in enumerate(unique_lemmas)}
-
+lemma_index = {lemma: f"{i+1:06d}" for i, lemma in enumerate(lemmas)}
 
 # === Step 3: Collect all tagged text files ===
 text_paths = []
@@ -37,48 +37,44 @@ with FILE_IDS.open("w", encoding="utf-8") as fidx:
     for i, text_file in enumerate(text_paths, 1):
         fid = f"t{i:06d}"
         file_id_map[text_file] = fid
-        fidx.write(f"{fid} {text_file.name}\n")
+        rel = text_file.relative_to(TAGGED_BASE).as_posix()
+        fidx.write(f"{fid} {rel}\n")
 
 # === Step 5: Read each text and record lemma presence ===
 text_infos = []
 for text_file in text_paths:
     fid = file_id_map[text_file]
 
-    # Example folder names:
-    #  human
-    #  persona_gpt
-    #  plain_grok
-
+    # Top-level folder under corpus/07_tagged/
     folder = text_file.relative_to(TAGGED_BASE).parts[0]
 
     # ----- SOURCE -----
-    if folder == "human":
-        source = "human"
-    else:
-        source = "ai"
+    source = "human" if folder == "human" else "ai"
 
     # ----- PROMPT -----
     if folder == "human":
         prompt = "human"
-    elif folder.startswith("plain_"):
-        prompt = "plain"
-    elif folder.startswith("persona_"):
-        prompt = "persona"
+    elif folder.startswith("generic_"):
+        prompt = "generic"
+    elif folder.startswith("summary_guided_"):
+        prompt = "summary_guided"
     else:
-        #prompt = "unknown"
-        prompt = "persona" # In this project the AI-generated texts are "persona" texts"
+        prompt = "unknown"
 
     # ----- MODEL -----
+    # Expected folder formats:
+    #   human
+    #   generic_gpt
+    #   summary_guided_gpt
     if folder == "human":
         model = "human"
     else:
-        ## folder format: persona_gpt or plain_gemini
-        #parts = folder.split("_")
-        #model = parts[-1].lower() if len(parts) > 1 else "unknown"
-        # folder format: gemini, gpt, or grok
-        model = folder.lower()
+        # model is whatever comes after the last underscore
+        # generic_gpt -> gpt
+        # summary_guided_gpt -> gpt
+        model = folder.split("_")[-1].lower()
 
-    # Extract lemmas from 3rd column
+    # Extract lemmas from 3rd column (word, tag, lemma) in tagged files
     present = set()
     with text_file.open(encoding="utf-8") as tf:
         for line in tf:
@@ -110,12 +106,10 @@ for lemma in lemmas:
                 f"{info['source']} {has_kw}\n"
             )
 
-# === Step 7: Save lemma index ===
-# === Fixed: Consecutive numbering based on actual keywords ===
+# === Step 7: Save lemma index (consistent with column filenames) ===
 with INDEX_FILE.open("w", encoding="utf-8") as idxf:
-    for i, lemma in enumerate(lemmas, start=1):
-        lemma_id = f"{i:06d}"
-        idxf.write(f"{lemma_id} {lemma}\n")
+    for lemma in lemmas:
+        idxf.write(f"{lemma_index[lemma]} {lemma}\n")
 
 # === Step 8: Produce clean column files ===
 CLEAN_DIR.mkdir(exist_ok=True)
