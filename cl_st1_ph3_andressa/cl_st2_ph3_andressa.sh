@@ -48,22 +48,20 @@ python select_kws_stratified.py \
 # output: corpus/09_kw_selected
 "
 === Keyword Quotas ===
-gemini          → 420 keywords (max)
-gpt             → 420 keywords (max)
-grok            → 420 keywords (max)
-human           → 840 keywords (max)
+generic_gpt     → 250 keywords (max)
+human           → 500 keywords (max)
+summary_guided_gpt → 250 keywords (max)
 =======================
 
-gemini          → selected 1/420 keywords
-gpt             → selected 385/420 keywords
-grok            → selected 4/420 keywords
-human           → selected 840/840 keywords
+generic_gpt     → selected 76/250 keywords
+human           → selected 46/500 keywords
+summary_guided_gpt → selected 45/250 keywords
 
-Total consolidated keywords (incl. duplicates): 1200
-Unique keywords (used downstream): 970
-Duplicates removed later: 230
+Total consolidated keywords (incl. duplicates): 167
+Unique keywords (used downstream): 140
+Duplicates removed later: 27
 
-Final unique keywords written: 970
+Final unique keywords written: 140
 "
 
 rm -rf columns columns_clean
