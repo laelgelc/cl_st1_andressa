@@ -10,6 +10,7 @@ Usage:
         --output output_folder \
         --model gpt-5.1 \
         --workers 4
+        --test 10
 """
 
 import argparse
@@ -44,6 +45,12 @@ def parse_args() -> argparse.Namespace:
                         help="Maximum output tokens.")
     parser.add_argument("--workers", type=int, default=4,
                         help="Number of parallel workers.")
+    parser.add_argument(
+        "--test",
+        type=int,
+        default=None,
+        help="If set, process only the first N .txt files in the input folder (e.g., --test 10)."
+    )
     return parser.parse_args()
 
 
@@ -138,6 +145,7 @@ def gpt_api_call(model: str, system_prompt: str, user_prompt: str,
     except (KeyError, IndexError, TypeError) as e:
         raise RuntimeError(f"Unexpected OpenAI response shape: {data}") from e
 
+
 # ------------------------------------------------------------
 # WORKER
 # ------------------------------------------------------------
@@ -185,6 +193,13 @@ def main():
     if not files:
         print("No .txt files found in input folder.")
         sys.exit(0)
+
+    if args.test is not None:
+        if args.test <= 0:
+            print("Error: --test must be a positive integer.")
+            sys.exit(1)
+        files = files[:args.test]
+        print(f"[TEST MODE] Limiting to first {len(files)} files.\n")
 
     print(f"Processing {len(files)} posts with {args.workers} workers...\n")
 

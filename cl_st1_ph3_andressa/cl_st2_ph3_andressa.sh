@@ -4,25 +4,23 @@ python summarise_posts.py \
     --model gpt-5.1 \
     --workers 6
 
+python build_prompts_generic.py
+
+python generate_gpt.py \
+    --input corpus/04_prompt_generic \
+    --output corpus/05_generic_gpt \
+    --model gpt-5.1 \
+    --workers 4
+    --test 10
+
 python build_prompts_summary_guided.py
 
 python generate_gpt.py \
-    --input corpus/04_prompt \
-    --output corpus/05_gpt \
+    --input corpus/04_prompt_summary_guided \
+    --output corpus/05_summary_guided_gpt \
     --model gpt-5.1 \
     --workers 4
-
-python generate_grok.py \
-    --input corpus/04_prompt \
-    --output corpus/05_grok \
-    --model grok-4 \
-    --workers 4
-
-python generate_gemini.py \
-    --input corpus/04_prompt \
-    --output corpus/05_gemini \
-    --model gemini-2.5-pro \
-    --workers 4
+    --test 10
 
 python clean_answers_human.py
 # output: corpus/05_human

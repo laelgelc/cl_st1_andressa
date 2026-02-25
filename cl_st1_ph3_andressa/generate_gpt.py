@@ -15,6 +15,7 @@ Usage:
         --output corpus/05_gpt \
         --model gpt-5.1 \
         --workers 4
+        --test 10
 """
 
 import argparse
@@ -72,6 +73,12 @@ def parse_args() -> argparse.Namespace:
         type=int,
         default=4,
         help="Number of parallel workers."
+    )
+    parser.add_argument(
+        "--test",
+        type=int,
+        default=None,
+        help="If set, process only the first N prompt files (e.g., --test 10)."
     )
     return parser.parse_args()
 
@@ -147,11 +154,11 @@ def call_api(client: OpenAI, model: str, system_prompt: str,
 # Worker
 # ---------------------------------------------
 def process_prompt(
-    path: Path,
-    output_dir: Path,
-    client: OpenAI,
-    model: str,
-    max_tokens: int,
+        path: Path,
+        output_dir: Path,
+        client: OpenAI,
+        model: str,
+        max_tokens: int,
 ):
 
     try:
@@ -199,6 +206,13 @@ def main():
     if not files:
         print("No prompt files found.")
         sys.exit(0)
+
+    if args.test is not None:
+        if args.test <= 0:
+            print("Error: --test must be a positive integer.")
+            sys.exit(1)
+        files = files[:args.test]
+        print(f"[TEST MODE] Limiting to first {len(files)} prompt files.\n")
 
     # API client
     api_key = os.environ.get("OPENAI_API_KEY")
