@@ -10,7 +10,7 @@ def get_reddit() -> praw.Reddit:
     """
     Construct an authenticated PRAW client using credentials from env/.env.
 
-    Required env vars (see env/.env.template):
+    Required env vars (see env/.env_template):
       - REDDIT_CLIENT_ID
       - REDDIT_CLIENT_SECRET
     Optional:

@@ -45,7 +45,7 @@ def get_settings(env_file: Optional[Path] = Path("env/.env")) -> Settings:
     if missing:
         raise RuntimeError(
             f"Missing required environment variables: {', '.join(missing)}. "
-            "Set them in env/.env (see .env.template) or your shell environment."
+            "Set them in env/.env (see .env_template) or your shell environment."
         )
 
     return Settings(
