@@ -1,0 +1,5 @@
+After three months of back‑and‑forth with App Review, my little tool app finally got approved. The delay was all about using Screen Time for an automatic check‑in feature. The app doesn’t have any backend at all—everything stays on the device in Apple’s sandbox, including all usage data.
+
+To get through review, I added a feature that blocks distracting apps during bedtime to help people actually sleep instead of doomscrolling. It felt like a reasonable compromise that might genuinely help.
+
+I’m also planning a feature where you schedule a message to an emergency contact before doing something dangerous, and cancel it once you’re safe. That idea came from a Reddit comment about setting a timed text before risky activities.

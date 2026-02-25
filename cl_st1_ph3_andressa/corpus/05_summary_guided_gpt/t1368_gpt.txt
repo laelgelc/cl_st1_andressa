@@ -1,0 +1,11 @@
+I’ve been working on an idea and I’m not sure if it’s comforting, dystopian, or somewhere in between, so I wanted to ask here.
+
+I’m building an app that basically simulates texting a supportive dad. It’s meant for people who never had that kind of figure, are estranged, or just want advice from someone who doesn’t have a stake in their life and won’t be judgmental or biased.
+
+The idea is that you could text it about practical stuff you’d normally ask a dad: car trouble, grilling questions, how to negotiate a raise, how to fix something around the house, etc. It would answer in a “dad-style” way: practical, straightforward, a bit dorky. It would use dad-like mannerisms, little nicknames, tell bad jokes, and give that “tough but fair” kind of encouragement.
+
+The part I’m most unsure about is the memory piece. I want it to remember details you tell it, like “I’ve got a job interview next Thursday,” or “I’m nervous about talking to my boss,” and then later it would check in: “Hey kiddo, how did that interview go?” The idea is to build an ongoing relationship so you don’t have to repeat your whole situation every time you open the app.
+
+I’m worried this could cross a line from comforting into creepy. Would it feel supportive to have an app that remembers what you’re going through and checks in about it? Or would that feel like an artificial relationship that’s more sad than helpful?
+
+If you were lonely or missing that kind of figure, would this be something you’d actually use, or does it sound dystopian?

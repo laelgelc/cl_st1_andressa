@@ -1,0 +1,7 @@
+I’ve been working on a first draft of an app called LIFT, and I’d really like your honest thoughts on the idea.
+
+The basic concept: it’s a free, anonymous space for people dealing with emotional distress—things like loneliness, health issues, addiction, trauma, or domestic abuse. Users could sign up and post about what they’re going through. On the other side, volunteers would sign up and specify the areas they’re comfortable helping with.
+
+The app would then try to match people in need with volunteers who can offer emotional connection and some practical support (like sharing resources, listening, checking in, etc.). No real names required, and no money involved.
+
+I’m not sharing the URL here, but I’m wondering: would something like this feel useful or safe to you? What concerns or suggestions would you have for an app like LIFT?

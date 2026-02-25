@@ -1,0 +1,1 @@
+In today’s meetup we decided to go with Ghost for our website, and we’ve already got an instance up and running. It’ll be getting a new theme soon, but you can already check it out at https://unalone.live. If you’re interested in staying in the loop, send me a DM with your email so I can add you to the list.

@@ -1,0 +1,9 @@
+I’ve been lonely and socially anxious for a long time, and it’s always felt like “just put yourself out there” is the only advice anyone has. That’s really hard when you freeze up in social situations or don’t even know where to meet people who actually get you.
+
+Because of that, I ended up building something I wish I’d had: BondBridge.
+
+It’s an AI-powered, completely free platform I created to help lonely or socially anxious people form meaningful friendships. Instead of random matches, it focuses on pairing you with people who share a similar vibe and interests, so conversations feel more natural and less forced.
+
+You can chat privately and securely, and you don’t have to share your real identity if you’re not comfortable — it can be totally anonymous if you want. The idea is to make it easier to talk to others without the pressure and fear that usually comes with it.
+
+The browser version is already live, and I’m working on a mobile app that’s coming soon. If you’re curious, I’ve shared links where you can read more about how it works and sign up if you want to try it.

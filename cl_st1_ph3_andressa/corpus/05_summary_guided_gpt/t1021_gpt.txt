@@ -1,0 +1,13 @@
+I’ve been unemployed for about a year now, and during this time I’ve been working on something that’s very personal to me: an app called Augmy.
+
+The idea came from my sister. Years ago, when she was studying abroad, she was suicidal and none of us knew. We only found out much later, and it still hurts to think about how alone she must have felt, and how in the dark we were. That experience has been stuck in my head ever since.
+
+I’ve always felt this weird contradiction: the people we love the most can be the ones who hurt us the deepest, but they’re also the ones who can help us heal the most. And yet, when we’re struggling with loneliness or depression, it can feel impossible to reach out. You don’t want to “dump” your pain on them, or you don’t know how to put what you’re feeling into words.
+
+Augmy is my attempt to make that a bit easier.
+
+Instead of writing long messages or forcing yourself to say “I’m not okay,” you share your mood in real time through a kind of visual metaphor: a progressive flower. When you’re doing better, it blooms; when you’re struggling, it withers. Your family and friends can see this, so they get a sense of how you’re doing without you having to explain everything. It’s meant to open a door to conversation, or at least let people know when you might need a little extra care.
+
+I know an app can’t fix loneliness or depression, but I’m hoping it can be one small tool that makes it easier to be seen.
+
+If anyone here is interested in trying it, it’s up on Google Play (testing) and Apple TestFlight. I’d really appreciate any feedback, suggestions, or honest thoughts—especially from people who know what it’s like to feel alone.

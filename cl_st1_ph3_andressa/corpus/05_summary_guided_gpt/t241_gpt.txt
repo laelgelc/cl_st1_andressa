@@ -1,0 +1,5 @@
+I’ve been feeling a bit nostalgic and reflective about how lonely I used to be, especially during my PhD about five years ago. It got so bad it almost tipped into depression. Things are a lot better now, but that period still sticks with me.
+
+Recently I built a tiny anonymous web app: lonelyworld.info. It just shows dots on a map where other lonely people are. No accounts, no chat, no tracking—just a simple way to see that there are others out there feeling the same, even if they’re on the other side of the planet.
+
+I know it’s not a cure for loneliness, but when I was at my lowest, even a small reminder that I wasn’t the only one might have helped. This is my way of giving something back.

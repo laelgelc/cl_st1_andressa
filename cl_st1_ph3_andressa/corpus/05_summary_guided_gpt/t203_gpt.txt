@@ -1,0 +1,11 @@
+A while back I built a little web app for lonely people. The idea was simple: you log what kind of loneliness you’re feeling and how your day is going, completely anonymously. I honestly didn’t know if anyone would use it, but it’s gotten around 2000 entries now, and a few people have told me it helped them feel a bit less alone, just knowing others felt the same.
+
+Looking through the anonymous logs, a few things really stood out. The most common kind of loneliness people recorded was about not having a romantic partner. After that came loneliness from not having close friendships. What surprised me most was that a lot of people blamed their communication skills more than their physical appearance. It made me think: if so many of us feel this way, maybe we need a safe place to actually practice talking and connecting.
+
+So I’ve added an audio chat feature to the site. The idea is that you can hop on, talk with someone who’s also lonely, practice communication, and maybe form a real connection. There’s also a little “rose” feature: if you enjoyed talking to someone, you can send them a rose so it’s easier to reconnect with them later instead of just losing that person to the void.
+
+I rushed to get this finished before Valentine’s Day, because I know how brutal that day can feel when you’re lonely. I’m planning to be on there that day myself, talking with whoever shows up. I’ve dealt with my own loneliness for a long time, so I’ll be there as just another person trying to feel a little less isolated.
+
+If any of this sounds like something you might want to try, the site is: lonelyworld.info
+
+If you’re reading this and feeling alone this Valentine’s Day, I genuinely wish you a gentle, bearable day.

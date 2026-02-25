@@ -1,0 +1,11 @@
+I just uploaded a new draft of the Unalone manifesto to our shared Google Drive. It now includes the notes one of you shared with me earlier, plus some scientific evidence and references that I’ve been digging into.
+
+The core argument is that loneliness isn’t just “feeling a bit down” or being introverted; it’s a serious public health threat. I tried to pull together research showing how widespread it is (especially among Gen Z, who consistently show some of the highest loneliness scores in surveys) and how dangerous it can be over time. There’s strong evidence that people with robust social ties literally survive longer than those without, and I wanted that to be front and center. This isn’t “nice to have,” it’s life-or-death for some people.
+
+The manifesto also emphasizes that human connection should be treated as a fundamental right, not a luxury or something you’re just supposed to figure out on your own. At the same time, it tries to be clear that loneliness is not identical to depression. They can overlap, but they’re not the same thing, and they probably need different kinds of support and solutions. I also note that loneliness is highly individual and contextual: what feels unbearably isolating to one person might feel fine or even comfortable to someone else, depending on their needs, culture, and life situation.
+
+In terms of “what next,” I’ve started sketching out some possible directions. One idea is a decentralized structure modeled loosely on Alcoholics Anonymous: local, peer-led groups that share a common framework but no central authority. Another is organizing something like a “hackathon on loneliness,” where people from different backgrounds (tech, mental health, design, community organizing, etc.) come together to prototype practical tools or formats for connection.
+
+I’m sharing this version because I really want constructive criticism. Does the manifesto resonate with your experience of loneliness? Are there parts that feel off, overstated, or missing something important? Is the scientific framing helpful or does it feel cold/clinical? And what do you think about the AA-style decentralization and the hackathon idea—promising, naïve, something else?
+
+If you have the time and the emotional bandwidth, I’d really appreciate your honest thoughts and suggestions.

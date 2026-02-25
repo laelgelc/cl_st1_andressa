@@ -1,0 +1,13 @@
+I’ve been trying to understand my own loneliness for a while now, and it’s led me down kind of a weird path. With a small team, I’ve interviewed over 150 people (mostly Gen Z) about their social lives, but without ever directly asking about “loneliness.” Around the same time, I read a UK report saying nearly half of university students often feel lonely, and a lot are scared they’ll be judged if they admit it. That really hit home.
+
+From our interviews, a pattern started to show up. Most people have 400+ mutual followers online, but only regularly talk to a handful of them. 86% said they usually wait to be invited rather than initiate plans. 75% said they’d join an activity if a friend was interested in it. And 93% said they’ve tried something new because a friend was involved.
+
+It all sounded uncomfortably familiar.
+
+My own loneliness feels like this: I know a lot of people, but I’m close to very few. I really struggle to move from surface-level friendships to something deeper. I’m scared of rejection, so I avoid inviting people out. I keep waiting for someone else to make the first move, and then I end up at home, scrolling, feeling disconnected. Hearing the same pattern over and over from others made me feel less alone, but also kind of sad that so many of us are stuck in this loop.
+
+Because of that, we’re building an app to try to reduce some of that pressure. The idea is: you post something you’d like to do (visit a market, try a new café, learn tennis, whatever). Friends who are genuinely interested get automatically added to a group chat, but you can’t see who’s in it until you join. Then the group figures out the details together, and afterward there’s a shared photo album.
+
+For me, this feels like a way to hang out more without the anxiety of directly asking someone or locking in a date right away. But I honestly don’t know if it’s enough.
+
+Do you relate to any of this? Would an app like that actually help you, or is there something important it’s missing?

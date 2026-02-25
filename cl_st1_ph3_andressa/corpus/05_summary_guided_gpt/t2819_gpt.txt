@@ -1,0 +1,10 @@
+I’ve been thinking a lot about how isolating life can feel, and I keep coming back to this idea of an “unalone” app. Something that isn’t just another social feed, but a tool to actually help people feel less alone.
+
+I imagine features like:
+- a buddy system to connect 1:1 with someone else who’s lonely  
+- a meetup/events calendar for local or online hangouts  
+- daily progress tracking so you can see how you’re doing over time  
+
+For the tracking part, the open-source project behind Habitica seems like a great technical base (they have public code and an explanatory video).
+
+I’m curious what you all think. Would you use something like this? What would make it actually helpful?
