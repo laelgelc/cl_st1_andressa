@@ -10,7 +10,7 @@ python generate_gpt.py \
     --input corpus/04_prompt_generic \
     --output corpus/05_generic_gpt \
     --model gpt-5.1 \
-    --workers 4
+    --workers 4 \
     --test 10
 
 python build_prompts_summary_guided.py
@@ -19,7 +19,7 @@ python generate_gpt.py \
     --input corpus/04_prompt_summary_guided \
     --output corpus/05_summary_guided_gpt \
     --model gpt-5.1 \
-    --workers 4
+    --workers 4 \
     --test 10
 
 python clean_answers_human.py

@@ -9,7 +9,7 @@ Usage:
         --input input_folder \
         --output output_folder \
         --model gpt-5.1 \
-        --workers 4
+        --workers 4 \
         --test 10
 """
 

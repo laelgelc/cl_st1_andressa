@@ -14,7 +14,7 @@ Usage:
         --input corpus/04_prompt \
         --output corpus/05_gpt \
         --model gpt-5.1 \
-        --workers 4
+        --workers 4 \
         --test 10
 """
 
