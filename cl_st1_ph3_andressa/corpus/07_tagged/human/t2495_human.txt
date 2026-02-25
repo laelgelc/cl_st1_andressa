@@ -1,0 +1,13 @@
+i	NP	i
+hope	NN	hope
+i	NP	i
+remained	VBD	remain
+as	IN	as
+a	DT	a
+good	JJ	good
+memory	NN	memory
+to	TO	to
+you	PP	you
+and	CC	and
+disappear.	NP	<unknown>
+.	SENT	.

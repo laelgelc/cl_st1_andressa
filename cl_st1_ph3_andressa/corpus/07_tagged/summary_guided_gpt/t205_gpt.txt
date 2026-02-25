@@ -1,0 +1,17 @@
+I	PP	I
+feel	VBP	feel
+completely	RB	completely
+stuck	VBN	stick
+in	IN	in
+life	NN	life
+right	NN	right
+now	RB	now
+and	CC	and
+honestly	RB	honestly
+have	VB	have
+no	DT	no
+idea	NN	idea
+what	WP	what
+to	TO	to
+do	VB	do
+.	SENT	.

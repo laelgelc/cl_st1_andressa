@@ -1,0 +1,17 @@
+I	PP	I
+’m	NN	<unknown>
+bored	VBN	bore
+lonely	JJ	lonely
+and	CC	and
+head	NN	head
+in	IN	in
+the	DT	the
+gutter	NN	gutter
+watching	VBG	watch
+madam	NN	madam
+web	NN	web
+someone	NN	someone
+talk	NN	talk
+to	TO	to
+me	PP	me
+lol	NN	<unknown>

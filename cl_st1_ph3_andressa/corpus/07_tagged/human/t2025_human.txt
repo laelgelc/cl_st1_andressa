@@ -1,0 +1,14 @@
+i	NNS	i
+hate	VBP	hate
+watching	VBG	watch
+life	NN	life
+pass	VB	pass
+by	IN	by
+.	SENT	.
+i	NP	i
+genuinely	RB	genuinely
+do	VBP	do
+n't	RB	n't
+do	VB	do
+anything	NN	anything
+.	SENT	.

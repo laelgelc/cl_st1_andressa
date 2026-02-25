@@ -1,0 +1,16 @@
+After	IN	after
+a	DT	a
+long	JJ	long
+drinking	NN	drinking
+session	NN	session
+with	IN	with
+myself	PP	myself
+friday	NN	Friday
+night	NN	night
+,	,	,
+i	NP	i
+found	VBD	find
+that	IN	that
+i	NP	i
+wrote	VBD	write
+this	DT	this

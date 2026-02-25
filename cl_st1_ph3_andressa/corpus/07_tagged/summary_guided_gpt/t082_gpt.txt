@@ -1,0 +1,16 @@
+I	PP	I
+just	RB	just
+wish	VBP	wish
+I	PP	I
+had	VBD	have
+one	PP	one
+genuinely	RB	genuinely
+understanding	VBG	understand
+person	NN	person
+I	PP	I
+could	MD	could
+talk	VB	talk
+to	TO	to
+about	IN	about
+everything	NN	everything
+.	SENT	.

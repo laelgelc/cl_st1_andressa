@@ -1,0 +1,15 @@
+I	PP	I
+just	RB	just
+want	VBP	want
+to	TO	to
+be	VB	be
+a	DT	a
+good	JJ	good
+memory	NN	memory
+for	IN	for
+someone	NN	someone
+,	,	,
+then	RB	then
+quietly	RB	quietly
+disappear	VB	disappear
+.	SENT	.

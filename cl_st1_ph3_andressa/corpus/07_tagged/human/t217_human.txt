@@ -1,0 +1,12 @@
+Just	RB	just
+wanted	VBD	want
+to	TO	to
+say	VB	say
+hello	NN	hello
+and	CC	and
+see	VB	see
+how	WRB	how
+everyone	NN	everyone
+is	VBZ	be
+doing	VBG	do
+.	SENT	.

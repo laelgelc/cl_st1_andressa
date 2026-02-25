@@ -1,0 +1,16 @@
+No	DT	no
+real	JJ	real
+reason	NN	reason
+to	TO	to
+say	VB	say
+this	DT	this
+,	,	,
+I	PP	I
+just	RB	just
+felt	VBD	feel
+like	IN	like
+sharing	VBG	share
+something	NN	something
+for	IN	for
+once	RB	once
+.	SENT	.

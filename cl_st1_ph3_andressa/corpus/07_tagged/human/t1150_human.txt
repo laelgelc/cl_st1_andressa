@@ -1,0 +1,17 @@
+i	NNS	i
+want	VBP	want
+to	TO	to
+die	VB	die
+holding	VBG	hold
+my	PP$	my
+lovers	NNS	lover
+hand	NN	hand
+but	CC	but
+i	NP	i
+dont	NN	<unknown>
+think	VBP	think
+i	NP	i
+will	MD	will
+ever	RB	ever
+find	VB	find
+someone	NN	someone

@@ -1,0 +1,17 @@
+I	PP	I
+tripped	VBD	trip
+and	CC	and
+fell	VBD	fall
+behind	RB	behind
+;	:	;
+nobody	NN	nobody
+waited	VBD	wait
+.	SENT	.
+The	DT	the
+loneliness	NN	loneliness
+hit	VBD	hit
+harder	JJR	hard
+than	IN	than
+the	DT	the
+ground	NN	ground
+.	SENT	.

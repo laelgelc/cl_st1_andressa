@@ -1,0 +1,10 @@
+Really	RB	really
+bored	VBN	bore
+and	CC	and
+would	MD	would
+like	VB	like
+someone	NN	someone
+to	TO	to
+talk	VB	talk
+to	TO	to
+hmu	NN	<unknown>

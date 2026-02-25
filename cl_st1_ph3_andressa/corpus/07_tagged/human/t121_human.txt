@@ -1,0 +1,15 @@
+I	PP	I
+m	NN	m
+a	DT	a
+female	NN	female
+.	SENT	.
+45	CD	@card@
+years	NNS	year
+old	JJ	old
+.	SENT	.
+I	PP	I
+m	NN	m
+desperate	JJ	desperate
+because	IN	because
+of	IN	of
+loneliness	NN	loneliness

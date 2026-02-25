@@ -1,0 +1,17 @@
+I	PP	I
+have	VBP	have
+everything	NN	everything
+in	IN	in
+life	NN	life
+but	CC	but
+still	RB	still
+have	VB	have
+that	DT	that
+feeling	NN	feeling
+that	IN	that
+I	PP	I
+am	VBP	be
+alone	RB	alone
+from	IN	from
+inside	NN	inside
+.	SENT	.

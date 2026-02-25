@@ -1,0 +1,11 @@
+So	RB	so
+I	PP	I
+would	MD	would
+love	VB	love
+to	TO	to
+be	VB	be
+present	JJ	present
+and	CC	and
+listen	VB	listen
+to	TO	to
+you	PP	you

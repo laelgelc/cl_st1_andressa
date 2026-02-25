@@ -1,0 +1,16 @@
+I	PP	I
+just	RB	just
+wish	VBP	wish
+someone	NN	someone
+was	VBD	be
+here	RB	here
+right	JJ	right
+now	RB	now
+to	TO	to
+share	VB	share
+this	DT	this
+quiet	JJ	quiet
+moment	NN	moment
+with	IN	with
+me	PP	me
+.	SENT	.

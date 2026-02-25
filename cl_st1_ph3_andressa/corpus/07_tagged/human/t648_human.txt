@@ -1,0 +1,17 @@
+hey	UH	hey
+stranger	NN	stranger
+out	IN	out
+there	RB	there
+👋👋	JJ	<unknown>
+if	IN	if
+u	NN	u
+also	RB	also
+feel	VBP	feel
+alone	RB	alone
+we	PP	we
+can	MD	can
+talk	VB	talk
+for	IN	for
+sometime	RB	sometime
+:	:	:
+)	)	)

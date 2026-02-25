@@ -1,0 +1,16 @@
+I	PP	I
+need	VBP	need
+to	TO	to
+talk	VB	talk
+to	TO	to
+anybody	NN	anybody
+who	WP	who
+understand	VBP	understand
+please	VB	please
+I	PP	I
+need	VBP	need
+to	TO	to
+save	VB	save
+myself	PP	myself
+from	IN	from
+me	PP	me

@@ -1,0 +1,17 @@
+If	IN	if
+so	RB	so
+,	,	,
+what	WP	what
+are	VBP	be
+your	PP$	your
+top	JJ	top
+3	CD	@card@
+characteristics	NNS	characteristic
+that	WDT	that
+make	VBP	make
+you	PP	you
+think	VBP	think
+you	PP	you
+are	VBP	be
+intelligent	JJ	intelligent
+?	SENT	?

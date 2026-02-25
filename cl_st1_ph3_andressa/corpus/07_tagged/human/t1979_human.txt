@@ -1,0 +1,15 @@
+Is	VBZ	be
+anyone	NN	anyone
+online	JJ	online
+I	PP	I
+can	MD	can
+talk	VB	talk
+about	RB	about
+mental	JJ	mental
+health	NN	health
+,	,	,
+i	NNS	i
+have	VBP	have
+bpd	NNS	<unknown>
+and	CC	and
+loneliness	NN	loneliness

@@ -1,0 +1,16 @@
+Been	VBN	be
+sinking	VBG	sink
+hours	NNS	hour
+into	IN	into
+BOTW	NN	<unknown>
+lately	RB	lately
+.	SENT	.
+What	WP	what
+have	VBP	have
+you	PP	you
+all	RB	all
+been	VBN	be
+doing	VBG	do
+or	CC	or
+playing	VBG	play
+?	SENT	?

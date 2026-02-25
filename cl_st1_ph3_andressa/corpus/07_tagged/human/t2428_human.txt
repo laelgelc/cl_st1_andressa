@@ -1,0 +1,14 @@
+Has	VBZ	have
+anyone	NN	anyone
+who	WP	who
+is	VBZ	be
+otherwise	RB	otherwise
+healthy	JJ	healthy
+ever	RB	ever
+felt	VBN	feel
+chest	NN	chest
+pain	NN	pain
+because	IN	because
+of	IN	of
+loneliness	NN	loneliness
+?	SENT	?

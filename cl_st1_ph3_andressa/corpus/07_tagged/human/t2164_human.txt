@@ -1,0 +1,17 @@
+Would	MD	would
+n't	RB	n't
+it	PP	it
+be	VB	be
+cool	JJ	cool
+if	IN	if
+there	EX	there
+was	VBD	be
+a	DT	a
+local	JJ	local
+snack	NN	snack
+and	CC	and
+walk	NN	walk
+for	IN	for
+lonely	JJ	lonely
+people	NNS	people
+?	SENT	?

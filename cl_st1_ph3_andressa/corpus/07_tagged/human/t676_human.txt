@@ -1,0 +1,10 @@
+written	VBN	write
+by	IN	by
+Noah	NP	Noah
+Anderson	NP	Anderson
+@standupguysnetwork	NN	<unknown>
+on	IN	on
+youtube/Scoops/TikTok/X/Instagram	NN	<unknown>
+and	CC	and
+more	JJR	more
+.	SENT	.

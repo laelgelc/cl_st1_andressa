@@ -1,0 +1,12 @@
+thats	NNS	<unknown>
+how	WRB	how
+desperate	JJ	desperate
+i	NNS	i
+am	VBP	be
+and	CC	and
+i	NP	i
+hate	VBP	hate
+my	PP$	my
+healthy	JJ	healthy
+life	NN	life
+anyways	RB	anyways

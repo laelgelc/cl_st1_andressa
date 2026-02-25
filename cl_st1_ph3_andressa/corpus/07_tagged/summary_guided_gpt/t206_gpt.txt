@@ -1,0 +1,13 @@
+What	WP	what
+’s	VBZ	be
+your	PP$	your
+favorite	NN	favorite
+?	SENT	?
+Please	VB	please
+vote	NN	vote
+in	IN	in
+the	DT	the
+poll	NN	poll
+here	RB	here
+:	:	:
+https://www.reddit.com/poll/abcdef	NN	<unknown>

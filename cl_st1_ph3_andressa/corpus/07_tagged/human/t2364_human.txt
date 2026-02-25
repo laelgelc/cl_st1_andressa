@@ -1,0 +1,12 @@
+I	PP	I
+am	VBP	be
+no	RB	no
+longer	RBR	longer
+a	DT	a
+person	NN	person
+.	SENT	.
+I	PP	I
+am	VBP	be
+a	DT	a
+black	JJ	black
+hole	NN	hole

@@ -1,0 +1,14 @@
+I	PP	I
+just	RB	just
+want	VBP	want
+to	TO	to
+be	VB	be
+there	RB	there
+for	IN	for
+someone	NN	someone
+and	CC	and
+truly	RB	truly
+listen	VB	listen
+to	TO	to
+them	PP	them
+.	SENT	.

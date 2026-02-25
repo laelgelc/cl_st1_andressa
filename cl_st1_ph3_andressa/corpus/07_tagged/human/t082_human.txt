@@ -1,0 +1,11 @@
+I	PP	I
+just	RB	just
+be	VB	be
+wanting	VBG	want
+1	CD	@card@
+understanding	NN	understanding
+person	NN	person
+to	TO	to
+talk	VB	talk
+too	RB	too
+.	SENT	.

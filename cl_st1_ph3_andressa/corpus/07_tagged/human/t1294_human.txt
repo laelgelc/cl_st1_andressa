@@ -1,0 +1,16 @@
+I	PP	I
+do	VBP	do
+n’t	RB	n't
+belong	VB	belong
+on	IN	on
+reddit…I	NNS	<unknown>
+do	VBP	do
+n’t	RB	n't
+belong	VB	belong
+in	IN	in
+society….I	NNS	<unknown>
+just	RB	just
+do	VBP	do
+n’t	RB	n't
+belong	VB	belong
+anywhere	RB	anywhere

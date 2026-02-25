@@ -1,0 +1,16 @@
+Anyone	NN	anyone
+make	VBP	make
+good	JJ	good
+connections	NNS	connection
+on	IN	on
+here	RB	here
+?	SENT	?
+What	WP	what
+are	VBP	be
+ppl	NNS	<unknown>
+looking	VBG	look
+for	IN	for
+in	IN	in
+this	DT	this
+sub	NN	sub
+?	SENT	?

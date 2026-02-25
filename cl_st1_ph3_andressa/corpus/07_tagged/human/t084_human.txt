@@ -1,0 +1,11 @@
+Listening	VBG	listen
+to	TO	to
+4	CD	@card@
+runners	NNS	runner
+by	IN	by
+Brenn	NP	Brenn
+for	IN	for
+the	DT	the
+first	JJ	first
+time	NN	time
+rn	NNS	<unknown>

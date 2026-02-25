@@ -1,0 +1,15 @@
+Im	NP	Im
+trying	VBG	try
+to	TO	to
+sharpen	VB	sharpen
+up	RP	up
+on	IN	on
+my	PP$	my
+social	JJ	social
+skills	NNS	skill
+before	IN	before
+school	NN	school
+starts	VBZ	start
+back	RB	back
+up	RB	up
+.	SENT	.

@@ -1,0 +1,14 @@
+idk	NN	<unknown>
+what	WP	what
+im	NP	im
+doing	VBG	do
+with	IN	with
+my	PP$	my
+life	NN	life
+and	CC	and
+im	NP	im
+so	IN	so
+tired	JJ	tired
+idk	NN	<unknown>
+what	WP	what
+todo	VBZ	<unknown>

@@ -1,0 +1,17 @@
+Merry	NP	Merry
+Christmas	NP	Christmas
+,	,	,
+everyone	NN	everyone
+.	SENT	.
+I	PP	I
+genuinely	RB	genuinely
+hope	VBP	hope
+things	NNS	thing
+get	VBP	get
+better	JJR	good
+for	IN	for
+all	DT	all
+of	IN	of
+us	PP	us
+soon	RB	soon
+.	SENT	.

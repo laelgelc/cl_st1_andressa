@@ -1,0 +1,17 @@
+Has	VBZ	have
+anyone	NN	anyone
+else	RB	else
+ever	RB	ever
+felt	VBD	feel
+this	DT	this
+way	NN	way
+too	RB	too
+,	,	,
+or	CC	or
+am	VBP	be
+I	PP	I
+completely	RB	completely
+alone	RB	alone
+in	IN	in
+this	DT	this
+?	SENT	?

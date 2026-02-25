@@ -1,0 +1,17 @@
+Any	DT	any
+other	JJ	other
+lonely	JJ	lonely
+people	NNS	people
+here	RB	here
+who	WP	who
+’d	MD	will
+actually	RB	actually
+like	VB	like
+to	TO	to
+find	VB	find
+a	DT	a
+friend	NN	friend
+to	TO	to
+talk	VB	talk
+to	TO	to
+?	SENT	?

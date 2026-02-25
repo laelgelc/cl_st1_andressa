@@ -1,0 +1,13 @@
+I	PP	I
+given	VBN	give
+up	RP	up
+trying	VBG	try
+to	TO	to
+reach	VB	reach
+out	RP	out
+to	TO	to
+people	NNS	people
+I	PP	I
+'m	VBP	be
+finished	VBN	finish
+.	SENT	.

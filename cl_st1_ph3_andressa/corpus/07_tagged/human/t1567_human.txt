@@ -1,0 +1,11 @@
+Happy	JJ	happy
+singals	NNS	<unknown>
+day	NN	day
+lonely	JJ	lonely
+singals	NNS	<unknown>
+,	,	,
+stay	VB	stay
+warm	VB	warm
+and	CC	and
+watch	VB	watch
+friends	NNS	friend

@@ -1,0 +1,16 @@
+(	(	(
+Apparently	RB	apparently
+the	DT	the
+teen	JJ	teen
+years	NNS	year
+are	VBP	be
+supposed	VBN	suppose
+to	TO	to
+be	VB	be
+the	DT	the
+best	JJS	good
+years	NNS	year
+of	IN	of
+your	PP$	your
+life	NN	life
+)	)	)

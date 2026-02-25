@@ -1,0 +1,15 @@
+there	EX	there
+is	VBZ	be
+no	DT	no
+hope	NN	hope
+there	EX	there
+is	VBZ	be
+no	DT	no
+hope	NN	hope
+there	EX	there
+is	VBZ	be
+no	DT	no
+hope	NN	hope
+all	RB	all
+is	VBZ	be
+forsakened	VBN	<unknown>

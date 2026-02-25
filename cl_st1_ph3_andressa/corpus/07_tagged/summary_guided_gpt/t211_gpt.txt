@@ -1,0 +1,15 @@
+I	PP	I
+used	VBD	use
+to	TO	to
+love	VB	love
+solitude	NN	solitude
+,	,	,
+but	CC	but
+now	RB	now
+being	VBG	be
+alone	RB	alone
+feels	VBZ	feel
+unbearable	JJ	unbearable
+and	CC	and
+suffocating	VBG	suffocate
+.	SENT	.

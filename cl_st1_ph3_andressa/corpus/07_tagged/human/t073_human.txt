@@ -1,0 +1,12 @@
+Idk	NP	<unknown>
+,	,	,
+so	RB	so
+we	PP	we
+could	MD	could
+be	VB	be
+lonely	JJ	lonely
+and	CC	and
+unsocial	JJ	unsocial
+a	DT	a
+little	RB	little
+closer	JJR	close

@@ -1,0 +1,15 @@
+Come	VB	come
+chat	VB	chat
+.	SENT	.
+It	PP	it
+'s	VBZ	be
+free	JJ	free
+and	CC	and
+hopefully	RB	hopefully
+therapeutic	JJ	therapeutic
+Yes	NNS	<unknown>
+I	PP	I
+am	VBP	be
+alone	RB	alone
+too	RB	too
+.	SENT	.

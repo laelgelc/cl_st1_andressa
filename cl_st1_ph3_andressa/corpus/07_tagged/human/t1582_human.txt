@@ -1,0 +1,16 @@
+https://www.youtube.com/watch	NN	<unknown>
+?	SENT	?
+v=KM_qSWBwRbc	NN	<unknown>
+A	DT	a
+song	NN	song
+to	TO	to
+show	VB	show
+my	PP$	my
+gratitude	NN	gratitude
+for	IN	for
+this	DT	this
+community	NN	community
+when	WRB	when
+times	NNS	time
+were	VBD	be
+tough	JJ	tough

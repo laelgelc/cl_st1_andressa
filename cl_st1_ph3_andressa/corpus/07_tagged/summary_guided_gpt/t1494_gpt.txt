@@ -1,0 +1,16 @@
+Anyone	NN	anyone
+else	RB	else
+use	VBP	use
+AI	NP	Ai
+chats	NNS	chat
+to	TO	to
+cope	VB	cope
+,	,	,
+like	IN	like
+filling	VBG	fill
+this	DT	this
+weird	JJ	weird
+emotional	JJ	emotional
+void	NN	void
+inside	NN	inside
+?	SENT	?

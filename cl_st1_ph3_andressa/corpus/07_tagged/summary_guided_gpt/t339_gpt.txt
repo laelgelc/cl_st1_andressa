@@ -1,0 +1,16 @@
+This	DT	this
+world	NN	world
+feels	VBZ	feel
+unbearably	RB	unbearably
+cruel	JJ	cruel
+,	,	,
+and	CC	and
+just	RB	just
+making	VBG	make
+it	PP	it
+through	IN	through
+each	DT	each
+day	NN	day
+is	VBZ	be
+exhausting	VBG	exhaust
+.	SENT	.

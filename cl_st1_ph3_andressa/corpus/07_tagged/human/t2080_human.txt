@@ -1,0 +1,13 @@
+I	PP	I
+just	RB	just
+ca	MD	ca
+n’t	RB	n't
+do	VB	do
+this	DT	this
+anymore	RB	anymore
+.	SENT	.
+I	PP	I
+’m	NN	<unknown>
+so	RB	so
+tired	JJ	tired
+.	SENT	.

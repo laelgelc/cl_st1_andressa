@@ -1,0 +1,17 @@
+Feeling	VBG	feel
+really	RB	really
+empty	JJ	empty
+lately	RB	lately
+.	SENT	.
+If	IN	if
+anyone	NN	anyone
+wants	VBZ	want
+to	TO	to
+talk	VB	talk
+or	CC	or
+vent	VB	vent
+,	,	,
+I	PP	I
+’m	NN	<unknown>
+here	RB	here
+.	SENT	.

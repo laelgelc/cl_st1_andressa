@@ -1,0 +1,17 @@
+Because	IN	because
+songs	NNS	song
+are	VBP	be
+all	RB	all
+we	PP	we
+got	VBD	get
+.	SENT	.
+Irene	NP	Irene
+Cara	NP	Cara
+-	NP	<unknown>
+Flashdance	NP	Flashdance
+What	WP	what
+A	DT	a
+Feeling	VBG	feel
+.	SENT	.
+Enjoy	VB	enjoy
+!	SENT	!

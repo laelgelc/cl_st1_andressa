@@ -1,0 +1,17 @@
+Everyone	NN	everyone
+seems	VBZ	seem
+busy	JJ	busy
+building	NN	building
+lives	NNS	life
+and	CC	and
+connections	NNS	connection
+;	:	;
+I	CD	@card@
+’m	NN	<unknown>
+just	RB	just
+quietly	RB	quietly
+fading	JJ	fading
+into	IN	into
+the	DT	the
+background	NN	background
+.	SENT	.

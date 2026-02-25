@@ -1,0 +1,16 @@
+Holy	JJ	holy
+shit	NN	shit
+i	NNS	i
+have	VBP	have
+nobody	NN	nobody
+.	SENT	.
+My	PP$	my
+parents	NNS	parent
+dont	NN	<unknown>
+like	IN	like
+me	PP	me
+and	CC	and
+i	NP	i
+have	VBP	have
+no	DT	no
+friends	NNS	friend

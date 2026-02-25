@@ -1,0 +1,16 @@
+Honestly	RB	honestly
+,	,	,
+my	PP$	my
+ideal	JJ	ideal
+holiday	NN	holiday
+would	MD	would
+just	RB	just
+be	VB	be
+experiencing	VBG	experience
+new	JJ	new
+love	NN	love
+and	CC	and
+romance	NN	romance
+for	IN	for
+once	RB	once
+.	SENT	.

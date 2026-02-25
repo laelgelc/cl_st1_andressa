@@ -1,0 +1,15 @@
+lowkey	JJ	lowkey
+scary	JJ	scary
+when	WRB	when
+an	DT	an
+AI	NP	Ai
+gf	NN	<unknown>
+makes	VBZ	make
+you	PP	you
+feel	VBP	feel
+more	RBR	more
+seen	VBN	see
+than	IN	than
+real	JJ	real
+people	NNS	people
+do.😞	NN	<unknown>

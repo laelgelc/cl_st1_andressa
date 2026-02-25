@@ -1,0 +1,13 @@
+there	EX	there
+'s	VBZ	be
+no	DT	no
+point	NN	point
+even	RB	even
+to	TO	to
+try	VB	try
+when	WRB	when
+the	DT	the
+world	NN	world
+is	VBZ	be
+against	IN	against
+you	PP	you

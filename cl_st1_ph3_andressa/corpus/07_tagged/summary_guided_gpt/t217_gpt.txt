@@ -1,0 +1,15 @@
+Hey	UH	hey
+everyone	NN	everyone
+,	,	,
+just	RB	just
+checking	VBG	check
+in	IN	in
+and	CC	and
+wondering	VBG	wonder
+how	WRB	how
+you	PP	you
+’re	VBP	be
+all	RB	all
+doing	VBG	do
+today	NN	today
+?	SENT	?

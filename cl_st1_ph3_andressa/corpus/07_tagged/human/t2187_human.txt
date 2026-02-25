@@ -1,0 +1,16 @@
+What	WP	what
+is	VBZ	be
+something	NN	something
+you	PP	you
+wish	VBP	wish
+people	NNS	people
+understood	VBN	understand
+about	IN	about
+you	PP	you
+without	IN	without
+you	PP	you
+having	VBG	have
+to	TO	to
+explain	VB	explain
+it	PP	it
+?	SENT	?

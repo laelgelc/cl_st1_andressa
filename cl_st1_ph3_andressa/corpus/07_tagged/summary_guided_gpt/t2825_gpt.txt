@@ -1,0 +1,16 @@
+https://www.thedailybeast.com/the-war-against-the-loneliness-epidemic	JJ	<unknown>
+Saw	NP	Saw
+this	DT	this
+article	NN	article
+about	IN	about
+the	DT	the
+loneliness	NN	loneliness
+epidemic	NN	epidemic
+and	CC	and
+thought	VBD	think
+it	PP	it
+might	MD	might
+interest	VB	interest
+people	NNS	people
+here	RB	here
+.	SENT	.

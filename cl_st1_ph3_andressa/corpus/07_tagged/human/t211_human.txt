@@ -1,0 +1,14 @@
+I	PP	I
+used	VBD	use
+to	TO	to
+love	VB	love
+being	VBG	be
+alone	RB	alone
+.	SENT	.
+Currently	RB	currently
+I	PP	I
+can	MD	can
+barely	RB	barely
+stand	VB	stand
+it	PP	it
+.	SENT	.

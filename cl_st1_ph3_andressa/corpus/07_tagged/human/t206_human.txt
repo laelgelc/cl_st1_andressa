@@ -1,0 +1,8 @@
+What	WP	what
+'s	VBZ	be
+your	PP$	your
+favorite	NN	favorite
+?	SENT	?
+[	SYM	[
+View	NP	View
+Poll](https://www.reddit.com/poll/10whs5q)	NP	<unknown>

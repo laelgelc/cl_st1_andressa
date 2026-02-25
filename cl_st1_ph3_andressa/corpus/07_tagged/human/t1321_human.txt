@@ -1,0 +1,10 @@
+I	PP	I
+really	RB	really
+do	VBP	do
+n't	RB	n't
+but	CC	but
+love	VBP	love
+is	VBZ	be
+pain	NN	pain
+right	RB	right
+now	RB	now

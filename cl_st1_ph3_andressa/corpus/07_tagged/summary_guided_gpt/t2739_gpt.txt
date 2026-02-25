@@ -1,0 +1,17 @@
+Wishing	VBG	wish
+everyone	NN	everyone
+peaceful	JJ	peaceful
+holidays	NNS	holiday
+.	SENT	.
+Wherever	WRB	wherever
+you	PP	you
+are	VBP	be
+,	,	,
+please	UH	please
+stay	VB	stay
+strong	JJ	strong
+and	CC	and
+take	VB	take
+gentle	JJ	gentle
+care	NN	care
+.	SENT	.

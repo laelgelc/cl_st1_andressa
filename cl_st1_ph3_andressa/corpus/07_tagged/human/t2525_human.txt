@@ -1,0 +1,17 @@
+And	CC	and
+disgusting	JJ	disgusting
+and	CC	and
+overthinking	JJ	<unknown>
+and	CC	and
+addicted	VBN	addict
+all	PDT	all
+the	DT	the
+fucking	VBG	fuck
+time	NN	time
+.	SENT	.
+I	PP	I
+hate	VBP	hate
+it	PP	it
+so	RB	so
+much	JJ	much
+...	:	...

@@ -1,0 +1,15 @@
+19M	NP	<unknown>
+,	,	,
+just	RB	just
+heartbroken	JJ	heartbroken
+after	IN	after
+a	DT	a
+breakup	NN	breakup
+and	CC	and
+needed	VBD	need
+somewhere	RB	somewhere
+to	TO	to
+vent	VB	vent
+this	DT	this
+emptiness	NN	emptiness
+.	SENT	.

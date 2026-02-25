@@ -1,0 +1,16 @@
+is	VBZ	be
+anyone	NN	anyone
+else	RB	else
+here	RB	here
+lonely	JJ	lonely
+but	CC	but
+too	RB	too
+awkward	JJ	awkward
+to	TO	to
+talk	VB	talk
+to	TO	to
+anyone	NN	anyone
+?	SENT	?
+[	SYM	[
+View	NP	View
+Poll](https://www.reddit.com/poll/hpuc1r)	NP	<unknown>

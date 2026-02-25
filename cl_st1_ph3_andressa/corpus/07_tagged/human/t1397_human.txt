@@ -1,0 +1,13 @@
+When	WRB	when
+the	DT	the
+thought	NN	thought
+of	IN	of
+not	RB	not
+waking	VBG	wake
+up	RP	up
+tomorrow	NN	tomorrow
+,	,	,
+makes	VBZ	make
+you	PP	you
+smile	VBP	smile
+.	SENT	.

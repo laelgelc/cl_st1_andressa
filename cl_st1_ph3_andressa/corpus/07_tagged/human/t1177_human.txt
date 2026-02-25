@@ -1,0 +1,15 @@
+The	DT	the
+Cyberball	NP	<unknown>
+Experiments	NNS	experiment
+tell	VBP	tell
+us	PP	us
+some	DT	some
+important	JJ	important
+things	NNS	thing
+we	PP	we
+did	VBD	do
+n't	RB	n't
+know	VB	know
+about	IN	about
+loneliness	NN	loneliness
+.	SENT	.

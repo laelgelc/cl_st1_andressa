@@ -1,0 +1,15 @@
+theres	RB	<unknown>
+no	DT	no
+reason	NN	reason
+in	IN	in
+particular	JJ	particular
+why	WRB	why
+I	PP	I
+’m	NN	<unknown>
+telling	VBG	tell
+you	PP	you
+this	DT	this
+,	,	,
+I	PP	I
+just	RB	just
+am	VBP	be

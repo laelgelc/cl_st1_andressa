@@ -1,0 +1,17 @@
+i	NP	i
+’m	NN	<unknown>
+incredibly	RB	incredibly
+lonely	JJ	lonely
+.	SENT	.
+i	NNS	i
+have	VBP	have
+no	DT	no
+one	CD	one
+im	NP	im
+alone	RB	alone
+in	IN	in
+an	DT	an
+ai	NN	ai
+world	NN	world
+please	VBP	please
+help	VB	help

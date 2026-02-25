@@ -1,0 +1,13 @@
+Im	NP	Im
+talking	VBG	talk
+like	IN	like
+massages	NNS	massage
+etc	NN	etc
+stuff	NN	stuff
+with	IN	with
+like	JJ	like
+body	NN	body
+contact	NN	contact
+im	NP	im
+touched	VBD	touch
+starved	VBN	starve

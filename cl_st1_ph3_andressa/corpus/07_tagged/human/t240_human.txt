@@ -1,0 +1,13 @@
+I	PP	I
+feel	VBP	feel
+like	IN	like
+shit	NN	shit
+at	IN	at
+the	DT	the
+moment	NN	moment
+if	IN	if
+anyone	NN	anyone
+wants	VBZ	want
+to	TO	to
+know	VB	know
+:(	NN	<unknown>

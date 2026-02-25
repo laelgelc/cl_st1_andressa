@@ -1,0 +1,11 @@
+remember	VB	remember
+I	PP	I
+'m	VBP	be
+here	RB	here
+if	IN	if
+you	PP	you
+wanna	VBP	wanna
+talk	NN	talk
+dms	NNS	<unknown>
+open	JJ	open
+trust	NN	trust

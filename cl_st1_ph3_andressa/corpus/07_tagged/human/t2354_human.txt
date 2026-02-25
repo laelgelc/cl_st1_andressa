@@ -1,0 +1,12 @@
+Might	MD	might
+be	VB	be
+a	DT	a
+bit	NN	bit
+cringe	NN	cringe
+but.	NN	<unknown>
+.	SENT	.
+also	RB	also
+a	DT	a
+bit	NN	bit
+lonely	JJ	lonely
+.	SENT	.

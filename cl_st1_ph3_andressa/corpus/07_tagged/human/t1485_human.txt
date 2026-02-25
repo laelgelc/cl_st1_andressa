@@ -1,0 +1,17 @@
+Feel	VB	feel
+like	VB	like
+this	DT	this
+when	WRB	when
+I	PP	I
+wake	VBP	wake
+up	RP	up
+from	IN	from
+a	DT	a
+dream	NN	dream
+I	PP	I
+had	VBD	have
+about	RB	about
+someone	NN	someone
+I	PP	I
+loved	VBD	love
+.	SENT	.

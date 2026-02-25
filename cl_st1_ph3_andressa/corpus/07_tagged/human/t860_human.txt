@@ -1,0 +1,15 @@
+Can	MD	can
+some	DT	some
+can	MD	can
+assist	VB	assist
+me	PP	me
+to	TO	to
+go	VB	go
+throjgh	NP	<unknown>
+this	DT	this
+i	NP	i
+was	VBD	be
+too	RB	too
+attached	VBN	attach
+with	IN	with
+her	PP$	her

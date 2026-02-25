@@ -1,0 +1,13 @@
+I	PP	I
+'m	VBP	be
+tired	JJ	tired
+of	IN	of
+watching	VBG	watch
+reels	NNS	reel
+someone	NN	someone
+suggest	VBP	suggest
+me	PP	me
+some	DT	some
+niche	NN	niche
+to	TO	to
+do	VB	do

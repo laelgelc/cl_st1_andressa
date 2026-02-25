@@ -1,0 +1,11 @@
+When	WRB	when
+you	PP	you
+send	VBP	send
+me	PP	me
+and	CC	and
+he	PP	he
+does	VBZ	do
+n't	RB	n't
+respond	VB	respond
+back	RB	back
+😭😭😭😭😭	JJ	<unknown>

@@ -1,0 +1,17 @@
+Every	DT	every
+time	NN	time
+I	PP	I
+see	VBP	see
+him	PP	him
+.	SENT	.
+I	PP	I
+get	VBP	get
+so	RB	so
+wet	JJ	wet
+.	SENT	.
+I	PP	I
+came	VBD	come
+so	RB	so
+many	JJ	many
+times	NNS	time
+.	SENT	.

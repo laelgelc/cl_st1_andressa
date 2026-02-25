@@ -1,0 +1,17 @@
+My	PP$	my
+dms	NNS	<unknown>
+are	VBP	be
+open	JJ	open
+if	IN	if
+anyone	NN	anyone
+feels	VBZ	feel
+like	IN	like
+talking	VBG	talk
+about	IN	about
+anything	NN	anything
+,	,	,
+I	PP	I
+’m	NN	<unknown>
+here	RB	here
+to	TO	to
+help	VB	help

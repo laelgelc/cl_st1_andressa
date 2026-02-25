@@ -1,0 +1,12 @@
+Need	VB	need
+a	DT	a
+genuine	JJ	genuine
+person	NN	person
+to	TO	to
+talk	VB	talk
+with	IN	with
+felt	VBN	feel
+very	RB	very
+alone	RB	alone
+and	CC	and
+depressed	VBN	depress

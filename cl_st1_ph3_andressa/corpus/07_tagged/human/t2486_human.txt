@@ -1,0 +1,12 @@
+he	PP	he
+has	VBZ	have
+made	VBN	make
+my	PP$	my
+life	NN	life
+lonely	JJ	lonely
+and	CC	and
+it	PP	it
+is	VBZ	be
+rough	JJ	rough
+and	CC	and
+painful	JJ	painful

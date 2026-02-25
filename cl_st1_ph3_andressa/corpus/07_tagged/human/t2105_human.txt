@@ -1,0 +1,15 @@
+please	VB	please
+can	NN	can
+someone	NN	someone
+speak	VBP	speak
+with	IN	with
+me	PP	me
+,	,	,
+just	RB	just
+to	TO	to
+support	VB	support
+a	DT	a
+little	JJ	little
+,	,	,
+thank	VB	thank
+you	PP	you

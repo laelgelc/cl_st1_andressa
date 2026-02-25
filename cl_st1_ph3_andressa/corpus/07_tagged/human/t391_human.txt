@@ -1,0 +1,12 @@
+I	PP	I
+am	VBP	be
+19m	JJ	<unknown>
+and	CC	and
+I	PP	I
+just	RB	just
+want	VBP	want
+to	TO	to
+vent	VB	vent
+bout	NN	bout
+my	PP$	my
+breakup	NN	breakup

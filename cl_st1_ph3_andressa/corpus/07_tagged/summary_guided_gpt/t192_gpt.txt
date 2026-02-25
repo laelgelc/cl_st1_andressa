@@ -1,0 +1,16 @@
+How	WRB	how
+do	VBP	do
+I	PP	I
+clearly	RB	clearly
+explain	VB	explain
+or	CC	or
+describe	VB	describe
+my	PP$	my
+page	NN	page
+group	NN	group
+to	TO	to
+others	NNS	other
+without	IN	without
+confusing	VBG	confuse
+them	PP	them
+?	SENT	?

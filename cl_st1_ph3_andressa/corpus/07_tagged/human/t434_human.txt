@@ -1,0 +1,17 @@
+Those	DT	those
+minutes	NNS	minute
+between	IN	between
+applying	VBG	apply
+fragrant	JJ	fragrant
+lotion	NN	lotion
+after	IN	after
+a	DT	a
+hot	JJ	hot
+bath	NN	bath
+,	,	,
+and	CC	and
+putting	VBG	put
+on	IN	on
+fresh	JJ	fresh
+clothes	NNS	clothes
+.	SENT	.

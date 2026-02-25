@@ -1,0 +1,17 @@
+45	CD	@card@
+,	,	,
+feeling	VBG	feel
+crushing	VBG	crush
+loneliness	NN	loneliness
+every	DT	every
+day	NN	day
+,	,	,
+like	IN	like
+life	NN	life
+is	VBZ	be
+passing	VBG	pass
+by	IN	by
+without	IN	without
+real	JJ	real
+connection	NN	connection
+.	SENT	.

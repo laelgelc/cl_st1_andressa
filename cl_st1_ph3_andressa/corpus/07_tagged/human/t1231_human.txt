@@ -1,0 +1,14 @@
+My	PP$	my
+biggest	JJS	big
+sexual	JJ	sexual
+fantasy	NN	fantasy
+is	VBZ	be
+to	TO	to
+be	VB	be
+someone	NN	someone
+’s	POS	's
+first	JJ	first
+choice	NN	choice
+,	,	,
+ok	VB	ok
+bye	NN	bye

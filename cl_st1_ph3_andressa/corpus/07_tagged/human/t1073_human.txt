@@ -1,0 +1,13 @@
+it	PP	it
+kills	VBZ	kill
+me	PP	me
+everynight	NN	<unknown>
+and	CC	and
+every	DT	every
+morning	NN	morning
+its	PP$	its
+the	DT	the
+curse	NN	curse
+of	IN	of
+being	VBG	be
+ugly	JJ	ugly

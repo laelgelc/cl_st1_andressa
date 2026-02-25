@@ -1,0 +1,13 @@
+this	DT	this
+is	VBZ	be
+the	DT	the
+torture	NN	torture
+of	IN	of
+this	DT	this
+world	NN	world
+and	CC	and
+the	DT	the
+pain	NN	pain
+that	IN	that
+it	PP	it
+brings	VBZ	bring

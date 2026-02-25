@@ -1,0 +1,15 @@
+Feeling	VBG	feel
+kinda	RB	kinda
+lonely	JJ	lonely
+lately	RB	lately
+and	CC	and
+even	RB	even
+saying	VBG	say
+that	IN	that
+out	RB	out
+loud	RB	loud
+makes	VBZ	make
+me	PP	me
+feel	VBP	feel
+cringe	NN	cringe
+.	SENT	.

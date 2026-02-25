@@ -1,0 +1,17 @@
+I	PP	I
+'m	VBP	be
+creating	VBG	create
+a	DT	a
+new	JJ	new
+fragrance	NN	fragrance
+for	IN	for
+Loners	NP	<unknown>
+It	PP	it
+'s	VBZ	be
+called	VBN	call
+:	:	:
+Leave	VB	leave
+Me	PP	me
+The	DT	the
+Fu	NP	Fu
+Cologne	NP	Cologne

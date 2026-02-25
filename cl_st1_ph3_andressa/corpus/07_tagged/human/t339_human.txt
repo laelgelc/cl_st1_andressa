@@ -1,0 +1,12 @@
+I	PP	I
+feel	VBP	feel
+like	IN	like
+the	DT	the
+world	NN	world
+is	VBZ	be
+so	RB	so
+cruel	JJ	cruel
+for	IN	for
+me	PP	me
+to	TO	to
+survive	VB	survive

@@ -1,0 +1,14 @@
+I	PP	I
+feel	VBP	feel
+so	RB	so
+deeply	RB	deeply
+lonely	JJ	lonely
+that	IN	that
+even	RB	even
+explaining	VBG	explain
+it	PP	it
+feels	VBZ	feel
+impossible	JJ	impossible
+and	CC	and
+overwhelming	JJ	overwhelming
+.	SENT	.

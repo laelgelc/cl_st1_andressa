@@ -1,0 +1,16 @@
+When	WRB	when
+will	MD	will
+this	DT	this
+misery	NN	misery
+end	NN	end
+?	SENT	?
+Why	WRB	why
+is	VBZ	be
+it	PP	it
+so	RB	so
+fucking	VBG	fuck
+difficult	JJ	difficult
+to	TO	to
+find	VB	find
+company	NN	company
+?	SENT	?

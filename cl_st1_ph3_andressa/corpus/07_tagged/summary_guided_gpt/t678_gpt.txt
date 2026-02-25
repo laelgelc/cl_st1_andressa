@@ -1,0 +1,17 @@
+I	PP	I
+keep	VBP	keep
+hoping	VBG	hope
+she	PP	she
+’ll	JJ	<unknown>
+finally	RB	finally
+appear	VBP	appear
+in	IN	in
+my	PP$	my
+life	NN	life
+soon	RB	soon
+.	SENT	.
+This	DT	this
+lonely	JJ	lonely
+waiting	NN	waiting
+hurts	VBZ	hurt
+.	SENT	.

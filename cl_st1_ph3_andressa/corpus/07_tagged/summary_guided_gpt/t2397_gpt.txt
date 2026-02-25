@@ -1,0 +1,16 @@
+I	PP	I
+feel	VBP	feel
+completely	RB	completely
+worthless	JJ	worthless
+and	CC	and
+alone	RB	alone
+,	,	,
+like	IN	like
+I	PP	I
+have	VBP	have
+nothing	NN	nothing
+to	TO	to
+offer	VB	offer
+anyone	NN	anyone
+anymore	RB	anymore
+.	SENT	.

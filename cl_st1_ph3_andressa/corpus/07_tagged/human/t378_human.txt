@@ -1,0 +1,17 @@
+Just	RB	just
+saw	VBD	see
+my	PP$	my
+old	JJ	old
+classmates	NNS	classmate
+hanging	VBG	hang
+out	RP	out
+and	CC	and
+also	RB	also
+my	PP$	my
+ex	JJ	ex
+friends	NNS	friend
+.	SENT	.
+Feeling	VBG	feel
+like	IN	like
+hanging	VBG	hang
+myself	PP	myself

@@ -1,0 +1,14 @@
+Pain	NN	pain
+and	CC	and
+suffering	NN	suffering
+are	VBP	be
+always	RB	always
+inevitable	JJ	inevitable
+for	IN	for
+a	DT	a
+large	JJ	large
+intelligence	NN	intelligence
+and	CC	and
+a	DT	a
+deep	JJ	deep
+heart	NN	heart

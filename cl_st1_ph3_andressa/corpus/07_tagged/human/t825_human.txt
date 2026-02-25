@@ -1,0 +1,14 @@
+Where	WRB	where
+is	VBZ	be
+everyone	NN	everyone
+from	IN	from
+and	CC	and
+their	PP$	their
+age	NN	age
+?	SENT	?
+Im	NP	Im
+23	NP	@card@
+and	CC	and
+im	NP	im
+from	IN	from
+ny	NN	<unknown>

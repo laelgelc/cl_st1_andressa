@@ -1,0 +1,17 @@
+I	PP	I
+think	VBP	think
+this	DT	this
+year	NN	year
+will	MD	will
+be	VB	be
+great	JJ	great
+,	,	,
+and	CC	and
+I	PP	I
+'ll	MD	will
+never	RB	never
+be	VB	be
+alone	RB	alone
+again	RB	again
+.	SENT	.
+☺️❤️	NN	<unknown>

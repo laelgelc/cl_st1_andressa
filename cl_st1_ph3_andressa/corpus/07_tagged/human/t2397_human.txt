@@ -1,0 +1,15 @@
+I	PP	I
+just	RB	just
+feel	VBP	feel
+so	RB	so
+worthless	JJ	worthless
+.	SENT	.
+Alone	RB	alone
+.	SENT	.
+Hopeless	JJ	hopeless
+.	SENT	.
+With	IN	with
+nothing	NN	nothing
+to	TO	to
+offer	VB	offer
+.	SENT	.

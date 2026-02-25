@@ -1,0 +1,12 @@
+33F	JJ	<unknown>
+everyone	NN	everyone
+abandoned	VBD	abandon
+me	PP	me
+,	,	,
+moved	VBN	move
+on	IN	on
+or	CC	or
+I	PP	I
+pushed	VBD	push
+away	RB	away
+.	SENT	.

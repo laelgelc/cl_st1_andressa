@@ -1,0 +1,13 @@
+I	PP	I
+'m	VBP	be
+trying	VBG	try
+.	SENT	.
+I	PP	I
+'ve	VBP	have
+reached	VBN	reach
+out	RP	out
+.	SENT	.
+I	PP	I
+'ve	VBP	have
+tried	VBN	try
+.	SENT	.

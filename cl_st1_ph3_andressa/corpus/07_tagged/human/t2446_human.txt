@@ -1,0 +1,12 @@
+whoopdie	NN	<unknown>
+freakin	NNS	<unknown>
+do	VBP	do
+i	NP	i
+can	MD	can
+feel	VB	feel
+the	DT	the
+love	NN	love
+of	IN	of
+god	NN	god
+burning	VBG	burn
+me	PP	me

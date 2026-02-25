@@ -1,0 +1,13 @@
+This	DT	this
+is	VBZ	be
+my	PP$	my
+first	JJ	first
+Christmas	NN	Christmas
+abroad	RB	abroad
+and	CC	and
+I	PP	I
+just	RB	just
+feel	VBP	feel
+extremely	RB	extremely
+alone	RB	alone
+.	SENT	.

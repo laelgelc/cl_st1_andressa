@@ -1,0 +1,13 @@
+Just	RB	just
+looking	VBG	look
+for	IN	for
+friends	NNS	friend
+to	TO	to
+conversate	NNS	<unknown>
+with	IN	with
+in	IN	in
+my	PP$	my
+city	NN	city
+nun	NN	nun
+to	TO	to
+serious	JJ	serious

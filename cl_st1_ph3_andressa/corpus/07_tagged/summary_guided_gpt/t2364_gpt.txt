@@ -1,0 +1,17 @@
+I	PP	I
+do	VBP	do
+n’t	RB	n't
+feel	VB	feel
+like	IN	like
+a	DT	a
+person	NN	person
+anymore	RB	anymore
+,	,	,
+just	RB	just
+a	DT	a
+black	JJ	black
+hole	NN	hole
+swallowing	VBG	swallow
+everything	NN	everything
+inside	RB	inside
+.	SENT	.

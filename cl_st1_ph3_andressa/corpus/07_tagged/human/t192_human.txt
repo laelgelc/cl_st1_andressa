@@ -1,0 +1,11 @@
+What	WP	what
+is	VBZ	be
+the	DT	the
+best	JJS	good
+way	NN	way
+to	TO	to
+explain	VB	explain
+this	DT	this
+page	NN	page
+group	NN	group
+?	SENT	?

@@ -1,0 +1,12 @@
+today	NN	today
+flopped	VBD	flop
+but	CC	but
+ill	RB	ill
+girlboss	VB	<unknown>
+my	PP$	my
+way	NN	way
+back	RB	back
+into	IN	into
+consistency	NN	consistency
+again	RB	again
+tomorrow	NN	tomorrow

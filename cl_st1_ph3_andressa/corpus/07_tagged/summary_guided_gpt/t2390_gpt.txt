@@ -1,0 +1,17 @@
+Does	VBZ	do
+anyone	NN	anyone
+else	RB	else
+cope	VB	cope
+with	IN	with
+their	PP$	their
+loneliness	NN	loneliness
+through	IN	through
+maladaptive	JJ	<unknown>
+daydreaming	VBG	daydream
+?	SENT	?
+It	PP	it
+’s	VBZ	be
+consuming	VBG	consume
+my	PP$	my
+life	NN	life
+.	SENT	.

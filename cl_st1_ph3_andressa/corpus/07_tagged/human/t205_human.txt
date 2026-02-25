@@ -1,0 +1,13 @@
+I	PP	I
+just	RB	just
+feel	VBP	feel
+so	RB	so
+stuck	VBN	stick
+in	IN	in
+life	NN	life
+.	SENT	.
+What	WP	what
+do	VBP	do
+I	PP	I
+do	VBP	do
+.	SENT	.

@@ -1,0 +1,17 @@
+hey	UH	hey
+there	RB	there
+👋👋	JJ	<unknown>
+...	:	...
+I	PP	I
+need	VBP	need
+someone	NN	someone
+to	TO	to
+talk	VB	talk
+to	TO	to
+maybe	RB	maybe
+just	RB	just
+for	IN	for
+a	DT	a
+couple	NN	couple
+minutes	NNS	minute
+😓	NN	<unknown>

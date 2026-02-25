@@ -1,0 +1,12 @@
+Feeling	VBG	feel
+empty	JJ	empty
+Im	NP	Im
+open	JJ	open
+to	TO	to
+listen	VB	listen
+or	CC	or
+just	RB	just
+have	VB	have
+a	DT	a
+quick	JJ	quick
+chat	NN	chat

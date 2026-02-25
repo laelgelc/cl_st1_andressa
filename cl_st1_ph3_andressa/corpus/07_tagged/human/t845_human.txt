@@ -1,0 +1,13 @@
+what	WP	what
+should	MD	should
+i	NNS	i
+do	VB	do
+i	NP	i
+need	VB	need
+a	DT	a
+solution	NN	solution
+i	NNS	i
+am	VBP	be
+just	RB	just
+tired	JJ	tired
+.	SENT	.

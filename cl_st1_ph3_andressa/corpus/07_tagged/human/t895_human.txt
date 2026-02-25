@@ -1,0 +1,12 @@
+I	PP	I
+'ve	VBP	have
+been	VBN	be
+alone	RB	alone
+all	PDT	all
+my	PP$	my
+life.	NN	<unknown>
+.	SENT	.
+no	DT	no
+friends	NNS	friend
+no	DT	no
+family	NN	family

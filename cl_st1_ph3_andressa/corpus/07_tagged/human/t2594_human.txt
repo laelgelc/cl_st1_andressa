@@ -1,0 +1,17 @@
+I	PP	I
+got	VBD	get
+destroyed	VBN	destroy
+by	IN	by
+a	DT	a
+lot	NN	lot
+of	IN	of
+shitty	JJ	shitty
+genetics	NNS	genetics
+but	CC	but
+being	VBG	be
+a	DT	a
+sperg	NN	<unknown>
+screwed	VBD	screw
+me	PP	me
+the	DT	the
+worst	JJS	bad

@@ -1,0 +1,17 @@
+I	PP	I
+’m	NN	<unknown>
+convinced	JJ	convinced
+everyone	NN	everyone
+secretly	RB	secretly
+hates	VBZ	hate
+me	PP	me
+,	,	,
+so	RB	so
+I	PP	I
+avoid	VB	avoid
+socializing	VBG	socialize
+and	CC	and
+feel	VBP	feel
+completely	RB	completely
+alone	RB	alone
+.	SENT	.

@@ -1,0 +1,17 @@
+Everyone	NN	everyone
+seems	VBZ	seem
+busy	JJ	busy
+with	IN	with
+their	PP$	their
+lives	NNS	life
+,	,	,
+and	CC	and
+I	PP	I
+’m	NN	<unknown>
+just	RB	just
+quietly	RB	quietly
+disappearing	VBG	disappear
+in	IN	in
+the	DT	the
+background	NN	background
+.	SENT	.

@@ -1,0 +1,17 @@
+Break	NN	break
+up	RB	up
+hit	VBD	hit
+so	RB	so
+hard	RB	hard
+I	PP	I
+am	VBP	be
+trying	VBG	try
+to	TO	to
+remember	VB	remember
+my	PP$	my
+old	JJ	old
+self	NN	self
+.	SENT	.
+Any	DT	any
+suggestions	NNS	suggestion
+.	SENT	.

@@ -1,0 +1,16 @@
+My	PP$	my
+identity	NN	identity
+keeps	VBZ	keep
+shifting	VBG	shift
+with	IN	with
+people	NNS	people
+and	CC	and
+places	NNS	place
+,	,	,
+yet	RB	yet
+inside	IN	inside
+I	PP	I
+feel	VBP	feel
+completely	RB	completely
+numb	VB	numb
+.	SENT	.

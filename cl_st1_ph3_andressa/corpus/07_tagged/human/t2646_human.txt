@@ -1,0 +1,16 @@
+What	WP	what
+is	VBZ	be
+the	DT	the
+one	CD	one
+thing	NN	thing
+you	PP	you
+enjoy	VBP	enjoy
+doing	VBG	do
+alone	RB	alone
+and	CC	and
+why	WRB	why
+do	VBP	do
+you	PP	you
+enjoy	VBP	enjoy
+it	PP	it
+?	SENT	?

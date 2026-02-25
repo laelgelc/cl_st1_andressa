@@ -1,0 +1,15 @@
+"	''	"
+Loneliness	NN	loneliness
+,	,	,
+porn	NN	porn
+’s	POS	's
+next	JJ	next
+frontier	NN	frontier
+,	,	,
+and	CC	and
+the	DT	the
+dream	NN	dream
+of	IN	of
+endless	JJ	endless
+masturbation	NN	masturbation
+"	''	"

@@ -1,0 +1,11 @@
+Do	VBP	do
+n’t	RB	n't
+know	VB	know
+what	WP	what
+to	TO	to
+do	VB	do
+even	RB	even
+losing	VBG	lose
+interest	NN	interest
+in	IN	in
+games	NNS	game

@@ -1,0 +1,12 @@
+His	PP$	his
+stomach	NN	stomach
+is	VBZ	be
+partially	RB	partially
+removed	VBN	remove
+and	CC	and
+he	PP	he
+does	VBZ	do
+n’t	RB	n't
+have	VB	have
+money	NN	money
+.	SENT	.

@@ -1,0 +1,17 @@
+I	PP	I
+always	RB	always
+prioritize	VBP	<unknown>
+others	NNS	other
+;	:	;
+I	PP	I
+just	RB	just
+wish	VBP	wish
+someone	NN	someone
+would	MD	would
+finally	RB	finally
+prioritize	VB	<unknown>
+me	PP	me
+the	DT	the
+same	JJ	same
+way	NN	way
+.	SENT	.

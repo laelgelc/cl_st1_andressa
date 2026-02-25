@@ -1,0 +1,15 @@
+M	NP	M
+28	NP	@card@
+here	RB	here
+looking	VBG	look
+for	IN	for
+a	DT	a
+genuine	JJ	genuine
+friend	NN	friend
+with	IN	with
+whom	WP	whom
+i	NP	i
+can	MD	can
+talk	VB	talk
+share	NN	share
+anything	NN	anything

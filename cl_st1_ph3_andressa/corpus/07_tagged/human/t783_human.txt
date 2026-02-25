@@ -1,0 +1,14 @@
+Noone	NP	Noone
+cares	VBZ	care
+about	IN	about
+me	PP	me
+.	SENT	.
+Noone	NP	Noone
+likes	VBZ	like
+me	PP	me
+.	SENT	.
+I	PP	I
+'m	VBP	be
+ugly	JJ	ugly
+.	SENT	.
+19m	NP	<unknown>

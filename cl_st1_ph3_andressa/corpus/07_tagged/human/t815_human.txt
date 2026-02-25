@@ -1,0 +1,10 @@
+I	PP	I
+wish	VBP	wish
+I	PP	I
+had	VBD	have
+somebody	NN	somebody
+to	TO	to
+share	VB	share
+this	DT	this
+moment	NN	moment
+with	IN	with

@@ -1,0 +1,15 @@
+I	PP	I
+feel	VBP	feel
+so	RB	so
+lonely	JJ	lonely
+that	IN	that
+it	PP	it
+hurts	VBZ	hurt
+.	SENT	.
+I	PP	I
+have	VBP	have
+no	DT	no
+one	CD	one
+and	CC	and
+nobody	NN	nobody
+cares	VBZ	care

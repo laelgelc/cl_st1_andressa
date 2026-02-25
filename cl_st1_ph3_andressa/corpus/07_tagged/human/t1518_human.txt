@@ -1,0 +1,16 @@
+I	PP	I
+feel	VBP	feel
+like	IN	like
+no	DT	no
+matter	NN	matter
+what	WP	what
+I	PP	I
+do	VBP	do
+,	,	,
+I	PP	I
+'m	VBP	be
+gonna	VBG	gonna
+be	VB	be
+alone	RB	alone
+for	IN	for
+good	JJ	good

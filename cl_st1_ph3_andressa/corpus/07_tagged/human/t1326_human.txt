@@ -1,0 +1,14 @@
+Merry	NP	Merry
+Christmas	NP	Christmas
+Everyone	NP	<unknown>
+let	NN	let
+’s	POS	's
+hope	NN	hope
+things	NNS	thing
+get	VBP	get
+better	JJR	good
+for	IN	for
+all	PDT	all
+of	IN	of
+us(	NN	<unknown>
+:	:	:

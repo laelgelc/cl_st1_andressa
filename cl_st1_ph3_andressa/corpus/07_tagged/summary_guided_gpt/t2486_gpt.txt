@@ -1,0 +1,17 @@
+He	PP	he
+turned	VBD	turn
+my	PP$	my
+world	NN	world
+into	IN	into
+isolation	NN	isolation
+;	:	;
+this	DT	this
+loneliness	NN	loneliness
+is	VBZ	be
+so	RB	so
+rough	JJ	rough
+,	,	,
+it	PP	it
+physically	RB	physically
+hurts	VBZ	hurt
+.	SENT	.

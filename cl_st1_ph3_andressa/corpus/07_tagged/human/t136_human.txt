@@ -1,0 +1,12 @@
+Chill	VB	chill
+discord	VB	discord
+made	VBN	make
+to	TO	to
+just	RB	just
+be	VB	be
+themselves	PP	themselves
+and	CC	and
+chat	VB	chat
+and	CC	and
+be	VB	be
+goofy	JJ	goofy

@@ -1,0 +1,16 @@
+I	PP	I
+do	VBP	do
+n’t	RB	n't
+want	VB	want
+deep	JJ	deep
+connection	NN	connection
+,	,	,
+just	RB	just
+someone	NN	someone
+to	TO	to
+quietly	RB	quietly
+be	VB	be
+lonely	JJ	lonely
+beside	IN	beside
+me	PP	me
+.	SENT	.

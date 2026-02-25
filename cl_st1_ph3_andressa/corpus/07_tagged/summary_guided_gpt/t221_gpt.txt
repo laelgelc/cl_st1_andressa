@@ -1,0 +1,17 @@
+What	WP	what
+do	VBP	do
+you	PP	you
+all	DT	all
+do	VBP	do
+to	TO	to
+keep	VB	keep
+yourselves	PP	yourselves
+busy	JJ	busy
+so	IN	so
+you	PP	you
+do	VBP	do
+n’t	RB	n't
+feel	VB	feel
+so	RB	so
+lonely	JJ	lonely
+?	SENT	?

@@ -1,0 +1,16 @@
+Everyone	NN	everyone
+thinks	VBZ	think
+I	PP	I
+’m	NN	<unknown>
+fine	NN	fine
+,	,	,
+but	CC	but
+I	PP	I
+feel	VBP	feel
+invisible	JJ	invisible
+and	CC	and
+unnecessary	JJ	unnecessary
+in	IN	in
+every	DT	every
+room	NN	room
+.	SENT	.

@@ -1,0 +1,16 @@
+I	PP	I
+’m	NN	<unknown>
+literally	RB	literally
+crying	VBG	cry
+right	RB	right
+now	RB	now
+because	IN	because
+I	PP	I
+messaged	VBD	<unknown>
+him	PP	him
+and	CC	and
+he	PP	he
+just	RB	just
+never	RB	never
+replied	VBN	reply
+.	SENT	.

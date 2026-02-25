@@ -1,0 +1,11 @@
+Are	VBP	be
+there	RB	there
+any	DT	any
+loners	NNS	loner
+out	IN	out
+there	RB	there
+looking	VBG	look
+for	IN	for
+a	DT	a
+friend	NN	friend
+?	SENT	?

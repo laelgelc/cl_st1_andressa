@@ -1,0 +1,13 @@
+fresh	JJ	fresh
+love	NN	love
+and	CC	and
+romance	NN	romance
+would	MD	would
+be	VB	be
+a	DT	a
+perfect	JJ	perfect
+way	NN	way
+to	TO	to
+enjoy	VB	enjoy
+that	DT	that
+holiday	NN	holiday

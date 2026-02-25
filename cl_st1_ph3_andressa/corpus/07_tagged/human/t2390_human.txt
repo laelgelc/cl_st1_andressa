@@ -1,0 +1,12 @@
+How	WRB	how
+many	JJ	many
+of	IN	of
+you	PP	you
+guys	VBZ	guy
+cope	VB	cope
+with	IN	with
+loneliness	NN	loneliness
+by	IN	by
+maladaptive	JJ	<unknown>
+daydreaming	VBG	daydream
+?	SENT	?

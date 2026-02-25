@@ -1,0 +1,17 @@
+Feeling	VBG	feel
+really	RB	really
+alone	RB	alone
+lately	RB	lately
+…	JJ	<unknown>
+anyone	NN	anyone
+want	VBP	want
+to	TO	to
+play	VB	play
+some	DT	some
+games	NNS	game
+together	RB	together
+to	TO	to
+pass	VB	pass
+the	DT	the
+time	NN	time
+?	SENT	?

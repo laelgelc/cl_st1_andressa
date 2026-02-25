@@ -1,0 +1,16 @@
+Feeling	VBG	feel
+a	DT	a
+bit	NN	bit
+lonely	JJ	lonely
+tonight	NN	tonight
+and	CC	and
+just	RB	just
+hoping	VBG	hope
+to	TO	to
+talk	VB	talk
+to	TO	to
+someone	NN	someone
+,	,	,
+anyone	NN	anyone
+really	RB	really
+.	SENT	.

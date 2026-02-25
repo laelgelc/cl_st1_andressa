@@ -1,0 +1,14 @@
+I	PP	I
+’m	NN	<unknown>
+more	JJR	more
+of	IN	of
+a	DT	a
+least	JJS	least
+favorite	JJ	favorite
+backup	NN	backup
+than	IN	than
+a	DT	a
+friend	NN	friend
+to	TO	to
+them	PP	them
+.	SENT	.

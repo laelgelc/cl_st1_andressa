@@ -1,0 +1,13 @@
+I	PP	I
+’m	NN	<unknown>
+just	RB	just
+here	RB	here
+alone	RB	alone
+in	IN	in
+this	DT	this
+cruel	JJ	cruel
+world	NN	world
+loveless	JJ	loveless
+and	CC	and
+heartbroken	JJ	heartbroken
+💔	NN	<unknown>

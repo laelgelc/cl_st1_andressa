@@ -1,0 +1,15 @@
+18+	JJ	<unknown>
+discussion	NN	discussion
+if	IN	if
+you	PP	you
+want	VBP	want
+.	SENT	.
+Im	NP	Im
+a	DT	a
+average	JJ	average
+joe	NN	joe
+into	IN	into
+amy	JJ	<unknown>
+fem	NN	<unknown>
+types	NNS	type
+.	SENT	.

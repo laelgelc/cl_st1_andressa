@@ -1,0 +1,17 @@
+Happy	NP	Happy
+Singles	NP	<unknown>
+Day	NP	Day
+to	TO	to
+all	DT	all
+my	PP$	my
+fellow	JJ	fellow
+lonely	JJ	lonely
+singles	NNS	single
+.	SENT	.
+Stay	VB	stay
+warm	JJ	warm
+tonight	NN	tonight
+and	CC	and
+binge	NN	binge
+Friends	NNS	friend
+.	SENT	.

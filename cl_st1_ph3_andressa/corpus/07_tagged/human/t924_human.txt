@@ -1,0 +1,15 @@
+I	PP	I
+do	VBP	do
+n't	RB	n't
+even	RB	even
+know	VB	know
+what	WP	what
+to	TO	to
+say	VB	say
+.	SENT	.
+I	PP	I
+just	RB	just
+feel	VBP	feel
+so	RB	so
+alone	RB	alone
+.	SENT	.

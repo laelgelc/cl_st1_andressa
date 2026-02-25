@@ -1,0 +1,12 @@
+I	PP	I
+’m	NN	<unknown>
+depressed	JJ	depressed
+and	CC	and
+lonely	JJ	lonely
+all	DT	all
+day	NN	day
+at	IN	at
+school	NN	school
+Someone	NN	someone
+plz	NN	<unknown>
+help	NN	help

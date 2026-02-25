@@ -1,0 +1,16 @@
+I	PP	I
+’m	NN	<unknown>
+surrounded	VBN	surround
+by	IN	by
+people	NNS	people
+daily	RB	daily
+yet	RB	yet
+feel	VB	feel
+like	IN	like
+a	DT	a
+ghost	NN	ghost
+no	DT	no
+one	CD	one
+really	RB	really
+sees	VBZ	see
+.	SENT	.

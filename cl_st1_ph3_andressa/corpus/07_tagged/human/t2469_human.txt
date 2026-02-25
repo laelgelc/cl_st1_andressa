@@ -1,0 +1,17 @@
+Every	DT	every
+conversation	NN	conversation
+always	RB	always
+ends	VBZ	end
+the	DT	the
+same	JJ	same
+and	CC	and
+it	PP	it
+makes	VBZ	make
+so	RB	so
+sad	JJ	sad
+cause	NN	cause
+I	PP	I
+'m	VBP	be
+so	RB	so
+very	RB	very
+lonely	JJ	lonely

@@ -1,0 +1,17 @@
+I	PP	I
+’m	NN	<unknown>
+so	RB	so
+exhausted	VBN	exhaust
+and	CC	and
+overwhelmed	VBN	overwhelm
+.	SENT	.
+I	PP	I
+do	VBP	do
+n’t	RB	n't
+even	RB	even
+know	VB	know
+what	WP	what
+to	TO	to
+do	VB	do
+anymore	RB	anymore
+.	SENT	.

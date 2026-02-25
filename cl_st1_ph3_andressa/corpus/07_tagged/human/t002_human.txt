@@ -1,0 +1,15 @@
+People	NNS	people
+need	VBP	need
+to	TO	to
+show	VB	show
+some	DT	some
+love	NN	love
+and	CC	and
+compassion	NN	compassion
+.	SENT	.
+I	PP	I
+am	VBP	be
+a	DT	a
+loner	NN	loner
+myself	PP	myself
+.	SENT	.

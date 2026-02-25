@@ -1,0 +1,17 @@
+If	IN	if
+any	DT	any
+of	IN	of
+ya	NP	Ya
+’ll	NN	<unknown>
+want	VBP	want
+to	TO	to
+chat	VB	chat
+,	,	,
+just	RB	just
+send	VB	send
+me	PP	me
+a	DT	a
+message	NN	message
+!	SENT	!
+:	:	:
+)	)	)

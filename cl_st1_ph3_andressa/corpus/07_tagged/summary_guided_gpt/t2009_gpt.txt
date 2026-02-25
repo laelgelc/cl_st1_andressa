@@ -1,0 +1,15 @@
+If	IN	if
+anyone	NN	anyone
+wants	VBZ	want
+to	TO	to
+chat	VB	chat
+or	CC	or
+vent	VB	vent
+,	,	,
+feel	VB	feel
+free	JJ	free
+to	TO	to
+message	NN	message
+me	PP	me
+anytime	RB	anytime
+.	SENT	.

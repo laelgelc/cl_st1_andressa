@@ -1,0 +1,15 @@
+This	DT	this
+is	VBZ	be
+my	PP$	my
+attempt	NN	attempt
+to	TO	to
+gather	VB	gather
+lonely	JJ	lonely
+people	NNS	people
+in	IN	in
+one	CD	one
+place	NN	place
+to	TO	to
+be	VB	be
+less	RBR	less
+lonely	JJ	lonely

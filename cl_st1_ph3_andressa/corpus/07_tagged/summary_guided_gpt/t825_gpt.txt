@@ -1,0 +1,17 @@
+I	CD	@card@
+’m	NN	<unknown>
+23	CD	@card@
+from	IN	from
+New	NP	New
+York	NP	York
+.	SENT	.
+Where	WRB	where
+are	VBP	be
+you	PP	you
+from	IN	from
+and	CC	and
+how	WRB	how
+old	JJ	old
+are	VBP	be
+you	PP	you
+?	SENT	?

@@ -1,0 +1,12 @@
+How	WRB	how
+am	VBP	be
+I	PP	I
+supposed	VBN	suppose
+to	TO	to
+socialize	VB	socialize
+when	WRB	when
+everyone	NN	everyone
+hardcore	JJ	hardcore
+hate	VBP	hate
+me	PP	me
+?	SENT	?

@@ -1,0 +1,14 @@
+I	PP	I
+’ve	VBP	have
+been	VBN	be
+playing	VBG	play
+a	DT	a
+lot	NN	lot
+of	IN	of
+BOTW	NN	<unknown>
+lately	RB	lately
+.	SENT	.
+What	WP	what
+about	IN	about
+you	PP	you
+?	SENT	?

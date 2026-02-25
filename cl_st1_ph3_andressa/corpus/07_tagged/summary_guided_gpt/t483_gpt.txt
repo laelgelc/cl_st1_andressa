@@ -1,0 +1,17 @@
+I	PP	I
+’m	NN	<unknown>
+tired	VBN	tire
+of	IN	of
+feeling	VBG	feel
+like	IN	like
+everyone	NN	everyone
+’s	POS	's
+backup	JJ	backup
+plan	NN	plan
+instead	RB	instead
+of	IN	of
+anyone	NN	anyone
+’s	POS	's
+real	JJ	real
+friend	NN	friend
+.	SENT	.

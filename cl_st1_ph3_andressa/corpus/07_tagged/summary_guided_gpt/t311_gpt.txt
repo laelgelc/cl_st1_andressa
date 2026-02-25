@@ -1,0 +1,17 @@
+I	PP	I
+’m	NN	<unknown>
+so	RB	so
+touch-starved	VBD	<unknown>
+lately	RB	lately
+,	,	,
+I	PP	I
+really	RB	really
+miss	VBP	miss
+simple	JJ	simple
+physical	JJ	physical
+contact	NN	contact
+like	IN	like
+hugs	NNS	hug
+and	CC	and
+massages	NNS	massage
+.	SENT	.

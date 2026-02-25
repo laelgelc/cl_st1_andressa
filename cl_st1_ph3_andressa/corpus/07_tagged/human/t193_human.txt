@@ -1,0 +1,17 @@
+I	PP	I
+am	VBP	be
+extremely	RB	extremely
+shy	JJ	shy
+to	TO	to
+say	VB	say
+much	RB	much
+so	RB	so
+here	RB	here
+’s	VBZ	be
+a	DT	a
+meme	JJ	<unknown>
+Hope	NP	Hope
+it	PP	it
+makes	VBZ	make
+you	PP	you
+smile	VBP	smile

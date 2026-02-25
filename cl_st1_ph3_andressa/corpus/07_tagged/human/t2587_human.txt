@@ -1,0 +1,13 @@
+I	PP	I
+got	VBD	get
+left	VBN	leave
+behind	IN	behind
+when	WRB	when
+I	PP	I
+tripped	VBD	trip
+and	CC	and
+no	DT	no
+one	CD	one
+waited	VBN	wait
+for	IN	for
+me	PP	me

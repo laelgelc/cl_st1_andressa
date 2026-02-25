@@ -1,0 +1,17 @@
+Anyone	NN	anyone
+else	RB	else
+feel	VBP	feel
+porn	NN	porn
+became	VBD	become
+a	DT	a
+lonely	JJ	lonely
+escape	NN	escape
+,	,	,
+endless	JJ	endless
+masturbation	NN	masturbation
+replacing	VBG	replace
+real	JJ	real
+connection	NN	connection
+and	CC	and
+intimacy	NN	intimacy
+?	SENT	?

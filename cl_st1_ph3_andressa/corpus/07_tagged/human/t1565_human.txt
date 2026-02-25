@@ -1,0 +1,10 @@
+M21	JJ	<unknown>
+anyone	NN	anyone
+down	RB	down
+to	TO	to
+chat	VB	chat
+i	NP	i
+could	MD	could
+use	VB	use
+a	DT	a
+friend	NN	friend

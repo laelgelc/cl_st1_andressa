@@ -1,0 +1,11 @@
+hey	UH	hey
+feelinh	NP	<unknown>
+a	DT	a
+little	JJ	little
+lonely	JJ	lonely
+would	MD	would
+love	VB	love
+to	TO	to
+speak	VB	speak
+to	TO	to
+someone	NN	someone

@@ -1,0 +1,14 @@
+My	PP$	my
+identity	NN	identity
+shifts	NNS	shift
+with	IN	with
+certain	JJ	certain
+people	NNS	people
+places	NNS	place
+or	CC	or
+situations	NNS	situation
+,	,	,
+but	CC	but
+I	PP	I
+feel	VBP	feel
+nothing	NN	nothing

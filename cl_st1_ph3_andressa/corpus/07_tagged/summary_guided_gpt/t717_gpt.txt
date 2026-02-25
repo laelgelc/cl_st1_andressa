@@ -1,0 +1,16 @@
+Feeling	VBG	feel
+really	RB	really
+lonely	JJ	lonely
+and	CC	and
+bored	VBN	bore
+lately	RB	lately
+,	,	,
+just	RB	just
+want	VBP	want
+someone	NN	someone
+to	TO	to
+talk	VB	talk
+to	TO	to
+about	IN	about
+anything	NN	anything
+.	SENT	.

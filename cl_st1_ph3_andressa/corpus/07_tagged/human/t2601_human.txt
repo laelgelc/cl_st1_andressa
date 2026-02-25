@@ -1,0 +1,15 @@
+What	WP	what
+do	VBP	do
+you	PP	you
+use	VBP	use
+(	(	(
+or	CC	or
+do	VBP	do
+n't	RB	n't
+)	)	)
+and	CC	and
+why	WRB	why
+?	SENT	?
+[	SYM	[
+View	NP	View
+Poll](https://www.reddit.com/poll/uk9wyw)	NP	<unknown>

@@ -1,0 +1,16 @@
+So	RB	so
+what	WP	what
+are	VBP	be
+my	PP$	my
+fellow	JJ	fellow
+loners	NNS	loner
+doing	VBG	do
+tonight	RB	tonight
+,	,	,
+I	PP	I
+might	MD	might
+read	VB	read
+a	DT	a
+William	NP	William
+Gibson	NP	Gibson
+novel	NN	novel

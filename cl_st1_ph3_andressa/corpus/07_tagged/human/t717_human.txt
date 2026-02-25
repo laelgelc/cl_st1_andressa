@@ -1,0 +1,10 @@
+Just	RB	just
+getting	VBG	get
+bored	JJ	bored
+need	NN	need
+someone	NN	someone
+to	TO	to
+talk	VB	talk
+feeling	VBG	feel
+lonely	JJ	lonely
+lol	NN	<unknown>

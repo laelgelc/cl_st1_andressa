@@ -1,0 +1,14 @@
+I	PP	I
+am	VBP	be
+so	RB	so
+bored	VBN	bore
+broken	VBN	break
+and	CC	and
+I	PP	I
+dont	VBP	<unknown>
+know	VB	know
+what	WP	what
+to	TO	to
+do	VB	do
+in	IN	in
+life	NN	life

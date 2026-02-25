@@ -1,0 +1,17 @@
+I	PP	I
+feel	VBP	feel
+completely	RB	completely
+alone	RB	alone
+,	,	,
+unloved	JJ	unloved
+and	CC	and
+heartbroken	JJ	heartbroken
+,	,	,
+like	IN	like
+this	DT	this
+cruel	JJ	cruel
+world	NN	world
+never	RB	never
+wanted	VBD	want
+me	PP	me
+.	SENT	.

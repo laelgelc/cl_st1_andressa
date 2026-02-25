@@ -1,0 +1,15 @@
+Wherever	WRB	wherever
+you	PP	you
+are	VBP	be
+,	,	,
+i	NNS	i
+wish	VBP	wish
+you	PP	you
+all	RB	all
+well	RB	well
+for	IN	for
+the	DT	the
+holidays	NNS	holiday
+.	SENT	.
+Stay	VB	stay
+strong	JJ	strong

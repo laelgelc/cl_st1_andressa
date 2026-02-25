@@ -1,0 +1,15 @@
+I	PP	I
+am	VBP	be
+Open	JJ	open
+to	TO	to
+be	VB	be
+a	DT	a
+good	JJ	good
+listener	NN	listener
+you	PP	you
+can	MD	can
+share	VB	share
+anything	NN	anything
+without	IN	without
+any	DT	any
+judgement	NN	judgement

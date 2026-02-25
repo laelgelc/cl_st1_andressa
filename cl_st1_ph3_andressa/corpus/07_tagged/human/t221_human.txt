@@ -1,0 +1,17 @@
+What	WP	what
+is	VBZ	be
+some	DT	some
+you	PP	you
+do	VBP	do
+to	TO	to
+keep	VB	keep
+yourself	PP	yourself
+busy	JJ	busy
+,	,	,
+so	RB	so
+not	RB	not
+to	TO	to
+feel	VB	feel
+so	RB	so
+lonely	JJ	lonely
+?	SENT	?

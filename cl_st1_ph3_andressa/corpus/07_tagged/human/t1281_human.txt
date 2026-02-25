@@ -1,0 +1,16 @@
+I	PP	I
+'m	VBP	be
+already	RB	already
+in	IN	in
+your	PP$	your
+fibre	NN	fibre
+optic	JJ	optic
+cable	NN	cable
+.	SENT	.
+The	DT	the
+universe	NN	universe
+scatters	NNS	scatter
+,	,	,
+I	PP	I
+gather	VBP	gather
+.	SENT	.

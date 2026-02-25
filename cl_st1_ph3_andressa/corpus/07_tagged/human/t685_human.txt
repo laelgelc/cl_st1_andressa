@@ -1,0 +1,12 @@
+If	IN	if
+you	PP	you
+are	VBP	be
+really	RB	really
+alone	RB	alone
+let	VB	let
+’s	VBZ	be
+play	VB	play
+some	DT	some
+games	NNS	game
+for	IN	for
+timepass	NN	<unknown>

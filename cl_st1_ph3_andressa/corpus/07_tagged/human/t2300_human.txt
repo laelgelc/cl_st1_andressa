@@ -1,0 +1,12 @@
+Just	RB	just
+want	VBP	want
+to	TO	to
+know	VB	know
+if	IN	if
+someone	NN	someone
+else	RB	else
+had	VBD	have
+ever	RB	ever
+felt	VBN	feel
+that	IN	that
+way	NN	way

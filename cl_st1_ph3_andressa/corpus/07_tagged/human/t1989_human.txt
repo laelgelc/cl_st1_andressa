@@ -1,0 +1,12 @@
+I	PP	I
+always	RB	always
+make	VBP	make
+them	PP	them
+a	DT	a
+priority	NN	priority
+...	:	...
+anyone	NN	anyone
+wanna	VB	wanna
+reciprocate	VB	reciprocate
+that	DT	that
+?	SENT	?

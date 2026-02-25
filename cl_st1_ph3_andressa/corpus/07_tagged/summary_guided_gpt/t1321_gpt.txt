@@ -1,0 +1,17 @@
+I	PP	I
+do	VBP	do
+n’t	RB	n't
+understand	VB	understand
+how	WRB	how
+love	NN	love
+became	VBD	become
+this	DT	this
+painful	JJ	painful
+.	SENT	.
+It	PP	it
+hurts	VBZ	hurt
+more	JJR	more
+than	IN	than
+being	VBG	be
+alone	RB	alone
+.	SENT	.

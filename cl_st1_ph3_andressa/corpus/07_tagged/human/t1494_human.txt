@@ -1,0 +1,13 @@
+does	VBZ	do
+anyone	NN	anyone
+else	RB	else
+use	VBP	use
+AI	NP	Ai
+to	TO	to
+fill	VB	fill
+the	DT	the
+void	NN	void
+in	IN	in
+their	PP$	their
+heart	NN	heart
+?	SENT	?

@@ -1,0 +1,13 @@
+pretty	RB	pretty
+much	RB	much
+that	DT	that
+'s	VBZ	be
+what	WP	what
+I	PP	I
+want	VBP	want
+I	PP	I
+hope	VBP	hope
+she	PP	she
+comes	VBZ	come
+soon	RB	soon
+🙁🙁🙁	JJ	<unknown>
