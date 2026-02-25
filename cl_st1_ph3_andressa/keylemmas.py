@@ -40,7 +40,7 @@ def ll(a, b, c, d):
     return 2 * ((a * math.log(a / E1)) + (b * math.log(b / E2)))
 
 
-def load_lemma_presence(base_dir):
+def load_lemma_presence(base_dir, *, label_prefix=""):
     """
     Load lemma presence for one subcorpus folder.
     Return:
@@ -55,7 +55,8 @@ def load_lemma_presence(base_dir):
             if not filename.endswith(".txt"):
                 continue
 
-            text_label = os.path.relpath(os.path.join(root, filename), base_dir)
+            rel = os.path.relpath(os.path.join(root, filename), base_dir)
+            text_label = os.path.join(label_prefix, rel) if label_prefix else rel
             all_texts.add(text_label)
             seen = set()
 
@@ -70,7 +71,7 @@ def load_lemma_presence(base_dir):
                     # keep only nouns, main verbs, adjectives
                     if not tag.startswith(VALID_TAG_PREFIXES):
                         continue
-                    
+
                     # If lemma is <unknown>, use the wordform
                     lemma = lemma.strip()
                     if lemma == "<unknown>" or not lemma:
@@ -130,7 +131,7 @@ def main():
 
     for folder in folders:
         subdir = os.path.join(base_dir, folder)
-        p, t = load_lemma_presence(subdir)
+        p, t = load_lemma_presence(subdir, label_prefix=folder)
 
         for lemma, texts in p.items():
             global_presence[lemma] |= texts
@@ -144,7 +145,7 @@ def main():
 
         target_dir = os.path.join(base_dir, folder)
 
-        target_presence, target_texts = load_lemma_presence(target_dir)
+        target_presence, target_texts = load_lemma_presence(target_dir, label_prefix=folder)
         comparison_texts = global_texts - target_texts
 
         comp_presence = defaultdict(set)
@@ -175,7 +176,7 @@ def main():
                 diff = 0.0
             else:
                 diff = 100 * (perA - perB) / ((perA + perB) / 2)
-            
+
             status = (
                 "POSKW" if LLv >= 3.84 and diff > 0 else
                 "NEGKW" if LLv >= 3.84 else
