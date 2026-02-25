@@ -1,8 +1,16 @@
-python summarise_posts.py \
+python summarise_posts_v1.py \
     --input corpus/02_extracted \
     --output corpus/03_summary \
     --model gpt-5.1 \
-    --workers 6
+    --workers 6 \
+    #--test 10
+
+python summarise_posts_v2.py \
+    --input corpus/02_extracted \
+    --output corpus/03_summary_test \
+    --model gpt-5.1 \
+    --workers 6 \
+    --test 10
 
 python build_prompts_generic.py
 

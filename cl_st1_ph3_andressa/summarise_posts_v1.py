@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """
-summarise_posts.py
+summarise_posts_v1.py
 
 Reads .txt posts structured in paragraphs and prompts GPT to summarise them.
 
 Usage:
-    python summarise_posts.py \
+    python summarise_posts_v1.py \
         --input input_folder \
         --output output_folder \
         --model gpt-5.1 \
