@@ -8,7 +8,7 @@ key-lemma tables produced upstream (e.g., by `keylemmas.py`).
 What it does
 ------------
 1) Reads every `*.txt` key-lemma file in `corpus/08_keylemmas/` (one file per
-   stratum/subcorpus, e.g., `human.txt`, `gpt.txt`, ...).
+   stratum/subcorpus, e.g., `human.txt`, `generic_gpt.txt`, `summary_guided_gpt.txt`).
 2) Extracts lemmas whose final column is `POSKW`, applying additional filters:
    - drop lemmas containing Unicode punctuation
    - drop lemmas containing any digits
@@ -17,8 +17,8 @@ What it does
    - each non-human stratum: at most `--ceiling` lemmas
    - `human`: at most `--ceiling * --human-weight` lemmas
    Selection preserves the original file order (i.e., top-ranked first).
-4) Builds a consolidated list in a priority order:
-   human → persona_* (and other non-plain strata) → plain_*
+4) Builds a consolidated list in a priority order tailored to this project:
+   human → summary_guided_* → (other strata) → generic_*
    Truncates the consolidated list to `--max-total` (before de-duplication).
 5) Writes outputs to `corpus/09_kw_selected/`:
    - one file per stratum: `<stratum>.txt`
@@ -128,19 +128,19 @@ def main():
         print(f"{name:<15} → selected {len(chosen)}/{quota} keywords")
 
     # Build consolidated list in priority order
-    # priority: human → persona_* (and others) → plain_*
+    # priority: human → summary_guided_* → (others) → generic_*
 
     human_key = ["human"] if "human" in strata else []
-    persona_keys = sorted([s for s in strata if s.startswith("persona_")])
-    plain_keys = sorted([s for s in strata if s.startswith("plain_")])
+    summary_guided_keys = sorted([s for s in strata if s.startswith("summary_guided_")])
+    generic_keys = sorted([s for s in strata if s.startswith("generic_")])
 
-    # Identify any remaining files (e.g. "gpt", "gemini") and treat them as persona-level
+    # Any remaining files (e.g., model names) are treated as "other"
     other_keys = sorted([
         s for s in strata
-        if s not in set(human_key + persona_keys + plain_keys)
+        if s not in set(human_key + summary_guided_keys + generic_keys)
     ])
 
-    ordered_strata = human_key + persona_keys + other_keys + plain_keys
+    ordered_strata = human_key + summary_guided_keys + other_keys + generic_keys
 
     for s in ordered_strata:
         consolidated.extend(selected_by_stratum[s])

@@ -23,10 +23,6 @@ VALID_TAG_PREFIXES = ("NN", "NP", "VV", "AJ")
 #    "gruff", "*the", "ed", "martha", "chloe", "*so", "*you", "*so*", "*you*", "*not*", "edith", "doorbell", "michael", "recorded", "attempt", "request"
 #}
 
-#STOPWORDS = {
-#    "david", "james", "john", "morgan"
-#}
-
 STOPWORDS = {
 
 }
