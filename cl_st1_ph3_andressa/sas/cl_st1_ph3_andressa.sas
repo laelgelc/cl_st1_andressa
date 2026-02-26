@@ -12,7 +12,7 @@
 options fmtsearch=(work library);
 
 /* enter number of factors to extract */
-%let extractfactors = 4 ;
+%let extractfactors = 6 ;
 
 %let factorvars = fac1-fac&extractfactors ;
 
@@ -37,15 +37,15 @@ DATA &project;
 
   LENGTH
       filename      $7
-      prompt  $10      /* plain / persona / human */
-      model   $20      /* gpt, grok, gemini, human */
+      prompt  $15      /* generic / summary_guided / human */
+      model   $20      /* gpt, human */
       source  $5       /* ai / human */
       v000001 - v000140 3
   ;
 
   INPUT
       filename      :$7.
-      prompt  :$10.
+      prompt  :$15.
       model   :$20.
       source  :$5.
       v000001 - v000140
