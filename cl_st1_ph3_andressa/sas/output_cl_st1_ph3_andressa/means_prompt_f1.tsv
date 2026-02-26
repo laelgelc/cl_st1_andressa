@@ -1,0 +1,4 @@
+Effect	prompt	N	Mean fac1	SD fac1
+prompt	generic	2855	13.9996497	9.39171308
+prompt	human	2787	6.1593111	4.31175899
+prompt	summary_guided	2826	7.7533616	5.43873661

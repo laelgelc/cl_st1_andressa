@@ -1,0 +1,4 @@
+Effect	group	N	Mean fac3	SD fac3
+group	generic_gpt	2855	0.05814361	0.52423674
+group	human	2787	0.98780050	1.20175530
+group	summary_guided_gpt	2826	0.96673744	1.18678167
