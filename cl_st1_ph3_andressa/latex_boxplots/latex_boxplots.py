@@ -141,25 +141,25 @@ def generate_mosaic(suffix: str, caption: str):
 
     mos = [r"\begin{figure}[ht]", r"\centering"]
 
-    # top row dims 1–4
-    for i in range(4):
+    # top row: render whatever we have (up to 4)
+    for i in range(min(4, len(blocks))):
         mos += [
             r"\begin{minipage}[t]{0.24\textwidth}",
             r"\centering",
             blocks[i],
             r"\end{minipage}\hfill",
         ]
-#    mos.append(r"\bigskip")
-#
-#    # bottom row dims 5–7
-#    for i in range(4,7):
-#        spacer = r"\hfill" if i < 6 else ""
-#        mos += [
-#            r"\begin{minipage}[t]{0.32\textwidth}",
-#            r"\centering",
-#            blocks[i],
-#            r"\end{minipage}" + spacer,
-#        ]
+    #    mos.append(r"\bigskip")
+    #
+    #    # bottom row dims 5–7
+    #    for i in range(4,7):
+    #        spacer = r"\hfill" if i < 6 else ""
+    #        mos += [
+    #            r"\begin{minipage}[t]{0.32\textwidth}",
+    #            r"\centering",
+    #            blocks[i],
+    #            r"\end{minipage}" + spacer,
+    #        ]
 
     mos += [
         f"\\caption{{{caption}}}",
@@ -169,6 +169,7 @@ def generate_mosaic(suffix: str, caption: str):
 
     out_path = OUTPUT_DIR / f"mosaic_{suffix}.tex"
     out_path.write_text("\n".join(mos), encoding="utf-8")
+
 
 def main():
     df = pd.read_csv(INPUT_FILE, sep="\t")
@@ -209,7 +210,7 @@ def main():
     generate_mosaic('by_source', "Mean Dim. Scores by Source")
     generate_mosaic('by_model',  "Mean Dim. Scores by Model")
     generate_mosaic('by_prompt', "Mean Dim. Scores by Prompt")
-    generate_mosaic('by_group',  "Mean Dim. Scores by Group")
+    # generate_mosaic('by_group',  "Mean Dim. Scores by Group")
 
     print(f"All boxplots & mosaics saved to {OUTPUT_DIR.resolve()}")
 
