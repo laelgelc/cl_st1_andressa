@@ -1,0 +1,2 @@
+variables loading on this pole = 1
+(script (-.31))

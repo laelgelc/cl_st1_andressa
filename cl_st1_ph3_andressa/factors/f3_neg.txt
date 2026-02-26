@@ -1,0 +1,2 @@
+variables loading on this pole = 5
+notification (-.87), weather (-.75), (phone (-.32)), (acquaintance (-.31)), (scroll (-.31))

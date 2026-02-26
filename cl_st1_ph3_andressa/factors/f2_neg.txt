@@ -1,0 +1,2 @@
+variables loading on this pole = 12
+script (-1.04), gap (-.71), noise (-.61), role (-.52), errand (-.51), mix (-.41), (window (-.35)), emptiness (-.32), (glass (-.32)), (acquaintance (-.31)), (conversation (-.31)), (people (-.31))

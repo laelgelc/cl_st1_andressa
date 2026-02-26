@@ -1,0 +1,2 @@
+variables loading on this pole = 2
+notification (-.87), weather (-.75)

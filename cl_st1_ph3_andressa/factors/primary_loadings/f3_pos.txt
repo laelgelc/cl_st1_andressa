@@ -1,0 +1,2 @@
+variables loading on this pole = 15
+health (.84), depression (.73), issue (.64), pain (.62), anxiety (.60), top (.59), support (.56), fact (.43), year (.40), lot (.38), relationship (.38), love (.35), idea (.34), problem (.34), situation (.34)
