@@ -12,7 +12,7 @@
 options fmtsearch=(work library);
 
 /* enter number of factors to extract */
-%let extractfactors = 6 ;
+%let extractfactors = 3 ;
 
 %let factorvars = fac1-fac&extractfactors ;
 
