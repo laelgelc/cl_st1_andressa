@@ -1,0 +1,7 @@
+\babel@toc {american}{}\relax 
+\contentsline {section}{\numberline {1}POS Dim 1}{1}{section.1}%
+\contentsline {section}{\numberline {2}NEG Dim 1}{20}{section.2}%
+\contentsline {section}{\numberline {3}POS Dim 2}{24}{section.3}%
+\contentsline {section}{\numberline {4}NEG Dim 2}{39}{section.4}%
+\contentsline {section}{\numberline {5}POS Dim 3}{50}{section.5}%
+\contentsline {section}{\numberline {6}NEG Dim 3}{66}{section.6}%

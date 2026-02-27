@@ -136,12 +136,17 @@ def annotate_text(text_path: Path, primary_lemmas: set):
 # LOCATE TEXT FILE BASED ON GROUP
 # =============================================================================
 def locate_text(row):
-    fname = id_map.get(row["filename"])
-    if not fname:
+    rel = id_map.get(row["filename"])
+    if not rel:
         return None
 
-    group_folder = row["group"]
-    return BASE / group_folder / fname
+    p = BASE / rel
+    if p.exists():
+        # file_ids.txt already includes the subfolder, e.g. "generic_gpt/t001_gpt.txt"
+        return p
+
+    # fallback: old behavior if mapping is only a filename
+    return BASE / row["group"] / rel
 
 # =============================================================================
 # SELECT EXAMPLES
