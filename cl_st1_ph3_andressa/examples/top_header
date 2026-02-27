@@ -3,10 +3,12 @@
 \usepackage[american]{babel} %the last language is the default language!
 \usepackage[useregional]{datetime2}
 
-% Font & encoding
-\usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
-\usepackage{lmodern}
+% Font setup for LuaLaTeX (Unicode)
+\usepackage{fontspec}
+\setmainfont{DejaVu Serif}
+
+% Emoji font (install "fonts-noto-color-emoji" on Ubuntu if missing)
+\newfontfamily\EmojiFont{Noto Color Emoji}[Renderer=Harfbuzz]
 
 % Page layout
 \usepackage[margin=1in]{geometry}
@@ -54,9 +56,6 @@
 % Citations
 %\usepackage[normalem]{ulem}  % for underlining
 \usepackage[natbibapa]{apacite}
-% \usepackage[style=apa,backend=biber]{biblatex}
-% \DeclareLanguageMapping{english}{english-apa}
-% \addbibresource{/Users/tony/Dropbox/Bibtex/tony.bib}
 
 % Verbatim
 \usepackage{fancyvrb}  % for centered verbatim blocks
@@ -88,4 +87,3 @@
 \date{\small\textit{Version of \DTMnow}}
 
 \usepackage[colorlinks=true,linkcolor=blue]{hyperref}
-
