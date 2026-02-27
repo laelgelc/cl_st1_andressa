@@ -6,7 +6,7 @@ Generate LaTeX ANOVA tables for:
     prompt
     group
 
-Each table lists F, p, R², and percent R² for dimensions 1–7.
+Each table lists F, p, R², and percent R² for each available factor dimension.
 
 Reads (per dim):
     anova_<cond>_f<n>.tsv
@@ -17,6 +17,7 @@ Writes:
 """
 
 import csv
+import re
 import pandas as pd
 from pathlib import Path
 
@@ -24,9 +25,8 @@ INPUT_DIR  = Path('sas/output_cl_st1_ph3_andressa')
 OUTPUT_DIR = Path('latex_tables')
 OUTPUT_DIR.mkdir(exist_ok=True, parents=True)
 
-# -------------------------------------------------------------------
-# CONDITIONS UPDATED
-# -------------------------------------------------------------------
+SCORES_ONLY = INPUT_DIR / "cl_st1_ph3_andressa_scores_only.tsv"
+
 CONDITIONS = [
     ('Source', 'anova_source_f{dim}.tsv', 'params_source_f{dim}.tsv', 'anova_source.tex'),
     ('Model',  'anova_model_f{dim}.tsv',  'params_model_f{dim}.tsv',  'anova_model.tex'),
@@ -34,13 +34,14 @@ CONDITIONS = [
     ('Group',  'anova_group_f{dim}.tsv',  'params_group_f{dim}.tsv',  'anova_group.tex'),
 ]
 
-# -------------------------------------------------------------------
+
 def read_rsquare(path: Path) -> float:
     """Read RSquare from first row of a TSV file."""
     with path.open(newline='') as f:
         reader = csv.DictReader(f, delimiter='\t')
         rows = list(reader)
     return float(rows[0]['RSquare']) if rows else 0.0
+
 
 def format_rsquare(rs: float):
     """Return R² without leading zero + percent."""
@@ -49,19 +50,23 @@ def format_rsquare(rs: float):
         actual = actual[1:]
     return actual, f"{rs*100:.2f}"
 
-# -------------------------------------------------------------------
-def make_table(cond_name, anova_pat, params_pat, out_filename):
+
+def detect_dims() -> list[int]:
+    df = pd.read_csv(SCORES_ONLY, sep="\t", nrows=1)
+    fac_cols = [c for c in df.columns if re.fullmatch(r"fac\d+", str(c))]
+    dims = sorted({int(str(c)[3:]) for c in fac_cols})
+    if not dims:
+        raise RuntimeError(f"No fac<n> columns found in {SCORES_ONLY}")
+    return dims
+
+
+def make_table(cond_name, anova_pat, params_pat, out_filename, dims: list[int]):
     rows = []
 
-    #for dim in range(1, 8):
-    for dim in range(1, 4):
-        # ------------------------------
-        # Load ANOVA TSV
-        # ------------------------------
+    for dim in dims:
         anova_file = INPUT_DIR / anova_pat.format(dim=dim)
         df = pd.read_csv(anova_file, sep='\t')
 
-        # SAS stores the tested effect under column "Source"
         target = cond_name.lower()
         sel = df[(df["HypothesisType"] == 1) &
                  (df["Source"].str.lower() == target)]
@@ -73,17 +78,11 @@ def make_table(cond_name, anova_pat, params_pat, out_filename):
         F_val = row["FValue"]
         p_val = row["ProbF"]
 
-        # ------------------------------
-        # Load R²
-        # ------------------------------
         rs = read_rsquare(INPUT_DIR / params_pat.format(dim=dim))
         r2_act, r2_pct = format_rsquare(rs)
 
         rows.append((dim, F_val, p_val, r2_act, r2_pct))
 
-    # ------------------------------
-    # Write LaTeX table
-    # ------------------------------
     out_path = OUTPUT_DIR / out_filename
     with out_path.open('w', encoding='utf-8') as f:
         f.write("\\begin{table}[H]\n")
@@ -100,10 +99,12 @@ def make_table(cond_name, anova_pat, params_pat, out_filename):
         f.write("  \\end{tabular}\n")
         f.write("\\end{table}\n")
 
-# -------------------------------------------------------------------
+
 def main():
+    dims = detect_dims()
     for cond_name, anova_pat, params_pat, out_fn in CONDITIONS:
-        make_table(cond_name, anova_pat, params_pat, out_fn)
+        make_table(cond_name, anova_pat, params_pat, out_fn, dims)
+
 
 if __name__ == "__main__":
     main()
