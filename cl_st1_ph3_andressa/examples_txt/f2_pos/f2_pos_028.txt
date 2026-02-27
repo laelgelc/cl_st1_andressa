@@ -1,10 +1,12 @@
-Text ID: t001022
-Group: generic_gpt
+Text ID: t006561
+Group: summary_guided_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t1022_gpt.txt
+File:   corpus/05_summary_guided_gpt/t1683_gpt.txt
 
-Score (f2_pos): 1
-Loading words (f2_pos), N=1: house
+Score (f2_pos): 5
+Loading words (f2_pos), N=5: mom, parent, house, experience, school
+I’m 24 and I feel like my whole life has been lived in a bubble I never chose. My parents were so overprotective that I basically grew up without friends. No sleepovers, no hanging out after school, barely any contact with people my age. Now I’m an adult with no real-life friendship experience and almost no social skills, and it feels like I was never allowed to even try.
 
-I’m starting to feel like I’ve forgotten how to be around people. I have acquaintances, coworkers, people I nod to, but no one I can text without overthinking every word. I watch friendships happen around me like I’m behind glass. I’m scared I’ve missed the window where people form their “real” connections and now everyone’s already taken. I keep wondering if it’s my personality, my face, my energy—something fundamentally off that people sense and quietly avoid.
+I still live at home because my parents are old and constantly sick. The house feels more like a hospital than a home. My mom unloads all her worries and problems on me, and every time I try to think about leaving or changing something, she shuts it down. I’m starting to resent her for it, but then I feel guilty because they did give me food, shelter, all the “basics.”
+
+My hobbies, my ambitions, everything I used to care about has just…faded. I’m ashamed of where I live, ashamed of how behind I am, and I’m so, so lonely. I don’t want advice, I just needed to say this somewhere.

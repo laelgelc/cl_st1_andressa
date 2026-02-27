@@ -1,10 +1,8 @@
 Text ID: t004628
 Group: human
 Model: human
-Folder: corpus/05_human
-File:   t2521_human.txt
+File:   corpus/05_human/t2521_human.txt
 
 Score (f1_neg): 1
 Loading words (f1_neg), N=1: f2 score: 0
-
 26m from Orlando, my interests right now are just gaming, Learning to Code, biking, and the gym. Other than that, I'm pretty lame, but I can keep a conversation for sure. Feel free to DM

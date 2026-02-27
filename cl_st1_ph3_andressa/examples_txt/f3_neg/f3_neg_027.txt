@@ -1,22 +1,8 @@
-Text ID: t004415
-Group: human
-Model: human
-Folder: corpus/05_human
-File:   t2328_human.txt
+Text ID: t007319
+Group: summary_guided_gpt
+Model: gpt
+File:   corpus/05_summary_guided_gpt/t2372_gpt.txt
 
 Score (f3_neg): -1
-Loading words (f3_neg), N=1: weather
-
-I've been feeling pretty shitty again. This is just a post to kinda write about how I feel and maybe someone just wants to talk? 
-
-Life comes with ups and downs, I'm in the down period agian. I feel lonely, empty, cold. I just want a warm feeling, a nice compliment, just a nice conversation. 
-
-I feel like doing nothing at all but I'm also bored. Everything feels suffocating. I fockin hate this.
-
-The weather's down aswell so that doesn't help either. 
-
-I just miss certain times and certain people. 
-
-This post is going from one thing to the other, sorry. I'm just writing what's in my mind. 
-
-Anyone wants to have a nice conversation? Maybe we can be online friends! I do play some PC games so maybe game buddies?
+Loading words (f3_neg), N=1: notification
+I feel so lonely lately that my phone is basically just a clock. Days go by without any real notifications or messages. It sounds pathetic, but I keep wishing there was an app that would send fake social media notifications and messages throughout the day, just so I could feel like I’m part of something. Even if it was all simulated, I think those little artificial “dopamine hits” might make this crushing emptiness a bit more bearable. I hate that I’m desperate enough to want that.

@@ -1,12 +1,10 @@
 Text ID: t003007
 Group: human
 Model: human
-Folder: corpus/05_human
-File:   t1048_human.txt
+File:   corpus/05_human/t1048_human.txt
 
 Score (f2_pos): 6
 Loading words (f2_pos), N=6: guy, fun, parent, girl, house, school
-
 I moved out of my family house at 15. I turned 17 a few months ago and didn’t celebrate my birthday. I get by with around 300$ a month, all my bills are paid for by my parents, they just let me move out. 
 
 I have never had any friends really. Not real friends and that was okay to me. I always explained it as I wasn’t a friend type of person. But I had an acquaintance with this one girl who was really nice to me. She hated all my opinions And I hated hers but somehow we could have conversations when we wanted to which would be once a week normally. But this semester of school I don’t get to see her like at all. 

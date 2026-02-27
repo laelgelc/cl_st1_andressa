@@ -1,10 +1,18 @@
-Text ID: t002632
-Group: generic_gpt
+Text ID: t007919
+Group: summary_guided_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t2632_gpt.txt
+File:   corpus/05_summary_guided_gpt/t353_gpt.txt
 
-Score (f3_pos): 3
-Loading words (f3_pos), N=3: year, lot, relationship
+Score (f3_pos): 7
+Loading words (f3_pos), N=7: issue, pain, top, year, relationship, idea, problem
+I don’t even know where to start. I feel completely trapped and alone.
 
-I’m starting to realize I don’t actually know how to connect with people anymore. I can make small talk, I can be “pleasant,” but everything feels like I’m acting out a script I memorized years ago. When conversations end, no one really knows me any better, and I don’t know them either. My phone is always silent unless I message first, and even then replies feel delayed or forced. I’m surrounded by people and still feel like a background character in my own life.
+I’m married with kids and I’m seriously considering divorce, but I have almost nothing. I make about $300 every two weeks, I have nowhere to go with my children, and I have untreated medical issues that make it hard to work, but also somehow I’m “not sick enough” to qualify for disability. It feels like I’m stuck in this tiny, suffocating box with no doors.
+
+For 12 years his friends and family have treated me like garbage. They talk down to me, ignore me, or act like I’m the problem, and he never, ever defends me. Recently he literally yelled at me just for talking to one of his friends, then threw a can at me. His friends said he “did nothing wrong.” He hasn’t hit me, but he’s punched holes in walls and doors. I feel constantly on edge, waiting for the next outburst.
+
+On top of that, he’s been lying to everyone about our relationship. He told his friends we had an “open marriage” and that it was my idea, and that it was basically all for my benefit. In reality, he was cheating on me with multiple women, even when I was pregnant. The “open” thing only came up so he wouldn’t have to hide it anymore. I only tried seeing someone myself last year, after he finally “allowed” it, and somehow his friends still blamed me.
+
+I never really wanted to marry him. I said as much back then, but my family approved of the marriage and kind of pushed it, even when I had my doubts. Now here I am, years later, feeling like a burden to everyone, like I ruined my own life and my kids’ lives.
+
+I’m severely depressed. I don’t have anyone I can really talk to in my real life. I feel invisible, like my pain doesn’t matter to anyone. I don’t even know what I’m hoping for by posting this. Maybe I just needed to say it somewhere.

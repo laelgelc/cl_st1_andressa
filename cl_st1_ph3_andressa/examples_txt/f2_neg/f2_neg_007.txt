@@ -1,14 +1,8 @@
 Text ID: t002345
 Group: generic_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t2345_gpt.txt
+File:   corpus/05_generic_gpt/t489_gpt.txt
 
 Score (f2_neg): -3
 Loading words (f2_neg), N=3: script, errand, emptiness
-
-I’ve been feeling this weird mix of invisible and “too much” at the same time. I have people around me—coworkers, a few acquaintances—but I don’t feel known by anyone. Most conversations stay on the surface: work, weather, memes. I laugh along, but it feels like I’m playing a character I don’t even like.
-
-What gets to me is how constant it is. I can go an entire week without a single genuine check-in from anyone. My phone only lights up for group chats or random notifications. When I try to open up, I feel like I’m oversharing or making things awkward, so I pull back again.
-
-Nights are the worst. I replay old conversations, wonder what’s wrong with me, and then wake up exhausted to repeat the same pattern. It’s like living behind glass.
+Lately I feel like I’m fading out of my own life. I go through the motions—work, errands, scrolling on my phone—but there’s this constant emptiness, like I’m watching someone else live instead of actually living. I have people around me, but the conversations feel shallow, like we’re all reading from scripts. I try to reach out, then overthink every message and end up deleting it. I’m scared I’m becoming that person no one really notices unless I’m needed for something. The silence when my phone doesn’t light up actually feels loud. I don’t even know what I’m hoping for by writing this.

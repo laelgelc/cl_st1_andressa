@@ -1,10 +1,8 @@
 Text ID: t003811
 Group: human
 Model: human
-Folder: corpus/05_human
-File:   t1779_human.txt
+File:   corpus/05_human/t1779_human.txt
 
 Score (f1_neg): 1
 Loading words (f1_neg), N=1: f2 score: 1
-
 growing up I always seen my parents fight and fight and keep fighting nowdays I feel lonley most of the day but it got worst I'm mentally ill to the point of breaking I'm broken too I don't know I always feel lonely

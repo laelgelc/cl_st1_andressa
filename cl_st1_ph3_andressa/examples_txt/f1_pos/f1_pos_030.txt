@@ -1,16 +1,20 @@
-Text ID: t003896
-Group: human
-Model: human
-Folder: corpus/05_human
-File:   t1856_human.txt
+Text ID: t008121
+Group: summary_guided_gpt
+Model: gpt
+File:   corpus/05_summary_guided_gpt/t555_gpt.txt
 
-Score (f1_pos): 20
-Loading words (f1_pos), N=20: group, couple, people, talk, something, day, everyone, person, time, thing, circle, end, while, everything, place, moment, connection, week, feeling, loneliness
+Score (f1_pos): 24
+Loading words (f1_pos), N=24: group, life, fine, home, outside, people, talk, something, message, day, everyone, person, family, time, anyone, kind, someone, end, while, everything, place, edge, friend, conversation
+I ended a long-term relationship a little while ago, and I feel like I lost everything in one go. He wasn’t just my boyfriend, he was my best friend, my emotional support, the one person I could actually talk to and feel safe with. In a life and household that already felt heavy and difficult, he was kind of the only light. Now that he’s gone, it feels like someone switched that light off and I’m just stumbling around in the dark.
 
-I’ve been sitting with this feeling for a while, so I figured I’d put it somewhere people might understand. Especially because I feel like this feeling is only getting worse.
+I don’t really have anyone I can turn to now. I can’t have normal conversations with my family, let alone talk to them about how I feel. It just doesn’t feel possible or safe to seek comfort from them. So I keep it all inside and pretend I’m fine.
 
-I often feel much older in my soul than I actually am, and it makes it hard to connect with people my age. My passions lean toward things like aviation, history, and maritime topics, every couple weeks or so, there's something specific I hyperfixate on when it comes to learning about it and it's all I focus on. my current hyperfixation is Sutra Baths. Very niche, I understand.
+Outside of that, I basically only have two people in my life. One friend I bonded with because we were both in relationships, but now we barely see each other or talk. The other friend hardly replies anymore and has become really distant. I can feel them both slipping away and I don’t know how to stop it.
 
-These are very specific worlds that most of my peers just aren’t into. I get that these interests aren’t exactly mainstream, and I don’t expect everyone around me to share them. But sometimes that disconnect spills into simpler things too. I’ll want to spend an entire day just walking along the ocean, listening to the waves, watching the horizon, thinking about ships, time, and everything in between. I crave slow, reflective moments like that, and it often feels like I’m the only one in my circle who does.
+I’m in university, and everyone always talks about this being “the time of your life,” but it doesn’t feel like that for me at all. I’ve always struggled to make and keep friends. I feel awkward and not very social, like I’m just fundamentally bad at this. It feels like it takes a very specific kind of person to tolerate me long term, and those people are rare.
 
-I’ve tried to build connections online with people who share these interests, but those relationships rarely feel mutual. I’m usually the one reaching out, initiating, and keeping things going, and eventually I just end up feeling more alone than before. I always tell people I do much better in person. I hate falling into the pattern of connecting briefly, talking for a few weeks and then the falling out.  I just want to feel understood, or at least less out of place in my own age group. I’m trying to accept that I’m wired differently, but some days the loneliness still hits hard.
+I have tried to be open and start conversations at uni. Sometimes it seems to go okay at first, but then it just… fizzles out. People don’t follow up, don’t message, or even avoid sitting next to me. I don’t know what I’m doing wrong, or if there’s just something about me that puts people off.
+
+Most days I just go to class, sit alone, eat lunch alone, and go home alone. Sometimes I go an entire day barely speaking to anyone, maybe just a quick comment here or there. I feel like a ghost walking around campus, watching everyone else form groups, laugh, and make memories while I just exist on the edges.
+
+I feel out of place and I keep asking myself what the point of being there even is, when I’m just so lonely all the time.

@@ -1,16 +1,12 @@
 Text ID: t002380
 Group: generic_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t2380_gpt.txt
+File:   corpus/05_generic_gpt/t524_gpt.txt
 
 Score (f2_neg): -3
 Loading words (f2_neg), N=3: noise, mix, emptiness
+I’ve been feeling this weird mix of invisible and too visible at the same time. Invisible because no one really checks in, too visible because I’m hyper-aware of how alone I look when I’m out by myself. I scroll through chats that went dead months ago, hover over the message box, then close it because I don’t want to seem needy or awkward.
 
-I’ve hit this weird point where I’m surrounded by people but feel like I’m behind glass.
+I’m surrounded by people at work, online, in public, but it all feels like background noise. Surface-level small talk, nothing deeper. I can’t tell if I’ve forgotten how to connect or if people just don’t want to.
 
-I have coworkers, acquaintances, even a couple of people I’d technically call friends, but I never feel like I’m actually “with” anyone. Conversations skim the surface: work, shows, random jokes. The second I try to say something real, I feel like I’m making things awkward, so I back off and go back to nodding and smiling.
-
-Nights are the worst. The silence feels heavy. I scroll through chats I’m too afraid to start, because I don’t want to be the annoying one who always reaches out. Then I tell myself, “If they wanted to talk, they’d message first,” and that just makes the loneliness feel like proof that I don’t matter much to anyone.
-
-I keep wondering what’s wrong with me that I can’t seem to connect the way everyone else does.
+Nights are the worst. It’s like everything slows down enough that the emptiness gets louder. I keep thinking, “Is this it? Is this just how my life is going to be?”

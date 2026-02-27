@@ -1,12 +1,10 @@
 Text ID: t003644
 Group: human
 Model: human
-Folder: corpus/05_human
-File:   t1627_human.txt
+File:   corpus/05_human/t1627_human.txt
 
 Score (f3_pos): 6
 Loading words (f3_pos), N=6: issue, pain, support, fact, year, love
-
 I never really had issues making friends in high school and uni. Nor do I consider myself to be shy. But now in my adulthood, I just…struggle to connect. I’m 30 and have no one. I used to have a bunch of online friendships, like real fucking deep connections. They’re all gone now. Even though I’m astonishingly self-critical, with therapy I’ve come to realize I’m not to blame. In fact, most of these falling outs were not set off by me. But it doesn’t mean I’m not hurt. 
 
 Anyway, I live with my folks, and I’m doing what I can to open a coffee shop at home soon. 

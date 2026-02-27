@@ -1,10 +1,18 @@
-Text ID: t003760
-Group: human
-Model: human
-Folder: corpus/05_human
-File:   t1732_human.txt
+Text ID: t007291
+Group: summary_guided_gpt
+Model: gpt
+File:   corpus/05_summary_guided_gpt/t2347_gpt.txt
 
 Score (f3_neg): -1
 Loading words (f3_neg), N=1: weather
+I’m a first-year student and I feel like I’ve somehow managed to be completely alone on a campus of over 40,000 people.
 
-It’s been a while since I’ve hung out with anyone. I’ve come across some cool people on here but I wish I’d meet people from nyc who were down to chat and hangout but not rn only when the weather gets better. Some of the online friends I have live in further parts of ny so I never get to see em which is why I spend most of my time in the house cause there’s really no point in going out if I have no one to hang with. Ik some people will being happy comes from within but I’ve already tried that and it’s gotten me nowhere.
+I came here far from home only knowing two people, and I’ve cut ties with both of them for various reasons. That already makes me feel like something is wrong with me. It’s been six months and I still haven’t made any real friends. Every time I try to talk to people, I get this overwhelming feeling that they’re disgusted by me or just want me to go away. I can’t tell if that’s actually true or just in my head, but it’s enough to make me shut down.
+
+I tried to be proactive. I applied to a bunch of social organizations and got rejected from all of them. I did get into one pre-professional group with a mentorship program, but it’s barely met and hasn’t helped me connect with anyone. I keep waiting for something to click and it just… doesn’t.
+
+My roommate goes out all the time, and it just makes me feel even worse. It’s like I’m watching the “normal college experience” happen right next to me while I’m stuck on the outside. I even turned down an invitation to go out because I was convinced they didn’t really want me there and were just being polite.
+
+Most of my time is spent alone. I hide in corners on campus so I don’t look like the awkward person with no one to sit with. During the recent weather closures, I literally didn’t leave my room for days.
+
+I’m honestly shocked that I can feel this invisible and unwanted in a place with so many people. I don’t know how to break out of this, and it’s starting to really scare me.

@@ -1,12 +1,10 @@
 Text ID: t005034
 Group: human
 Model: human
-Folder: corpus/05_human
-File:   t323_human.txt
+File:   corpus/05_human/t323_human.txt
 
 Score (f3_pos): 7
 Loading words (f3_pos), N=7: health, depression, support, year, lot, love, situation
-
 I am 20 years old and I have been depressed for the last 3–4 years. Even after coming out of depression, it has left a big impact on me and has made my physical health worse. I don’t know whether I am still depressed or not, but I still get negative thoughts sometimes, and I have almost lost my emotions or feelings.
 
 Talking about my recent situation, I’m really not feeling good. I really need someone to understand me—someone who can take care of me or at least care about what disappoints me. I have literally lacked support, love, and care from my family. I was ditched by my best friends, and slowly I lost even having a good friend. When I fell into my depression phase, my friends stepped away from me at my lowest point.

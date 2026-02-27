@@ -1,10 +1,8 @@
-Text ID: t000706
-Group: generic_gpt
+Text ID: t007915
+Group: summary_guided_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t706_gpt.txt
+File:   corpus/05_summary_guided_gpt/t349_gpt.txt
 
 Score (f1_neg): 1
 Loading words (f1_neg), N=1: f2 score: 0
-
-I’ve been feeling like I’m slowly disappearing from everyone’s life. I have acquaintances, people I joke with at work, but no one I’d call if something really bad happened. I scroll through my contacts and realize most conversations died months ago, usually with my message being the last one. I try to reach out sometimes, but I feel like I’m forcing myself into other people’s lives. It’s strange how you can be surrounded by people and still feel like you’re completely on your own.
+I feel so abused and used that I’m honestly close to killing myself. No one listens unless I shout and turn rude, and I’m so tired of always being the one who takes care of everyone else. It feels like everyone hurts me, and I’m at the point where I don’t even care who I hurt anymore.

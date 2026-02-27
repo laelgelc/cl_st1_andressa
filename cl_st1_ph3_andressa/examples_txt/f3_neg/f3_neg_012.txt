@@ -1,10 +1,12 @@
 Text ID: t000470
 Group: generic_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t470_gpt.txt
+File:   corpus/05_generic_gpt/t1337_gpt.txt
 
 Score (f3_neg): -2
 Loading words (f3_neg), N=2: notification, weather
+I’ve been feeling this weird mix of invisibility and overexposure lately. Like I’m surrounded by people—at work, online, even in my own family—but I still feel like no one actually sees me. Conversations stay on the surface: weather, deadlines, memes. I can talk, joke, “seem fine,” but it all feels like acting.
 
-I’m surrounded by people but feel completely disconnected. Conversations feel scripted, like I’m playing a role. I crave real connection but don’t know how to move past small talk. It’s exhausting pretending this feels okay.
+What really messes with me is how hard it is to cross that line into real connection. I don’t know how to say, “Hey, I’m lonely,” without feeling pathetic or needy. When I’ve tried to open up in the past, people either minimized it, changed the subject, or gave quick-fix advice. After enough of that, you start thinking, “Maybe I should just keep this to myself.”
+
+Nights are the worst. The day winds down, the notifications stop, and it’s just me and the noise in my head. I scroll, I watch videos, I listen to podcasts just to fill the silence, but it doesn’t really touch the feeling. It’s like being homesick for a place I’ve never actually had.

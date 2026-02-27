@@ -1,10 +1,8 @@
-Text ID: t004607
-Group: human
-Model: human
-Folder: corpus/05_human
-File:   t2502_human.txt
+Text ID: t008030
+Group: summary_guided_gpt
+Model: gpt
+File:   corpus/05_summary_guided_gpt/t464_gpt.txt
 
-Score (f3_neg): 1
-Loading words (f3_neg), N=0: 
-
-One thing I really hate about myself is that I can’t receive kindness or attention from a woman without developing some sort of feelings for her eventually. Even if I keep telling myself “she’s just being nice” “it’s just friendly” there’s a small dumb part of me that still develops those feelings anyway. I’ve been through this enough times that I should know for sure by now that it’s always just them being nice but I can’t seem to stop it. Then it always just ends up being weird and I have to remove myself from the situation completely to avoid making things even more weird or having my feelings hurt when it turns out they already had someone else in the first place.
+Score (f3_neg): -1
+Loading words (f3_neg), N=1: notification
+I’m so tired of people being rude when I reach out just to talk. No one is forcing you to reply to my message. You can ignore it, block me, whatever. But snapping at me? Seriously? Sorry my little notification “disappointed” you. I’m just trying to connect, not ruin your day.

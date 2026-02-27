@@ -1,12 +1,10 @@
 Text ID: t004032
 Group: human
 Model: human
-Folder: corpus/05_human
-File:   t197_human.txt
+File:   corpus/05_human/t197_human.txt
 
 Score (f3_pos): 6
 Loading words (f3_pos), N=6: depression, pain, year, lot, relationship, love
-
 Last year I thought I could. I was getting promoted at my job, had a good amount of friends, a beautiful girl was interested in me, and I was finally getting my life on track. Then everything went to shit.
 
 The promotion never came cuz of high turnover. I started school so work and school together ruined my social life. A lot of my friends slowly lost touch with me. The girl I loved was in college on the other side of the country but was moving back near me soon, so I was excited to see her again and ask her out. But turns out she was just trying to fuck and when I told her that I liked her and thought she liked me, she simply responded that ‘like’ is a strong word and she doesn’t catch feelings for people. 

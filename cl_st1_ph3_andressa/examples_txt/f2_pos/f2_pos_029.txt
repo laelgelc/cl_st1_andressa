@@ -1,18 +1,16 @@
-Text ID: t001053
-Group: generic_gpt
+Text ID: t006305
+Group: summary_guided_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t1053_gpt.txt
+File:   corpus/05_summary_guided_gpt/t1450_gpt.txt
 
-Score (f2_pos): 1
-Loading words (f2_pos), N=1: reason
+Score (f2_pos): 5
+Loading words (f2_pos), N=5: mom, fun, parent, house, woman
+I’m 15 and I finally worked up the courage to ask someone out for the first time. I thought I’d be proud of myself no matter what happened, but she said no and at first I was like “okay, that’s life.” Now it just feels like nothing is worth it.
 
-I’m starting to realize that I don’t actually remember what it feels like to be genuinely “known” by someone.
+Home is awful. My mom is always yelling at me for something. My siblings just suck and make everything more stressful. There’s nowhere in the house where I feel like I can just exist without someone being mad at me or annoying me.
 
-I have people around me in a technical sense—coworkers, family chats, a couple of acquaintances I see once in a while—but everything feels surface-level and scripted. I can do small talk, I can be “pleasant,” I can crack a joke, but as soon as the conversation might go deeper, I freeze up or steer it away. Then I go home and wonder why I feel invisible.
+I technically have plenty of friends, but honestly most of them don’t feel worth it anymore. People make fun of me for being a femboy, calling me gay, a woman, a weirdo. Even when they say it’s a “joke,” it still gets to me. It feels like I’m just this punchline to everyone around me.
 
-What messes with my head is that from the outside, I probably look fine. I show up, I function, I respond to messages. But nobody really sees what my days actually feel like: coming home to silence, eating alone, scrolling through my phone not because I’m interested but because it’s a distraction from the emptiness.
+I’ve had little sips of beer before, and I’ve decided I’m going to steal a beer from my parent. I know it’s a bad mindset to think alcohol is my only escape, but right now it feels like the only thing that might make me forget how much everything sucks for a bit.
 
-I’ve tried joining groups, going to events, talking to people online. I always end up in the same place—like I’m orbiting other people’s lives, close enough to watch but never actually part of anything. I can’t tell if I’m the one keeping people at a distance or if I just don’t fit anywhere.
-
-What scares me most is how normalized this has become. I don’t even expect connection anymore; I just assume people will drift away or stay at arm’s length. I still go through the motions, but it feels more like acting than living, and I’m not sure what to do with that.
+Most of the time life just doesn’t feel worth it and I’m so tired. I feel like I can’t take it anymore. I’m going to see what happens with the beer and I’ll probably post again after.

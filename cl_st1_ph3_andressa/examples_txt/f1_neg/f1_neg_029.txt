@@ -1,14 +1,8 @@
-Text ID: t002573
-Group: generic_gpt
+Text ID: t006422
+Group: summary_guided_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t2573_gpt.txt
+File:   corpus/05_summary_guided_gpt/t1557_gpt.txt
 
 Score (f1_neg): 1
 Loading words (f1_neg), N=1: f2 score: 0
-
-I’m starting to realize I don’t actually know how to connect with people anymore. I have acquaintances, coworkers, people I joke with, but nobody I’d call if something really went wrong. When I scroll through my contacts, there isn’t a single name that feels “safe.”  
-
-I overthink every message I send, then convince myself I’m annoying and delete it. I cancel plans because I’m tired, then feel even worse sitting at home. It feels like I’m watching my own life from behind glass—present, but not really in it.  
-
-I keep wondering if this is just how it’s going to be from now on.
+I’m overwhelmed by this constant thought: if everyone dies anyway, what’s the point? I honestly don’t even want to be here.

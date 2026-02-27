@@ -1,16 +1,14 @@
 Text ID: t000793
 Group: generic_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t793_gpt.txt
+File:   corpus/05_generic_gpt/t1630_gpt.txt
 
 Score (f3_neg): -2
 Loading words (f3_neg), N=2: notification, weather
+I’ve started to realize I don’t actually know how to connect with people anymore. I can talk about surface stuff just fine—work, weather, random memes—but the second anything feels real, I freeze up or change the subject. Then I go home and wonder why I feel invisible.
 
-I’m starting to feel like I’ve forgotten how to be around people.
+My phone almost never lights up unless it’s a notification from an app. I scroll through chats where I used to talk to people regularly, and now it’s just dead threads and awkward “we should catch up soon” messages that never went anywhere.
 
-I go through the motions — work, small talk, “how was your weekend?” — but it all feels like I’m acting out a script I only half remember. I have acquaintances, but no one I’d call at 2 a.m., or even at 8 p.m. when the silence in my apartment starts pressing in.
+What messes with me the most is that I’m technically “not alone.” I’m around coworkers, classmates, family. But I feel like a ghost walking through other people’s lives, watching them form bonds I somehow can’t access.
 
-What scares me is how used to it I’m getting. I used to crave connection, to feel desperate for someone to really see me. Now it’s more like a dull ache I carry around. I don’t even know what I’d say if someone actually asked how I was doing and meant it.
-
-I scroll through chats I never start, type messages and delete them. I tell myself people are busy, they have their own lives. Then I sit here, night after night, wondering if this is just… it.
+It’s like I’m stuck behind glass, tapping, but no one hears it.

@@ -1,12 +1,16 @@
-Text ID: t002005
-Group: generic_gpt
+Text ID: t008018
+Group: summary_guided_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t2005_gpt.txt
+File:   corpus/05_summary_guided_gpt/t452_gpt.txt
 
-Score (f3_pos): 2
-Loading words (f3_pos), N=2: top, problem
+Score (f3_pos): 6
+Loading words (f3_pos), N=6: depression, anxiety, top, year, lot, relationship
+I’m 20 and I feel like my life has been on pause for as long as I can remember.
 
-I’m starting to wonder if I’m just fundamentally “un-clickable” with other people. I have acquaintances, coworkers, people I chat with, but it all feels like background noise. No one really knows me, and I don’t really feel safe enough to let them. I watch other people slip into friendships so effortlessly—inside jokes, group chats, weekend plans—and I’m just hovering at the edges, invited sometimes, but never really *missed* if I’m not there.
+Everyone my age seems to be out there actually living – studying, going out with their friends, going on trips, dating, having all these “normal” experiences – and I’m just… here. Stuck. I have chronic illnesses on top of depression and anxiety, and I’m sick a lot. Hospital stays are such a regular part of my life that they almost feel more “normal” than anything else. Because of all this, I never really got to have a friend group, or parties, or any kind of romantic relationship. All the typical teen/young adult stuff just passed me by.
 
-I try to initiate conversations, suggest meetups, but it always feels forced, like I’m auditioning for a role I never get. Then I come home, scroll through my phone, and realize there’s no one I can message without feeling like I’m bothering them.
+Social media makes it worse. I see ex-classmates and ex-friends posting their memories, their nights out, their relationships, and it feels like I’m watching from behind glass. It hurts more than I can explain. It just feels so unfair. I scroll and it’s like I’m being reminded over and over that I have “absolutely no life,” that I’m just here to suffer while everyone else gets to actually live.
+
+This has been my reality since I was a kid, so it’s not even like I remember a time when things were truly different. I feel empty and left behind, like I’m years behind everyone else with no way to catch up.
+
+I don’t even know what to do anymore. Is there anything I can genuinely do to escape this? To stop feeling like my existence is just hospitals, illness, and watching other people’s lives from the outside?

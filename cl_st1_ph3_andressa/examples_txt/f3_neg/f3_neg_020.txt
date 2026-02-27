@@ -1,10 +1,14 @@
 Text ID: t000373
 Group: generic_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t373_gpt.txt
+File:   corpus/05_generic_gpt/t1249_gpt.txt
 
 Score (f3_neg): -1
 Loading words (f3_neg), N=1: weather
+Lately I’ve been feeling like a background character in my own life. I go through the motions—work, errands, scrolling on my phone—but it all feels muted, like I’m behind a pane of glass watching everyone else actually live.
 
-I’m at that point where I’m surrounded by people but still feel completely disconnected. I have coworkers, acquaintances, even family nearby, but every interaction feels surface-level, like I’m playing a role instead of being myself. I scroll through my phone wanting to message someone, then realize I don’t know who wouldn’t find it weird. I miss having someone who actually checks in, who knows my routines and moods. Lately it feels like if I disappeared, nothing in my day-to-day world would really change.
+I have people around me, technically. Coworkers, acquaintances, family chats. But I don’t feel known by any of them. Conversations stay on the surface: weather, work complaints, memes. I can’t remember the last time someone asked how I really am and actually wanted to hear the answer.
+
+I’m at this weird point where I crave connection so badly, but I’m exhausted by every attempt. I overthink every message, every silence, every “seen” with no reply. Then I feel pathetic for caring so much.
+
+What scares me is how normal this is starting to feel. The quiet evenings, the empty weekends, the constant sense that if I disappeared, life would go on exactly the same for everyone else.

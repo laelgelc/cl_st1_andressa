@@ -1,20 +1,18 @@
 Text ID: t000797
 Group: generic_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t797_gpt.txt
+File:   corpus/05_generic_gpt/t1634_gpt.txt
 
 Score (f2_neg): -3
 Loading words (f2_neg), N=3: noise, errand, mix
+I don’t really know how to explain this without sounding dramatic, but lately it feels like my life is just… background noise.
 
-I’ve been feeling this weird mix of invisible and too exposed at the same time, and I don’t really know how to explain it to people in my life without sounding dramatic.
+I have people around me, technically. Coworkers, some old friends I text every now and then, family chats that light up my phone. But when I actually look at it, most of it is surface-level. Memes, logistics, “how’s work?” and “busy, you?” on repeat. No one really asks how I am in a way that suggests they want an honest answer, and I’m not sure I’d know how to give one if they did.
 
-On paper, I’m “fine.” I have a job, a place to live, a few people I can text if I need something. But it feels like there’s this glass wall between me and everyone else. I can see people laughing, connecting, building memories together, and I’m just… there. Present, but not actually part of anything.
+I go through whole days where I don’t say anything that feels like “me.” It’s all autopilot small talk. When I get home, it’s just this heavy silence, like the air gets thicker. I put on YouTube or a podcast just to have voices in the room, but it doesn’t fix the feeling that I could vanish and it would mostly just be an inconvenience to a few people’s schedules.
 
-I’ve noticed that most of my conversations are surface-level. Work stuff, memes, “how was your weekend?” kind of talk. I can’t remember the last time I felt like I could say what I really think or feel without worrying I’d make things awkward or be “too much.” So I keep it all inside. Then I feel even more disconnected because no one really knows me, but it’s also my fault for hiding.
+I’ve tried reaching out more. I’ll message someone and stare at “online” next to their name while they don’t reply, then watch them post on social media. That weird mix of being invisible and still somehow too much. It stings more than I want to admit.
 
-Sometimes I scroll through my messages and realize I’m almost always the one reaching out. If I stop, things just go quiet. It makes me wonder if I actually matter to anyone or if I’m just a convenient person to respond to when they’re bored.
+What scares me is how normal this is starting to feel. The weekends blur together: errands, scrolling, pretending I’m fine. I don’t even know what I’d talk about if someone genuinely wanted to know me. I’ve spent so long being “okay” for everyone else that I’m not sure there’s anything underneath it anymore.
 
-Nights are the worst. I’ll be lying in bed, phone next to me, wanting to talk to someone but not knowing who wouldn’t find it annoying. I replay conversations in my head and overanalyze every word, like I’m trying to find proof that I’m not as unwanted as I feel. It’s exhausting.
-
-I don’t know what I’m looking for by posting this. Maybe I just wanted to put it somewhere outside my own head for once.
+I’m not even sure what I’m hoping for by writing this. Maybe just to put it somewhere outside my own head for once.

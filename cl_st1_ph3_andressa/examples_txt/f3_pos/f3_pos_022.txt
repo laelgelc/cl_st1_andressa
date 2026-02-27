@@ -1,18 +1,14 @@
-Text ID: t000317
-Group: generic_gpt
+Text ID: t006258
+Group: summary_guided_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t317_gpt.txt
+File:   corpus/05_summary_guided_gpt/t1408_gpt.txt
 
-Score (f3_pos): 3
-Loading words (f3_pos), N=3: year, lot, relationship
+Score (f3_pos): 7
+Loading words (f3_pos), N=7: depression, issue, pain, anxiety, top, year, problem
+I’m so exhausted and worn down that I don’t even know why I’m writing this, except that I feel like I’m quietly disappearing.
 
-I don’t really know how to explain this without sounding dramatic, but lately it feels like I’m living in a glass box. I can see people, I can talk to them, I can even laugh and make jokes sometimes, but there’s this invisible wall I can’t get past. I go home and it’s like none of those interactions actually touched me.
+My body is basically falling apart. Pituitary damage has left me with very low cortisol, thyroid and testosterone issues, and low adrenaline. The result is constant extreme fatigue, weakness, pain, and awful digestive problems. When I finally worked up the courage later in life to try to do more and push myself, it feels like my body just said “no” and collapsed on me. Every doctor visit seems to end with “here’s another medication” and no real hope.
 
-I have “people” in my life on paper. Coworkers. A couple of old friends I text occasionally. Family chats where we send memes and photos of pets. But no one really knows what my days feel like. I’m not even sure I’d know how to tell them without making it awkward. It always feels like I’d be dumping something heavy on them, and I don’t want to be that person.
+On top of that, I’ve had schizoid personality disorder my whole life, plus anxiety, major depression, and PTSD from assaults. I’m alone—no spouse, no kids—and I’m completely drained by legal and medical problems. This time of year always hits harder.
 
-What makes it worse is that I’m self-aware. I know I should “put myself out there,” join things, talk more, be vulnerable. I rehearse conversations in my head, think of ways to reach out, and then when the moment comes I either freeze or default to small talk. I walk away kicking myself because I know I missed another chance to connect, but I also feel like I don’t have any energy left to try again.
-
-Nights are the hardest. It’s that specific kind of quiet where you can hear your own thoughts too clearly. I scroll through social media and see people casually hanging out, posting group photos, inside jokes in the comments. I don’t even necessarily want a huge friend group; I just want one person I can message without overthinking it, someone who’d actually notice if I disappeared for a bit.
-
-I keep wondering if this is just how adulthood is for a lot of people and we’re all pretending we’re fine, or if there’s something uniquely wrong with me that makes me… unpickable. I don’t have a neat conclusion to this. I just needed to put it somewhere.
+I’m so overwhelmed that I honestly just wish I could die in my sleep. I don’t know how much more I can take.

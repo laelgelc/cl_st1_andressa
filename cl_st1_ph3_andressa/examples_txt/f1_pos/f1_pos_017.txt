@@ -1,10 +1,18 @@
 Text ID: t000879
 Group: generic_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t879_gpt.txt
+File:   corpus/05_generic_gpt/t1709_gpt.txt
 
 Score (f1_pos): 38
 Loading words (f1_pos), N=38: paper, group, life, fine, work, home, part, show, coworker, answer, outside, people, scroll, talk, joke, chat, phone, message, ache, day, everyone, person, wall, sense, time, anyone, kind, circle, end, anything, way, stuff, interaction, character, background, conversation, kid, loneliness
+I’ve been feeling this weird, heavy kind of loneliness lately that doesn’t really fit into any of the usual categories people talk about. I’m not totally isolated. I work, I talk to coworkers, I answer messages in group chats. On paper I’m “connected.” But it all feels like I’m playing a role in other people’s lives instead of actually being in them.
 
-Lately I feel like I’m living in a soundproof box. I go to work, make small talk, laugh at the right moments, but it all feels like acting. No one really knows me, and I’m not sure anyone wants to. I watch other people form connections so easily and wonder what’s wrong with me that I can’t seem to cross that invisible line.
+Most of my interactions feel like background noise. Small talk, memes, work-related stuff, surface-level updates. I can go days without anyone asking me how I’m really doing in a way that suggests they actually want to know. When I try to open up a bit, the conversation either gets redirected or brushed off with a joke. I end up feeling like I overshared, even if I only said one honest sentence.
+
+What makes it worse is that I used to have people I felt close to. Not many, but enough that I felt like I had a “home base” in the world. Over time, life just pulled us in different directions. People moved, got into serious relationships, became busy with kids or careers. We still “keep in touch” in the vaguest sense, but it’s more like we’re watching each other’s lives from the outside rather than living anything together.
+
+I’ve tried to meet new people, but I’m at this age where everyone already seems to have their established circle. I always feel like the extra person tagging along, the one who can be there or not and it wouldn’t really change anything. I’m present, but not essential. Replaceable.
+
+The part that really messes with me is how invisible this feels. From the outside, I probably look fine. I show up, I smile, I contribute to conversations. Nobody sees that I go home and just sit in the quiet, scrolling on my phone because I don’t know what else to do with myself. I keep wanting to send a message that just says, “I feel really alone right now,” but I don’t know who I’d send it to, or what I’d even want them to say back.
+
+There’s this constant ache of wanting to be known, really known, and at the same time feeling like I’ve forgotten how to let anyone that close. I’m not sure if I’ve built walls or if people just stopped trying to look over them. Maybe both. All I know is that I’m tired of feeling like a side character in my own life.

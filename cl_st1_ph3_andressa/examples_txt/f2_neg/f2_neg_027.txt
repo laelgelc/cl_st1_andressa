@@ -1,16 +1,12 @@
-Text ID: t003143
-Group: human
-Model: human
-Folder: corpus/05_human
-File:   t1171_human.txt
+Text ID: t006478
+Group: summary_guided_gpt
+Model: gpt
+File:   corpus/05_summary_guided_gpt/t1608_gpt.txt
 
-Score (f2_neg): -1
-Loading words (f2_neg), N=1: emptiness
+Score (f2_neg): -2
+Loading words (f2_neg), N=2: role, emptiness
+Lately I feel like I’m stuck in this weird in‑between state where I can’t even tell what’s wrong with me. I don’t know if I’m just exhausted, misunderstood, or actually lonely. It’s like I’m emotionally numb most of the time.  
 
-Honestly, at 25, I suddenly realized that I’ve never really had true friends. I’ve had acquaintances, people around me, but never anyone I could just meet in the evening for coffee or a glass of wine and talk openly, without masks or pretenses. Never friends I could share little joys or big fears with.
+I really struggle to make genuine, deep connections. Almost every interaction feels surface‑level, like I’m playing a role instead of actually being there. Even with the two close friends I do have, there’s still this distance I can’t seem to cross. I care about them, but sometimes supporting them feels draining, like I’m running on empty and still trying to pour into other people.  
 
-The closest person in my life was my husband. He was my support, my friend, the person I trusted with everything—my thoughts, my struggles, my happiness, and my pain. And now we’re divorcing, and he’s with someone else. That feeling of emptiness sometimes hits me so hard it feels like the whole world has disappeared.
-
-I don’t know how new relationships will form, how communication with my child will go, how life will go on. Everything feels strange and unfamiliar, and for the first time, I truly realize that I simply have no one to share with. And in that loneliness comes the truth: in 25 years, I never built friendships that could be a real support, like my husband once was.
-
-It’s difficult and scary, but there’s truth in it too: now I see that I’ll have to learn to be there for myself, to be my own support, to find joy in small things, and to open myself to new connections. And maybe, someday, I’ll find friends—people I can simply be myself with.
+The numbness is confusing too. Sometimes it’s a relief not to feel everything so intensely. But other times I just wish I could feel anything at all, because this emptiness makes me feel even more alone.

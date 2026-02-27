@@ -1,16 +1,22 @@
 Text ID: t002591
 Group: generic_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t2591_gpt.txt
+File:   corpus/05_generic_gpt/t735_gpt.txt
 
 Score (f1_pos): 43
 Loading words (f1_pos), N=43: paper, group, life, text, couple, fine, work, head, part, show, coworker, answer, outside, people, scroll, joke, chat, message, day, everyone, person, silence, family, medium, post, glass, photo, time, night, thing, plan, anyone, someone, while, everything, anything, way, friend, moment, space, conversation, partner, loneliness
+I don’t really know how to say this in a way that doesn’t sound dramatic, but lately it feels like my life is happening behind glass.
 
-I’ve been feeling this weird, heavy kind of loneliness that doesn’t always look like what people imagine. I’m not completely isolated. I have coworkers, a couple of acquaintances I see sometimes, family chats that light up my phone. But I still feel like I’m standing behind glass watching everyone else actually live.
+On paper I’m not “alone.” I have coworkers, a couple of old friends I text sometimes, family chats that light up with memes and logistics. But I feel like I’m always slightly out of phase with everyone else, like I’m there physically but not really *with* them.
 
-Conversations feel shallow. It’s like we’re all reading from a script: “How’s work?” “Busy.” “You?” “Same.” I keep hoping someone will ask a question that goes a little deeper, but when they do, I freeze and default back to safe answers. Then I go home and wonder why nobody really knows me.
+I go days without using my voice for anything besides “thank you” at a checkout or “have a good one” at work. I’ll rehearse conversations in my head—what I’d say if someone actually asked how I’m doing, what I’d tell a friend if I felt safe enough to be honest—and then the moment passes and I just default to “I’m fine, you?” because I don’t want to make things weird.
 
-I scroll through social media and see people hanging out, going on trips, getting married, having kids, or just laughing in group photos. I’m genuinely happy for them, but it also makes me feel like I missed some invisible deadline for forming real connections.
+The weird part is I’m not even sure what I’m missing anymore. I don’t know if it’s a romantic partner, deeper friendships, or just one person who genuinely wants to know what my day looked like. I scroll through social media and see people posting group photos, trips, little inside jokes in the comments, and I feel like I’m watching a life I somehow didn’t qualify for.
 
-What scares me is how used to it I’m getting. I’ll go days without a meaningful interaction and tell myself I’m “fine” because I went to work, answered emails, and bought groceries. Then at night it hits me how quiet my life actually is, and how much of me exists only in my own head, never really shared with anyone.
+I try to reach out sometimes. I’ll send a message, suggest a plan, and then spend the whole time terrified I’m being annoying or clingy. If they take a while to answer, I immediately assume I’ve overstepped. If they say they’re busy, I tell myself they’re just being polite and don’t really want to see me. It’s like my brain is determined to interpret everything in the most self-rejecting way possible.
+
+I’ve also noticed how loneliness makes me smaller. I share less. I take up less space. I censor my interests because I don’t want to be “too much.” Then I feel invisible and resentful, but it’s a situation I helped create by not showing up as myself.
+
+Nights are the worst. There’s this heavy silence that feels almost physical. I’ll lie there thinking about how, if I disappeared, it would take a while for anyone to notice in a concrete way. People would be “shocked” in the abstract, but day-to-day, not much would change.
+
+I don’t really know what I want from posting this. Maybe I just needed to put it somewhere outside my own head for once.

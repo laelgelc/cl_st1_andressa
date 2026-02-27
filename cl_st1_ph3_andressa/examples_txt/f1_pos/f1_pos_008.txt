@@ -1,10 +1,18 @@
 Text ID: t000173
 Group: generic_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t173_gpt.txt
+File:   corpus/05_generic_gpt/t1067_gpt.txt
 
 Score (f1_pos): 39
 Loading words (f1_pos), N=39: paper, group, life, text, fine, head, home, part, show, coworker, outside, people, scroll, joke, chat, phone, something, message, weekend, day, everyone, person, silence, family, time, thing, plan, anyone, someone, end, everything, friend, moment, interaction, window, connection, conversation, nothing, loneliness
+I don’t really know how to explain this without sounding dramatic, but lately it’s been hitting me how “out of sync” I feel with everyone around me.
 
-I’m surrounded by people but feel like a background character in every room. Conversations stay shallow, like I’m only allowed surface-level access. I crave one person who genuinely wants to know me, yet I’m exhausted from trying to be seen.
+On paper, I’m not completely isolated. I have coworkers I chat with, a few old friends I text every now and then, family I see on holidays. But most of the time it feels like I’m just drifting past people rather than actually connecting with them. I say the right things, make small jokes, ask about their weekends, but it all feels like I’m playing a role instead of actually being there.
+
+What bothers me is how invisible this loneliness is. From the outside, I probably look fine. I show up, I function, I laugh at the right moments. But I go home and it’s like the volume of my life drops to almost nothing. I sit in silence, scrolling on my phone, half-hoping someone will message me and half-dreading having to respond if they do, because I’m so out of practice at being real with anyone.
+
+I don’t really have “my person” or “my people.” There’s no one I can text randomly just to say, “I’m having a rough day,” without worrying I’m bothering them or being too much. When something happens—good or bad—my first instinct is to open a chat window, and then I close it because I don’t know who to send it to. It’s like everything important in my life just passes through me and disappears because there’s no one to witness it.
+
+I also feel like I missed some crucial stage where people learn how to form deep connections. I watch others make friends so easily, join group chats, plan outings, and I honestly don’t understand how they do it. I overthink every interaction, replay conversations in my head, and then end up withdrawing because it feels safer than risking rejection or awkwardness.
+
+The worst part is how tired I am of my own company. I used to think I liked being alone, but now it feels more like I’ve just adapted to it because I didn’t have another option. And I’m not sure what to do with that.

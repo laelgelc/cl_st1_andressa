@@ -1,10 +1,18 @@
-Text ID: t003245
-Group: human
-Model: human
-Folder: corpus/05_human
-File:   t1264_human.txt
+Text ID: t006862
+Group: summary_guided_gpt
+Model: gpt
+File:   corpus/05_summary_guided_gpt/t1957_gpt.txt
 
-Score (f1_pos): 21
-Loading words (f1_pos), N=21: life, fine, work, show, talk, something, message, day, everyone, sense, silence, family, none, post, time, anyone, someone, while, way, feeling, loneliness
+Score (f1_pos): 25
+Loading words (f1_pos), N=25: paper, group, life, text, work, part, coworker, outside, people, talk, joke, chat, day, everyone, person, anyone, kind, room, place, friend, interaction, acquaintance, conversation, feeling, nothing
+I’m 26 and I feel like I’m in this weird in‑between place socially.
 
-I’m lonely in a very literal sense. I live alone, and I go days without talking to anyone. No messages, no calls. Just long stretches of silence in my apartment. After a while it starts to feel unreal, like I’m watching my life instead of living it. Around my family, I mask it well. Too well. I show up calm, functional, normal enough that it’s easier for everyone—including me—to pretend I’m okay. I think the topic of my loneliness is uncomfortable for them, so it never really comes up. It’s easier to assume I’m fine than to open something none of us know how to handle. Because of that, I feel like I’m on my own with this. Not abandoned—just unsupported in a way that’s quiet and unspoken. What makes it worse is that I technically have freedom. I’m an adult. No one is stopping me from changing my life. I know what I want to do. I know the steps. And still, I don’t have the courage to do them. That freedom—having full responsibility for my choices—feels like a prison. There’s no obvious obstacle I can point to, so the blame turns inward. I feel like I’m wasting time. Like I’ve failed at something basic everyone else seems to manage. Each day I stay stuck, that feeling gets heavier. I wish I had someone to lean on while I figured this out. Someone who could just sit in it with me so it didn’t all feel like it rested on my shoulders alone. But it doesn’t feel like that’s an option. It feels like it’s up to me—and I don’t trust myself enough right now to carry it well. I still function. I work. I eat. I get through the day. But underneath all of that is this constant sense of being trapped by my own life, frozen by choice, and quietly disappointed in myself for not moving. I’m not posting this for advice or reassurance. I just needed to say it somewhere honest, because holding it in makes it feel unbearable. If this resonates with you, you’re not alone in it.
+On paper, I’m “socially capable.” I can hold conversations, crack jokes, read the room. But actually being around people drains me so fast. I have low self-esteem and a lot of social anxiety, so every interaction turns into this performance where I’m trying really hard to keep everyone else happy and comfortable. I don’t feel like that effort is ever really reciprocated, and it leaves me exhausted.
+
+I went through five years of college and somehow never made any real friends. Just acquaintances I’d talk to in class or group projects, nothing that lasted. Now I work fully remote, so there’s no built-in social interaction there either. I haven’t formed friendships with coworkers, and I don’t really talk to anyone online either.
+
+I live with my girlfriend, and she’s great. I’m genuinely grateful for her. But outside of her, I have essentially no social life. No one I text regularly, no one I meet up with, no group chats, nothing. Most days, she’s the only person I actually talk to.
+
+Part of me feels like I completely missed out on life, like I watched my twenties go by from the sidelines. But another part of me finds this isolated lifestyle… easier. Less painful. Fewer chances to feel rejected or like I’m not enough.
+
+I don’t even know if what I’m feeling is normal. I guess I’m just wondering if anyone else relates to this kind of “chosen” isolation that still somehow feels like a loss.

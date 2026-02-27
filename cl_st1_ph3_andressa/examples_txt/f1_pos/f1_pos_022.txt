@@ -1,22 +1,16 @@
-Text ID: t005678
-Group: human
-Model: human
-Folder: corpus/05_human
-File:   t967_human.txt
+Text ID: t008118
+Group: summary_guided_gpt
+Model: gpt
+File:   corpus/05_summary_guided_gpt/t552_gpt.txt
 
-Score (f1_pos): 23
-Loading words (f1_pos), N=23: life, text, work, home, show, people, talk, phone, something, ache, day, everyone, silence, family, time, thing, anyone, someone, anything, way, friend, nothing, kid
+Score (f1_pos): 27
+Loading words (f1_pos), N=27: group, life, text, couple, work, part, outside, people, joke, something, message, day, everyone, wall, photo, time, thing, plan, end, everything, place, way, friend, moment, stuff, nothing, contact
+I’m 29, originally from Iran, and I’ve been in the US for about four years now for my master’s. I just moved to Texas by myself because of immigration stuff, and it’s really hitting me how much “being alone” has become the default setting of my life.
 
-I have this fear that one of the only friends I go out with doesn’t like to hang out with me anymore but is too polite to say. I always ask to hang out, it’s almost never the other way around. We only ever talk when we see each other in real life, or when I text something.
+It’s not like this started with moving here. Even back in college, at work, traveling, doing hobbies… I’ve always been the one who has to initiate everything. If I don’t text first, if I don’t suggest plans, nothing happens. I’ve gotten used to doing most things alone: going to museums, watching movies in the theater, trying out new places. I’m genuinely comfortable with that part; I don’t feel ashamed sitting alone at a café or going to a movie by myself.
 
-So I’m trying to go out on my own tomorrow. I feel pretty sad but I’m trying to look at the positive side that at least I can do that. But having so much silence. Looking at my phone constantly with no one really who wants to ask me about my day or anything as much as I ask about theirs.
+But there’s this painful side to it. When I’m out, I see groups of friends laughing, couples sharing inside jokes, people taking photos together. It’s like there’s this invisible wall between my world and theirs. I can do the same activities, but the “together” part feels like something I just don’t have access to. It’s not even that I’m desperate to be surrounded by people all the time; it’s more this constant reminder that I’m on the outside of something everyone else seems to have.
 
-I’m trying to ignore getting depressed, but being this lonely makes me tired. Drained. When I go to sleep I try to be as vivid as possible to imagine I’m with someone. I have these two people on YouTube that I “watch” movies with because I don’t have anyone in real life to do that with.
+Remote work has made all of this worse. At least with in-person work or school there was some built-in contact, even if it was shallow. Now my days are mostly just me, my laptop, my apartment. On the rare occasions I do spend time with people, I almost feel disoriented, like I’ve forgotten how to be around others. And then, inevitably, I go back to being alone again, like that’s the “real” state and everything else was a temporary glitch.
 
-At work, everyone is going on vacation. To see their friends and families, with their husbands or wives and kids. Everyone has someone to go home to. I’m always the last to leave, I walk alone and I wait alone for the bus.
-
-My dream is to just have someone see me. And want to know me and talk to me just because they feel like it. I look in the mirror and wonder if maybe I’m too fat, or too ugly, or just too annoying with the things that I like. 
-
-There’s a boy that I think about always who never falls short of finding someone else to be in love with. It makes my heart ache.
-
-I keep trying to keep myself in good spirits thinking that it’s for a reason. But even in my thoughts I’m lonely and have nothing to talk to myself about. I fill my time consuming information and watching shows hoping that I’ll get to talk to someone about it for the day.
+I’ve basically paused dating. I value my alone time a lot, and the constant messaging, check-ins, and small obligations of a relationship feel draining compared to the few shared moments they bring. It doesn’t feel like a good trade-off. So I end up choosing solitude, even though that same solitude hurts in its own way.

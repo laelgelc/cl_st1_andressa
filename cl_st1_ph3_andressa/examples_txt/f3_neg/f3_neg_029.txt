@@ -1,10 +1,8 @@
-Text ID: t004608
-Group: human
-Model: human
-Folder: corpus/05_human
-File:   t2503_human.txt
+Text ID: t007782
+Group: summary_guided_gpt
+Model: gpt
+File:   corpus/05_summary_guided_gpt/t2793_gpt.txt
 
-Score (f3_neg): 1
-Loading words (f3_neg), N=0: 
-
-I don’t know what’s happened to me, but In the past couple years i have become unable to manage and maintain friendships. I don’t even know the first step to texting someone and keeping in touch anymore. the past 2 years i haven’t really made a single new friend that became anything more to me than a face i see here and there. No one reaches out to me, and im pretty sure thats my fault. i think i push people away without consciously knowing it? Somehow i have managed to keep my girlfriend for a while now, and im so grateful that i have her. If i didn’t i don’t know what id do, I literally have no one else. not a single person. My home life isn’t an escape either because my family is always miserable and gets angry at me. I feel like i could disappear pretty easily. I freak out when i try to get close to people because i worry i will say something wrong or I’ll get misread, but that makes people not like me anyways.  I don’t really know if im asking for advice I just needed to get this off my chest.
+Score (f3_neg): -1
+Loading words (f3_neg), N=1: weather
+Over the summer I got really into kayak fishing. I’d spend whole days alone on the water, getting high and fishing, and it was honestly perfect. Now the weather’s bad and cold, and my weekends feel so empty and boring. I don’t know what to do with myself. I do have a hike planned for late winter after avalanche season, but that feels far away.

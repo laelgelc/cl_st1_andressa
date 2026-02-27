@@ -1,20 +1,16 @@
 Text ID: t000749
 Group: generic_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t749_gpt.txt
+File:   corpus/05_generic_gpt/t1590_gpt.txt
 
 Score (f3_neg): -2
 Loading words (f3_neg), N=2: notification, weather
+I’m starting to realize I don’t actually know how to connect with people anymore.
 
-I don’t really know how to talk about this without sounding dramatic, but I feel like I’m slowly disappearing from my own life.
+I have acquaintances, coworkers, people I can chat with about weather, TV, deadlines. But when conversations get anywhere near “real,” I freeze up. I either overshare and feel stupid afterward, or stay on the surface and walk away feeling invisible.
 
-I’m in my late 20s, decent job, small apartment, nothing obviously “wrong” on the surface. But I don’t feel connected to anyone. I have “people” in my life, technically—coworkers I joke with, a family group chat that sends memes, a couple of old friends I exchange birthday messages with. But there is no one I can text at 2am and say, “I’m not okay,” and actually expect a real conversation.
+Nights are the worst. I scroll through chats, see people “online,” but can’t think of a single person I feel comfortable messaging without worrying I’m annoying them. When my phone lights up, it’s usually a notification, not a person.
 
-Most of my days look the same: work, pretend to be normal, come home, scroll, eat something, lie in bed with a podcast on just so I don’t have to sit in silence with my own thoughts. The weekends are the worst. I wake up and there’s nothing scheduled, no one expecting me, no plans that fell through because there were never plans in the first place. I tell myself I like the freedom, but it feels less like freedom and more like being forgotten.
+What gets me is that from the outside I probably look fine: I show up, make jokes, get work done. Inside, it feels like I’m watching my own life from behind glass. I’m there, but not really in it.
 
-I’ve tried to “fix” it in all the usual ways. Join a club, talk to more people, say yes to invitations. I can do the surface-level stuff: small talk, jokes, being “easygoing.” People seem to like me well enough. But there’s this invisible wall I can’t get past. I never feel like I belong, just like I’m temporarily allowed to be near other people’s real lives. I leave social situations feeling more empty than before, like I used up all my energy to stay on the outside of something I’ll never actually be part of.
-
-What scares me is how normal this has started to feel. The idea of someone really knowing me—seeing all the neediness and fear and weirdness—almost feels more uncomfortable than the loneliness itself. So I stay in this in-between place: wanting connection so badly it hurts, but also not really believing I’m someone people would choose, consistently, over time.
-
-Anyway, that’s where I’m at.
+I don’t even know what I’m asking for. I guess I just wanted to put it into words somewhere, instead of just letting it echo around in my head.

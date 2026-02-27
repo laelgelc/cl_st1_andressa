@@ -1,10 +1,20 @@
-Text ID: t002310
-Group: generic_gpt
+Text ID: t006647
+Group: summary_guided_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t2310_gpt.txt
+File:   corpus/05_summary_guided_gpt/t1761_gpt.txt
 
-Score (f3_pos): 3
-Loading words (f3_pos), N=3: support, fact, lot
+Score (f3_pos): 7
+Loading words (f3_pos), N=7: health, depression, anxiety, top, support, year, situation
+I’m 27 and I feel like I’ve hit a wall in every direction.
 
-I’m surrounded by people but I feel like I’m behind glass. Friends, coworkers, family—conversations happen, jokes are made, but it all feels like I’m watching someone else’s life. When I try to open up, I either downplay everything or overshare and regret it later. I crave real connection but I’m terrified of being a burden, so I stay quiet, then feel forgotten when no one notices. It’s like being invisible in plain sight.
+My family is tiny and toxic, and I barely speak to them. I don’t have any close friends. I’ve basically learned that the only person I can rely on is myself, and even I’m not doing a great job of holding it together lately.
+
+For years, my two cats were my main emotional support. They were the only ones who were always there when I came home. One of them died seven months ago, and I still feel that loss every day. Now my other cat’s health is declining, and it feels like the last bit of stability I had is slipping away.
+
+My own health is getting worse too, physically and mentally, but I can’t afford proper medical care. My job pays just enough that I don’t qualify for help like food stamps, but not enough to actually live comfortably. Rent is high even with a roommate, and then there’s my car payment, insurance, debt, groceries, and vet/medicine bills for my cat. Every month feels like a balancing act I’m slowly losing.
+
+On top of that, I’m dealing with severe OCD, depression, anxiety, and ADHD. I know I need therapy, meds, maybe even a proper evaluation, but all of that costs money I don’t have. It feels like I’m stuck in this loop where I can’t get better because I’m poor, and I can’t stop being poor because I’m not well enough to do more.
+
+I don’t have a support system. No family safety net, no partner, no close friends. I don’t have a college degree, and I don’t have the money or motivation to go back to school. I keep thinking about how many people are in similar situations, and how much of life comes down to whether you were born with financial and emotional support.
+
+People don’t talk enough about how big a privilege it is to have that from the start. Some of us are just trying to survive without it, and it’s exhausting.

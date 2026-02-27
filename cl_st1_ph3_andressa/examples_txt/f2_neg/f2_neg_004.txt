@@ -1,14 +1,8 @@
 Text ID: t002393
 Group: generic_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t2393_gpt.txt
+File:   corpus/05_generic_gpt/t537_gpt.txt
 
 Score (f2_neg): -3
 Loading words (f2_neg), N=3: script, gap, role
-
-It’s weird how you can be surrounded by people and still feel like you’re on mute.
-
-I have acquaintances, coworkers, people I joke with, but it all feels like I’m playing a role. I don’t really let anyone see the parts of me that feel heavy or awkward, and I’m scared that if I did, they’d quietly step back. So I stay on the surface and then come home and feel this huge emptiness.
-
-I try to keep busy, scroll, watch shows, but the silence hits hardest at night. I start wondering if I somehow missed the “how to connect” lesson everyone else got. I’m tired of hearing “just put yourself out there” when I already feel like I’m out there, just invisible.
+I feel like I’m drifting further from everyone, even when I’m technically “around” people. Conversations feel scripted, like I’m playing a role I never learned properly. Friends are busy, relationships fade, and I’m never the person anyone thinks to call first. I scroll through chats and see long gaps, half-finished conversations, unanswered messages I’m too embarrassed to bump. It’s like I’m slowly becoming invisible while still having to show up and pretend I’m fine.

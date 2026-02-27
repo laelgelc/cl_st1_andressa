@@ -1,16 +1,18 @@
 Text ID: t002408
 Group: generic_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t2408_gpt.txt
+File:   corpus/05_generic_gpt/t552_gpt.txt
 
 Score (f1_pos): 38
 Loading words (f1_pos), N=38: paper, group, life, text, couple, fine, work, home, show, coworker, answer, people, scroll, talk, chat, phone, something, day, everyone, person, version, sense, family, medium, post, glass, time, plan, anyone, kind, someone, end, way, friend, word, conversation, surface, loneliness
+I’ve been feeling this weird, heavy kind of loneliness lately that doesn’t really fit into the usual “I don’t have friends” box. I technically have people in my life – coworkers, a couple of old friends I text every now and then, family chats that occasionally light up – but it all feels like I’m watching my own life from a few steps away.
 
-I’m starting to realize that I’m not just “alone a lot,” I’m actually lonely in a way that feels like it’s rewiring my brain.
+Most of my day is just…quiet. I go to work, make small talk, answer emails, come home, scroll on my phone, maybe watch something, then go to bed. On paper it looks normal, but there’s this constant sense that no one actually knows me beyond the surface. I can talk about work, shows, memes, whatever, but the second the conversation might go deeper, I freeze up or steer it back to something safe. Then I end up resenting the fact that I never have deep conversations.
 
-I have friends on paper: group chats, people I can text, coworkers I get along with. But the feeling of being known is missing. Most conversations stay on the surface. I crack jokes, I ask questions, I listen, and then I go home and feel weirdly invisible, like I was just playing a role.
+What gets to me the most is that I don’t really feel “missed” by anyone. If I disappeared from social media, I don’t think anyone would notice for a long time. People like me fine, I guess, but it feels like I’m always the extra, never the person someone thinks of first when they want to share good news or vent or just hang out. I’m always the “oh, you can come too if you want” person.
 
-I’ve tried being more honest with people about how I feel, but it usually gets brushed off with “same” or “you just need to get out more.” It makes me feel dramatic for even bringing it up. So I’ve started keeping it to myself.
+I’ve tried to “put myself out there” the way everyone says you should. Joined a couple of groups, tried talking more at work, even forced myself to say yes to plans when I just wanted to stay home. But even when I’m around people, I feel like I’m behind glass. I’m there, I’m smiling, I’m laughing at the right times, but it feels like acting. I leave feeling more drained and somehow lonelier than before.
 
-The worst part is how it messes with my sense of reality. When there’s no one who really sees you, it’s hard to tell who you actually are anymore.
+I don’t know if this is just who I am now, or if I’m missing some basic social skill everyone else learned a long time ago. It’s like there’s a version of me that could connect and be known, but it’s stuck under layers of awkwardness, fear of rejection, and just…tiredness.
+
+Anyway, I’m not sure what I’m hoping for by posting this. I just needed to put into words how isolating it feels to be surrounded by people and still feel like a ghost.

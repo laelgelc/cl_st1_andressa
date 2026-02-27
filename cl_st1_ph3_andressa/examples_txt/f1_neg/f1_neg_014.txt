@@ -1,10 +1,8 @@
 Text ID: t003196
 Group: human
 Model: human
-Folder: corpus/05_human
-File:   t121_human.txt
+File:   corpus/05_human/t121_human.txt
 
 Score (f1_neg): 1
 Loading words (f1_neg), N=1: f2 score: 0
-
 I m a female. 45 years old. I m desperate because of loneliness

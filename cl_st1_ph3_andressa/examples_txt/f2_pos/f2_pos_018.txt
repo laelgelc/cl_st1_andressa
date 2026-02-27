@@ -1,12 +1,10 @@
 Text ID: t004497
 Group: human
 Model: human
-Folder: corpus/05_human
-File:   t2402_human.txt
+File:   corpus/05_human/t2402_human.txt
 
 Score (f2_pos): 5
 Loading words (f2_pos), N=5: shit, man, reason, guy, experience
-
 I'm not shy, I'm not scared of people, I'm generally a confident creature. I like life on the wild side, prefer doing whatever I want - I'm the kind of person people have referred to as the "cool friend"; you know, the guy with their own world going on, is weird and doesn't care, collects shit, makes their own rules; can launch into a deep conversation on multiple topics, certainly has secrets, not remotely inside of the box - I'm one of those kinds of people.  Don't care about social norms.  My problem is I'm lonely as fuck for the opposite reason to many of you guys -- everyone's insecure, scared, and lacks any personality, and the outgoing people are all clones of each-other who feel intimated by me \[by their own admission.\] It's been like this for years, all I find are people scared of being themselves who treat me like I'm weird or avoid talking to me. Fuck 'em as they're not my type anyway --   
  Where the fuck do I find people like me? like, just going around. Online?
 

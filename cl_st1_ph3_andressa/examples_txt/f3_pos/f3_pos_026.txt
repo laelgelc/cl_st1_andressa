@@ -1,20 +1,14 @@
-Text ID: t000036
-Group: generic_gpt
+Text ID: t007889
+Group: summary_guided_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t036_gpt.txt
+File:   corpus/05_summary_guided_gpt/t323_gpt.txt
 
-Score (f3_pos): 2
-Loading words (f3_pos), N=2: year, situation
+Score (f3_pos): 6
+Loading words (f3_pos), N=6: health, depression, support, year, relationship, love
+I’m 20 and I feel like I’ve been stuck in the same dark place for 3–4 years now. The depression just never really went away. I still have all these negative thoughts, I feel emotionally numb most of the time, and even my physical health has gotten worse. I’m tired all the time, and it feels like my body is just as exhausted as my mind.
 
-I don’t know how to explain this without sounding dramatic, but lately it feels like I’m disappearing from my own life.
+What hurts the most is how alone I feel in all of this. My family has never really given me the care or support I needed. It’s like my feelings don’t matter, like I’m just… there. My best friends, the people I thought would always be there, abandoned me when I was at my lowest. Now I don’t really have any good friends left. It feels like everyone just slowly drifted away when I needed them the most.
 
-I’m not completely isolated in the obvious sense. I have coworkers I chat with, a family group chat that occasionally pings, a couple of old friends I exchange memes with. On paper, it looks like I’m “connected.” But none of it feels like it actually reaches me. It’s like I’m standing behind glass, watching myself go through the motions of being a person among other people.
+I’m in a relationship, but even that makes me feel lonely. My boyfriend always seems to prioritize his friends over me. I feel taken for granted, like I’m just an option. He keeps disappointing me, even on days that should matter, like my birthday. He doesn’t really understand me, especially when it comes to how I feel about his friendships and how they make me feel so unimportant.
 
-The worst part is how ordinary everything looks from the outside. I go to work, I answer emails, I say “good weekend?” on Mondays and “have a good one” on Fridays. I laugh at the right times. But underneath, there’s this constant ache that nobody really knows me, and I’m not sure I even remember how to let them.
-
-I used to have deeper friendships, but they faded slowly—different cities, different schedules, people pairing off and having kids. I can’t point to a single moment where I “lost” anyone; it was more like we all just stopped being central to each other’s lives. Now, every time I think about reaching out, I feel weirdly ashamed, like I’m trying to resurrect something that quietly died years ago.
-
-I try to be proactive—join things, say yes to invitations when they appear—but conversations never seem to get past the surface. I leave social situations feeling more alone than before, because it reminds me how far I am from the kind of closeness I actually want.
-
-Most days I just come home, sit in the quiet, scroll through other people’s lives, and wonder when exactly mine started feeling like a waiting room.
+I don’t know how I’m supposed to respond to his behavior anymore. Part of me wants to leave, but another part is scared of being even more alone. I just wish I had someone who truly understood me and actually cared, someone who wouldn’t make me feel like I’m asking for too much just by wanting to be loved and prioritized.

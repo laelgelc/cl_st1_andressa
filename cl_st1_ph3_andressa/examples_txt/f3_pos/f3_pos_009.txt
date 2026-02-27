@@ -1,12 +1,10 @@
 Text ID: t003401
 Group: human
 Model: human
-Folder: corpus/05_human
-File:   t1406_human.txt
+File:   corpus/05_human/t1406_human.txt
 
 Score (f3_pos): 6
 Loading words (f3_pos), N=6: health, support, year, love, idea, problem
-
 Hey everyone,
 
 I want to share something personal. For the past year, I've been working on something that came from my own experience with loneliness and not feeling truly heard, even when surrounded by people.

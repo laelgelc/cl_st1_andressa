@@ -1,10 +1,8 @@
 Text ID: t004626
 Group: human
 Model: human
-Folder: corpus/05_human
-File:   t251_human.txt
+File:   corpus/05_human/t251_human.txt
 
 Score (f1_neg): 1
 Loading words (f1_neg), N=1: f2 score: 1
-
 today flopped but ill girlboss my way back into consistency again tomorrow

@@ -1,10 +1,14 @@
-Text ID: t002975
-Group: human
-Model: human
-Folder: corpus/05_human
-File:   t1019_human.txt
+Text ID: t007758
+Group: summary_guided_gpt
+Model: gpt
+File:   corpus/05_summary_guided_gpt/t2771_gpt.txt
 
-Score (f2_neg): -1
-Loading words (f2_neg), N=1: gap
+Score (f2_neg): -2
+Loading words (f2_neg), N=2: noise, mix
+I keep seeing people mix up being a loner with being lonely, and it really bothers me. For me, being a loner is a choice. I actually like being on my own. I need that time to decompress, think, and just feel at peace without noise or expectations from other people.
 
-I am 32 female married with 3 bio kids 1 step. I have friends yes and we do stuff together throughout the werk when we can but I still feel empty and alone. I have a husband but hes at work  5 days a week 8+ hours a day. And on the days off hes off with his friends so maybe a day i c him in the week. Once again i feel very alone and empty. I should be grateful but that doesnt chase this feeling away. What do other people do to fill the lonely empty gap.
+Social media and society in general push this idea that you have to have a huge friend group, constant plans, and an “active social life” to be happy. I used to buy into that and feel like there was something wrong with me for not living that way. I don’t believe that anymore.
+
+It’s perfectly fine to have just a few friends and still enjoy your life. Some of my favorite moments are things I do alone: walking in the woods, feeling the quiet around me, or looking up at the stars and just existing for a while. There’s nothing sad or broken about that.
+
+If you’re a loner, you’re not automatically “weird” or “messed up.” Don’t let other people’s comments or the pressure from social media get in your head. It’s okay to choose calm and peace over constant socializing. There’s value in that too.

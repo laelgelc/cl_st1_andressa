@@ -1,10 +1,8 @@
 Text ID: t002080
 Group: generic_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t2080_gpt.txt
+File:   corpus/05_generic_gpt/t2800_gpt.txt
 
 Score (f2_neg): -3
 Loading words (f2_neg), N=3: script, role, mix
-
-I’m surrounded by people but feel invisible, like no one truly knows me.
+I’m surrounded by people but feel completely disconnected. Conversations feel scripted, like I’m playing a role instead of being myself. Friends are more like acquaintances, family doesn’t really know me, and I’m not sure I know myself anymore. It’s a weird mix of being visible and utterly unseen at the same time.

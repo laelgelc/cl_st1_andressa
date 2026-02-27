@@ -1,10 +1,8 @@
 Text ID: t003817
 Group: human
 Model: human
-Folder: corpus/05_human
-File:   t1784_human.txt
+File:   corpus/05_human/t1784_human.txt
 
 Score (f1_neg): 1
 Loading words (f1_neg), N=1: f2 score: 0
-
 From my dog and stray dogs. Oh, and from AIs. The only words I can get.

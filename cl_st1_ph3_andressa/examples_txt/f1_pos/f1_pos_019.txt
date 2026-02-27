@@ -1,18 +1,18 @@
 Text ID: t001076
 Group: generic_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t1076_gpt.txt
+File:   corpus/05_generic_gpt/t1888_gpt.txt
 
 Score (f1_pos): 38
 Loading words (f1_pos), N=38: paper, group, life, text, fine, work, head, home, part, outside, job, people, scroll, talk, chat, something, message, everyone, wall, silence, family, medium, post, glass, photo, time, night, anyone, while, anything, place, friend, interaction, character, word, background, partner, contact
+I’ve been feeling this weird combination of invisible and “too much” at the same time, and I don’t really know where else to put it, so here it goes.
 
-I’m starting to realize I don’t actually know how to connect with people, and I’m not sure when that happened.
+On paper, my life looks fine. I have a job, a place to live, people I can technically contact if I need something. But I don’t feel actually *known* by anyone. Most of my interactions are surface-level: work small talk, occasional memes in group chats, the “we should catch up sometime” messages that never turn into anything real. I keep thinking I’m part of people’s lives, then I realize I’m more like a background character.
 
-I have acquaintances, coworkers, people I can joke with. But it all feels like acting. I can do small talk, I can be “pleasant,” but the moment it needs to go deeper, I freeze. I either overshare something weird and watch the mood die, or I keep it surface-level until the conversation slowly runs out of oxygen.
+I’ve noticed that when I’m around people, I feel lonelier than when I’m alone. It’s like there’s this glass wall between me and everyone else. I can see them laughing and connecting, but I can’t seem to join in properly. I either talk too much because I’m nervous and trying to fill the silence, or I shut down completely and just listen, then go home and overanalyze every word I said.
 
-Most days I go home to a quiet room, scroll through my phone, and feel this heavy ache in my chest that I can’t really describe to anyone. I’ll see other people making plans, posting photos, talking about “the group chat,” and I realize I’m nobody’s first choice. Not even second. I’m just… there, on the edge of things.
+I also feel like I missed some critical social development stage. Other people seem to just know how to maintain friendships, how often to text, how to ask to hang out without sounding desperate or annoying. For me, every message feels like I’m imposing. I wait for people to reach out first, they don’t, and then I use that as proof that I don’t matter that much to them.
 
-What messes with me is that I’m not completely isolated. I “know” people. They’d say I’m nice, probably. But no one really knows me. And I don’t know how to let them. Or maybe I did once and forgot how.
+Nights are the worst. I lie in bed scrolling, seeing people posting photos with their friends, partners, families. I know social media is curated, but it still stings. I keep thinking, “No one is thinking about me right now. If I disappeared, it would take a while before anyone noticed.”
 
-Sometimes I wonder if this is just how it’s going to be: surrounded by people, but still somehow alone in the middle of everything.
+I’m not even sure what I’m hoping for by posting this. I guess I just wanted to put it somewhere outside my own head for once.

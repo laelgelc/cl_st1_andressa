@@ -1,12 +1,12 @@
-Text ID: t003080
-Group: human
-Model: human
-Folder: corpus/05_human
-File:   t1114_human.txt
+Text ID: t007301
+Group: summary_guided_gpt
+Model: gpt
+File:   corpus/05_summary_guided_gpt/t2356_gpt.txt
 
 Score (f2_neg): -2
-Loading words (f2_neg), N=2: role, emptiness
+Loading words (f2_neg), N=2: noise, emptiness
+I live mostly off the grid in the Canadian forest, and even out here, away from the noise, loneliness still finds me sometimes. I don’t think anyone is immune to it, especially introverts. What I’ve learned is that if I just sit in it too long, it can start to feel like depression creeping in.
 
-**Alone** means being by oneself and is a physical or existential state. It can be chosen and is often valued for its role in self-reflection and authenticity.
+To keep that from happening, I try to stay active in small, simple ways. I play music, make a bit of art, move my body, and spend a lot of time just observing nature – the trees, birds, changing light. Those things give me a sense of connection, even when I’m physically alone.
 
-**Loneliness** is an emotional state characterized by inner emptiness and a sense of disconnection. Loneliness can exist even in the presence of others. Philosophically, **aloneness leads to self-awareness**, while **loneliness leads to alienation**.
+I also avoid the stuff that seems to pull me down: alcohol, drugs, smoking, overeating, dark or sad media, and social media. They all seem to amplify the emptiness. I try to focus on maintaining positive thoughts instead, even if it’s just appreciating a quiet moment or a sunset through the trees.

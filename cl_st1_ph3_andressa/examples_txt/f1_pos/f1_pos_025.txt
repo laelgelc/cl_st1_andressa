@@ -1,18 +1,16 @@
-Text ID: t004204
-Group: human
-Model: human
-Folder: corpus/05_human
-File:   t2136_human.txt
+Text ID: t008513
+Group: summary_guided_gpt
+Model: gpt
+File:   corpus/05_summary_guided_gpt/t947_gpt.txt
 
-Score (f1_pos): 22
-Loading words (f1_pos), N=22: life, fine, home, show, people, talk, something, ache, everyone, silence, time, thing, kind, room, someone, story, while, way, moment, question, space, background
+Score (f1_pos): 26
+Loading words (f1_pos), N=26: group, life, text, part, coworker, job, people, talk, something, day, everyone, person, wall, silence, family, time, plan, kind, someone, edge, friend, moment, character, connection, nothing, partner
+I don’t even know where to start with this, other than that I feel like something went fundamentally wrong with me a long time ago and I never caught up.
 
-I lost my last grandma two months before this new year, and it’s been sitting heavy on me in this strange, quiet way. We weren’t super close, and she wasn’t the “favourite” grandma people always talk about. But grief doesn’t care about that. It just shows up, uninvited, and takes space you didn’t even know you had. Not only this but hearing uni classmates of mine mentioning that thue haven't been home in a while and how they miss their parents and grandparents since they're not from Bucharest but other zones of Romania..makes me feel even emptier as time goes on, while I'm trying to handle grief in my own way.😔
+I’ve basically had no friends since kindergarten. Through elementary school, high school, community college, and then a 4‑year university, I was always physically around groups of people but never actually *in* them. They’d talk, laugh, make plans, and I’d just be there on the edge, never invited, never asked, and too awkward and scared to try to insert myself. It felt like there was some invisible wall between me and everyone else.
 
-What’s been hitting me hardest is how it creeps into the small moments: when I’m walking home, when I’m washing dishes, when I’m trying to fall asleep. It’s not the dramatic kind of sadness people expect. It’s more like this dull ache that keeps reminding me she’s not here anymore. She was just… always there. A steady background presence I never questioned. And now there’s this weird silence where she used to be, like a room in my mind that suddenly went dark.
+Around 2019–2020 it got so bad that I printed out a video game character’s face, taped it to a box, and talked to it. That was the only “person” I had to talk to. I knew it was sad and ridiculous, but the silence was worse.
 
-I didn’t realize how much those quiet, familiar presences matter until they’re gone. I didn’t expect to miss her voice, or the way she repeated the same stories, or even the way she’d forget things mid‑sentence. But I do. And it’s confusing, because we weren’t incredibly close, yet somehow her absence feels like a piece of my life got pulled out without warning.
+Now I’m 28. I finished a 4‑year degree, I have a job, and somehow nothing has changed where it actually matters. I still have no one. No actual friends, no one I can text, no one who would notice if I disappeared. I’ve never been on a date. Everyone else seems to be moving through life stages—parties, relationships, trips, all these “firsts”—and I can literally count my own “special” moments on one hand each year.
 
-It’s like something shifted inside me, and I can’t shift it back. Losing her broke something in me I didn’t expect. I didn’t need her to be my favourite for her absence to feel unbearable.
-
-I don’t really know how to talk about this in real life. Everyone around me seems to have moved on, or they assume I’m fine because “we weren’t that close.” But I’m not fine. Not really. So I’m putting it here, hoping someone out there understands what it’s like to miss someone you weren’t even sure you’d miss this much.
+When I go out and see people with friends, partners, families, I feel like I don’t belong to the same species. I feel like people see me as an asshole, or just someone not worth knowing. The worst part is how starved I am for any kind of connection. A coworker making a bit of small talk with me can make my entire day, and that just makes me feel even more like a loser.

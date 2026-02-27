@@ -1,12 +1,10 @@
 Text ID: t005521
 Group: human
 Model: human
-Folder: corpus/05_human
-File:   t810_human.txt
+File:   corpus/05_human/t810_human.txt
 
 Score (f3_pos): 6
 Loading words (f3_pos), N=6: top, fact, year, relationship, love, problem
-
 (This is translated with GPT because I don’t speak English very well)
 
 I’m (20M) and today I feel lonelier than usual. Today is my birthday and it feels strange. Only one person congratulated me, and none of my family has. On top of that, I’ve been sick with the flu for 4 days, so I don’t even have the energy to do anything.  

@@ -1,14 +1,16 @@
-Text ID: t001082
-Group: generic_gpt
+Text ID: t006292
+Group: summary_guided_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t1082_gpt.txt
+File:   corpus/05_summary_guided_gpt/t1439_gpt.txt
 
-Score (f3_pos): 3
-Loading words (f3_pos), N=3: lot, idea, problem
+Score (f3_pos): 7
+Loading words (f3_pos), N=7: health, issue, pain, top, lot, relationship, love
+I’m 21 and for as long as I can remember I’ve had this feeling that I don’t want to live past 30. It used to be more of a vague thought in the background, but since my ex died it’s become so much stronger and scarier. I still thought of him as my boyfriend. I loved him so much, even though our relationship really messed me up and left me with a lot of emotional damage and self-esteem issues that I still carry.
 
-I’ve been feeling this weird mix of invisible and exposed lately. I’m surrounded by people most days – coworkers, acquaintances, family chats – but it all feels like I’m acting out a script. I say the right things, laugh at the right moments, and then go home and feel like I never actually existed in anyone’s mind.
+His family was really supportive at first, but now they’re upset with me and somehow I’ve become this person in the middle of their conflicts. They come to me to vent or expect me to help fix things between them, but no one seems to think, “Maybe I should ask how she’s doing.” It feels like I’m just here to absorb everyone else’s pain and drama.
 
-I don’t really have “a person.” No one I can message without overthinking it, no one who knows what my day-to-day life actually looks like. I scroll through my phone and realize most of my conversations are just logistics or memes, nothing real. When something hurts or something good happens, I catch myself thinking, “Who would I even tell?”
+My friends don’t really reach out unless I text first. If I stop talking, everything just goes quiet. I don’t have a car, a job, money, or a place of my own. I feel like I have nothing going for me and no real future to look forward to.
 
-What makes it worse is feeling like I used to be better at this. I used to have close friends. Now it’s like the older I get, the harder it is to break past the surface. I’m tired of pretending this doesn’t bother me.
+On top of that, my body feels like it’s falling apart. I’m exhausted all the time, my physical health is a mess, and emotionally I’m all over the place. I have BPD and sometimes I can manage it okay, but other times it completely runs my life. My relationship with my family is strained too, so I don’t really feel like I have a safe place anywhere.
+
+I can’t eat properly, I can’t sleep, I can’t relax or enjoy the things I used to like. I’m trying to cope, but I keep wondering what the point of any of this is. I feel so alone, and it honestly scares me how alone I am.

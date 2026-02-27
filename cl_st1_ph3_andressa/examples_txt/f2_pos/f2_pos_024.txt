@@ -1,16 +1,16 @@
-Text ID: t001292
-Group: generic_gpt
+Text ID: t007527
+Group: summary_guided_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t1292_gpt.txt
+File:   corpus/05_summary_guided_gpt/t2561_gpt.txt
 
-Score (f2_pos): 2
-Loading words (f2_pos), N=2: reason, experience
+Score (f2_pos): 5
+Loading words (f2_pos), N=5: heart, college, guy, girl, school
+I’m a 21-year-old guy in college and I feel like my brain is wired in the worst possible way for being alone.
 
-I don’t really know how to explain this without sounding dramatic, but lately it feels like I’m fading out of my own life.
+Most of the time I just glance at girls I find attractive and then look away immediately, because I’m shy and don’t want to be creepy. But if a girl actually talks to me, even just a normal conversation, it’s like something snaps. I start imagining this whole future with her after barely knowing anything about her, and then it takes me weeks to calm down and accept that nothing is going to happen.
 
-I have people around me—coworkers, some old friends I text occasionally, family who check in—but none of it feels like actual connection. Conversations stay on the surface: work, weather, memes. I can’t remember the last time someone asked how I really am and actually wanted the full answer.
+I already have a crush on a girl in one of my classes, and it’s the same thing: I barely know her, but my mind runs away with it. Then after my final exam, a really attractive prospective student came up to me and asked me about the school. I was exhausted, had a headache, my heart was racing, and I’m pretty sure I gave awkward, low-effort answers. Now I can’t stop thinking about her either. I feel like I’d choose this new girl over my current crush even though I literally met her once.
 
-I’ve tried joining groups, going to events, being “social,” but I always end up on the edge of things, like I’m watching everyone else from behind glass. I leave feeling more alone than when I arrived.
+I keep replaying the interaction and wishing I’d done better, convinced her to attend so I could see her again. But I know that’s not realistic.
 
-What scares me is how normal this is starting to feel. Like loneliness is just the background noise of my life now, and I’m not sure how to turn it down.
+I don’t know how to deal with this. How do you handle being this alone without clinging to every tiny interaction? And how do you actually find someone when your brain turns every brief conversation into a whole fantasy relationship?

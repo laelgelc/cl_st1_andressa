@@ -1,10 +1,16 @@
 Text ID: t000339
 Group: generic_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t339_gpt.txt
+File:   corpus/05_generic_gpt/t1218_gpt.txt
 
 Score (f3_neg): -1
 Loading words (f3_neg), N=1: notification
+I don’t really know how to explain this without sounding dramatic, but lately it feels like I’m disappearing in slow motion.
 
-I’m surrounded by people daily, yet every interaction feels like background noise.
+On paper, I’m “fine.” I have a job, I answer emails, I show up to meetings, I say “yeah, weekend was good, you?” and people nod and move on. I scroll group chats, occasionally react with a thumbs-up, but I can’t remember the last time I actually felt connected to anyone. It’s like I’m always slightly behind a pane of glass watching everyone else live in real time.
+
+I used to have friends I’d message just to share some random thought. Now I stare at the chat box, type something, delete it, and convince myself they’re too busy or I’d just be annoying. Days go by and the only notifications I get are spam and work stuff. I tell myself I’m “introverted” or “independent,” but the silence feels less like peace and more like neglect.
+
+The worst part is how it messes with how I see myself. When no one really knows you beyond small talk, you start wondering if there’s even anything worth knowing. I’ve become weirdly self-conscious about everything—my voice, my laugh, the way I stand—like I’m rehearsing for an audience that never actually shows up.
+
+I don’t even know what I’m hoping for posting this. Maybe just to put into words that I exist, that I’m here, even if it feels like no one would really notice if I wasn’t.

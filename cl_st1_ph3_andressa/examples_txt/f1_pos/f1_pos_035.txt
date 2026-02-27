@@ -1,0 +1,16 @@
+Text ID: t004204
+Group: human
+Model: human
+File:   corpus/05_human/t2136_human.txt
+
+Score (f1_pos): 22
+Loading words (f1_pos), N=22: life, fine, home, show, people, talk, something, ache, everyone, silence, time, thing, kind, room, someone, story, while, way, moment, question, space, background
+I lost my last grandma two months before this new year, and it’s been sitting heavy on me in this strange, quiet way. We weren’t super close, and she wasn’t the “favourite” grandma people always talk about. But grief doesn’t care about that. It just shows up, uninvited, and takes space you didn’t even know you had. Not only this but hearing uni classmates of mine mentioning that thue haven't been home in a while and how they miss their parents and grandparents since they're not from Bucharest but other zones of Romania..makes me feel even emptier as time goes on, while I'm trying to handle grief in my own way.😔
+
+What’s been hitting me hardest is how it creeps into the small moments: when I’m walking home, when I’m washing dishes, when I’m trying to fall asleep. It’s not the dramatic kind of sadness people expect. It’s more like this dull ache that keeps reminding me she’s not here anymore. She was just… always there. A steady background presence I never questioned. And now there’s this weird silence where she used to be, like a room in my mind that suddenly went dark.
+
+I didn’t realize how much those quiet, familiar presences matter until they’re gone. I didn’t expect to miss her voice, or the way she repeated the same stories, or even the way she’d forget things mid‑sentence. But I do. And it’s confusing, because we weren’t incredibly close, yet somehow her absence feels like a piece of my life got pulled out without warning.
+
+It’s like something shifted inside me, and I can’t shift it back. Losing her broke something in me I didn’t expect. I didn’t need her to be my favourite for her absence to feel unbearable.
+
+I don’t really know how to talk about this in real life. Everyone around me seems to have moved on, or they assume I’m fine because “we weren’t that close.” But I’m not fine. Not really. So I’m putting it here, hoping someone out there understands what it’s like to miss someone you weren’t even sure you’d miss this much.

@@ -1,16 +1,20 @@
 Text ID: t001905
 Group: generic_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t1905_gpt.txt
+File:   corpus/05_generic_gpt/t2641_gpt.txt
 
 Score (f1_pos): 41
 Loading words (f1_pos), N=41: group, life, text, fine, work, head, home, coworker, outside, people, scroll, talk, chat, phone, message, weekend, day, person, version, silence, medium, post, glass, time, night, plan, anyone, kind, room, story, end, while, everything, way, question, interaction, acquaintance, space, background, conversation, surface
+I don’t really know how to talk about this in real life, so I’m dumping it here instead.
 
-I’ve been feeling like I’m slowly fading out of everyone’s peripheral vision.
+Lately I’ve been feeling this weird combination of being “connected” and completely alone at the same time. I have people I message, group chats that ping all day, social media feeds that never end, but when I close my phone, the silence in my room feels almost physical. It’s like all those little interactions are just background noise, and underneath it there’s this heavy, empty space.
 
-I have people around me—coworkers, acquaintances, even family—but I don’t feel actually *seen* by any of them. Conversations stay on the surface: work, weather, random memes. I can’t remember the last time someone asked how I was and actually wanted a real answer.
+I’m not totally isolated. I have coworkers, some acquaintances, people I can be “friendly” with. But I don’t feel known by anyone. Conversations stay on the surface: work, memes, weekend plans. I can be standing in a room full of people and feel like I’m behind glass. They see a version of me, but it’s like I’m not really there.
 
-What bothers me most is how invisible this all is from the outside. I go to work, I respond in group chats, I smile when I’m supposed to. No one would guess that most nights I just sit in my room, scrolling and hoping someone will message first.
+I’ve tried to “fix” it in the ways you’re supposed to. I joined a hobby group. I go to social events sometimes, even when I don’t feel like it. I make small talk, ask questions, try to be interested. Then I come home and feel more drained and alone than I did before, because it just reminds me that I don’t really belong anywhere. I’m always the extra person, the one who’s there but not essential, the one people are fine with but wouldn’t really miss.
 
-I’m not even sure what I’m looking for anymore. Just some proof that I exist in someone’s mind when I’m not physically in front of them.
+What bothers me most is how it’s changing me. I can feel myself getting quieter, more withdrawn. I start second-guessing everything I say, assuming people are just being polite. I replay interactions in my head and pick apart every awkward pause. Sometimes I cancel plans last minute because the idea of sitting in a group and still feeling lonely is somehow worse than just staying home.
+
+Nights are the hardest. That’s when it hits me that no one is going to text to check in, no one is wondering how my day went, no one is saving stories to tell me later. I scroll, I watch random videos, I listen to podcasts just to have some kind of human voice in the background. Then I wake up and do it all again.
+
+I don’t really know what I’m expecting by posting this. I just needed to put it somewhere outside my own head for a while.

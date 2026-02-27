@@ -1,12 +1,10 @@
 Text ID: t003424
 Group: human
 Model: human
-Folder: corpus/05_human
-File:   t1427_human.txt
+File:   corpus/05_human/t1427_human.txt
 
 Score (f2_pos): 5
 Loading words (f2_pos), N=5: man, heart, woman, experience, school
-
 Hey,
 
 I'm a 33yo male, no partner and I lost my job. I haven't found a job in half a year.

@@ -1,12 +1,10 @@
 Text ID: t003363
 Group: human
 Model: human
-Folder: corpus/05_human
-File:   t1371_human.txt
+File:   corpus/05_human/t1371_human.txt
 
 Score (f3_pos): 8
 Loading words (f3_pos), N=8: health, depression, top, year, lot, love, idea, problem
-
 
 The first time I ever felt in love, it was someone I met when I was 12. Even now 20 years later, I think about him and how much influence that one year had on me. 
 

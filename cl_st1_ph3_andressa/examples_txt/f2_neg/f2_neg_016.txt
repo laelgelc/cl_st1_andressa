@@ -1,10 +1,14 @@
 Text ID: t000169
 Group: generic_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t169_gpt.txt
+File:   corpus/05_generic_gpt/t1063_gpt.txt
 
 Score (f2_neg): -3
 Loading words (f2_neg), N=3: gap, role, errand
+I’ve been feeling like a background character in my own life lately.
 
-I’m surrounded by people and still feel like a ghost. I have coworkers, acquaintances, even family nearby, but every interaction feels shallow, like we’re all just reading from a script. I crave someone who actually wants to know me, not just the surface version. I’m tired of being “fine” all the time. It’s starting to feel like I don’t really exist to anyone.
+I go through the motions—work, errands, scrolling on my phone—but it all feels like I’m moving behind glass. People talk to me, I respond, we joke around, but it never feels like it actually reaches me. It’s like I’m playing the role of “normal person” and everyone else believes it except me.
+
+What bothers me most is how hard it is to admit this out loud. I have “friends,” but they’re more like people I orbit around than people I’m truly close to. I don’t know how to bridge that gap without sounding needy or weird. I keep waiting for someone to notice that I’m not really okay, but at the same time I hide it so well that no one could.
+
+There’s this quiet panic underneath everything: what if this is just how it’s going to be.

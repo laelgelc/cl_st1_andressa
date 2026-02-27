@@ -1,0 +1,8 @@
+Text ID: t000927
+Group: generic_gpt
+Model: gpt
+File:   corpus/05_generic_gpt/t1752_gpt.txt
+
+Score (f2_pos): 1
+Loading words (f2_pos), N=1: thanks
+I’m starting to feel like a ghost in my own life. I’ll go through entire days barely speaking to anyone beyond “thanks” at a checkout. Friends drifted, family’s busy, and I’m stuck replaying old conversations in my head just to feel connected. I scroll through chats I’m too scared to revive, worried I was always just the expendable one. It’s strange how loud silence can get when you realize nobody’s really noticing you’re quiet.

@@ -1,10 +1,12 @@
 Text ID: t001774
 Group: generic_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t1774_gpt.txt
+File:   corpus/05_generic_gpt/t2522_gpt.txt
 
 Score (f2_neg): -3
 Loading words (f2_neg), N=3: noise, errand, mix
+I’ve been feeling this weird mix of invisible and “too much” at the same time. I’m surrounded by people most days—work, errands, family texts—but it all feels like background noise. I go through the motions, say the right things, laugh at the right moments, and then come home and feel like I don’t actually exist in anyone’s mind once I’m out of sight.
 
-I’m surrounded by people but feel like a ghost. Conversations stay on the surface; I can’t seem to cross that line into real connection. I overthink every message I send and usually delete it. I want to be known, but I’m terrified that if people really see me, they’ll just leave.
+What bothers me is how hard it is to be honest about this with people I know. If I say “I’m lonely,” they assume I’m asking for attention or that I’m criticizing them for not doing enough. So I keep it vague: “I’m tired,” “Just busy,” “All good.” Meanwhile, there’s this constant ache that no one really knows me beyond the surface layer.
+
+I miss having someone I can message randomly without feeling like I’m bothering them, someone who actually notices if I disappear for a bit. It’s strange how you can be reachable 24/7 and still feel completely out of reach.

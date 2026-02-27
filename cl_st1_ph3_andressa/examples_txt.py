@@ -2,23 +2,15 @@
 """
 Generate plaintext example files for each factor pole.
 
-For each factor:
-    - Positive pole: select top 20 texts from group with highest mean
-    - Negative pole: select top 20 texts from group with lowest mean
-    - All other groups: 10 texts each
-    - Skip any file with factor score == 0
+ALIGNMENT NOTE
+--------------
+This script is intentionally aligned with `examples.py` for selection logic:
+    - reads the same scores table (scores_only)
+    - uses the same `group` values from SAS output (no re-inference)
+    - ranks groups using means_group_f<n>.tsv
+    - selects: top group → 20, others → 10 each, skipping score==0
 
-For each selected text output:
-    1. Metadata header:
-         - tid (t000001 etc.)
-         - group
-         - model
-         - folder + filename
-    2. Score and loading words
-    3. FULL transcript (human or AI)
-
-Output written as:
-    examples_txt/f{factor}_{pole}/f{factor}_{pole}_001.txt
+It differs only in *rendering/output* (plaintext + full transcript).
 """
 
 import re
@@ -26,46 +18,51 @@ import pandas as pd
 from pathlib import Path
 
 # ============================================================
-# PATHS
+# PATHS (match examples.py for selection inputs)
 # ============================================================
-SCORES_FILE = Path("sas/output_cl_st1_ph3_andressa/cl_st1_ph3_andressa_scores.tsv")
+SCORES_FILE = Path("sas/output_cl_st1_ph3_andressa/cl_st1_ph3_andressa_scores_only.tsv")
 MEANS_PATTERN = "sas/output_cl_st1_ph3_andressa/means_group_f{dim}.tsv"
 
-FILE_IDS = Path("file_ids.txt")      # e.g. t000001 -> human/t828_human.txt (project-specific)
+FILE_IDS_PATH = Path("file_ids.txt")          # tid -> relative path-ish (often includes subfolder)
 SCORE_DETAILS = Path("examples/score_details.txt")
 
-FULLTEXT_ROOT = Path("corpus")       # transcripts live under corpus/05_*
+TAGGED_BASE = Path("corpus/07_tagged")        # used for consistent existence/selection behavior
+FULLTEXT_ROOT = Path("corpus")               # transcripts live under corpus/05_*
 OUT_ROOT = Path("examples_txt")
 OUT_ROOT.mkdir(exist_ok=True, parents=True)
 
 # ============================================================
-# LOAD SCORES
+# LOAD FILE-ID → RELATIVE PATH MAP (same approach as examples.py)
 # ============================================================
-scores = pd.read_csv(SCORES_FILE, sep="\t")
-scores.columns = scores.columns.str.lower()
-
-def infer_group(row):
-    if row["model"] == "human":
-        return "human"
-    return f"{row['prompt']}_{row['model']}"
-
-scores["group"] = scores.apply(infer_group, axis=1)
+id_map: dict[str, str] = {}
+with open(FILE_IDS_PATH, encoding="utf-8") as f:
+    for line in f:
+        if not line.strip():
+            continue
+        file_id, rel = line.strip().split(maxsplit=1)
+        id_map[file_id] = rel
 
 # ============================================================
-# LOAD file_ids.txt  (tid_long → relative path or filename)
+# LOAD SCORES (same source + same group semantics as examples.py)
 # ============================================================
-id_long_to_short = {}
-for line in FILE_IDS.read_text(encoding="utf-8").splitlines():
-    if not line.strip():
-        continue
-    longid, shortname = line.split(maxsplit=1)
-    id_long_to_short[longid.strip()] = shortname.strip()
+scores_df = pd.read_csv(SCORES_FILE, sep="\t")
+
+scores_df["group"] = scores_df["group"].astype(str).str.strip()
+scores_df["source"] = scores_df["source"].astype(str).str.strip()
+scores_df["model"] = scores_df["model"].astype(str).str.strip()
+
+# ============================================================
+# FACTOR COUNT
+# ============================================================
+factor_cols = [c for c in scores_df.columns if c.startswith("fac")]
+num_factors = len(factor_cols)
+print(f"Detected {num_factors} factors.\n")
 
 # ============================================================
 # LOAD loading words from examples/score_details.txt
 # ============================================================
-def parse_score_details(path: Path, *, num_factors: int):
-    out = {}
+def parse_score_details(path: Path, *, num_factors: int) -> dict[str, dict[str, list[str]]]:
+    out: dict[str, dict[str, list[str]]] = {}
     txt = path.read_text(encoding="utf-8")
     blocks = txt.split("=============================================")
 
@@ -89,175 +86,197 @@ def parse_score_details(path: Path, *, num_factors: int):
 
     return out
 
-# ============================================================
-# RESOLVE PATHS (Phase 3: human/generic_gpt/summary_guided_gpt)
-# ============================================================
-def _tid_to_tshort(tid: str) -> str | None:
-    """
-    Convert t000001 -> t001
-    """
-    m = re.fullmatch(r"t0*(\d+)", str(tid).strip())
-    if not m:
-        return None
-    return f"t{int(m.group(1)):03d}"
-
-def resolve_paths(tid, row):
-    """
-    Current Phase 3 rules:
-
-      HUMAN:
-        file_ids maps tid -> path-ish value like "human/t828_human.txt"
-        actual file lives under: corpus/05_human/<basename>
-
-      AI (GPT):
-        folder: corpus/05_<prompt>_<model>   e.g. corpus/05_generic_gpt
-        file:   tNNN_<model>.txt            e.g. t001_gpt.txt
-        where tNNN is derived from tid (t000001 -> t001)
-    """
-    model = str(row["model"]).strip().lower()
-    prompt = str(row["prompt"]).strip().lower()
-
-    if model == "human":
-        rel = id_long_to_short.get(tid)
-        if not rel:
-            return None
-        basename = Path(rel).name
-        folder = FULLTEXT_ROOT / "05_human"
-        path = folder / basename
-        return {
-            "kind": "human",
-            "group": "human",
-            "folder": folder,
-            "filename": basename,
-            "path": path,
-        }
-
-    # AI
-    tshort = _tid_to_tshort(tid)
-    if not tshort:
-        return None
-
-    folder = FULLTEXT_ROOT / f"05_{prompt}_{model}"
-    fname = f"{tshort}_{model}.txt"
-    return {
-        "kind": "ai",
-        "group": f"{prompt}_{model}",
-        "folder": folder,
-        "filename": fname,
-        "path": folder / fname,
-    }
-
-# ============================================================
-# MAIN SCRIPT
-# ============================================================
-factor_cols = [c for c in scores.columns if c.startswith("fac")]
-num_factors = len(factor_cols)
-
 loading_words = parse_score_details(SCORE_DETAILS, num_factors=num_factors)
 
-for fnum in range(1, num_factors + 1):
+# ============================================================
+# PATH RESOLUTION
+#   - Use tagged path for existence checks (align with examples.py behavior)
+#   - Use fulltext path for output (corpus/05_*)
+# ============================================================
+def locate_tagged_text(row) -> Path | None:
+    tid = row["filename"]
+    rel = id_map.get(tid)
+    if not rel:
+        return None
 
-    col = f"fac{fnum}"
+    p = TAGGED_BASE / rel
+    if p.exists():
+        return p
 
-    means_df = pd.read_csv(MEANS_PATTERN.format(dim=fnum), sep="\t")
-    group_means = dict(zip(means_df["group"], means_df[f"Mean fac{fnum}"]))
+    # fallback: old behavior if mapping is only a filename
+    return TAGGED_BASE / row["group"] / rel
+
+
+def locate_fulltext(row) -> Path | None:
+    """
+    Try to locate the 'full transcript' corresponding to the same tid.
+
+    We derive the 05_* folder primarily from file_ids.txt mapping:
+      - if rel looks like "<subdir>/<fname>", use corpus/05_<subdir>/<fname>
+      - special-case: <subdir> == "human" -> corpus/05_human/<fname>
+
+    Fallback if mapping is only a filename:
+      - group == "human" -> corpus/05_human/<fname>
+      - else -> corpus/05_<group>/<fname>
+    """
+    tid = row["filename"]
+    rel = id_map.get(tid)
+    if not rel:
+        return None
+
+    rel_path = Path(rel)
+    fname = rel_path.name
+
+    if len(rel_path.parts) >= 2:
+        subdir = rel_path.parts[0]
+        folder = FULLTEXT_ROOT / ("05_human" if subdir == "human" else f"05_{subdir}")
+        return folder / fname
+
+    # mapping did not include a subfolder
+    grp = str(row["group"]).strip()
+    folder = FULLTEXT_ROOT / ("05_human" if grp == "human" else f"05_{grp}")
+    return folder / fname
+
+
+def write_plaintext_example(
+        *,
+        outfile: Path,
+        tid: str,
+        group: str,
+        model: str,
+        fulltext_path: Path,
+        label: str,
+        score_value,
+        lw: list[str],
+) -> None:
+    header: list[str] = []
+    header.append(f"Text ID: {tid}")
+    header.append(f"Group: {group}")
+    header.append(f"Model: {model}")
+    header.append(f"File:   {fulltext_path}")
+    header.append("")
+    header.append(f"Score ({label}): {score_value}")
+    header.append(f"Loading words ({label}), N={len(lw)}: {', '.join(lw)}")
+    header.append("")
+
+    body = fulltext_path.read_text(encoding="utf-8", errors="ignore")
+    outfile.write_text("\n".join(header) + body, encoding="utf-8")
+
+# ============================================================
+# MAIN (selection logic mirrors examples.py)
+# ============================================================
+missing_files: set[str] = set()
+
+for fac_num in range(1, num_factors + 1):
+    col = f"fac{fac_num}"
+
+    means_df = pd.read_csv(MEANS_PATTERN.format(dim=fac_num), sep="\t")
+    group_means = dict(zip(means_df["group"], means_df[f"Mean fac{fac_num}"]))
 
     for pole, ascending in (("pos", False), ("neg", True)):
+        label = f"f{fac_num}_{pole}"
+        print(f"→ {label}: selecting by group means (col={col}, ascending={ascending})")
 
-        label = f"f{fnum}_{pole}"
+        ranked_groups = sorted(
+            group_means.keys(),
+            key=lambda g: group_means[g],
+            reverse=not ascending,
+        )
+        top_group = ranked_groups[0]
+        other_groups = ranked_groups[1:]
+
+        sorted_df = scores_df.sort_values(by=col, ascending=ascending)
+
         out_dir = OUT_ROOT / label
         out_dir.mkdir(parents=True, exist_ok=True)
 
-        print(f"Processing {label}...")
-
-        ranked = sorted(group_means, key=lambda g: group_means[g], reverse=not ascending)
-        top_group = ranked[0]
-        others = ranked[1:]
-
-        df_sorted = scores.sort_values(by=col, ascending=ascending)
         ex_id = 1
 
-        # ---------------------------
-        # TOP GROUP – 20 examples
-        # ---------------------------
-        subset = df_sorted[df_sorted["group"] == top_group]
-
-        for _, row in subset.iterrows():
+        # ---------------------------------------
+        # TOP GROUP — 20 EXAMPLES
+        # ---------------------------------------
+        tg_df = sorted_df[sorted_df["group"] == top_group]
+        for _, row in tg_df.iterrows():
             if row[col] == 0:
                 continue
             if ex_id > 20:
                 break
 
+            # align missing/skip behavior with examples.py: ensure tagged exists
+            tagged_path = locate_tagged_text(row)
+            if not tagged_path or not tagged_path.exists():
+                missing_files.add(row["filename"])
+                continue
+
+            fulltext_path = locate_fulltext(row)
+            if not fulltext_path or not fulltext_path.exists():
+                missing_files.add(row["filename"])
+                continue
+
             tid = row["filename"]
-            resolved = resolve_paths(tid, row)
-            if not resolved:
-                continue
-
-            path = resolved["path"]
-            if not path.exists():
-                continue
-
-            header = []
-            header.append(f"Text ID: {tid}")
-            header.append(f"Group: {resolved['group']}")
-            header.append(f"Model: {row['model']}")
-            header.append(f"Folder: {resolved['folder']}")
-            header.append(f"File:   {resolved['filename']}")
-            header.append("")
-
             lw = loading_words.get(tid, {}).get(label, [])
-            header.append(f"Score ({label}): {row[col]}")
-            header.append(f"Loading words ({label}), N={len(lw)}: {', '.join(lw)}")
-            header.append("")
 
-            body = [path.read_text(encoding="utf-8", errors="ignore")]
-
-            full = "\n".join(header + body)
             outfile = out_dir / f"{label}_{ex_id:03d}.txt"
-            outfile.write_text(full, encoding="utf-8")
-
+            write_plaintext_example(
+                outfile=outfile,
+                tid=tid,
+                group=str(row["group"]).strip(),
+                model=str(row["model"]).strip(),
+                fulltext_path=fulltext_path,
+                label=label,
+                score_value=row[col],
+                lw=lw,
+            )
             ex_id += 1
 
-        # ---------------------------
-        # OTHER GROUPS – 10 each
-        # ---------------------------
-        for grp in others:
-            count = 0
-            subset = df_sorted[df_sorted["group"] == grp]
+        # ---------------------------------------
+        # OTHER GROUPS — 10 EACH
+        # ---------------------------------------
+        for grp in other_groups:
+            grp_df = sorted_df[sorted_df["group"] == grp]
 
-            for _, row in subset.iterrows():
-                if row[col] == 0 or count >= 10:
+            count = 0
+            for _, row in grp_df.iterrows():
+                if row[col] == 0:
+                    continue
+                if count >= 10:
+                    break
+
+                tagged_path = locate_tagged_text(row)
+                if not tagged_path or not tagged_path.exists():
+                    missing_files.add(row["filename"])
+                    continue
+
+                fulltext_path = locate_fulltext(row)
+                if not fulltext_path or not fulltext_path.exists():
+                    missing_files.add(row["filename"])
                     continue
 
                 tid = row["filename"]
-                resolved = resolve_paths(tid, row)
-                if not resolved:
-                    continue
-
-                path = resolved["path"]
-                if not path.exists():
-                    continue
-
-                header = []
-                header.append(f"Text ID: {tid}")
-                header.append(f"Group: {resolved['group']}")
-                header.append(f"Model: {row['model']}")
-                header.append(f"Folder: {resolved['folder']}")
-                header.append(f"File:   {resolved['filename']}")
-                header.append("")
-
                 lw = loading_words.get(tid, {}).get(label, [])
-                header.append(f"Score ({label}): {row[col]}")
-                header.append(f"Loading words ({label}), N={len(lw)}: {', '.join(lw)}")
-                header.append("")
 
-                body = [path.read_text(encoding="utf-8", errors="ignore")]
-
-                full = "\n".join(header + body)
                 outfile = out_dir / f"{label}_{ex_id:03d}.txt"
-                outfile.write_text(full, encoding="utf-8")
+                write_plaintext_example(
+                    outfile=outfile,
+                    tid=tid,
+                    group=str(row["group"]).strip(),
+                    model=str(row["model"]).strip(),
+                    fulltext_path=fulltext_path,
+                    label=label,
+                    score_value=row[col],
+                    lw=lw,
+                )
 
-                ex_id += 1
                 count += 1
+                ex_id += 1
+
+        print(f"  ✓ Wrote {ex_id - 1} examples for {label}\n")
+
+# ============================================================
+# MISSING FILE REPORT (match examples.py behavior)
+# ============================================================
+if missing_files:
+    Path("missing_files.txt").write_text("\n".join(sorted(missing_files)), encoding="utf-8")
+    print("⚠ Missing files written to missing_files.txt")
 
 print("\n✓ Done! All plaintext examples written to examples_txt/")

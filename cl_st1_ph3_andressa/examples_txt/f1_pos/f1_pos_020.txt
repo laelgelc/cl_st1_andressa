@@ -1,16 +1,20 @@
 Text ID: t002774
 Group: generic_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t2774_gpt.txt
+File:   corpus/05_generic_gpt/t918_gpt.txt
 
 Score (f1_pos): 38
 Loading words (f1_pos), N=38: paper, group, life, text, couple, fine, work, home, part, show, coworker, outside, people, scroll, talk, joke, chat, phone, message, weekend, day, person, family, post, glass, photo, anyone, circle, someone, while, everything, place, way, friend, stuff, interaction, week, conversation
+I’m in that weird place where I’m not technically “alone,” but I feel completely disconnected anyway.
 
-I’m starting to realize that I can be surrounded by people and still feel like a ghost.
+On paper, I’m fine. I have coworkers I get along with, a couple of old friends I text occasionally, family I see on holidays. If someone looked at my life from the outside, they’d probably assume I’m just another average person. But most days it feels like I’m living behind glass, watching everything happen without really being part of it.
 
-I have coworkers, acquaintances, people I chat with about TV shows or weekend plans, but it all feels like background noise. No one really knows me, and I’m not sure anyone wants to. I try to keep conversations light because whenever I hint at something deeper, it gets awkward and the topic changes.
+I’ll go through an entire day at work and realize I haven’t had a single conversation that went beyond surface-level stuff: “How was your weekend?” “Busy.” “You see that show?” “Yeah, it was good.” It’s like we’re all reading from a script and I can’t remember my lines. I try to join in, but I feel like I’m forcing myself into a rhythm that doesn’t fit me.
 
-Nights are the worst. I scroll through my phone hoping someone will message first, and when no one does, I tell myself I’m “enjoying alone time,” even though it feels more like being forgotten. I’ve drifted from old friends, and making new ones as an adult feels like trying to break into social circles that already decided they’re full.
+What really gets me is the evenings. I come home, make dinner, and then just…exist. I scroll through my phone, see people hanging out, going places, posting group photos with inside jokes in the captions. I’m happy for them in theory, but it also hits this raw nerve, like I’m the only person who never got invited to the part where life becomes shared.
 
-I don’t even know what I’m asking for. I just needed to put this somewhere.
+I’ve tried to “fix” it in all the ways people suggest. Joined a club. Went to a meetup. Chatted with strangers online. I can make small talk, I can be polite, I can smile and nod, but I never feel that click that tells me, “This person actually sees you.” I leave those interactions feeling more drained than before, like I’ve just proven to myself again that I don’t quite fit anywhere.
+
+I don’t think I want a huge social circle or constant excitement. I just want one or two people I can message without overthinking it, someone who’d notice if I went quiet for a few days and actually care enough to ask why.
+
+It’s strange how you can go weeks without anyone really asking how you’re doing in a way that means, “No, really. Tell me.” And after a while, you start wondering if maybe there isn’t much to tell.

@@ -1,26 +1,22 @@
-Text ID: t003808
-Group: human
-Model: human
-Folder: corpus/05_human
-File:   t1776_human.txt
+Text ID: t006300
+Group: summary_guided_gpt
+Model: gpt
+File:   corpus/05_summary_guided_gpt/t1446_gpt.txt
 
-Score (f1_pos): 22
-Loading words (f1_pos), N=22: group, work, part, job, people, talk, something, weekend, day, everyone, person, post, time, thing, someone, end, everything, place, week, conversation, kid, loneliness
+Score (f1_pos): 27
+Loading words (f1_pos), N=27: life, work, home, people, talk, something, ache, day, everyone, person, family, post, time, thing, plan, anyone, kind, someone, end, while, anything, place, way, friend, feeling, contact, loneliness
+I always feel like this time of year sneaks up on me and knocks the wind out of me, no matter how much I try to brace for it.
 
-Well, what can I say. I wish I never had a reason to create this post but I don't have much to lose, so here I am. I am in my 30s, work in London and have a good job, but that's where the good part ends.
+I was taken out of my home when I was 14 and never ended up going back, never really reunited with my family in any real way. As an adult I tried to have some kind of relationship with my mom, but she’s a narcissist and it just wrecked me emotionally over and over. Going no contact was honestly the best thing I could’ve done for my mental health overall… but it also left this huge, echoing emptiness, especially around the holidays and my birthday.
 
-In general tired of one sided conversations but never getting the reciprocity - be it social events, office lunches/social time etc. In social settings I am often the person to keep the conversation going and take genuine interest in people by asking "how their day was" to "how was the weekend" etc. but rarely do I get asked the same thing with the same interest, they only talk about themselves and that's about it. People form their small groups ignoring me and then eventually I leave with nobody to even notice.
+October through February is just rough. Everywhere I look, I see people with their families, posting pictures, talking about plans, traditions, all of that. I don’t feel jealous of them exactly; it’s more like this deep ache that I never got that and still don’t. Sometimes I catch myself wondering if I’m being punished for something, even though I know logically that’s not how it works. It just feels that way when you’re sitting alone in a quiet place while everyone else seems wrapped up in warmth and togetherness.
 
-In several jobs that I have worked, often I am the one asking people "hey you were sick last week or your kid was unwell sometime ago, how is everything now?" but they rarely ask the same to me but they do ask other people. I just move one.
+I used to numb it with alcohol and weed, but that doesn’t work anymore. If anything it just makes the loneliness louder and the sadness heavier, so I’ve been trying to stay away from that. That leaves me sitting with the feelings, which is… a lot.
 
-If I am in an office social setting and see someone alone and struggling (which is often my case anyways), I make sure that I talk to them and involve them but nobody does that to me.
+I do have friends, but I hate the idea of being the person who gets the “pity invite” to someone else’s family gathering. I don’t want to feel like a burden or the stray they’re taking in for the day. So I tend to just go quiet during the holidays, disappear a bit, pretend it’s just another day.
 
-Genuineness, empathy and sincerity are barely valued by a good chunk of people I have come across in so many places here in London and workplaces are seriously cliquey to a point that I have voluntarily resigned from a few jobs as I couldn't deal with the loneliness and isolation in those places anymore.
+I wish I had a loving family who cared, checked in on me, was proud of me. My dog is honestly one of the main reasons I keep going; he needs me, and there’s something grounding in that.
 
-I am not saying that everyone will have the same experience as me but my experience has unfortunately been this.
+I’ve got older siblings with their own families, but they live far away. I feel forgotten a lot of the time, even though I don’t blame them for living their lives.
 
-I have lived in a few other countries where the local culture was more welcoming and I didn't struggle this much. The loneliness here is insane
-
-In the end what I value is sincerity, down to earth, humbleness and sharing similar interests but most people are not even interested in knowing me, so it never even goes that far. So, at this point I don't even know if there is any solution.
-
-Just wanted to find some comfort here on this sub and check how others have navigated something similar.
+I’m mostly just venting, but I’m also wondering if anyone else feels like this too.

@@ -1,12 +1,10 @@
 Text ID: t004271
 Group: human
 Model: human
-Folder: corpus/05_human
-File:   t2197_human.txt
+File:   corpus/05_human/t2197_human.txt
 
 Score (f3_pos): 6
 Loading words (f3_pos), N=6: depression, issue, year, relationship, idea, problem
-
 Recently, I became more and more confident on the idea that I might have depression, but I never got diagnosed. Among the questions, I answered a 10/10 for how lonely I felt lately. 
 
 It is not a problem of being by myself, I do enjoy my own time. But as someone that has never dated, I am starting to feel more and more as an impostor. 

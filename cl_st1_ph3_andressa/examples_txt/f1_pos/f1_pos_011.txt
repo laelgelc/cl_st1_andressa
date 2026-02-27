@@ -1,12 +1,16 @@
 Text ID: t000159
 Group: generic_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t159_gpt.txt
+File:   corpus/05_generic_gpt/t1054_gpt.txt
 
 Score (f1_pos): 39
 Loading words (f1_pos), N=39: paper, group, life, text, couple, fine, work, head, part, show, coworker, outside, people, talk, joke, chat, phone, something, ache, day, everyone, version, silence, family, glass, motion, plan, anyone, kind, story, end, place, way, friend, connection, background, week, conversation, nothing
+I don’t really know how to explain this without sounding dramatic, but lately it feels like my life is just… background noise. I go through the motions every day – work, commute, phone, sleep – and there’s no one who would really notice if I swapped any of it out for nothing.
 
-I’m starting to feel like a ghost in my own life. I go to work, I come home, I scroll, I sleep. I talk to people, but it’s all surface-level: “How was your weekend?” “Busy.” Smiles, nods, repeat. No one really knows me, and I’m not even sure I remember how to let them.
+I have “people” in my life, technically. Coworkers I can joke with, a family group chat that wakes up on holidays, a couple of old friends I exchange memes with every few weeks. But it never goes deeper. The second the conversation might turn into something real, my brain just shuts down and I default to “yeah, I’m fine, all good.” I don’t know if it’s fear of being a burden or just not trusting that anyone actually wants to know.
 
-The weird part is I’m surrounded by people constantly, but I still feel completely disconnected. Group chats are muted, invitations slowed and then stopped. I keep thinking if I disappeared, the only sign would be my unread notifications quietly expiring.
+The weird part is I crave connection so badly that it’s almost physical. I’ll be on the bus and see two friends laughing together, or a couple half-arguing, half-teasing, and it hits me how far away that kind of closeness feels. It’s like watching a movie through thick glass. I can see it, but there’s no way to touch it.
+
+I’ve tried apps, tried making small talk at events, tried “putting myself out there,” whatever that means. I always end up feeling like an extra in other people’s stories. I’m there to fill a silence, to react, to listen, but not to actually matter. People forget to text back, plans get cancelled, and I’m left staring at my own reflection in my phone screen, wondering what’s so fundamentally off about me.
+
+What messes with my head is that on paper, nothing is horribly wrong. I’m not in crisis. I function. I pay bills. I show up. And yet there’s this constant, low-level ache, like homesickness for a place I’ve never actually been – a version of my life where I’m not always on the outside, watching everyone else belong to each other.

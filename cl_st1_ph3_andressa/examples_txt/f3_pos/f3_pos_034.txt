@@ -1,0 +1,16 @@
+Text ID: t002588
+Group: generic_gpt
+Model: gpt
+File:   corpus/05_generic_gpt/t732_gpt.txt
+
+Score (f3_pos): 3
+Loading words (f3_pos), N=3: year, idea, problem
+I’ve been feeling like I’m slowly disappearing from everyone’s lives, including my own.
+
+I have people around me, technically. Coworkers, a few old friends I text now and then, family chats that light up my phone. But I feel like a background character in all of it. Conversations stay on the surface. I crack jokes, ask questions, listen to their problems, but when it’s my turn to be honest, I freeze up or change the subject. I don’t even know how to talk about what’s going on in my head without feeling like I’m being “too much.”
+
+What’s weird is that I actually crave connection so badly it hurts, but at the same time, I’m exhausted by even the idea of socializing. I’ll turn down invitations and then feel lonely as soon as I’m alone. I scroll through social media and see people hanging out, building memories, having “their people,” and I feel like I missed some invisible sign-up sheet years ago.
+
+I also feel like I don’t have a “role” in anyone’s life. I’m not someone’s go-to person. If I disappeared, people would notice eventually, but I don’t think it would really change their day-to-day. That thought keeps looping in my mind at night when everything is quiet.
+
+I don’t know how to fix this. I don’t even know where to start. I’m tired of pretending I’m fine when I’m not, but I’m also scared that if I show how lonely I really feel, people will pull away even more. So I just keep going through the motions and hoping something shifts, but most days it all feels the same.

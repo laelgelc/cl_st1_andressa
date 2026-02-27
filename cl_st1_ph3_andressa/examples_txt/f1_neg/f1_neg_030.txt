@@ -1,20 +1,8 @@
-Text ID: t002606
-Group: generic_gpt
+Text ID: t007924
+Group: summary_guided_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t2606_gpt.txt
+File:   corpus/05_summary_guided_gpt/t358_gpt.txt
 
 Score (f1_neg): 1
-Loading words (f1_neg), N=1: f2 score: 0
-
-I don’t really know how to explain this feeling without sounding dramatic, but lately it’s like I’m living next to my own life instead of in it.
-
-On paper I’m “fine.” I have a job, a place to live, a couple of people I can text if I really need something. I’m not completely isolated in the stereotypical sense. But I feel like a ghost in every room I walk into. I show up, I do what’s expected, I make the right small talk, and then I go home and it’s just… silence. The kind that feels heavy, not peaceful.
-
-I’ve noticed that I’m always the one who reaches out. I’m the one who sends the “hey, how are you?” messages, the one who suggests meeting up. If I stop initiating, everything just stops. No one checks in. Days go by, then weeks, and my phone is just this quiet rectangle that might as well be a paperweight. It makes me start to wonder if people like me only when I’m convenient or useful, not because they actually want me around.
-
-What makes it worse is that I’ve become hyper-aware of how “extra” I feel when I try to connect. I replay conversations in my head and pick apart every word, every expression from the other person. Did I overshare? Did I talk too much? Did I sound boring? There’s this constant fear that I’m somehow too much and not enough at the same time.
-
-I keep seeing people online talking about their “group” or “best friend since forever” or spontaneous plans, and I genuinely cannot relate. I don’t have that person I can message at 2am when my brain is spiraling. I don’t have anyone who knows the day-to-day details of my life. I just sort of… exist parallel to everyone else.
-
-I’m not even sure what I’m hoping for by posting this. I guess I just needed to put it somewhere outside my own head, because carrying it around alone all the time is starting to feel like dragging a weight I can’t set down anywhere.
+Loading words (f1_neg), N=1: f2 score: 1
+Turned 21 today and it feels like just another crappy day. No one celebrated, my car broke down and I can’t afford to fix it, and now my insurance won’t cover my meds. I feel empty and just want today over.

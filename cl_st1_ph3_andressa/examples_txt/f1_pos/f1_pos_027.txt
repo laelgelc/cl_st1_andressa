@@ -1,70 +1,20 @@
-Text ID: t003176
-Group: human
-Model: human
-Folder: corpus/05_human
-File:   t1201_human.txt
+Text ID: t006673
+Group: summary_guided_gpt
+Model: gpt
+File:   corpus/05_summary_guided_gpt/t1785_gpt.txt
 
-Score (f1_pos): 21
-Loading words (f1_pos), N=21: life, work, show, people, scroll, talk, phone, something, message, everyone, medium, time, room, someone, while, place, way, friend, connection, week, conversation
+Score (f1_pos): 26
+Loading words (f1_pos), N=26: group, life, work, show, coworker, outside, job, people, talk, chat, something, everyone, person, family, time, thing, kind, circle, someone, end, everything, anything, way, friend, stuff, surface
+I feel like I’ve spent my whole life standing just outside of everyone else’s circle.
 
-There comes a point
+It started in grade school. My classmates didn’t talk to me unless they had to, and even some teachers acted like I wasn’t there. The only person who treated me like a real human being was the cleaning lady, who was kind and actually spoke to me. That pretty much set the tone for everything that came after.
 
-Where getting a message on your phone seems like a rare occurrence
+I tried to make friends in childhood, in my teens, and later at university, but everything stayed on the surface. People would chat with me in class or in group projects, but they never actually included me in anything. No one invited me to any graduation parties, and nobody came to mine. It was like I was always “nice enough to talk to,” but never someone they thought to actually spend time with.
 
-You hear the sound of the notification pinging through the room
+Romantic stuff hasn’t gone anywhere either. On the rare occasions someone showed interest, it fizzled out fast. I’ve been ghosted after a few dates more than once. It’s like as soon as someone gets a slightly closer look, they decide I’m not worth sticking around for.
 
-And your heart starts racing, receptors experience dopamine overdrive  
-  
-But it's usually just a meaningless message or some email you've received
+Even therapy hasn’t really worked out. One therapist ended things after about five sessions, and another never even scheduled a second one. That hurt in a different way, like even the people whose job it is to listen and help don’t really want to deal with me.
 
-When that shouldn't be the case
+My relationships with family and coworkers are the same: polite, functional, but shallow. I try to connect, but it never seems to go anywhere deeper. Over time, I’ve gone pretty numb to it. I just expect to be ignored now, and I’m actually surprised when someone doesn’t overlook me.
 
-I experienced this for a while
-
-It may have been somewhat peaceful
-
-But deep down, I realized how lonely it was
-
-When I did the math
-
-I noticed that I hadn't held a decent conversation with someone (not small talk), even in real life, for weeks
-
-Work for 8 hours, small talk with co-worker, leave, sleep, repeat
-
-Life can't be that stale
-
-Old friends are all living in different cities, we hang out 2 or 3 times a year where we meet up in a planned spot
-
-Everyone's busy with their own responsibilities
-
-Few messages that show up on birthdays
-
-And that was pretty much the jist of it
-
-There must be way to change the dynamic
-
-And I acted on it
-
-Stopped waiting for a connection to randomly show up 
-
-Stopped waiting for destiny
-
-Forced it upon myself to start putting myself in places
-
-Where there was a chance of forming a social life
-
-I didn't chase people down
-
-I didn't try to force convos
-
-I'm just a guy who tried to change the conditions I lived in
-
-And slowly
-
-My phone wasn't just a device I used to doom scroll social media before falling asleep anymore
-
-You can do it too
-
-Don't get comfortable with isolation, it may seem peaceful, I get it
-
-But if it's bothering you deep down, do something about it
+At this point, my only real friends are my parents. I’m grateful for them, but it’s hard not to feel like that says something about me that no one else ever really chooses me.

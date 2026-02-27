@@ -1,10 +1,16 @@
 Text ID: t000931
 Group: generic_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t931_gpt.txt
+File:   corpus/05_generic_gpt/t1756_gpt.txt
 
 Score (f3_neg): -2
 Loading words (f3_neg), N=2: notification, weather
+I don’t really know how to explain this without sounding dramatic, but lately it feels like I’m living next to my own life instead of in it.
 
-I’m surrounded by people but feel completely disconnected. Conversations feel scripted, friendships shallow. I miss feeling genuinely seen, like I actually matter to someone.
+On paper, I’m “fine.” I have a job, I reply to messages, I show up when I’m supposed to. People would probably describe me as “quiet but nice.” But there’s this constant sense that I’m just orbiting around everyone else, like I’m close enough to see them but too far to actually be part of anything.
+
+The weird thing is I’m not completely isolated. I have acquaintances, coworkers, a couple of people I can text. But it all feels shallow. Conversations stay on the surface: work, weather, memes. When I try to say something real, I feel like I’m making things awkward, so I pull back and go back to nodding and smiling.
+
+Nights are the worst. I come home, eat, scroll, maybe watch something, and it’s just this heavy silence. I keep my phone nearby like it’s a lifeline, but it almost never lights up unless it’s a notification from some app. I tell myself I should reach out first, but I get stuck in this loop of “they’re busy” and “they don’t actually want to talk to me.”
+
+What scares me most is how normal this is starting to feel. Like I’m slowly getting used to being emotionally invisible. I can’t tell if I’m withdrawing because I’m lonely, or lonely because I keep withdrawing. It’s just this dull, constant ache I carry around, and I don’t really know what to do with it anymore.

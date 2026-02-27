@@ -1,10 +1,8 @@
 Text ID: t000692
 Group: generic_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t692_gpt.txt
+File:   corpus/05_generic_gpt/t1539_gpt.txt
 
 Score (f2_neg): -3
 Loading words (f2_neg), N=3: script, gap, role
-
-Lately I feel like I’m drifting through everyone’s lives without ever really touching them. I have acquaintances, coworkers, family, but no one I can text when something small or stupid happens. It’s exhausting.
+I’m surrounded by people but feel completely disconnected. Conversations feel scripted, like I’m playing a role instead of being myself. I crave real closeness but have no idea how to bridge the gap, so I just stay quiet and drift further away.

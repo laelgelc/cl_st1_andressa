@@ -1,0 +1,18 @@
+Text ID: t002518
+Group: generic_gpt
+Model: gpt
+File:   corpus/05_generic_gpt/t662_gpt.txt
+
+Score (f3_pos): 2
+Loading words (f3_pos), N=2: idea, problem
+I’ve been feeling this weird combination of invisible and exposed lately.
+
+On paper, I’m not “alone.” I have coworkers I chat with, family I text, a couple of old friends I send memes to. But everything feels like it’s happening behind glass. I can see the motions of connection, but I don’t really feel touched by any of it.
+
+What gets me is how ordinary everything looks from the outside. I go to work, I respond to messages, I say “yeah, I’m good, just busy.” No one questions it. Part of me actually prefers that, because I have no idea how to explain this kind of emptiness without sounding dramatic or ungrateful.
+
+I think what I miss is feeling known. Not just “how’s work?” or “seen this show?” but the kind of familiarity where someone notices when your voice sounds off, or remembers the small things you said weeks ago. I can’t remember the last time I felt that from anyone, and I’m starting to forget what it’s like.
+
+I also know I’m part of the problem. I hold back. I overthink every message. I convince myself I’m annoying, or that people are only being polite. So I retreat, then feel more disconnected, then retreat more. It’s like I’m building my own cage and then complaining about the bars.
+
+I don’t even know what I’m hoping for by writing this. Maybe just to put it somewhere outside my own head for once.

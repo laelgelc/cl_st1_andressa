@@ -1,10 +1,8 @@
 Text ID: t004671
 Group: human
 Model: human
-Folder: corpus/05_human
-File:   t2560_human.txt
+File:   corpus/05_human/t2560_human.txt
 
 Score (f1_neg): 1
 Loading words (f1_neg), N=1: f2 score: 0
-
 And now suddenly the endless lonely monotony of the future is laid out in front of you. It is a terrible feeling

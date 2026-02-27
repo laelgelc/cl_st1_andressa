@@ -1,0 +1,8 @@
+Text ID: t005175
+Group: human
+Model: human
+File:   corpus/05_human/t464_human.txt
+
+Score (f3_neg): -1
+Loading words (f3_neg), N=1: notification
+You can always ignore my text If you don’t want to talk to me lmao! I don’t get this kind of people who talk to you with such rudeness just because you tried to reach out. No one is forcing you to talk to me bruh. Sorry my notification disappointed you. 

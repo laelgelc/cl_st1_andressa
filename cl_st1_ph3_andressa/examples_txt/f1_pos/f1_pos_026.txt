@@ -1,17 +1,20 @@
-Text ID: t005521
-Group: human
-Model: human
-Folder: corpus/05_human
-File:   t810_human.txt
+Text ID: t006996
+Group: summary_guided_gpt
+Model: gpt
+File:   corpus/05_summary_guided_gpt/t2079_gpt.txt
 
-Score (f1_pos): 22
-Loading words (f1_pos), N=22: life, people, talk, something, day, person, family, none, thing, anyone, kind, someone, end, while, anything, way, friend, moment, connection, week, feeling, partner
+Score (f1_pos): 26
+Loading words (f1_pos), N=26: life, head, answer, people, talk, phone, something, message, day, everyone, silence, glass, time, thing, door, anyone, kind, someone, end, everything, way, friend, window, connection, nothing, loneliness
+I feel completely defeated with this whole “trying to socialize” thing. It’s not even just loneliness anymore, it feels like some kind of complex that’s wrapped itself around everything I do and think. It’s not just being sad that I’m alone. It’s feeling like I’m fundamentally broken in a way that can’t be fixed.
 
-(This is translated with GPT because I don’t speak English very well)
+I have no friends. I don’t talk to anyone in real life. All I have is my phone, and it feels like this tiny window where I keep pressing my face against the glass and nobody ever looks back. Every time I try to reach out to someone, it ends the same way: silence, or rejection, or just being ignored until I get the message.
 
-I’m (20M) and today I feel lonelier than usual. Today is my birthday and it feels strange. Only one person congratulated me, and none of my family has. On top of that, I’ve been sick with the flu for 4 days, so I don’t even have the energy to do anything.  
-I’ve lived a lonely life all these years, and it’s something I’ve gotten used to. About 3 years ago, I met a girl on Discord in a community a friend created. We were friends for about a year, and then we became long-distance partners. It was a beautiful relationship that lasted a year. But the relationship ended on her side, while I still loved her and wanted to continue, since the problem wasn’t between us but something external. The breakup happened during the first week of November (right when our anniversary was coming up). It hit me really hard because with her I didn’t need anyone else to socialize with. I had friends, with whom I’m still in touch, but I haven’t had anyone else to socialize with at the level I did with her. (In my family, I was raised in a way where we don’t usually talk about our feelings.) With her, I could tell her about my day, what I did, what I wanted to do. She told me about her life, about her dreams, which also became mine, because before I met her I was totally lost, without dreams or goals, and she made me dream.
+Recently I messaged someone and they just didn’t reply for a day. Rationally, I know people get busy, but the way it hit me was like, “There it is again. I’m nothing. I’m not worth even a quick answer.” I got so angry and hurt that I just blocked them. It felt like the only way to stop feeling like I was begging for attention. I’d rather slam the door myself than sit there waiting like an idiot.
 
-It’s been about 10 months since the breakup, and honestly the only thing I’ve missed is having that kind of connection again. I don’t miss her; I miss what I could do with her and the fact that I could open up emotionally to someone else. Also, because of how my family treated me during childhood, it’s really hard for me to open up emotionally to other people and be sociable.
+That’s kind of my pattern now. Blocking, pushing away, getting aggressive in my head. It’s the only way I feel any control at all. If I don’t do that, I just feel like an abandoned building everyone walks past without even noticing. That’s honestly how I see myself: something left behind, decaying, not worth entering, not worth fixing.
 
-Sorry if this isn’t well structured, but it’s just what I’m thinking in the moment.
+People talk about self-improvement, social skills, “putting yourself out there.” I don’t believe in any of that anymore, at least not for me. I feel like my social skills are beyond repair. I don’t want to “grow” or “learn” or “try again.” I just wish the need for connection would disappear completely so it would stop hurting. If I didn’t want anyone, then being unwanted wouldn’t matter.
+
+Does anyone else feel like this? Like an abandoned building too? Like your only defense is to shut doors, block people, act like you don’t care, just so you don’t have to feel that sting of being ignored again?
+
+I even used AI to help me write this because I couldn’t figure out how to say it on my own.

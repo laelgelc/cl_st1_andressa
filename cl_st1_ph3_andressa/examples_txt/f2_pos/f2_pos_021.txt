@@ -1,10 +1,18 @@
-Text ID: t000629
-Group: generic_gpt
+Text ID: t005838
+Group: summary_guided_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t629_gpt.txt
+File:   corpus/05_summary_guided_gpt/t1026_gpt.txt
 
-Score (f2_pos): 2
-Loading words (f2_pos), N=3: college, guy, girl
+Score (f2_pos): 6
+Loading words (f2_pos), N=6: man, reason, guy, girlfriend, woman, experience
+Throwaway for obvious reasons.
 
-I’m starting to realize I don’t actually know how to connect with people anymore. I have acquaintances, coworkers, people I chat with, but no one who really knows me. Every time I try to open up, I feel like I’m oversharing or being weird, so I retreat. Then I sit at home scrolling, watching other people’s lives happen. It’s like being in a crowded room with noise everywhere, but somehow I’m completely invisible.
+I’m 28, and the more I look around, the more I feel like the future for guys like me is just… bleak. I don’t hate women, I’m not anti-feminist – women’s struggles and feminism are real and important, and I genuinely believe that. But at the same time, it feels like men are being vilified more and more, like just existing as a man makes you suspect or unwanted.
+
+It seems like there are simply more men than women, and that math alone means a lot of us are going to end up alone no matter what we do. On top of that, it feels like men generally crave intimacy more, while a lot of women I know seem genuinely content being single, focusing on themselves, their friends, their careers. I’m happy for them, but it just reinforces this feeling that there’s no place for someone like me.
+
+I’ve spent about a decade trying. Shared interest groups, hobbies, meetups, dating apps – you name it. Not a single date, not a single kiss, no girlfriend, no sexual experience. Nothing. It’s like I’m invisible, or worse, like I’m not even allowed to want anything without being labeled creepy or entitled.
+
+Economic stuff doesn’t help either. Money is tight, everything is expensive, and even hobbies cost more than I can really afford. It’s hard to “enjoy life” when you’re broke and alone.
+
+The gym is literally the only thing keeping me going at this point. Some days it feels like young men like me are just meant to work hard, shut up, and die alone. I don’t know what I’m looking for posting this, I just needed to say it somewhere.

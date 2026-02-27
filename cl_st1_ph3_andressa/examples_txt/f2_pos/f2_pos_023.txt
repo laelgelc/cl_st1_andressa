@@ -1,20 +1,12 @@
-Text ID: t001242
-Group: generic_gpt
+Text ID: t007441
+Group: summary_guided_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t1242_gpt.txt
+File:   corpus/05_summary_guided_gpt/t2483_gpt.txt
 
-Score (f2_pos): 2
-Loading words (f2_pos), N=2: today, reason
+Score (f2_pos): 5
+Loading words (f2_pos), N=5: man, mom, today, girlfriend, fun
+I found this old plushie today, the one I hid when I was 13 so no one would see it and make fun of me. As soon as I picked it up, it was like something broke open inside me. I’m more than 10 years older now, and all I could think was how that kid never grew into anything he hoped he’d be.
 
-I don’t really know how to explain this without sounding dramatic, but I feel like I’m slowly disappearing from everyone’s life while still being physically here.
+Now I just feel like some old, ugly man who’s never even had a girlfriend, like I missed every chance I was supposed to have. It honestly feels like there’s no saving me anymore. I feel so unloved and abandoned, like I don’t belong in this world at all. It seems like everything is made for selfish, abusive people who somehow always get what they want, while people like me just sink.
 
-On paper, I’m not “alone.” I have coworkers, a couple of old friends I text now and then, family chats that light up on holidays. But none of it feels like it touches me. It’s like I’m on the other side of thick glass watching everyone else live, and when they look my way, they just see a reflection of themselves.
-
-I’ve realized I’m always the “easy” friend: the one people come to when they’re bored or need something, the one who listens, gives advice, laughs at the right spots. But when I need someone, I freeze. I’ll open the chat box, stare at the cursor, and then close it because I don’t know how to say “I’m lonely” without feeling pathetic or needy. So I say nothing, and then I resent myself for not trying and resent them for not noticing.
-
-The worst part is how routine it’s become. I wake up, go through my day, make small talk, come home, scroll, maybe play something, maybe watch something, then go to bed feeling like I’ve eaten a bunch of empty calories socially. I’m “full” of interactions but not nourished by any of them.
-
-Sometimes I catch myself rehearsing conversations in my head that will never happen—imagining someone asking how I really am and actually wanting the real answer. I don’t even know what I’d say anymore. I’ve smoothed out my personality so much to fit in and not be “too much” that I’m not sure what’s left that’s actually me.
-
-I keep thinking there must be a version of my life where I feel known by someone. But each year that passes, that version feels more like a story I made up than something that could actually happen.
+I keep wanting to apologize to my mom for turning out like this, and to that younger version of me who thought things would be different. I feel like I’m drowning and everyone can see it but just looks away. I can’t stop crying. I just want someone to hold me and tell me I’m not completely worthless.

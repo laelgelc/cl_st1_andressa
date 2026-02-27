@@ -1,12 +1,10 @@
 Text ID: t003915
 Group: human
 Model: human
-Folder: corpus/05_human
-File:   t1873_human.txt
+File:   corpus/05_human/t1873_human.txt
 
 Score (f3_pos): 6
 Loading words (f3_pos), N=6: depression, top, support, year, love, situation
-
 I constantly see people in r/Suicide Bereavement. Talking about thier loved ones death and how their death impacted them, How they told their loved ones that they cared about them and love them. All the people there feel so sympathic and emphatic 
 towards their loved ones
 

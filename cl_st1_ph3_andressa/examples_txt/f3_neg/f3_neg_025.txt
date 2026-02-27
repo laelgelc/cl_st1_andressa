@@ -1,10 +1,14 @@
-Text ID: t003563
-Group: human
-Model: human
-Folder: corpus/05_human
-File:   t1553_human.txt
+Text ID: t006905
+Group: summary_guided_gpt
+Model: gpt
+File:   corpus/05_summary_guided_gpt/t1996_gpt.txt
 
 Score (f3_neg): -1
-Loading words (f3_neg), N=1: notification
+Loading words (f3_neg), N=1: weather
+I’m 54, introverted, and honestly feel like I’m trying to relearn how to be a person around other people. I haven’t really had friends since the 90s. Somewhere along the way I just… stopped. Now I’m trying to change that, even though I feel kind of ridiculous.
 
-I don't know why i feel like this but when i see my phone with no notifications, i see people around me having fun with others i just feel sad. I have no one to talk to. I need someone i can tell things, who wants to talk to me by themselves. It is juct nobody ever reaches out to me, nobody calls, msgs talks ever. It feels like my absence isn't noted. I am used to it at this point, I  am used to sitting alone in my room and watching movies, used to going to watch movies. I recently started watching F1 and u know i want to talk to someone about it. I just jump from one thing to another to preoccupy my mind but i sometimes when i am sitting alone in my room it just hits me. I want to feel important. I guess it is my fault, i also don't reach out to anybody, never talk to anybody in college, i just go to classes and come back to my room. My school friends didn't talk much to me before hand either but i was at home preoccupied by my enterance preparation so i could just ignore it, but now when i sit idle the wave of loneliness hits me. U know when u are passionate about a topic and like to just find someone and talk to someone about it u know like star wars, marvel/dc or f1 or anything but like nobody seems intrested so i just sit in my room. I have started to talk to myself in my head having conversations usually with this girl i liked alot. I can't talk to her for reasons. I am losing my mind. I have long conversations in head everyday but i never talk to anyone, i am just a boring person, i don't like to party listen to loud songs. 
+I don’t drink, so instead of bars I’ve been taking my laptop to different coffee shops. I set tiny goals for myself: say one nice thing to a stranger, make a comment about the weather, compliment someone’s shirt. If that goes okay, I try to stretch it into a short conversation. It sounds so basic, but for me it’s huge.
+
+What’s weird is I remember being very social once. It feels like I’m trying to reconnect with a version of myself I lost.
+
+I’m also counting Reddit and other online spaces as “real” interaction. When in-person stuff feels impossible, at least writing to people here is something.

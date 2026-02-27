@@ -1,10 +1,8 @@
 Text ID: t004632
 Group: human
 Model: human
-Folder: corpus/05_human
-File:   t2525_human.txt
+File:   corpus/05_human/t2525_human.txt
 
 Score (f1_neg): 1
 Loading words (f1_neg), N=1: f2 score: 0
-
 And disgusting and overthinking and addicted all the fucking time. I hate it so much...

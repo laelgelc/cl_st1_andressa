@@ -1,10 +1,8 @@
 Text ID: t003175
 Group: human
 Model: human
-Folder: corpus/05_human
-File:   t1200_human.txt
+File:   corpus/05_human/t1200_human.txt
 
 Score (f1_neg): 1
 Loading words (f1_neg), N=1: f2 score: 0
-
 fresh love and romance would be a perfect way to enjoy that holiday

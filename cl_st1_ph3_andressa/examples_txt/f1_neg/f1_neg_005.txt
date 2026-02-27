@@ -1,12 +1,10 @@
 Text ID: t003358
 Group: human
 Model: human
-Folder: corpus/05_human
-File:   t1367_human.txt
+File:   corpus/05_human/t1367_human.txt
 
 Score (f1_neg): 1
 Loading words (f1_neg), N=1: f2 score: 2
-
 I’m curious to know:
 
 Have you personally experienced any peace, relief, or change through Astaghfar or Tahajjud?

@@ -1,12 +1,10 @@
 Text ID: t004970
 Group: human
 Model: human
-Folder: corpus/05_human
-File:   t2832_human.txt
+File:   corpus/05_human/t2832_human.txt
 
 Score (f3_pos): 6
 Loading words (f3_pos), N=6: health, depression, issue, relationship, idea, situation
-
 All,
 
 I have just uploaded my stab at a manifesto for Unalone to the Unalone Google Drive account.  I incorporated some of okko7's "Manifesto Notes" in my manifesto.  I included some scientific evidence and references to further legitimize our cause/organization.

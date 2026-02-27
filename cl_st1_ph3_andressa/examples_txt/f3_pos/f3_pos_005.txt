@@ -1,12 +1,10 @@
 Text ID: t005539
 Group: human
 Model: human
-Folder: corpus/05_human
-File:   t828_human.txt
+File:   corpus/05_human/t828_human.txt
 
 Score (f3_pos): 6
 Loading words (f3_pos), N=6: depression, anxiety, fact, year, lot, love
-
 I’ve seen similar posts so I figured I’d give it a try. 
 I’m 21, non-binary, androgynous and queer. I’m socially awkward and have mega autism so I don’t really interact much with anyone. I live in Ohio and I’m moving in a few years to upstate NY. 
 

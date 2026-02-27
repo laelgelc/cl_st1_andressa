@@ -1,10 +1,14 @@
 Text ID: t002038
 Group: generic_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t2038_gpt.txt
+File:   corpus/05_generic_gpt/t2762_gpt.txt
 
 Score (f3_neg): -2
 Loading words (f3_neg), N=2: notification, weather
+I’ve been feeling like I’m fading into the background of my own life.
 
-It’s weird how you can be “known” by people and still feel like a ghost. I have friends, family, coworkers, and yet most days I feel like I’m just performing a version of myself they expect. Conversations stay on safe, surface-level topics. I crave someone I can be completely honest with, but I’m scared if I show the real me they’ll back away. So I stay half-visible, half-hidden, and the loneliness just keeps stretching out.
+I have people around me—coworkers, acquaintances, even family I see sometimes—but I don’t feel *known* by anyone. Conversations stay on the surface: work, the weather, random small talk. I can’t remember the last time someone asked how I really was and actually wanted to hear the answer.
+
+I try to reach out, but it always feels like I’m intruding, like I’m the “extra” person in every group. I’ll send a message, get a polite reply, and then it just dies. I start wondering if I’m just fundamentally forgettable.
+
+Nights are the worst. I scroll through my phone, hoping for a notification that never comes, then put it down and just lie there, feeling this heavy, quiet emptiness that I don’t know what to do with.

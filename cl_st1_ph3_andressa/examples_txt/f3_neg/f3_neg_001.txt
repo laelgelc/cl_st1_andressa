@@ -1,10 +1,14 @@
 Text ID: t000299
 Group: generic_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t299_gpt.txt
+File:   corpus/05_generic_gpt/t1181_gpt.txt
 
 Score (f3_neg): -2
 Loading words (f3_neg), N=2: notification, weather
+I’m starting to realize I don’t actually know how to connect with people anymore, or if I ever really did.
 
-Lately I feel like I’m drifting through everyone’s lives without ever really touching them. I have acquaintances, group chats, coworkers, but no one I’d call at 2 a.m. I’m starting to forget how connection feels.
+I have acquaintances, coworkers, people I can chat with about weather, memes, whatever. But nobody I can text “I’m not okay” without feeling like I’m being weird or a burden. Every time my phone buzzes it’s some notification, never an actual person reaching out just to talk to me. When it’s silent, it feels like confirmation that I don’t really exist for anyone outside the roles I fill.
+
+I keep thinking, “I should reach out first,” but then I overthink everything. I worry I’m annoying, or that they’re just being polite when they respond. So I wait for someone else to make the first move, and of course no one does, and the distance just grows.
+
+I watch other people make plans, post photos with friends, talk about group chats and weekly hangouts, and it feels like I’m looking at a world I was never given the instructions for. I’m not even sure what I’m hoping for by writing this.

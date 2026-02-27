@@ -1,0 +1,8 @@
+Text ID: t001910
+Group: generic_gpt
+Model: gpt
+File:   corpus/05_generic_gpt/t2646_gpt.txt
+
+Score (f1_neg): 1
+Loading words (f1_neg), N=1: f2 score: 0
+I’m surrounded by people who like me, yet I feel weirdly invisible, unnecessary, and easily forgotten.

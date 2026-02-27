@@ -1,10 +1,8 @@
-Text ID: t001320
-Group: generic_gpt
+Text ID: t006379
+Group: summary_guided_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t1320_gpt.txt
+File:   corpus/05_summary_guided_gpt/t1518_gpt.txt
 
 Score (f1_neg): 1
 Loading words (f1_neg), N=1: f2 score: 0
-
-I’m surrounded by people but feel invisible. Friends are busy, messages go unanswered. I replay conversations later, wondering what’s wrong with me, then stay quiet next time so I won’t bother anyone.
+No matter what I do or how hard I try, it feels like I’m destined for permanent loneliness.

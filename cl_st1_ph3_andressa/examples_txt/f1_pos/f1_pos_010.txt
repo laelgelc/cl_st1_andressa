@@ -1,16 +1,18 @@
 Text ID: t001465
 Group: generic_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t1465_gpt.txt
+File:   corpus/05_generic_gpt/t2241_gpt.txt
 
 Score (f1_pos): 39
 Loading words (f1_pos), N=39: paper, group, life, text, couple, fine, work, home, coworker, people, scroll, talk, joke, chat, something, message, day, everyone, silence, family, glass, motion, time, thing, anyone, kind, someone, end, while, everything, way, friend, moment, interaction, character, background, week, conversation, nothing
+I’ve been feeling this weird, heavy kind of invisible lately. Not in a dramatic “nobody cares if I live or die” way, but in a quieter “if I disappeared, it would take a while for anyone to notice” way. Days blur together and I’m starting to realize most of my “interactions” are with screens, not people.
 
-I’ve been feeling this weird combination of invisible and too visible at the same time.
+I technically have people in my life. Coworkers I chat with, a family group chat where we send memes, a couple of old friends I text every once in a while. On paper, that probably looks fine. But the reality is that everything feels surface-level, like I’m playing a character who’s “doing okay” instead of being honest about how hollow I feel.
 
-Invisible, because no one really checks in. I can go days without a personal message unless I start the conversation, and even then it feels like I’m interrupting people’s “real” lives. Too visible, because when I’m around others I’m painfully aware of every word I say, every awkward pause, every sign that I don’t quite fit.
+I’ll have moments where I want to message someone and say, “I’m lonely. Can we just talk about nothing for a bit?” But I always end up deleting it because I don’t want to sound needy or make things awkward. I overthink every possible response they could have and convince myself I’m burdening them. So I stay quiet, scroll, watch videos, listen to podcasts—anything to fill the silence without actually breaking it.
 
-I have acquaintances, coworkers, people I joke with. But no one I’d call at 2 a.m., or even 9 p.m., honestly. I scroll through my contacts and realize most of those names belong to older versions of me, from schools, jobs, phases that don’t exist anymore.
+What makes it worse is how disconnected I feel even when I’m around people. I’ll be in a group conversation, laughing at the right times, making jokes, and still feel like I’m standing behind glass, watching it all happen. Everyone else seems to have these natural, effortless bonds, and I’m just… adjacent to them.
 
-It’s like I’m standing in a crowded room behind soundproof glass. I can see everyone laughing, connecting, moving on. I’m here, but not really part of it.
+I miss feeling known. Not just “how’s work?” known, but the kind of known where someone notices when you’re off, or remembers something small you said weeks ago. I don’t really have that right now. I don’t know if it’s because I’ve pulled away over time, or because I never really had it to begin with.
+
+Most days I just go through the motions: wake up, work, come home, distract myself until I’m tired enough to sleep. It’s functional. It’s fine, technically. But it also feels like I’m slowly fading into the background of my own life.

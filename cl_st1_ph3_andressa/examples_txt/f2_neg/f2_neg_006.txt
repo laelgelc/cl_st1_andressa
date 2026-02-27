@@ -1,10 +1,18 @@
 Text ID: t002600
 Group: generic_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t2600_gpt.txt
+File:   corpus/05_generic_gpt/t744_gpt.txt
 
 Score (f2_neg): -3
 Loading words (f2_neg), N=3: noise, role, mix
+I’ve been feeling this weird mix of invisible and too exposed at the same time.
 
-I’m surrounded by people but feel like I’m behind glass. I can talk, joke, work with others, but it never feels like anyone actually knows me. When I try to open up, I either overshare and regret it or freeze and say nothing. Friends seem to drift away and I’m always the one typing “we should hang out” and then watching plans quietly die. I keep wondering if I’m fundamentally unlikeable or just forgettable, and it’s exhausting.
+On paper, I’m not “alone.” I have coworkers, a few old friends I text every now and then, family chats that light up my phone. But none of it feels like it really touches me. It’s like I’m standing behind glass watching my own life happen.
+
+I go through the motions: work, gym, scrolling, sleep. I laugh at the right times, make small talk, answer “I’m good, you?” without thinking. Then I get home, close the door, and it hits me how quiet everything is. Not just the room—my life. There’s no one who really expects me, no one I can send a random thought to without overthinking if I’m being annoying.
+
+What bothers me most is how replaceable I feel. If I stopped showing up, I think people would notice for a bit, then just… adjust. I don’t feel like I’m anyone’s first choice, or even second. More like background noise.
+
+I’ve tried joining clubs, going to events, talking more. It always feels shallow, like I’m auditioning for a role I never get. I leave feeling more drained and more aware of how disconnected I am.
+
+I don’t even know what I’m looking for exactly. Just something that makes me feel like I actually exist to someone, beyond a name in a group chat or a face at a desk.

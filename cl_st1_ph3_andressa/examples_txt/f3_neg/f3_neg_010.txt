@@ -1,14 +1,14 @@
 Text ID: t001847
 Group: generic_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t1847_gpt.txt
+File:   corpus/05_generic_gpt/t2589_gpt.txt
 
 Score (f3_neg): -2
 Loading words (f3_neg), N=2: notification, weather
+I’m starting to realize I’m not just “a bit introverted,” I’m actually lonely in a way that’s starting to feel like a personality trait.
 
-I’m starting to feel like I exist in the negative space of other people’s lives. I’m “around,” but not really *in* anything. Friends have their own circles now—partners, kids, group chats I’m not in. We still talk sometimes, but I feel like a guest appearance in their story, never a main character.
+My days are weirdly full and completely empty at the same time. I go to work, I answer emails, I make small talk about weather and TV shows, and then I come home and it’s like I vanish. My phone barely buzzes unless it’s a notification from an app. When I scroll through my contacts, I see names but no one I feel like I can text without overthinking it.
 
-What messes with me most is how normal everything looks from the outside. I go to work, answer emails, make small talk. People would probably say I seem fine. Then I come home, close the door, and it’s just silence and the sense that nobody would notice if I quietly disappeared from their routines.
+What bothers me most is how invisible it feels. I can be surrounded by people and still feel like I’m standing behind glass. I laugh at the right moments, say the right things, and no one notices that my mind is just looping on, “You don’t really belong here.”
 
-I keep wondering if it’s something about me—my personality, my timing, my face, my energy—that makes me forgettable.
+I’ve also started lying when people ask what I’m doing on the weekend. I say “meeting friends” or “going out” when really I’m just trying to make the hours pass without thinking too hard about any of this.

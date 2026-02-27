@@ -1,10 +1,16 @@
-Text ID: t002999
-Group: human
-Model: human
-Folder: corpus/05_human
-File:   t1040_human.txt
+Text ID: t007795
+Group: summary_guided_gpt
+Model: gpt
+File:   corpus/05_summary_guided_gpt/t2805_gpt.txt
 
-Score (f2_neg): -1
-Loading words (f2_neg), N=1: gap
+Score (f2_neg): -2
+Loading words (f2_neg), N=3: noise, role, errand
+I’m 24 and I feel like I’m slowly losing all my people to “real life.” Most of my closest friends either have kids now or are in serious relationships, and it feels like I’m at the bottom of their priority list. We barely hang out, barely text, and when I do reach out it’s always “I’m so busy” or “we’ll catch up soon” and then… nothing.
 
-I’m currently on gap year between my second and third tested at uni. For a while I’ve struggled with my mental health. I have adhd and autism and have spent many years undiagnosed knowing I was different to everyone else. It’s left me very behind in life I have very little social exposure and few friends. I’ve struggled hard to find myself and still continue to struggle. I’m deeply very lonely as I’ve never had any long term long lasting relationships and people often hard it hard to understand me. I love anything sport, particularly football, rugby and cricket and have no friends who share the same interests which can be very boring for me 
+Everyone loves to say “we don’t have to talk all the time to care,” but honestly, I hate that. I don’t want friendships that only exist in theory. I want the dumb, low-key stuff: grabbing coffee, running errands together, hanging out in sweatpants doing nothing. Instead, it feels like the only time people show up for me is when something dramatic happens.
+
+Like recently, I had a car issue and my best friend came through immediately to help. And I appreciated it, I really did. But that same friend didn’t come to my birthday. None of my closest friends did. I ended up celebrating with more casual acquaintances, and it just hit me how backwards it all feels. They’ll drop everything for a crisis, but not for just… being in my life.
+
+It makes me feel like I only matter when things are on fire. The rest of the time I’m just background noise. I’ve kind of accepted that I’ll be doing most things alone, at least for now. Maybe someday a partner will fill that role of “person I actually see and talk to regularly,” because it clearly isn’t my friends anymore.
+
+I know I’m being a bit whiny and jaded about it today, but it really hurts. I miss feeling like someone’s first choice, not their emergency contact.

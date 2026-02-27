@@ -1,12 +1,12 @@
 Text ID: t002314
 Group: generic_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t2314_gpt.txt
+File:   corpus/05_generic_gpt/t458_gpt.txt
 
 Score (f2_neg): -3
 Loading words (f2_neg), N=3: script, role, emptiness
+I’ve been feeling like a ghost in my own life lately. I’m surrounded by people—at work, on social media, even in my own family—but I still feel completely disconnected. Conversations feel scripted, like I’m playing a role instead of actually being myself. When I try to open up, I worry I’m oversharing or being “too much,” so I pull back and keep things surface-level again.
 
-I’m starting to realize I don’t actually know how to connect with people anymore. I have acquaintances, coworkers, people I chat with online, but no one who really knows me. Every time I try to open up, I feel like I’m oversharing, so I pull back and make a joke or change the subject. Then I go home and replay every conversation in my head, convinced I sounded weird or needy.
+Nights are the worst. I scroll through my phone just to feel less alone, but seeing everyone else seemingly living full lives makes the emptiness louder. I don’t really have anyone I’d feel comfortable calling if something genuinely bad happened. It’s like I’m always “almost” close to people, but never actually close.
 
-Weekends are the worst. I scroll through my phone, trying to think of someone I could message, and I either talk myself out of it or get no response. It’s like I’m standing behind glass, watching everyone else live their lives together while I’m stuck narrating mine to myself.
+I’m not even sure what I’m looking for by posting this. Maybe I just wanted to say it somewhere.

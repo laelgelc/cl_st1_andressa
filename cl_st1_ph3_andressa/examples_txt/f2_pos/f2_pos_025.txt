@@ -1,14 +1,14 @@
-Text ID: t002501
-Group: generic_gpt
+Text ID: t005731
+Group: summary_guided_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t2501_gpt.txt
+File:   corpus/05_summary_guided_gpt/t021_gpt.txt
 
-Score (f2_pos): 2
-Loading words (f2_pos), N=2: college, school
+Score (f2_pos): 5
+Loading words (f2_pos), N=5: mom, today, girl, experience, school
+I’m 17 and I feel like there’s something fundamentally wrong with me. I’ve always been the quiet, “boring” one. In my old school I was always alone in class, and I only had one friend, but we were never that close and now they’re gone too.
 
-I’m starting to realize I don’t actually know how to connect with people anymore. I have acquaintances, group chats, coworkers, but everything feels like background noise. I can talk about work, memes, surface-level stuff, but the second it gets personal my mind goes blank. It’s like there’s a thick glass wall between me and everyone else.
+When I started at my new school I really tried to change, to be more social, to actually make friends. I managed to talk to two girls in my class and for a second I thought maybe this time would be different. But they don’t really want to spend time with me. They hang out with each other and other people, and I’m just… there. I feel left out all the time.
 
-I scroll through messages trying to figure out who I could text without it feeling forced, and usually end up putting my phone down. When I do reach out, I overanalyze every word and then disappear again out of embarrassment. 
+I’m not close with my mom and I don’t talk about my feelings with her. My dad is dead. I’ve never had any romantic experiences, never hugged or kissed anyone, never even been to a party. Today I saw a snap of one of those girls at a party with a bunch of friends and it just hit me how pathetic my life feels.
 
-What scares me most is how normal this loneliness is beginning to feel, like I’m slowly getting used to being invisible.
+This loneliness feels like it’s killing me. Sometimes I think it would be easier to just not exist. I don’t know what to do anymore. Does anyone have any actual solutions? I feel horrible right now.

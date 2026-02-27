@@ -1,10 +1,20 @@
 Text ID: t001924
 Group: generic_gpt
 Model: gpt
-Folder: corpus/05_generic_gpt
-File:   t1924_gpt.txt
+File:   corpus/05_generic_gpt/t2659_gpt.txt
 
 Score (f1_pos): 39
 Loading words (f1_pos), N=39: paper, group, life, text, couple, fine, work, head, home, coworker, outside, job, people, scroll, talk, phone, something, message, everyone, silence, family, none, glass, motion, time, thing, anyone, someone, story, end, while, anything, way, friend, question, character, connection, background, partner
+I don’t really know how to explain this without sounding dramatic, but I feel like I’m slowly disappearing from everyone’s life while still being physically present.
 
-I’m surrounded by people yet feel completely disconnected. Conversations feel scripted, friendships superficial. I miss feeling genuinely known, but I’m not sure I ever have.
+On paper I’m not “alone.” I have a job, coworkers who are polite, a couple of old friends I text every now and then, family members who send the occasional “how are you” message. But none of it feels like it actually touches me. It’s like I’m behind glass, watching my own life from the outside.
+
+I go through the motions: wake up, commute, work, scroll on my phone, pretend to laugh at things, come home, eat something random, and then just sit there. I keep the TV or YouTube on just for background noise so the silence doesn’t feel so heavy. I keep checking my phone hoping someone will message me first, and most of the time it’s just notifications from apps I don’t care about.
+
+When I do talk to people, it feels like I’m playing a character who’s more socially acceptable than the real me. I make small talk, I say “I’m fine,” I ask questions back so they won’t notice I’m not actually sharing anything. I can’t remember the last time I was fully honest with someone about how lonely I feel without worrying they’d see me as needy or pathetic.
+
+What really messes with my head is that I used to have real connections. In school and a bit in college, there were people who actually knew me. Over time everyone drifted away, got partners, moved, got busy. I know that’s normal, but it feels like I got left at the train station while everyone else’s life took off. I’m stuck replaying old memories because I don’t have many new ones that involve actual closeness.
+
+I’ve tried to “fix” this the way people suggest—joining groups, trying hobbies, being more “open”—but I always end up feeling like an extra in everyone else’s story. People are friendly enough, but it doesn’t go deeper. I leave, go home, and the emptiness hits even harder, like proof that there’s something about me that just doesn’t stick with anyone.
+
+I don’t even know what I’m asking for. I just needed to put this somewhere, because keeping it in my head all the time is starting to feel like it’s swallowing me.

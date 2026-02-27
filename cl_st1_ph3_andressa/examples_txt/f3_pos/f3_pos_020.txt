@@ -1,12 +1,10 @@
 Text ID: t004045
 Group: human
 Model: human
-Folder: corpus/05_human
-File:   t1991_human.txt
+File:   corpus/05_human/t1991_human.txt
 
 Score (f3_pos): 6
 Loading words (f3_pos), N=6: issue, pain, fact, lot, relationship, love
-
 I know it’s unhealthy and I need help but I swear feeling lonely and sad feels great sometimes. Does anyone else get the shiver down their body? (Mine is in my sides usually)
 
 Sometimes I think about being lonely. How I’m 22 and I’ve yet to find love, and how I don’t think I will. There are other issues in my life but love has always been the biggest struggle for me. And sometimes I think about it so much that I can physically feel the sadness. Am I addicted to it? I don’t really think so, but I’d be lying if I said I was avoiding fixing myself. It’s like I don’t want to put in the effort of finding love the hard way. I tell myself certain things to keep myself here because all my life I’ve just been the outcast. In every way. In more ways than just love. I know it can’t iust be me.

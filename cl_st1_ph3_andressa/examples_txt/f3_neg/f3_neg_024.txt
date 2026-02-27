@@ -1,12 +1,8 @@
-Text ID: t002948
-Group: human
-Model: human
-Folder: corpus/05_human
-File:   t093_human.txt
+Text ID: t006810
+Group: summary_guided_gpt
+Model: gpt
+File:   corpus/05_summary_guided_gpt/t190_gpt.txt
 
 Score (f3_neg): -1
 Loading words (f3_neg), N=1: weather
-
-What have you been doing, plans etc. However trivial or small. Tell us what you will be up to over this weekend. 
-
-Myself: today took the kids (twin boys 3 1/2) to local garden centre soft play. Picked up a few things to update the look and feel of my front garden. Tonight I’m going to be watching Vemon on Netflix with the wife. Tomorrow not sure what We are doing yet, mostly depends on the weather.
+It’s a chilly, rainy day here in Virginia Beach, so I’m just planning to relax on the couch until my dog-sitting clients arrive for their little “spring break dog vacation.” Kind of cozy, honestly. Curious what everyone else is up to today—anything fun or just surviving the weather?

@@ -1,10 +1,8 @@
 Text ID: t005237
 Group: human
 Model: human
-Folder: corpus/05_human
-File:   t526_human.txt
+File:   corpus/05_human/t526_human.txt
 
 Score (f1_neg): 1
 Loading words (f1_neg), N=1: f2 score: 0
-
 I can’t handle it anymore, I really miss my social life and how I used to be 

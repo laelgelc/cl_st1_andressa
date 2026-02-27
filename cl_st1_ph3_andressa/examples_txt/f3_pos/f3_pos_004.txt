@@ -1,12 +1,10 @@
 Text ID: t002892
 Group: human
 Model: human
-Folder: corpus/05_human
-File:   t037_human.txt
+File:   corpus/05_human/t037_human.txt
 
 Score (f3_pos): 6
 Loading words (f3_pos), N=6: health, issue, year, lot, relationship, love
-
 Hey y'all,
 
 My name is Cambria and I'm an 18-year-old girl in my fourth year of college studying ecology & eco education. I love plants, playing videogames, shitposting, listening to music, making jewelry among other crafts, spending time with my blue heeler pup, and listening to people. I have a boyfriend and one friend but besides that I'm pretty damn alone. I would consider myself to be kind & funny, I love making people laugh, I'm ambitious and try to work hard and be positive although a slew of mental health issues do weigh on me.
