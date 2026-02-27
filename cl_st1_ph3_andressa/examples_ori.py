@@ -18,6 +18,8 @@ Requires:
 
 Requires:
     file_ids.txt mapping t000001 → t001_human.txt
+    or
+    file_ids.txt mapping t00001 → human/t001_human.txt
 """
 
 import pandas as pd
