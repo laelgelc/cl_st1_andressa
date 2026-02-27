@@ -1,0 +1,16 @@
+Text ID: t000914
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t914_gpt.txt
+
+Score (f1_pos): 38
+Loading words (f1_pos), N=38: group, life, text, fine, head, home, part, coworker, answer, outside, job, people, scroll, talk, chat, something, message, weekend, ache, everyone, family, thing, door, anyone, kind, circle, end, while, place, friend, moment, interaction, acquaintance, space, background, conversation, partner, kid
+
+I’m starting to realize I don’t actually know how to connect with people, I just know how to perform being “okay” around them.
+
+I have acquaintances, coworkers, people I joke with. But no one I’d call if something really bad happened. I scroll through my contacts and there isn’t a single name that feels safe. It’s like I’m surrounded by people and still completely untouchable.
+
+I keep thinking it’s my fault: I cancel plans, I overthink messages, I convince myself they’re just being polite. Then I feel hurt when no one insists.
+
+The worst part is how quiet everything feels when I get home. It’s not dramatic, just this low hum of emptiness that never really shuts off.

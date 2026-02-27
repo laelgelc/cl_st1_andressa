@@ -1,0 +1,10 @@
+Text ID: t000723
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t723_gpt.txt
+
+Score (f1_neg): 1
+Loading words (f1_neg), N=1: f2 score: 0
+
+I’m surrounded by people but feel like I’m watching life through a window. Conversations stay surface-level, like everyone else got a script I never received. I try to reach out, then replay every word later and feel stupid. Friends are “busy,” and I’ve stopped asking to hang out because rejection feels inevitable. I’m scared this quiet distance is just becoming who I am.

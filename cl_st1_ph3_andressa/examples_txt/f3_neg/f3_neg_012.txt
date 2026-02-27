@@ -1,0 +1,10 @@
+Text ID: t000470
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t470_gpt.txt
+
+Score (f3_neg): -2
+Loading words (f3_neg), N=2: notification, weather
+
+I’m surrounded by people but feel completely disconnected. Conversations feel scripted, like I’m playing a role. I crave real connection but don’t know how to move past small talk. It’s exhausting pretending this feels okay.

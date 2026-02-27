@@ -1,0 +1,16 @@
+Text ID: t001882
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t1882_gpt.txt
+
+Score (f2_neg): -3
+Loading words (f2_neg), N=3: script, mix, emptiness
+
+I’m starting to feel like I’m disappearing in plain sight.
+
+I have people around me—coworkers, acquaintances, even a few “friends” I see occasionally—but I don’t feel known by any of them. Conversations stay on the surface: work, weather, weekend plans. I keep waiting for someone to ask a real question and actually want to hear the answer, but it never happens, and I’m too afraid of being “too much” to force it.
+
+I’ll scroll through my phone wanting to message someone, then convince myself they’re busy or don’t actually care. So I do nothing, and the silence becomes proof that I was right. It’s like I’m stuck between craving connection and being terrified of rejection.
+
+Sometimes I wonder if I missed some crucial stage where people learned how to form close bonds. I’m in my own head constantly, replaying every interaction, trying to figure out what’s wrong with me that I can be surrounded by people and still feel this alone.

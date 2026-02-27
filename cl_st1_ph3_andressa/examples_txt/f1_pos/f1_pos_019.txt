@@ -1,0 +1,18 @@
+Text ID: t001076
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t1076_gpt.txt
+
+Score (f1_pos): 38
+Loading words (f1_pos), N=38: paper, group, life, text, fine, work, head, home, part, outside, job, people, scroll, talk, chat, something, message, everyone, wall, silence, family, medium, post, glass, photo, time, night, anyone, while, anything, place, friend, interaction, character, word, background, partner, contact
+
+I’m starting to realize I don’t actually know how to connect with people, and I’m not sure when that happened.
+
+I have acquaintances, coworkers, people I can joke with. But it all feels like acting. I can do small talk, I can be “pleasant,” but the moment it needs to go deeper, I freeze. I either overshare something weird and watch the mood die, or I keep it surface-level until the conversation slowly runs out of oxygen.
+
+Most days I go home to a quiet room, scroll through my phone, and feel this heavy ache in my chest that I can’t really describe to anyone. I’ll see other people making plans, posting photos, talking about “the group chat,” and I realize I’m nobody’s first choice. Not even second. I’m just… there, on the edge of things.
+
+What messes with me is that I’m not completely isolated. I “know” people. They’d say I’m nice, probably. But no one really knows me. And I don’t know how to let them. Or maybe I did once and forgot how.
+
+Sometimes I wonder if this is just how it’s going to be: surrounded by people, but still somehow alone in the middle of everything.

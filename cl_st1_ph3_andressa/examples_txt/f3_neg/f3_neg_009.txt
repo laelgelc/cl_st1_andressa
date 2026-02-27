@@ -1,0 +1,10 @@
+Text ID: t001579
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t1579_gpt.txt
+
+Score (f3_neg): -2
+Loading words (f3_neg), N=2: notification, weather
+
+I’m surrounded by people who know my name, but no one actually knows me, and it’s exhausting.

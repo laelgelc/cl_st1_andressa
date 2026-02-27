@@ -1,0 +1,18 @@
+Text ID: t001647
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t1647_gpt.txt
+
+Score (f1_pos): 41
+Loading words (f1_pos), N=41: paper, group, life, text, couple, fine, work, part, show, coworker, outside, people, scroll, talk, joke, chat, phone, message, weekend, ache, everyone, person, sense, family, glass, photo, time, night, thing, anyone, kind, someone, while, everything, friend, stuff, interaction, week, conversation, partner, loneliness
+
+I don’t really know how to talk about this in real life, so I’m dumping it here.
+
+I feel like I exist next to other people instead of with them. I have coworkers, acquaintances, people I joke with, but no one who actually knows me. I go home, close the door, and it’s like I disappear from the world until the next morning. If my phone died for a week, I don’t think anyone would notice.
+
+What messes with my head is that on paper I’m “fine.” I show up, I work, I answer messages, I laugh at the right times. But it all feels like acting. I’m always slightly outside the circle, watching everyone else have these easy, natural connections. I don’t even know when I drifted this far out. It just crept up over years.
+
+I’ve tried to “put myself out there,” but small talk feels pointless and I get stuck between wanting deeper conversations and being terrified of oversharing. When I do open up a bit, I instantly regret it and replay every word later, convinced I sounded weird or needy. So I retreat again, and the cycle repeats.
+
+Nights are the worst. I scroll, lurk, listen to podcasts just to have human voices in the background. I tell myself I’m “recharging,” but it doesn’t feel like rest. It feels like waiting. For what, I’m not even sure. Maybe for someone to actually notice I’m lonely without me having to say it out loud.

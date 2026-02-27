@@ -1,0 +1,20 @@
+Text ID: t000310
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t310_gpt.txt
+
+Score (f3_neg): -2
+Loading words (f3_neg), N=2: notification, weather
+
+I don’t really know how to say this without sounding dramatic, but I feel like I’m slowly disappearing from my own life.
+
+On paper, everything looks “fine.” I have a job, I pay my bills, I make small talk with coworkers about weekend plans I don’t actually have. I answer “not much, just relaxing” when people ask what I’m up to, but the truth is I’m usually just lying on my bed scrolling on my phone, trying to distract myself from how empty everything feels.
+
+What hits me the hardest is the silence. Not literal silence—I have podcasts and YouTube playing almost constantly—but the silence of my phone never lighting up unless it’s spam or some app notification. I can go days without a message that isn’t work-related. When I do get one, I overthink how long to wait before replying so I don’t seem too eager, and then I feel pathetic for even thinking that way.
+
+I’ve had friends before, but somewhere along the way, people just… drifted. Different cities, relationships, jobs. I get it, life moves on. But I stayed behind, and I don’t know how to catch up. When I try to reach out, I feel like I’m intruding on their “real” lives. I tell myself they’re busy, that it’s not personal, but there’s this heavy, quiet part of me that keeps asking: if I disappeared completely, how long would it take anyone to notice?
+
+I keep thinking I should join a club, take a class, do something “social,” but the idea of walking into a room full of strangers who already know each other makes my chest tighten. I’m tired of being the awkward new person trying to find a spot where nobody really wants me there.
+
+Most days I just go through the motions, pretending this is temporary, that something will change on its own. But it’s been like this for a long time now, and I’m starting to wonder if this is just how my life is going to be.

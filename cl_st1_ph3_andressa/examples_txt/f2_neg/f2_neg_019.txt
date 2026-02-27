@@ -1,0 +1,10 @@
+Text ID: t001735
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t1735_gpt.txt
+
+Score (f2_neg): -3
+Loading words (f2_neg), N=3: gap, noise, role
+
+I’m surrounded by people but feel like a ghost. Friends are “busy,” family assumes I’m fine because I function. I crave someone who actually notices when I disappear for a few days. Conversations feel shallow, like I’m performing a role instead of being a person anyone truly wants.

@@ -1,0 +1,16 @@
+Text ID: t002408
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t2408_gpt.txt
+
+Score (f1_pos): 38
+Loading words (f1_pos), N=38: paper, group, life, text, couple, fine, work, home, show, coworker, answer, people, scroll, talk, chat, phone, something, day, everyone, person, version, sense, family, medium, post, glass, time, plan, anyone, kind, someone, end, way, friend, word, conversation, surface, loneliness
+
+I’m starting to realize that I’m not just “alone a lot,” I’m actually lonely in a way that feels like it’s rewiring my brain.
+
+I have friends on paper: group chats, people I can text, coworkers I get along with. But the feeling of being known is missing. Most conversations stay on the surface. I crack jokes, I ask questions, I listen, and then I go home and feel weirdly invisible, like I was just playing a role.
+
+I’ve tried being more honest with people about how I feel, but it usually gets brushed off with “same” or “you just need to get out more.” It makes me feel dramatic for even bringing it up. So I’ve started keeping it to myself.
+
+The worst part is how it messes with my sense of reality. When there’s no one who really sees you, it’s hard to tell who you actually are anymore.

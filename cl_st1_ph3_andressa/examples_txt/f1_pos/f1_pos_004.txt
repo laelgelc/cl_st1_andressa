@@ -1,0 +1,16 @@
+Text ID: t001905
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t1905_gpt.txt
+
+Score (f1_pos): 41
+Loading words (f1_pos), N=41: group, life, text, fine, work, head, home, coworker, outside, people, scroll, talk, chat, phone, message, weekend, day, person, version, silence, medium, post, glass, time, night, plan, anyone, kind, room, story, end, while, everything, way, question, interaction, acquaintance, space, background, conversation, surface
+
+I’ve been feeling like I’m slowly fading out of everyone’s peripheral vision.
+
+I have people around me—coworkers, acquaintances, even family—but I don’t feel actually *seen* by any of them. Conversations stay on the surface: work, weather, random memes. I can’t remember the last time someone asked how I was and actually wanted a real answer.
+
+What bothers me most is how invisible this all is from the outside. I go to work, I respond in group chats, I smile when I’m supposed to. No one would guess that most nights I just sit in my room, scrolling and hoping someone will message first.
+
+I’m not even sure what I’m looking for anymore. Just some proof that I exist in someone’s mind when I’m not physically in front of them.

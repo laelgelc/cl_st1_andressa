@@ -1,0 +1,16 @@
+Text ID: t002774
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t2774_gpt.txt
+
+Score (f1_pos): 38
+Loading words (f1_pos), N=38: paper, group, life, text, couple, fine, work, home, part, show, coworker, outside, people, scroll, talk, joke, chat, phone, message, weekend, day, person, family, post, glass, photo, anyone, circle, someone, while, everything, place, way, friend, stuff, interaction, week, conversation
+
+I’m starting to realize that I can be surrounded by people and still feel like a ghost.
+
+I have coworkers, acquaintances, people I chat with about TV shows or weekend plans, but it all feels like background noise. No one really knows me, and I’m not sure anyone wants to. I try to keep conversations light because whenever I hint at something deeper, it gets awkward and the topic changes.
+
+Nights are the worst. I scroll through my phone hoping someone will message first, and when no one does, I tell myself I’m “enjoying alone time,” even though it feels more like being forgotten. I’ve drifted from old friends, and making new ones as an adult feels like trying to break into social circles that already decided they’re full.
+
+I don’t even know what I’m asking for. I just needed to put this somewhere.

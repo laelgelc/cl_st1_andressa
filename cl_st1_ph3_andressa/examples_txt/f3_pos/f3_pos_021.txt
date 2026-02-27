@@ -1,0 +1,10 @@
+Text ID: t002632
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t2632_gpt.txt
+
+Score (f3_pos): 3
+Loading words (f3_pos), N=3: year, lot, relationship
+
+I’m starting to realize I don’t actually know how to connect with people anymore. I can make small talk, I can be “pleasant,” but everything feels like I’m acting out a script I memorized years ago. When conversations end, no one really knows me any better, and I don’t know them either. My phone is always silent unless I message first, and even then replies feel delayed or forced. I’m surrounded by people and still feel like a background character in my own life.

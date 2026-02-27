@@ -1,0 +1,16 @@
+Text ID: t001465
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t1465_gpt.txt
+
+Score (f1_pos): 39
+Loading words (f1_pos), N=39: paper, group, life, text, couple, fine, work, home, coworker, people, scroll, talk, joke, chat, something, message, day, everyone, silence, family, glass, motion, time, thing, anyone, kind, someone, end, while, everything, way, friend, moment, interaction, character, background, week, conversation, nothing
+
+I’ve been feeling this weird combination of invisible and too visible at the same time.
+
+Invisible, because no one really checks in. I can go days without a personal message unless I start the conversation, and even then it feels like I’m interrupting people’s “real” lives. Too visible, because when I’m around others I’m painfully aware of every word I say, every awkward pause, every sign that I don’t quite fit.
+
+I have acquaintances, coworkers, people I joke with. But no one I’d call at 2 a.m., or even 9 p.m., honestly. I scroll through my contacts and realize most of those names belong to older versions of me, from schools, jobs, phases that don’t exist anymore.
+
+It’s like I’m standing in a crowded room behind soundproof glass. I can see everyone laughing, connecting, moving on. I’m here, but not really part of it.

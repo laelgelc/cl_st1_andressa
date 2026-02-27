@@ -1,0 +1,15 @@
+Text ID: t003195
+Group: human
+Model: human
+Folder: corpus/05_human
+File:   t1219_human.txt
+
+Score (f1_neg): 1
+Loading words (f1_neg), N=1: f2 score: 1
+
+Been alone my whole life. I am almost 40 and wish I would just die in my sleep tonight 
+
+
+
+
+Stomach hurts everyday, I shit my pants every 6 months. Tiny dick, I fucking hate this world

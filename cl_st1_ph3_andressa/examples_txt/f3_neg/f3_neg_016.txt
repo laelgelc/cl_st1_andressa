@@ -1,0 +1,10 @@
+Text ID: t000347
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t347_gpt.txt
+
+Score (f3_neg): -1
+Loading words (f3_neg), N=1: notification
+
+I’m surrounded by people yet feel invisible, like background noise everyone’s learned to tune out.

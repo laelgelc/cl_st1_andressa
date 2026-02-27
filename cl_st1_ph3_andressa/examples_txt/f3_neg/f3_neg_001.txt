@@ -1,0 +1,10 @@
+Text ID: t000299
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t299_gpt.txt
+
+Score (f3_neg): -2
+Loading words (f3_neg), N=2: notification, weather
+
+Lately I feel like I’m drifting through everyone’s lives without ever really touching them. I have acquaintances, group chats, coworkers, but no one I’d call at 2 a.m. I’m starting to forget how connection feels.

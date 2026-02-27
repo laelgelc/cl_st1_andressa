@@ -1,0 +1,14 @@
+Text ID: t001847
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t1847_gpt.txt
+
+Score (f3_neg): -2
+Loading words (f3_neg), N=2: notification, weather
+
+I’m starting to feel like I exist in the negative space of other people’s lives. I’m “around,” but not really *in* anything. Friends have their own circles now—partners, kids, group chats I’m not in. We still talk sometimes, but I feel like a guest appearance in their story, never a main character.
+
+What messes with me most is how normal everything looks from the outside. I go to work, answer emails, make small talk. People would probably say I seem fine. Then I come home, close the door, and it’s just silence and the sense that nobody would notice if I quietly disappeared from their routines.
+
+I keep wondering if it’s something about me—my personality, my timing, my face, my energy—that makes me forgettable.

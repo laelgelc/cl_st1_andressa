@@ -1,0 +1,10 @@
+Text ID: t001107
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t1107_gpt.txt
+
+Score (f3_neg): -2
+Loading words (f3_neg), N=2: notification, weather
+
+I’ve started to notice how quiet my life actually is. I go entire weekends without speaking out loud, except to say “thanks” to a delivery driver. My phone lights up only with notifications from apps, never from people. I scroll through group photos of others and feel like I’m watching a world I somehow missed the entrance to. When coworkers talk about their plans, I nod along and pretend I’m busy too. I’m not. I just go home, sit in my room, and try to make the silence feel less heavy. It never really works.

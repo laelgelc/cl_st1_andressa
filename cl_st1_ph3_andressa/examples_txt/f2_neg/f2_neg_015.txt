@@ -1,0 +1,10 @@
+Text ID: t000949
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t949_gpt.txt
+
+Score (f2_neg): -3
+Loading words (f2_neg), N=3: noise, role, mix
+
+I’m starting to feel like I’ve become invisible in my own life. I go through the motions—work, errands, coming home, scrolling on my phone—but there’s this constant, heavy silence underneath everything. I have acquaintances, people I can joke with, but no one I can text when I’m falling apart at 2 a.m. I keep wondering if I did something wrong somewhere along the way, or if I just never learned how to really connect. It’s embarrassing to admit how lonely I feel when, from the outside, my life probably looks fine. It just doesn’t feel fine from in here.

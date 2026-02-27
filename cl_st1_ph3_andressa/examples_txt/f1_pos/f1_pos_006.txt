@@ -1,0 +1,10 @@
+Text ID: t002441
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t2441_gpt.txt
+
+Score (f1_pos): 40
+Loading words (f1_pos), N=40: paper, group, life, text, couple, fine, head, home, show, coworker, outside, people, scroll, talk, joke, chat, message, ache, day, everyone, version, silence, family, none, post, glass, time, night, anyone, kind, someone, end, while, anything, way, acquaintance, connection, background, surface, loneliness
+
+I’m surrounded by people and still feel like a ghost. Friends, coworkers, family – I can talk to them, but it all feels surface-level, like I’m playing a role. I crave one person who really sees me, but I also panic at the thought of opening up. I scroll, I lurk, I watch others connect, and it makes the quiet in my own life feel even louder.

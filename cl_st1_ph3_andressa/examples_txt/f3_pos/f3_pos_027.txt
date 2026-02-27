@@ -1,0 +1,10 @@
+Text ID: t001476
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t1476_gpt.txt
+
+Score (f3_pos): 2
+Loading words (f3_pos), N=2: lot, relationship
+
+I’m surrounded by people but feel like I’m behind glass. I can talk, joke, even seem confident, but it never feels like anyone actually sees me. Every conversation feels surface-level, like we’re all just reciting scripts. I crave that feeling of being known, but I’m terrified that if I open up, I’ll just be met with awkward silence or indifference. So I stay quiet and the distance keeps growing.

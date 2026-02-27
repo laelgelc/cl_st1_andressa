@@ -1,0 +1,20 @@
+Text ID: t000036
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t036_gpt.txt
+
+Score (f3_pos): 2
+Loading words (f3_pos), N=2: year, situation
+
+I don’t know how to explain this without sounding dramatic, but lately it feels like I’m disappearing from my own life.
+
+I’m not completely isolated in the obvious sense. I have coworkers I chat with, a family group chat that occasionally pings, a couple of old friends I exchange memes with. On paper, it looks like I’m “connected.” But none of it feels like it actually reaches me. It’s like I’m standing behind glass, watching myself go through the motions of being a person among other people.
+
+The worst part is how ordinary everything looks from the outside. I go to work, I answer emails, I say “good weekend?” on Mondays and “have a good one” on Fridays. I laugh at the right times. But underneath, there’s this constant ache that nobody really knows me, and I’m not sure I even remember how to let them.
+
+I used to have deeper friendships, but they faded slowly—different cities, different schedules, people pairing off and having kids. I can’t point to a single moment where I “lost” anyone; it was more like we all just stopped being central to each other’s lives. Now, every time I think about reaching out, I feel weirdly ashamed, like I’m trying to resurrect something that quietly died years ago.
+
+I try to be proactive—join things, say yes to invitations when they appear—but conversations never seem to get past the surface. I leave social situations feeling more alone than before, because it reminds me how far I am from the kind of closeness I actually want.
+
+Most days I just come home, sit in the quiet, scroll through other people’s lives, and wonder when exactly mine started feeling like a waiting room.

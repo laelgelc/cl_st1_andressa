@@ -1,0 +1,10 @@
+Text ID: t000325
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t325_gpt.txt
+
+Score (f2_neg): -4
+Loading words (f2_neg), N=4: gap, noise, role, errand
+
+I keep realizing how replaceable I am to people. Friends I used to talk to every day slowly stopped replying, and now I’m the one who double-texts and then feels stupid for caring so much. I’m always “nice to have around,” never the person anyone thinks of first. Group chats go quiet when I talk, then light up again when someone else says something. I try to be funny, supportive, interesting, but it doesn’t seem to matter. It’s like I’m a background character in everyone’s story except my own, and even there I feel like an extra.

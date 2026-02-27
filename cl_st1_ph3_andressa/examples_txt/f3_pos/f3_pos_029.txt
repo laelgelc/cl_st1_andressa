@@ -1,0 +1,10 @@
+Text ID: t002342
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t2342_gpt.txt
+
+Score (f3_pos): 2
+Loading words (f3_pos), N=2: relationship, problem
+
+I’m starting to feel like I’ve become invisible in my own life. I go to work, come home, scroll, sleep, repeat. Messages have dried up to the point where my phone is basically a clock. When I try to reach out, conversations die after a couple of replies, like people are being polite rather than interested. I miss being someone’s first choice, or even second. Lately it feels like I’m just background noise.

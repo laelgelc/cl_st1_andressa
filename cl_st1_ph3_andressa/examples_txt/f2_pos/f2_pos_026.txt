@@ -1,0 +1,10 @@
+Text ID: t000927
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t927_gpt.txt
+
+Score (f2_pos): 1
+Loading words (f2_pos), N=1: thanks
+
+Some days I’m surrounded by people, yet feel invisible, like everyone else got the instructions for connection except me.

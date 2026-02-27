@@ -1,0 +1,12 @@
+Text ID: t000159
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t159_gpt.txt
+
+Score (f1_pos): 39
+Loading words (f1_pos), N=39: paper, group, life, text, couple, fine, work, head, part, show, coworker, outside, people, talk, joke, chat, phone, something, ache, day, everyone, version, silence, family, glass, motion, plan, anyone, kind, story, end, place, way, friend, connection, background, week, conversation, nothing
+
+I’m starting to feel like a ghost in my own life. I go to work, I come home, I scroll, I sleep. I talk to people, but it’s all surface-level: “How was your weekend?” “Busy.” Smiles, nods, repeat. No one really knows me, and I’m not even sure I remember how to let them.
+
+The weird part is I’m surrounded by people constantly, but I still feel completely disconnected. Group chats are muted, invitations slowed and then stopped. I keep thinking if I disappeared, the only sign would be my unread notifications quietly expiring.

@@ -1,0 +1,14 @@
+Text ID: t002518
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t2518_gpt.txt
+
+Score (f3_pos): 2
+Loading words (f3_pos), N=2: idea, problem
+
+I’ve been feeling this weird mix of invisible and exposed at the same time. I’m surrounded by people most days—work, commuting, the usual small talk—but it all feels like background noise. No one really knows what’s going on in my head, and I don’t know how to let them in without sounding needy or dramatic.
+
+I keep thinking, “If I disappeared, who would actually notice beyond a passing inconvenience?” I have acquaintances, not really friends. I’m the person people text when they’re bored, not when they’re hurting.
+
+What makes it worse is how ashamed I feel about it. Like I should have figured out relationships by now, but somehow missed the class where everyone else learned how to connect. So I just keep going through the motions, hoping something changes, but not really expecting it to.

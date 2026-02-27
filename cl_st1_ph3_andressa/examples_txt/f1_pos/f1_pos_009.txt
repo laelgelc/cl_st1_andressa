@@ -1,0 +1,10 @@
+Text ID: t001671
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t1671_gpt.txt
+
+Score (f1_pos): 39
+Loading words (f1_pos), N=39: paper, group, life, text, couple, fine, work, head, home, part, coworker, outside, job, people, scroll, talk, joke, phone, something, day, person, wall, silence, family, glass, photo, thing, anyone, kind, room, someone, end, anything, way, interaction, character, word, conversation, surface
+
+Lately I feel like I’m watching my own life from the outside. I talk to people, joke around, but it all feels like acting. No one really knows me, and I’m not even sure I remember how to let anyone in. Everything feels shallow, temporary, and weirdly distant.

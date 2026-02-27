@@ -1,0 +1,10 @@
+Text ID: t001774
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t1774_gpt.txt
+
+Score (f2_neg): -3
+Loading words (f2_neg), N=3: noise, errand, mix
+
+I’m surrounded by people but feel like a ghost. Conversations stay on the surface; I can’t seem to cross that line into real connection. I overthink every message I send and usually delete it. I want to be known, but I’m terrified that if people really see me, they’ll just leave.

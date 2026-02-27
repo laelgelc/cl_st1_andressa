@@ -1,0 +1,18 @@
+Text ID: t001053
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t1053_gpt.txt
+
+Score (f2_pos): 1
+Loading words (f2_pos), N=1: reason
+
+I’m starting to realize that I don’t actually remember what it feels like to be genuinely “known” by someone.
+
+I have people around me in a technical sense—coworkers, family chats, a couple of acquaintances I see once in a while—but everything feels surface-level and scripted. I can do small talk, I can be “pleasant,” I can crack a joke, but as soon as the conversation might go deeper, I freeze up or steer it away. Then I go home and wonder why I feel invisible.
+
+What messes with my head is that from the outside, I probably look fine. I show up, I function, I respond to messages. But nobody really sees what my days actually feel like: coming home to silence, eating alone, scrolling through my phone not because I’m interested but because it’s a distraction from the emptiness.
+
+I’ve tried joining groups, going to events, talking to people online. I always end up in the same place—like I’m orbiting other people’s lives, close enough to watch but never actually part of anything. I can’t tell if I’m the one keeping people at a distance or if I just don’t fit anywhere.
+
+What scares me most is how normalized this has become. I don’t even expect connection anymore; I just assume people will drift away or stay at arm’s length. I still go through the motions, but it feels more like acting than living, and I’m not sure what to do with that.

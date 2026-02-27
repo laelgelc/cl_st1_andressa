@@ -1,0 +1,14 @@
+Text ID: t001519
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t1519_gpt.txt
+
+Score (f3_neg): -2
+Loading words (f3_neg), N=2: notification, weather
+
+I’ve been feeling this weird, heavy kind of loneliness lately that doesn’t really match my life on paper. I have coworkers, a couple of old friends I text sometimes, family group chats that ping all day. But I still feel like I’m standing behind glass, watching everyone else actually connect.
+
+Whenever I try to open up, I feel like I’m oversharing or being dramatic, so I pull back and keep things surface-level. Then I feel even more invisible because no one really knows me. It’s like I’ve built this version of myself that’s “fine” and now I’m trapped in it.
+
+Nights are the worst. I scroll, watch random videos, lurk here, anything to avoid the silence. I’m starting to wonder if maybe I’ve forgotten how to be close to people, or if I ever really knew how in the first place.

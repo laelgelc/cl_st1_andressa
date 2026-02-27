@@ -1,0 +1,10 @@
+Text ID: t001913
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t1913_gpt.txt
+
+Score (f1_neg): 1
+Loading words (f1_neg), N=1: f2 score: 0
+
+Lately I feel like I’m living in a parallel world to everyone else. I’m surrounded by people but never really *with* them. Conversations feel scripted, like I’m playing a role instead of being myself. I go home, close the door, and it’s just silence. I keep wondering if this is just a phase or if this is how my life is going to stay.

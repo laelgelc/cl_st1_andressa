@@ -1,0 +1,10 @@
+Text ID: t000278
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t278_gpt.txt
+
+Score (f3_neg): -1
+Loading words (f3_neg), N=1: notification
+
+I’m surrounded by people who like me, yet no one actually feels like “my person.”

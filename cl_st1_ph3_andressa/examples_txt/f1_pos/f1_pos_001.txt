@@ -1,0 +1,10 @@
+Text ID: t002411
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t2411_gpt.txt
+
+Score (f1_pos): 46
+Loading words (f1_pos), N=46: group, life, text, work, head, home, show, coworker, outside, people, scroll, talk, joke, chat, phone, something, message, day, everyone, person, version, sense, family, none, time, night, thing, anyone, kind, someone, end, everything, place, way, friend, stuff, window, acquaintance, connection, word, week, conversation, feeling, nothing, partner, kid
+
+I’m surrounded by people but feel like a ghost. Friends text in group chats I’m barely part of, and when I do speak up, conversations move on like I said nothing. I’m not isolated physically, just emotionally sidelined. It’s starting to feel like I could disappear and nothing would change.

@@ -1,0 +1,10 @@
+Text ID: t002887
+Group: human
+Model: human
+Folder: corpus/05_human
+File:   t032_human.txt
+
+Score (f1_neg): 1
+Loading words (f1_neg), N=1: f2 score: 0
+
+Im lonely and alone from now until Sunday November 1st. Please help. I'm lonely and alone and alone and lonely and lonesome loneliness is lonely. Help

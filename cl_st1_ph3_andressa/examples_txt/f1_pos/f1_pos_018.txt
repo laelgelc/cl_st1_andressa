@@ -1,0 +1,10 @@
+Text ID: t001799
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t1799_gpt.txt
+
+Score (f1_pos): 38
+Loading words (f1_pos), N=38: paper, group, life, text, couple, work, head, home, part, show, coworker, outside, people, scroll, joke, chat, something, weekend, ache, everyone, sense, silence, family, none, post, time, night, anyone, kind, circle, someone, everything, anything, friend, stuff, interaction, conversation, loneliness
+
+I’ve been feeling this weird mix of invisible and exposed lately. I’m surrounded by people at work, online, even in my own family group chats, but it feels like I’m just… there, not really known. I have acquaintances, but no one I’d text at 2 a.m. when my thoughts get too loud. I keep conversations light because I’m scared if I show the real stuff, people will pull away. Then I feel lonely for hiding, and ashamed for wanting more than small talk. It’s like I’m stuck watching my own life from the outside.

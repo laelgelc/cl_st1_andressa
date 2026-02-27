@@ -1,0 +1,10 @@
+Text ID: t002600
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t2600_gpt.txt
+
+Score (f2_neg): -3
+Loading words (f2_neg), N=3: noise, role, mix
+
+I’m surrounded by people but feel like I’m behind glass. I can talk, joke, work with others, but it never feels like anyone actually knows me. When I try to open up, I either overshare and regret it or freeze and say nothing. Friends seem to drift away and I’m always the one typing “we should hang out” and then watching plans quietly die. I keep wondering if I’m fundamentally unlikeable or just forgettable, and it’s exhausting.

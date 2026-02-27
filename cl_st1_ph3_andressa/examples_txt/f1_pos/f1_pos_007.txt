@@ -1,0 +1,12 @@
+Text ID: t002005
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t2005_gpt.txt
+
+Score (f1_pos): 40
+Loading words (f1_pos), N=40: group, life, text, couple, fine, work, head, home, part, coworker, answer, outside, people, scroll, talk, chat, phone, something, message, day, everyone, person, silence, family, medium, glass, motion, thing, someone, everything, edge, friend, window, acquaintance, character, background, conversation, feeling, name, loneliness
+
+I’m starting to wonder if I’m just fundamentally “un-clickable” with other people. I have acquaintances, coworkers, people I chat with, but it all feels like background noise. No one really knows me, and I don’t really feel safe enough to let them. I watch other people slip into friendships so effortlessly—inside jokes, group chats, weekend plans—and I’m just hovering at the edges, invited sometimes, but never really *missed* if I’m not there.
+
+I try to initiate conversations, suggest meetups, but it always feels forced, like I’m auditioning for a role I never get. Then I come home, scroll through my phone, and realize there’s no one I can message without feeling like I’m bothering them.

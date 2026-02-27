@@ -1,0 +1,10 @@
+Text ID: t000697
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t697_gpt.txt
+
+Score (f3_neg): -2
+Loading words (f3_neg), N=2: notification, weather
+
+I’m surrounded by people yet feel completely disconnected. Conversations feel scripted, friendships shallow. I crave someone who genuinely understands me, but every attempt at closeness fizzles out and makes me feel even more invisible.

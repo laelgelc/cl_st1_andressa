@@ -1,0 +1,14 @@
+Text ID: t003177
+Group: human
+Model: human
+Folder: corpus/05_human
+File:   t1202_human.txt
+
+Score (f1_neg): 1
+Loading words (f1_neg), N=1: f2 score: 1
+
+So I was attracted to a girl
+And didn't want to seem like I am interested in her body or face or to come off as a creep
+So I told her : hey, I noticed you like jujutsu , what got you into anime
+She left me on seen and blocked me a second later
+Did I do something wrong?

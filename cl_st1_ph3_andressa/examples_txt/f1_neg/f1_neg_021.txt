@@ -1,0 +1,20 @@
+Text ID: t001915
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t1915_gpt.txt
+
+Score (f1_neg): 1
+Loading words (f1_neg), N=1: f2 score: 0
+
+I’ve been feeling this weird, heavy kind of loneliness lately that doesn’t really fit into the usual “I have no friends” box. I technically have people in my life: coworkers, a few old friends I text once in a while, family I talk to on holidays. But I feel like I exist on the edges of everyone’s life, like a background character who never quite steps into the main scene.
+
+Most days it hits at really random moments. I’ll be doing something normal, like washing dishes or scrolling my phone at night, and it suddenly hits me that no one is really seeing me. Not the curated version of me, not the polite “I’m fine, work is busy” me, but the real, messy, confused person underneath. I can’t remember the last time someone asked how I was and I felt safe enough to answer honestly.
+
+I’ve tried being more social. I say yes to invitations when they come, but it always feels like I’m visiting other people’s lives instead of sharing one. Everyone seems to already have their group, their inside jokes, their shared history. I feel like an extra chair that gets pulled up to a full table—accommodated, but not needed.
+
+What’s strange is that I’m not even sure how to fix it. I don’t know what I’m doing wrong. I try to listen, be kind, show interest, but there’s always this invisible wall where the conversation never gets past surface level. I leave gatherings feeling more alone than when I arrived.
+
+Nights are the worst. The silence feels loud, and I catch myself imagining what it would be like to have someone to just exist with—no performance, no small talk, just mutual presence. Someone who messages me first. Someone who notices when I go quiet.
+
+I don’t really have a point to this. I just needed to put it somewhere instead of letting it sit in my head, echoing back at me.

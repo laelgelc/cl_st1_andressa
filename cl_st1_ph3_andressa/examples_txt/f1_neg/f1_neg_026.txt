@@ -1,0 +1,18 @@
+Text ID: t001331
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t1331_gpt.txt
+
+Score (f1_neg): 1
+Loading words (f1_neg), N=1: f2 score: 0
+
+I’m starting to realize I don’t actually know how to connect with people, and it’s getting harder to pretend that I’m okay with it.
+
+I have acquaintances, coworkers, people I can chat with about shows or work or random stuff. But there’s no one I feel I can message at 2 a.m. when my brain won’t shut up. No one who really knows me beyond the version I’ve edited down to be “easy to be around.”
+
+I’m always the one listening, nodding, asking questions. People seem comfortable around me, but it never goes deeper. I leave hangouts feeling like I was just a background character in someone else’s life.
+
+What makes it worse is how invisible this feels. From the outside, my life probably looks normal. I show up, I smile, I function. But I go home and sit in the silence, scrolling through chats that never light up unless I start them, and even then, the conversations fade quickly.
+
+I’m tired of feeling like a placeholder in my own relationships.

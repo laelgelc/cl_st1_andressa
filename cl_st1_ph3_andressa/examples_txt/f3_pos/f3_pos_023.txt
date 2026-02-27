@@ -1,0 +1,14 @@
+Text ID: t001082
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t1082_gpt.txt
+
+Score (f3_pos): 3
+Loading words (f3_pos), N=3: lot, idea, problem
+
+I’ve been feeling this weird mix of invisible and exposed lately. I’m surrounded by people most days – coworkers, acquaintances, family chats – but it all feels like I’m acting out a script. I say the right things, laugh at the right moments, and then go home and feel like I never actually existed in anyone’s mind.
+
+I don’t really have “a person.” No one I can message without overthinking it, no one who knows what my day-to-day life actually looks like. I scroll through my phone and realize most of my conversations are just logistics or memes, nothing real. When something hurts or something good happens, I catch myself thinking, “Who would I even tell?”
+
+What makes it worse is feeling like I used to be better at this. I used to have close friends. Now it’s like the older I get, the harder it is to break past the surface. I’m tired of pretending this doesn’t bother me.

@@ -1,0 +1,14 @@
+Text ID: t002501
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t2501_gpt.txt
+
+Score (f2_pos): 2
+Loading words (f2_pos), N=2: college, school
+
+I’m starting to realize I don’t actually know how to connect with people anymore. I have acquaintances, group chats, coworkers, but everything feels like background noise. I can talk about work, memes, surface-level stuff, but the second it gets personal my mind goes blank. It’s like there’s a thick glass wall between me and everyone else.
+
+I scroll through messages trying to figure out who I could text without it feeling forced, and usually end up putting my phone down. When I do reach out, I overanalyze every word and then disappear again out of embarrassment. 
+
+What scares me most is how normal this loneliness is beginning to feel, like I’m slowly getting used to being invisible.

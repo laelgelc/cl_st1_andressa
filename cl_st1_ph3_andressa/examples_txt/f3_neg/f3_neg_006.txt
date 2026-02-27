@@ -1,0 +1,10 @@
+Text ID: t000931
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t931_gpt.txt
+
+Score (f3_neg): -2
+Loading words (f3_neg), N=2: notification, weather
+
+I’m surrounded by people but feel completely disconnected. Conversations feel scripted, friendships shallow. I miss feeling genuinely seen, like I actually matter to someone.

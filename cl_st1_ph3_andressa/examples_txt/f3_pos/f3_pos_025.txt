@@ -1,0 +1,10 @@
+Text ID: t002310
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t2310_gpt.txt
+
+Score (f3_pos): 3
+Loading words (f3_pos), N=3: support, fact, lot
+
+I’m surrounded by people but I feel like I’m behind glass. Friends, coworkers, family—conversations happen, jokes are made, but it all feels like I’m watching someone else’s life. When I try to open up, I either downplay everything or overshare and regret it later. I crave real connection but I’m terrified of being a burden, so I stay quiet, then feel forgotten when no one notices. It’s like being invisible in plain sight.

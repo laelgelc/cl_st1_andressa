@@ -1,0 +1,10 @@
+Text ID: t001547
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t1547_gpt.txt
+
+Score (f1_pos): 38
+Loading words (f1_pos), N=38: paper, group, life, text, couple, work, head, home, part, show, coworker, outside, people, scroll, talk, joke, chat, phone, something, weekend, day, person, post, night, door, plan, kind, circle, someone, everything, way, moment, acquaintance, connection, word, conversation, contact, loneliness
+
+I’m surrounded by people but feel completely disconnected. Conversations feel scripted, like I’m playing a role instead of being myself. I crave someone who actually sees me, but I’m starting to wonder if I’ve forgotten how to let anyone in.

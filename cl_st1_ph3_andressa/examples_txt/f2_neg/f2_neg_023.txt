@@ -1,0 +1,12 @@
+Text ID: t003080
+Group: human
+Model: human
+Folder: corpus/05_human
+File:   t1114_human.txt
+
+Score (f2_neg): -2
+Loading words (f2_neg), N=2: role, emptiness
+
+**Alone** means being by oneself and is a physical or existential state. It can be chosen and is often valued for its role in self-reflection and authenticity.
+
+**Loneliness** is an emotional state characterized by inner emptiness and a sense of disconnection. Loneliness can exist even in the presence of others. Philosophically, **aloneness leads to self-awareness**, while **loneliness leads to alienation**.

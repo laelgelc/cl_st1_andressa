@@ -1,0 +1,10 @@
+Text ID: t001094
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t1094_gpt.txt
+
+Score (f2_pos): 1
+Loading words (f2_pos), N=1: reason
+
+I’m surrounded by people but feel like I’m behind glass. Conversations stay shallow, like I’m an extra in everyone else’s life. Friends are “busy,” texts go unanswered for days, and I’m tired of always being the one to reach out. I keep wondering if I’m just fundamentally forgettable.

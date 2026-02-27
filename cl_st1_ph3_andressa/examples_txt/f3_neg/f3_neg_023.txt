@@ -1,0 +1,10 @@
+Text ID: t005212
+Group: human
+Model: human
+Folder: corpus/05_human
+File:   t501_human.txt
+
+Score (f3_neg): -1
+Loading words (f3_neg), N=1: notification
+
+The only time I get an exciting notification is when I order something online. Otherwise it’s all just ads and my internet service provider bill. 🤪

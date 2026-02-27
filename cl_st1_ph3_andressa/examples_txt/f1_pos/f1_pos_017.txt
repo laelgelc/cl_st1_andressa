@@ -1,0 +1,10 @@
+Text ID: t000879
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t879_gpt.txt
+
+Score (f1_pos): 38
+Loading words (f1_pos), N=38: paper, group, life, fine, work, home, part, show, coworker, answer, outside, people, scroll, talk, joke, chat, phone, message, ache, day, everyone, person, wall, sense, time, anyone, kind, circle, end, anything, way, stuff, interaction, character, background, conversation, kid, loneliness
+
+Lately I feel like I’m living in a soundproof box. I go to work, make small talk, laugh at the right moments, but it all feels like acting. No one really knows me, and I’m not sure anyone wants to. I watch other people form connections so easily and wonder what’s wrong with me that I can’t seem to cross that invisible line.

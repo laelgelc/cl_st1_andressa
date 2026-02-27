@@ -95,6 +95,9 @@ python latex_anova_table.py
 python examples.py
 # output: examples (LaTEX format)
 
+python examples_txt.py
+# output: examples_txt (plaintext format)
+
 # sanity check on the scores:
 python score_details.py
 # output: examples/score_details.txt

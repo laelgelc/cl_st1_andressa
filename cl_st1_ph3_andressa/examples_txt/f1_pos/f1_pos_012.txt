@@ -1,0 +1,10 @@
+Text ID: t001924
+Group: generic_gpt
+Model: gpt
+Folder: corpus/05_generic_gpt
+File:   t1924_gpt.txt
+
+Score (f1_pos): 39
+Loading words (f1_pos), N=39: paper, group, life, text, couple, fine, work, head, home, coworker, outside, job, people, scroll, talk, phone, something, message, everyone, silence, family, none, glass, motion, time, thing, anyone, someone, story, end, while, anything, way, friend, question, character, connection, background, partner
+
+I’m surrounded by people yet feel completely disconnected. Conversations feel scripted, friendships superficial. I miss feeling genuinely known, but I’m not sure I ever have.

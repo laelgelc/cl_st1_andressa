@@ -14,10 +14,8 @@ For each selected text output:
          - group
          - model
          - folder + filename
-         - for HUMAN: hash
     2. Score and loading words
-    3. Interviewee Background (AI only — human already contains it)
-    4. FULL transcript (human or AI)
+    3. FULL transcript (human or AI)
 
 Output written as:
     examples_txt/f{factor}_{pole}/f{factor}_{pole}_001.txt
@@ -30,19 +28,15 @@ from pathlib import Path
 # ============================================================
 # PATHS
 # ============================================================
-SCORES_FILE   = Path("sas/output_cl_st1_ph3_andressa/cl_st1_ph3_andressa_scores.tsv")
+SCORES_FILE = Path("sas/output_cl_st1_ph3_andressa/cl_st1_ph3_andressa_scores.tsv")
 MEANS_PATTERN = "sas/output_cl_st1_ph3_andressa/means_group_f{dim}.tsv"
 
-FILE_IDS      = Path("file_ids.txt")       # t000001 → t001_human.txt / t154_persona_grok.txt etc.
-FILE_INDEX    = Path("file_index.txt")     # t001.txt → HASH
-
+FILE_IDS = Path("file_ids.txt")      # e.g. t000001 -> human/t828_human.txt (project-specific)
 SCORE_DETAILS = Path("examples/score_details.txt")
 
-EXTRACTED_DIR = Path("corpus/02_extracted")       # human background + human full text
-FULLTEXT_ROOT = Path("corpus")                    # AI transcripts under /05_*
-
-OUT_ROOT      = Path("examples_txt")
-OUT_ROOT.mkdir(exist_ok=True)
+FULLTEXT_ROOT = Path("corpus")       # transcripts live under corpus/05_*
+OUT_ROOT = Path("examples_txt")
+OUT_ROOT.mkdir(exist_ok=True, parents=True)
 
 # ============================================================
 # LOAD SCORES
@@ -58,27 +52,21 @@ def infer_group(row):
 scores["group"] = scores.apply(infer_group, axis=1)
 
 # ============================================================
-# LOAD file_ids.txt  (tid_long → real short filename)
+# LOAD file_ids.txt  (tid_long → relative path or filename)
 # ============================================================
 id_long_to_short = {}
-for line in FILE_IDS.read_text().splitlines():
+for line in FILE_IDS.read_text(encoding="utf-8").splitlines():
+    if not line.strip():
+        continue
     longid, shortname = line.split(maxsplit=1)
-    id_long_to_short[longid] = shortname
-
-# ============================================================
-# LOAD file_index.txt  (tNNN.txt → hash)
-# ============================================================
-short_to_hash = {}
-for line in FILE_INDEX.read_text().splitlines():
-    shortfile, hashname = line.split()
-    short_to_hash[shortfile] = hashname
+    id_long_to_short[longid.strip()] = shortname.strip()
 
 # ============================================================
 # LOAD loading words from examples/score_details.txt
 # ============================================================
-def parse_score_details(path=SCORE_DETAILS):
+def parse_score_details(path: Path, *, num_factors: int):
     out = {}
-    txt = path.read_text()
+    txt = path.read_text(encoding="utf-8")
     blocks = txt.split("=============================================")
 
     for b in blocks:
@@ -89,7 +77,7 @@ def parse_score_details(path=SCORE_DETAILS):
         tid = m.group(1)
         out[tid] = {}
 
-        for f in range(1, 8):
+        for f in range(1, num_factors + 1):
             mp = re.search(rf"f{f} pos words \(N=\d+\):\s*(.*)", b)
             mn = re.search(rf"f{f} neg words \(N=\d+\):\s*(.*)", b)
 
@@ -101,115 +89,71 @@ def parse_score_details(path=SCORE_DETAILS):
 
     return out
 
-loading_words = parse_score_details()
+# ============================================================
+# RESOLVE PATHS (Phase 3: human/generic_gpt/summary_guided_gpt)
+# ============================================================
+def _tid_to_tshort(tid: str) -> str | None:
+    """
+    Convert t000001 -> t001
+    """
+    m = re.fullmatch(r"t0*(\d+)", str(tid).strip())
+    if not m:
+        return None
+    return f"t{int(m.group(1)):03d}"
 
-# ============================================================
-# RESOLVE PATHS (authoritative version)
-# ============================================================
 def resolve_paths(tid, row):
     """
-    Compute the REAL existing filesystem path for:
-       - human transcripts
-       - plain AI transcripts
-       - persona AI transcripts
-
-    Using your REAL rules:
+    Current Phase 3 rules:
 
       HUMAN:
-        file_ids:     t000001 → t001_human.txt
-        file_index:   t001.txt → HASH
-        path:         corpus/02_extracted/HASH_extracted.txt
+        file_ids maps tid -> path-ish value like "human/t828_human.txt"
+        actual file lives under: corpus/05_human/<basename>
 
-      PLAIN:
-        folder:       corpus/05_plain_<model>
-        file:         tNNN_<model>.txt
-
-      PERSONA:
-        folder:       corpus/05_persona_<model>
-        file:         tNNN.txt
+      AI (GPT):
+        folder: corpus/05_<prompt>_<model>   e.g. corpus/05_generic_gpt
+        file:   tNNN_<model>.txt            e.g. t001_gpt.txt
+        where tNNN is derived from tid (t000001 -> t001)
     """
+    model = str(row["model"]).strip().lower()
+    prompt = str(row["prompt"]).strip().lower()
 
-    realname = id_long_to_short.get(tid)
-    if not realname:
-        return None
-
-    model  = row["model"].strip()     # human / gpt / grok / gemini
-    prompt = row["prompt"].strip()    # human / plain / persona
-
-    # -----------------------------
-    # HUMAN
-    # -----------------------------
     if model == "human":
-        # realname is like: t001_human.txt
-        # but file_index uses: t001.txt
-        base = realname.replace("_human", "")
-        hashname = short_to_hash.get(base)
-        if not hashname:
+        rel = id_long_to_short.get(tid)
+        if not rel:
             return None
-
-        path = EXTRACTED_DIR / f"{hashname}_extracted.txt"
+        basename = Path(rel).name
+        folder = FULLTEXT_ROOT / "05_human"
+        path = folder / basename
         return {
             "kind": "human",
             "group": "human",
-            "folder": EXTRACTED_DIR,
-            "filename": f"{hashname}_extracted.txt",
-            "hash": hashname,
-            "human_hash": hashname,  # for symmetry with AI (not actually needed)
+            "folder": folder,
+            "filename": basename,
             "path": path,
         }
 
-    # -----------------------------
-    # AI (plain or persona)
-    # -----------------------------
-    # extract the real 3-digit ID from realname (e.g. t154_persona_grok.txt → t154)
-    m = re.match(r"(t\d{3})", realname)
-    if not m:
+    # AI
+    tshort = _tid_to_tshort(tid)
+    if not tshort:
         return None
-    tshort = m.group(1)
 
-    # This is the HUMAN base used in file_index.txt
-    human_short = f"{tshort}.txt"
-    human_hash = short_to_hash.get(human_short)  # may be None if no matching human
-
-    # PERSONA: folder = 05_persona_<model>, file = tNNN.txt
-    if "persona" in prompt:
-        folder = FULLTEXT_ROOT / f"05_persona_{model}"
-        fname  = f"{tshort}.txt"
-    else:
-        # PLAIN: folder = 05_plain_<model>, file = tNNN_<model>.txt
-        folder = FULLTEXT_ROOT / f"05_plain_{model}"
-        fname  = f"{tshort}_{model}.txt"
-
+    folder = FULLTEXT_ROOT / f"05_{prompt}_{model}"
+    fname = f"{tshort}_{model}.txt"
     return {
         "kind": "ai",
         "group": f"{prompt}_{model}",
         "folder": folder,
         "filename": fname,
-        "hash": None,
-        "human_hash": human_hash,
         "path": folder / fname,
     }
-
-# ============================================================
-# EXTRACT interviewee background (AI only)
-# ============================================================
-def extract_background(hashname):
-    p = EXTRACTED_DIR / f"{hashname}_extracted.txt"
-    if not p.exists():
-        return "[Interviewee Background NOT FOUND]\n"
-
-    txt = p.read_text()
-    m = re.search(r"Interviewee Background:\s*(.*?)(?=\nQuestion:|\Z)",
-                  txt, flags=re.DOTALL)
-    if m:
-        return "Interviewee Background:\n" + m.group(1).strip() + "\n"
-    return "[Interviewee Background NOT FOUND]\n"
 
 # ============================================================
 # MAIN SCRIPT
 # ============================================================
 factor_cols = [c for c in scores.columns if c.startswith("fac")]
 num_factors = len(factor_cols)
+
+loading_words = parse_score_details(SCORE_DETAILS, num_factors=num_factors)
 
 for fnum in range(1, num_factors + 1):
 
@@ -226,11 +170,9 @@ for fnum in range(1, num_factors + 1):
 
         print(f"Processing {label}...")
 
-        ranked = sorted(group_means, key=lambda g: group_means[g],
-                        reverse=not ascending)
-
+        ranked = sorted(group_means, key=lambda g: group_means[g], reverse=not ascending)
         top_group = ranked[0]
-        others    = ranked[1:]
+        others = ranked[1:]
 
         df_sorted = scores.sort_values(by=col, ascending=ascending)
         ex_id = 1
@@ -241,8 +183,10 @@ for fnum in range(1, num_factors + 1):
         subset = df_sorted[df_sorted["group"] == top_group]
 
         for _, row in subset.iterrows():
-            if row[col] == 0 or ex_id > 20:
+            if row[col] == 0:
                 continue
+            if ex_id > 20:
+                break
 
             tid = row["filename"]
             resolved = resolve_paths(tid, row)
@@ -259,8 +203,6 @@ for fnum in range(1, num_factors + 1):
             header.append(f"Model: {row['model']}")
             header.append(f"Folder: {resolved['folder']}")
             header.append(f"File:   {resolved['filename']}")
-            if resolved["kind"] == "human" and resolved.get("hash"):
-                header.append(f"Hash:   {resolved['hash']}")
             header.append("")
 
             lw = loading_words.get(tid, {}).get(label, [])
@@ -268,16 +210,11 @@ for fnum in range(1, num_factors + 1):
             header.append(f"Loading words ({label}), N={len(lw)}: {', '.join(lw)}")
             header.append("")
 
-            body = []
-            if resolved["kind"] == "ai" and resolved.get("human_hash"):
-                body.append(extract_background(resolved["human_hash"]))
-                body.append("")
-
-            body.append(path.read_text())
+            body = [path.read_text(encoding="utf-8", errors="ignore")]
 
             full = "\n".join(header + body)
             outfile = out_dir / f"{label}_{ex_id:03d}.txt"
-            outfile.write_text(full)
+            outfile.write_text(full, encoding="utf-8")
 
             ex_id += 1
 
@@ -307,8 +244,6 @@ for fnum in range(1, num_factors + 1):
                 header.append(f"Model: {row['model']}")
                 header.append(f"Folder: {resolved['folder']}")
                 header.append(f"File:   {resolved['filename']}")
-                if resolved["kind"] == "human" and resolved.get("hash"):
-                    header.append(f"Hash:   {resolved['hash']}")
                 header.append("")
 
                 lw = loading_words.get(tid, {}).get(label, [])
@@ -316,16 +251,11 @@ for fnum in range(1, num_factors + 1):
                 header.append(f"Loading words ({label}), N={len(lw)}: {', '.join(lw)}")
                 header.append("")
 
-                body = []
-                if resolved["kind"] == "ai" and resolved.get("human_hash"):
-                    body.append(extract_background(resolved["human_hash"]))
-                    body.append("")
-
-                body.append(path.read_text())
+                body = [path.read_text(encoding="utf-8", errors="ignore")]
 
                 full = "\n".join(header + body)
                 outfile = out_dir / f"{label}_{ex_id:03d}.txt"
-                outfile.write_text(full)
+                outfile.write_text(full, encoding="utf-8")
 
                 ex_id += 1
                 count += 1
