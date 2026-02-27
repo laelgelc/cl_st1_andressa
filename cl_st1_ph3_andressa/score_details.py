@@ -14,12 +14,21 @@ VARID_DIR = Path("factors/var_id")
 FILE_IDS = Path("file_ids.txt")   # <-- updated for your current setup
 OUTFILE = Path("examples/score_details.txt")
 
-OUTFILE.parent.mkdir(exist_ok=True)
+OUTFILE.parent.mkdir(exist_ok=True, parents=True)
 
 # ------------------------------------------------------------
 # Load SAS factor scores
 # ------------------------------------------------------------
 scores = pd.read_csv(SCORES_FILE, sep="\t")
+
+# Detect number of factors dynamically (fac1, fac2, ...)
+fac_cols = sorted(
+    (c for c in scores.columns if re.fullmatch(r"fac\d+", str(c))),
+    key=lambda x: int(x[3:])
+)
+num_factors = len(fac_cols)
+if num_factors == 0:
+    raise RuntimeError(f"No fac<n> columns found in {SCORES_FILE}")
 
 # ------------------------------------------------------------
 # Load SAS variable lexicon (varID → word)
@@ -60,12 +69,12 @@ def load_var_ids(path: Path):
 varlist_pos = {}
 varlist_neg = {}
 
-## Your project has 7 factors
-#for f in range(1, 8):
-# Your project has 4 factors
-for f in range(1, 5):
+for f in range(1, num_factors + 1):
     posfile = VARID_DIR / f"f{f}_pos_var_id.txt"
     negfile = VARID_DIR / f"f{f}_neg_var_id.txt"
+
+    if not posfile.exists() or not negfile.exists():
+        raise FileNotFoundError(f"Missing var-id files for f{f}: {posfile} / {negfile}")
 
     varlist_pos[f] = load_var_ids(posfile)
     varlist_neg[f] = load_var_ids(negfile)
@@ -83,7 +92,6 @@ with open(FILE_IDS, encoding="utf-8") as f:
 # Main output
 # ------------------------------------------------------------
 with open(OUTFILE, "w", encoding="utf-8") as out:
-
     for _, row in scores.iterrows():
 
         fid = row["filename"]
@@ -92,10 +100,7 @@ with open(OUTFILE, "w", encoding="utf-8") as out:
         out.write(f"text ID: {fid}\n")
         out.write(f"filename: {fname}\n\n")
 
-        ## factors 1..7
-        #for f in range(1, 8):
-        # factors 1..4
-        for f in range(1, 5):
+        for f in range(1, num_factors + 1):
 
             score = row[f"fac{f}"]
             out.write(f"f{f} score: {score}\n")
