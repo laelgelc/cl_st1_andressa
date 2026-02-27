@@ -50,7 +50,7 @@
 
 % Colors and highlighting
 \usepackage{fancybox}  % for ovalbox
-\usepackage{fdsymbol}  % symbols (conflicts with emoji)
+%\usepackage{fdsymbol}  % symbols (conflicts with emoji)
 \definecolor{navyblue}{RGB}{0,0,139}
 
 % Citations

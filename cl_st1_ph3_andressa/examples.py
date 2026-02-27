@@ -26,6 +26,7 @@ import pandas as pd
 import re
 from pathlib import Path
 from tqdm import tqdm
+import unicodedata
 
 # =============================================================================
 # PATHS
@@ -89,6 +90,19 @@ def load_primary_lemmas(pole_file: Path):
 # =============================================================================
 # ANNOTATE TEXT
 # =============================================================================
+def _wrap_emoji_for_latex(s: str) -> str:
+    """
+    Wrap emoji/symbol-other characters so LuaLaTeX renders them with \\EmojiFont
+    (defined in examples/top_header).
+    """
+    out = []
+    for ch in s:
+        if unicodedata.category(ch) == "So":
+            out.append(r"{\EmojiFont " + ch + "}")
+        else:
+            out.append(ch)
+    return "".join(out)
+
 def annotate_text(text_path: Path, primary_lemmas: set):
 
     raw = text_path.read_text(encoding="utf-8")
@@ -131,6 +145,9 @@ def annotate_text(text_path: Path, primary_lemmas: set):
     paras = re.split(r"([.!?])\s+(?=[A-Z])", text)
     paras = ["".join(paras[i:i+2]).strip() for i in range(0, len(paras), 2)]
     paras = [p for p in paras if p]
+
+    # Ensure emoji survive LaTeX
+    paras = [_wrap_emoji_for_latex(p) for p in paras]
 
     return paras, matched
 
