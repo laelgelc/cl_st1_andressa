@@ -31,7 +31,7 @@ OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 # PROMPTS
 # ============================================================
 
-SYSTEM_PROMPT = """You are a corpus linguist specializing in Lexical Multi-Dimensional Analysis (LMDA).
+SYSTEM_PROMPT = """You are a corpus linguist specialising in Lexical Multi-Dimensional Analysis (LMDA).
 Your task is to interpret a single factor pole as a discourse dimension.
 
 The corpus comes from loneliness-related subreddit on Reddit where people write self-disclosure 
@@ -41,7 +41,7 @@ posts about loneliness. The corpus includes:
 
 The LLM-generated responses were produced under two prompting regimes:
 1. A generic prompt, which instructed the model write a self-disclosure post about loneliness.
-2. An summary-guided prompt, guided by summaries of the human posts.
+2. A summary-guided prompt, guided by summaries of the human posts.
 
 Your interpretation must identify the discourses encoded at this pole, taking into account:
 • Linguistic loadings (which represent the entire corpus)
