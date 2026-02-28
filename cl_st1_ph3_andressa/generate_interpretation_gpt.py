@@ -31,6 +31,11 @@ import sys
 import time
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from dotenv import load_dotenv
+
+# Load environment variables from env/.env
+env_path = Path(__file__).resolve().parent / "env" / ".env"
+load_dotenv(dotenv_path=env_path)
 
 # ------------------------------------------------------------
 # API

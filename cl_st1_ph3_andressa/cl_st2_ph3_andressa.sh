@@ -31,10 +31,10 @@ python generate_gpt.py \
     #--test 10
 
 python clean_answers_human.py
-# output: corpus/05_human
+# Output: corpus/05_human
 
 python tag.py
-# output: corpus/07_tagged
+# Output: corpus/07_tagged
 
 python keylemmas.py \
     --input corpus/07_tagged \
@@ -45,7 +45,7 @@ python select_kws_stratified.py \
     --ceiling 250 \
     --human-weight 2 \
     --max-total 1200
-# output: corpus/09_kw_selected
+# Output: corpus/09_kw_selected
 "
 === Keyword Quotas ===
 generic_gpt     → 250 keywords (max)
@@ -66,49 +66,51 @@ Final unique keywords written: 140
 
 rm -rf columns columns_clean
 python columns.py
-# output: columns, columns_clean, file_ids.txt, index_keywords.txt
+# Output: columns, columns_clean, file_ids.txt, index_keywords.txt
 
 python merge_columns.py
-# output: sas/counts.txt
+# Output: sas/counts.txt
 
 python sas_formats.py
-# output: sas/word_labels_format.sas, etc
+# Output: sas/word_labels_format.sas, etc
 
 ## RUN SAS
 ## Rogerio Yamada's account
 
 python factor_lists.py
-# output: factors
+# Output: factors
 
 python corpus_size.py
-# output: corpus_size/corpus_size.tsv
+# Output: corpus_size/corpus_size.tsv
 
 cd latex_boxplots
-# builds boxplots for factor analysis:
+# Builds boxplots for factor analysis:
 python latex_boxplots.py
-# output: latex_boxplots/slides
+# Output: latex_boxplots/slides
 cd ..
 
 python latex_anova_table.py
-# output: latex_tables
+# Output: latex_tables
 
 python examples.py
-# output: examples (LaTEX format)
+# Output: examples (LaTeX format)
 
-# sanity check on the scores:
+# Sanity check on the scores:
 python score_details.py
-# output: examples/score_details.txt
+# Output: examples/score_details.txt
 
 python examples_txt.py
-# output: examples_txt (plaintext format)
+# Output: examples_txt (plaintext format)
 
-# interpretation
-# build prompts:
+# Interpretation
+# Build prompts:
 python interpretation_prompts.py
+# Output: interpretation/input
 
-# submit prompts:
+# Submit prompts:
 python generate_interpretation_gpt.py \
     --input interpretation/input \
     --output interpretation/output \
     --model gpt-5.1 \
     --workers 4
+# Output: interpretation/output
