@@ -134,4 +134,6 @@ Compile a cleaned subcorpus of **human-authored Reddit posts** from Phase 1 subm
 - Phase 2 is currently implemented as a notebook workflow; outputs are deterministic given the Phase 1 NDJSON inputs plus the explicit “manual drop” ID list and non-English exception IDs recorded in the notebook.
 - If you re-run Phase 1 collection (new data), expect Phase 2 row counts to change accordingly.
 
-## Phase 3 
+## Phase 3 — LMDA analysis, reporting, and interpretation
+
+Phase 3 builds the study’s **Lexical Multi-Dimensional Analysis (LMDA)** results from the final Phase 2 corpus. It generates human and LLM text variants, tags the texts, selects keywords, and exports frequency/count matrices for **factor analysis in SAS**. The SAS output (factor scores, loadings, and group means) is then used to produce publication-ready artefacts (LaTeX boxplots/tables and example excerpts) and to assemble **interpretation prompt files** (one per factor pole) that are sent to an LLM for qualitative labeling and interpretation. Outputs are written under `sas/`, `latex_*`, `examples/`, `examples_txt/`, and `interpretation/{input,output}`.
