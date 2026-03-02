@@ -60,7 +60,8 @@
     \lstset{breaklines=true, breakatwhitespace=true, columns=fullflexible, postbreak=\mbox{\textcolor{lightgray}{$\hookrightarrow$}\space}}
 \usepackage[T1]{fontenc} % Switch the font encoding to T1, which provides support for the '\dh' command and other special characters
 \usepackage{lmodern}
-\renewcommand{\rmdefault}{\sfdefault} % Changes to sans serif typeface
+%\usepackage[scaled]{helvet} % Set Arial-like font (Helvetica)
+\renewcommand{\familydefault}{\sfdefault} % Changes to sans serif typeface
 \renewcommand{\thesection}{\arabic{section}} % When using the 'report' document class without chapters, this setting removes the leading '0' on the numbering of sections
 \usepackage[export]{adjustbox} % Enables drawing a frame around the figures with the command '\fbox'
 \usepackage{multicol} % Enables the creation of columns of text
