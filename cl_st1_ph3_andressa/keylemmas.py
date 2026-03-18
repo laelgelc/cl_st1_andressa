@@ -17,9 +17,9 @@ from collections import defaultdict
 # POS tags to keep: nouns, main verbs, adjectives (NO ADVERBS)
 #VALID_TAG_PREFIXES = ("NN", "NP", "VV", "AJ")
 
-# Case 2 (Excluded proper nouns; Corrected the errors)
+# Case 2 (Included proper nouns; Corrected the errors)
 # POS tags to keep: nouns, main verbs, adjectives (NO ADVERBS)
-VALID_TAG_PREFIXES = ("NN", "NNS", "VB", "VBD", "VBG", "VBN", "VBP", "VBZ", "JJ", "JJR", "JJS")
+VALID_TAG_PREFIXES = ("NN", "NP", "VB", "JJ")
 
 # stopwords (lowercase)
 #STOPWORDS = {
