@@ -12,7 +12,7 @@
 options fmtsearch=(work library);
 
 /* enter number of factors to extract */
-%let extractfactors = 5 ;
+%let extractfactors = 3 ;
 
 %let factorvars = fac1-fac&extractfactors ;
 
@@ -40,7 +40,7 @@ DATA &project;
       prompt  $15      /* generic / summary_guided / human */
       model   $20      /* gpt, human */
       source  $5       /* ai / human */
-      v000001 - v000140 3
+      v000001 - v000361 3
   ;
 
   INPUT
@@ -48,7 +48,7 @@ DATA &project;
       prompt  :$15.
       model   :$20.
       source  :$5.
-      v000001 - v000140
+      v000001 - v000361
   ;
 RUN;
 
