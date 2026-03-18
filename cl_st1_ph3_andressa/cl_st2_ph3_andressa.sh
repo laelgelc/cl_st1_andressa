@@ -68,9 +68,9 @@ Duplicates removed later: 27
 Final unique keywords written: 140
 "
 
-# Case 2 (Excluded proper nouns; Corrected the errors)
+# Case 2 (Included proper nouns; Corrected the errors)
 # POS tags to keep: nouns, main verbs, adjectives (NO ADVERBS)
-#VALID_TAG_PREFIXES = ("NN", "NNS", "VB", "VBD", "VBG", "VBN", "VBP", "VBZ", "JJ", "JJR", "JJS")
+#VALID_TAG_PREFIXES = ("NN", "NP", "VB", "JJ")
 "
 === Keyword Quotas ===
 generic_gpt     → 250 keywords (max)
