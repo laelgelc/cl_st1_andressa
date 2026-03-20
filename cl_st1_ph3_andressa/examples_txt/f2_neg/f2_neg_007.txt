@@ -1,8 +1,8 @@
-Text ID: t002345
+Text ID: t000720
 Group: generic_gpt
 Model: gpt
-File:   corpus/05_generic_gpt/t489_gpt.txt
+File:   corpus/05_generic_gpt/t1564_gpt.txt
 
-Score (f2_neg): -3
-Loading words (f2_neg), N=3: script, errand, emptiness
-Lately I feel like I’m fading out of my own life. I go through the motions—work, errands, scrolling on my phone—but there’s this constant emptiness, like I’m watching someone else live instead of actually living. I have people around me, but the conversations feel shallow, like we’re all reading from scripts. I try to reach out, then overthink every message and end up deleting it. I’m scared I’m becoming that person no one really notices unless I’m needed for something. The silence when my phone doesn’t light up actually feels loud. I don’t even know what I’m hoping for by writing this.
+Score (f2_neg): -2
+Loading words (f2_neg), N=2: forgettable, surround
+I’m surrounded by people but feel like a background character. Conversations stay shallow, friendships fade, and I’m always the one reaching out. I’m tired of feeling forgettable and quietly drifting through everyone’s lives.

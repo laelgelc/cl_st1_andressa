@@ -1,18 +1,20 @@
-Text ID: t000629
+Text ID: t000544
 Group: generic_gpt
 Model: gpt
-File:   corpus/05_generic_gpt/t1481_gpt.txt
+File:   corpus/05_generic_gpt/t1404_gpt.txt
 
-Score (f2_pos): 2
-Loading words (f2_pos), N=3: college, guy, girl
-I’m starting to wonder if I’ve accidentally slipped out of my own life and no one noticed.
+Score (f2_pos): 12
+Loading words (f2_pos), N=12: help, situation, thing, way, house, want, friend, hurt, care, advice, human, leave
+I don’t really know how to talk about this in real life, so I’m dumping it here.
 
-Most days feel like I’m watching everyone else through thick glass. People at work talk about weekend plans, group chats, game nights, “the guys,” “the girls,” “the group.” I nod, smile, laugh at the right times, but no one actually texts me later. When I go home, my phone usually stays silent unless it’s some notification from an app or a spam email. I can go days without a real message that’s meant just for me.
+Lately I’ve been feeling like I’m living next to other people’s lives instead of in my own. I go through the motions: work, commute, groceries, scrolling on my phone until I’m tired enough to sleep. I talk to coworkers about tasks and deadlines, but as soon as it veers into anything personal, I panic a bit inside and steer it back to “safe” topics. Then I go home and feel weirdly hurt that no one really knows me.
 
-I keep thinking back to when friendships seemed to happen by default—school, college, whatever. You were just… around people all the time. Now everything feels scheduled and curated, and I’m always the extra piece that doesn’t quite fit into anyone’s puzzle. I’m not completely socially inept; I can hold conversations, I can be funny sometimes, people seem to like me well enough in small doses. But it never turns into anything deeper. It’s like I’m perpetually stuck at “acquaintance” level.
+There are people around me, technically. I’m not completely isolated. I have acquaintances, a group chat that’s mostly memes, some old friends I occasionally text. But everything feels thin, like a bad phone signal. I keep craving those deep, comfortable connections where you can just exist around someone without feeling like you’re performing. Instead, I’m always hyper-aware of how I’m coming across, like I’m auditioning for the role of a normal human.
 
-What’s starting to scare me is how used to it I’m becoming. The silence doesn’t shock me anymore. I cook for one, eat alone, watch shows alone, scroll alone. I tell myself I like my own company, and sometimes I do, but there’s this low-level ache underneath everything. Like a constant background noise I can’t turn off.
+What’s confusing is that I’m not even sure who the “real me” is anymore. When I’m alone too long, I feel hollow and disconnected from myself. When I’m with people, I feel like I’m wearing a costume. I leave social situations exhausted, replaying every small thing I said, convinced I sounded weird or boring or too much.
 
-I also catch myself editing who I am around people because I’m afraid of being “too much” or “too weird,” and then I wonder if that’s why no one really knows me. But the idea of being fully myself and still not being chosen feels worse than the loneliness I already know.
+Weekends are the worst. I wake up with this heavy feeling in my chest, knowing I have two days to fill and no one who’s really expecting me. Sometimes I’ll try to reach out and suggest something, and if people are busy or just don’t respond, it hits way harder than it should. Then I feel pathetic for caring so much.
 
-I don’t even know what I want from posting this. I guess I just needed to put it somewhere outside my own head for once, because in there it just keeps looping, and I’m tired of hearing the same echo.
+I’ve tried the usual advice: hobbies, online communities, being the one to initiate. It helps a bit, but it still feels like I’m standing outside a house, looking through the window at other people laughing together. I can see them clearly, but there’s this invisible barrier between us that I can’t figure out how to cross.
+
+I don’t even know what I’m asking for. I guess I just wanted to say this somewhere.

@@ -1,8 +1,18 @@
-Text ID: t004659
-Group: human
-Model: human
-File:   corpus/05_human/t254_human.txt
+Text ID: t006322
+Group: summary_guided_gpt
+Model: gpt
+File:   corpus/05_summary_guided_gpt/t1466_gpt.txt
 
-Score (f2_pos): 5
-Loading words (f2_pos), N=5: thanks, college, guy, girl, school
-Hello guys thanks for the invite to the group! I’m a 21M and have a similar story to many of you in the group: still a virgin, had a couple kisses but never a good one, been on a couple of dates that went nowhere, etc. Now I look back to summer of last year with deep pain. During that time I was really getting it together: I was about to be promoted at my job, school was going well for me for once, I was getting in the gym almost every day and gaining confidence, and I met a girl that I was instantly intrigued by. This girl was incredibly beautiful to me and shared a lot of my interests, and quickly she gravitated to me while we worked together. She was pretty shy but would take the time to talk to me and always greeted me with this amazing smile. But by the time the summer ended, she left across the country to college. I tried to keep in touch as much as I could, but then life got crazy for me too. Balancing school with work became an intense challenge, working out fell off as a result, and the promotion I was looking forward to fell through because they were understaffed. Then this girl moved back close to me and when we saw each other again, she quickly became flirty. One night we were sexting and she was planning to come over the next night, but those plans fell through and life was getting busy again so it was my last chance to see her for awhile. I became impatient and spilled all my feelings for her and she pretty much told me that she doesn’t catch feelings for people. I got drunk a night later and drunk texted her some nasty and forceful things and got blocked. So here I am, thinking just last week that something special was finally happening for me, but instead feeling as hopeless and lost as ever. I quit that job as it took a huge toll on me, still in school but have no idea where that will lead, and have been isolating myself and not working out. All my motivation in life feels lost because it seems like when things are coming together, everything eventually crumbles.
+Score (f2_pos): 23
+Loading words (f2_pos), N=23: treat, year, young, lose, love, experience, believe, mom, man, thing, house, want, only, happy, many, take, friend, interest, spend, whole, hard, care, share
+I’m 34 and honestly can’t remember the last time I was genuinely happy.
+
+My dad died when I was 17, and from that moment it felt like my own life stopped. I stepped into the “man of the house” role without really thinking about it. I worked, handed over money, put my own interests and plans on hold so my mom and younger sister would be okay. For years, that was just my identity: the provider.
+
+Looking back, it feels like that’s all I ever was to anyone. Romantic partners, friends, even my own family… it always seemed like they were more interested in what I could do for them than in who I actually am. I don’t remember many moments where I felt seen as a person rather than a resource.
+
+A few years ago I hit some financial hardship and was briefly unemployed. After everything I had done, my mom and sister basically treated me like I was useless, like I’d lost my only value. It was like I became disposable overnight. That broke something in me.
+
+Now I live alone. I haven’t seen my family in about four years. We barely speak, and when we do, it’s shallow and infrequent. My views on love and marriage are pretty much wrecked. It’s hard to believe in those things when your main experience of “love” is being needed only as long as you’re useful.
+
+I’m sharing this here because I don’t really have anyone in my life who wants to spend time with me just to be with me. I feel like I’ve spent my whole adult life taking care of others, and somehow ended up completely alone.

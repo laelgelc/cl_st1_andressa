@@ -1,136 +1,106 @@
-Factor 3 (positive pole) is strongly driven by human and summary‑guided GPT texts (both ≈0.97), with generic GPT barely involved (≈0.06). So this pole reflects a discourse style characteristic of human self‑disclosures that the summary‑guided model partially imitates.
+Factor f3 (positive pole) is strongly driven by human posts (mean = +0.23), while both GPT conditions sit clearly on the negative side (generic ≈ −1.14; summary‑guided ≈ −0.23). So this pole is essentially a *human‑style* discourse that the LLMs underproduce, especially under the generic prompt.
 
-Below I propose labels, then justify them from loadings and excerpts.
+### 1. Linguistic profile of the pole
 
----
+Top loadings (all positive):
 
-## Proposed labels for f3_pos
+- gonna (.96), wanna (.84)  
+- shit (.79), fuck (.63)  
+- cause (.58)  
+- (notification (.44))  
+- thanks (.36), heart (.33), great (.31), suck (.31)
 
-You could label this pole as:
+Key patterns:
 
-1. **“Relational mental‑health problem narration”**  
-2. **“Health‑and‑relationship burden discourse”**  
-3. **“Emotionally loaded accounts of psychological and relational issues”**
+- **Highly colloquial future/intention markers**: gonna, wanna  
+- **Intensifying taboo/vulgar items**: shit, fuck, suck  
+- **Informal causal connector**: cause  
+- **Interpersonal / evaluative items**: thanks, great, heart  
+- **Platform‑embedded / interactional**: (notification
 
-All three capture the same core: detailed, emotionally invested narration of mental‑health and relationship problems, framed as ongoing life “issues” and “situations” that need understanding or support.
+Taken together, this is a cluster of:
+- strong **spoken‑like, informal register**
+- **emotionally charged, often angry or distressed stance**
+- **direct address and interactional framing** (“thanks for reading”, “if you wanna…”)
 
----
+### 2. What the excerpts show
 
-## How the loadings characterise this discourse
+All 10 high‑scoring texts are human. They illustrate:
 
-Top loadings:
+1. **Raw, unfiltered venting about life collapse and loneliness**  
+   - “everything went to shit”, “the people there kinda suck”, “I just can’t take this shit anymore” (001, 003, 004, 006, 008, 009)  
+   - Heavy use of fuck/shit/suck as **emotional amplifiers**, not just insults.
 
-- **Mental health / distress lexicon**  
-  - health (.84), depression (.73), pain (.62), anxiety (.60), issue (.64), problem (.34), situation (.34), support (.56)  
-  This is a dense cluster of *problem‑talk* around psychological and physical health: “mental health issues”, “depression”, “anxiety”, “health problems”, “problems/situations” that require “support”.
+2. **Anger, hostility, and moral outrage**  
+   - “I FUCKING HATE PEOPLE”, “Fuck god btw and fuck Jesus. Hypocritical pieces of shit” (002)  
+   - Swearing used to **attack targets** (people, God, JK Rowling, self).
 
-- **Relational and attachment lexicon**  
-  - relationship (.38), love (.35), friend (.30), (parent (.32)), support (.56)  
-  These texts are not just about feeling bad; they are about **feeling bad in relation to others**: partners, friends, parents, and the presence/absence of emotional support and love.
+3. **Teen/young‑adult, conversational style**  
+   - “I’m fucking 15”, “I’m gonna go back to school”, “You think I’m gonna like hide all my secrets…”, “if you wanna do a joint farm that’d be cool” (001, 005, 007, 009)  
+   - Orthography and punctuation mimic **speech and shouting** (caps, repeated letters, “tbh”, “idk”, “wtf”).
 
-- **Temporal and accumulation lexicon**  
-  - year (.40), lot (.38), time (.31), way (.31)  
-  These words frame problems as **long‑term, cumulative burdens** (“for years”, “a lot of health problems”, “for the last 3–4 years”), not fleeting moods.
+4. **Venting plus outreach / interactional closing**  
+   - “I’m just venting because this shit happens to me” (006)  
+   - “If you like Harry Potter… then feel free to message ig. Thanks for reading anyways!” (007)  
+   - “It felt good to vent out my feelings like this tbh. Thank you if you cared to read till here.” (009)  
+   - So the same texts that are full of fuck/shit also contain **thanks, great, heart** in affiliative or reflective moves.
 
-- **Cognitive / evaluative lexicon**  
-  - fact (.43), idea (.34), (kind (.36)), (thing (.33)), way (.31), situation (.34)  
-  These are the building blocks of **explicit reasoning and evaluation**: “the fact that…”, “the idea that…”, “this kind of situation”, “the way things are”. They support reflective, explanatory narration of one’s difficulties.
+5. **Self‑destructive or crisis‑adjacent content framed in a casual, spoken register**  
+   - Drinking heavily, wanting to die in sleep, self‑hatred (001, 002, 003, 004, 008).  
+   - But expressed in a **chatty, immediate, “talking to a friend” voice**.
 
-Overall, the loading set points to a discourse that:
+The loading words appear in exactly these functions: gonna/wanna for projected action and desire; shit/fuck/suck as stance markers; thanks/great/heart in evaluative or affiliative turns.
 
-- centres on **mental and physical health problems**  
-- embeds them in **close relationships and social support**  
-- presents them as **ongoing, multi‑year situations**  
-- is **explicitly reflective**, using “fact/idea/way/situation” to reason about what’s wrong.
+### 3. What discourse is encoded?
 
----
+Putting the loadings and examples together, this pole is not just “swearing” or “informal language” in the abstract. It encodes a *particular way of doing loneliness‑talk*:
 
-## How the excerpts instantiate this discourse
+- **Mode**: highly colloquial, speech‑like, often adolescent/young‑adult register.
+- **Function**: *venting* and *cathartic emotional discharge*.
+- **Stance**: intense, often hostile or self‑loathing, but also sometimes hopeful or affiliative.
+- **Interactional orientation**: addressing an imagined peer audience, inviting contact, thanking readers.
 
-All 10 high‑scoring texts are human. They consistently show:
+LLM texts, especially under a generic prompt, tend to avoid heavy profanity and extreme informality, and they often adopt a more measured, “support‑forum” tone. That explains why GPT posts sit away from this pole: they underuse exactly the lexical items that define this dimension (gonna/wanna, fuck/shit, etc.), and they rarely reproduce this raw, rant‑like style.
 
-### 1. Explicit mental‑health framing
+### 4. Possible labels for this pole
 
-- “a lot of health problems”, “mental health issues”, “I have BPD, depression, and anxiety”, “I have really bad depression but I’m managing it well”, “I have been depressed for the last 3–4 years”.
-- Problems are **named, medicalised, and temporally anchored** (“for years now”, “for the last 3–4 years”, “20 years later”).
+Here are several candidate labels, each justified by both the loadings and the excerpts:
 
-This matches the very high loadings of **health, depression, anxiety, issue, pain, problem, situation**.
+1. **“Raw Venting in Colloquial Youth Register”**  
+   - *Raw venting*: captures the intense, unfiltered emotional discharge (anger, despair, hatred) seen across the examples.  
+   - *Colloquial youth register*: motivated by gonna/wanna, fuck/shit/suck, cause, and the teen/young‑adult voices in the excerpts.
 
-### 2. Problems embedded in intimate relationships
+2. **“Emotionally Intense, Profanity‑Laden Self‑Disclosure”**  
+   - *Emotionally intense*: the posts are not neutral; they are saturated with strong affect.  
+   - *Profanity‑laden*: directly reflects the high loadings of fuck, shit, suck and their central role in stance.  
+   - *Self‑disclosure*: all texts are first‑person narratives of personal pain and loneliness.
 
-Across excerpts, loneliness is narrated through:
+3. **“Conversational Ranting and Cathartic Outburst”**  
+   - *Conversational*: gonna, wanna, cause, thanks, heart, great, and the overall spoken‑like style.  
+   - *Ranting and cathartic outburst*: the texts are structured as rants, often explicitly framed as “venting”, with swearing as a key resource.
 
-- romantic partners: boyfriend, girlfriend, long‑distance partner, ex; “relationship”, “breakup”, “romantic partner”
-- friends: “my friends don’t text me unless I text them”, “I was ditched by my best friends”, “all of my friends stopped talking to me”
-- family/parents: “my family and I don’t see eye to eye”, “I have literally lacked support, love, and care from my family”, “in my family, I was raised in a way where we don’t usually talk about our feelings”.
+4. **“Peer‑Directed, Expletive‑Rich Loneliness Narratives”**  
+   - *Peer‑directed*: thanks, invitations to DM or play games, “thanks for reading”, “if you wanna…”.  
+   - *Expletive‑rich*: again, fuck/shit/suck as core loadings.  
+   - *Loneliness narratives*: all examples are stories of isolation, rejection, or social pain.
 
-The **relationship, love, friend, parent, support** loadings are all clearly realised. Loneliness is not abstract; it is **relationally situated**.
+### 5. Which group drives this pole?
 
-### 3. Accumulated burdens over time
+- **Human posts** are clearly driving the positive pole:
+  - They have a positive mean score.
+  - All top‑scoring examples are human.
+  - They heavily use the defining lexical items.
+- **GPT posts**, especially under the generic prompt, are far from this pole:
+  - Strongly negative mean for generic GPT suggests systematic avoidance of this style.
+  - Summary‑guided GPT is closer to human but still on the negative side, indicating partial but incomplete uptake of this discourse style.
 
-Many posts explicitly foreground **years** of struggle:
+### 6. Recommended primary label
 
-- “have been struggling with my life for years now”
-- “I have been depressed for the last 3–4 years”
-- “Even now 20 years later, I think about him”
-- “I’ve lived a lonely life all these years”
-- “since the start of this year all of my friends stop talking to me”
+If I had to choose a single label that best captures this pole, grounded equally in the loadings and the examples, I would propose:
 
-The loading on **year, lot, time** is realised as narratives of **long‑term, layered hardship** (“a lot of health problems”, “a lot of issues”, “a lot of therapy sessions”).
+**“Raw, Profanity‑Laden Venting in Colloquial Peer Talk”**
 
-### 4. Reasoning about “the problem” and “the situation”
+- *Raw, profanity‑laden venting*: reflects the emotional intensity and central role of fuck/shit/suck/suck as stance markers.
+- *Colloquial peer talk*: captures gonna/wanna/cause, thanks, heart, great, and the orientation to a peer audience typical of human Reddit posts, especially from younger users.
 
-These texts are not just venting; they **analyse**:
-
-- “The problem I kept facing: …”
-- “My therapist kind of came down to the conclusion that…”
-- “I’ve realized that everything takes work. And I mean everything.”
-- “I don’t know what action I should take or how I should treat him back for this.”
-- “I don’t know if anybody has some crazy ideas that I haven’t considered.”
-
-This matches **fact, idea, problem, situation, way, thing**: the discourse is **meta‑cognitive**, trying to conceptualise and solve life difficulties.
-
-### 5. Desire for support and emotional connection
-
-Support is central:
-
-- “I really need someone to understand me—someone who can take care of me or at least care about what disappoints me.”
-- “I just only want someone to love and be my emotional support”
-- “So I built Grace – a digital companion for emotional support.”
-- “If anyone is down for chatting every once in a while/checking in on each other…”
-
-The high loading on **support** is realised both as **needed** (emotional support from others) and **provided** (offering or designing support).
-
----
-
-## Which group drives this pole?
-
-- **Human**: mean ≈ 0.99  
-- **Summary‑guided GPT**: ≈ 0.97  
-- **Generic GPT**: ≈ 0.06  
-
-So:
-
-- This discourse style is **fundamentally human‑driven**.
-- The **summary‑guided GPT** regime closely reproduces it (likely because the summaries encode these health/relationship/problem themes).
-- The **generic GPT** regime rarely reaches this pole: its posts, on average, do not concentrate this dense mix of health, depression, relationship, and problem‑reasoning vocabulary.
-
-Thus, f3_pos is best understood as a **human‑like, clinically and relationally framed problem‑narration style**, which summary‑guided GPT can approximate but generic GPT largely does not.
-
----
-
-## Why the proposed labels fit
-
-1. **“Relational mental‑health problem narration”**  
-   - “mental‑health”: captures health, depression, anxiety, pain, issue  
-   - “relational”: captures relationship, love, friend, parent, support  
-   - “problem narration”: captures problem, situation, fact, idea, year, lot, and the extended, reflective storytelling seen in the excerpts.
-
-2. **“Health‑and‑relationship burden discourse”**  
-   - “burden” reflects the cumulative, multi‑year, “a lot of problems/issues” framing.
-   - “health‑and‑relationship” foregrounds the two main semantic clusters.
-
-3. **“Emotionally loaded accounts of psychological and relational issues”**  
-   - Emphasises that these are **emotionally intense, explanatory accounts** of intertwined psychological and relational difficulties.
-
-Any of these would be an appropriate label for the **positive pole of Factor 3** as a discourse dimension.
+This label characterizes the discourse encoded at the positive pole of f3 without reference to the opposite pole, and it aligns with both the lexical patterning and the high‑scoring excerpts.

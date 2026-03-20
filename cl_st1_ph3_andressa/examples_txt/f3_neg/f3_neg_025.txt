@@ -1,14 +1,20 @@
-Text ID: t006905
+Text ID: t007576
 Group: summary_guided_gpt
 Model: gpt
-File:   corpus/05_summary_guided_gpt/t1996_gpt.txt
+File:   corpus/05_summary_guided_gpt/t2606_gpt.txt
 
-Score (f3_neg): -1
-Loading words (f3_neg), N=1: weather
-I’m 54, introverted, and honestly feel like I’m trying to relearn how to be a person around other people. I haven’t really had friends since the 90s. Somewhere along the way I just… stopped. Now I’m trying to change that, even though I feel kind of ridiculous.
+Score (f3_neg): -3
+Loading words (f3_neg), N=3: role, invisible, perform
+I’m 18F and I feel like I grew up on a different planet from everyone around me.
 
-I don’t drink, so instead of bars I’ve been taking my laptop to different coffee shops. I set tiny goals for myself: say one nice thing to a stranger, make a comment about the weather, compliment someone’s shirt. If that goes okay, I try to stretch it into a short conversation. It sounds so basic, but for me it’s huge.
+As a kid I was extremely shy and had a lot of motor/kinetic difficulties, so I couldn’t really play or run around like the other children. While everyone else was forming friendships and learning how to interact, I was off on my own, collecting rocks and disappearing into this elaborate fantasy world in my head. That became my comfort zone, but it also meant I was bullied and pretty much alienated. I never really “practiced” being around people the way other kids did.
 
-What’s weird is I remember being very social once. It feels like I’m trying to reconnect with a version of myself I lost.
+Now I feel like I never fully learned normal social etiquette. I still don’t feel integrated into any community. When I’m around other girls my age, I feel like I’m “performing” femininity—copying gestures, expressions, and topics—rather than actually feeling like that’s me. It’s like I’m acting out a role I never rehearsed properly.
 
-I’m also counting Reddit and other online spaces as “real” interaction. When in-person stuff feels impossible, at least writing to people here is something.
+Small talk and everyday topics feel so unnatural to me. I don’t know how to talk about surface-level stuff for long without feeling fake or bored. I’m drawn to deep conversations about philosophy, art, or more abstract things. But when I try to steer conversations in that direction, people often just go quiet or change the subject. Then I feel weird or “too much,” like I’ve broken some invisible rule.
+
+On the rare occasions when I meet someone who actually enjoys those deeper conversations, it feels almost magical—like I’ve found another person from my planet. But those connections usually end up being temporary, and I go back to feeling like an outsider again.
+
+I’ve started to believe that people who grow up largely alone end up developing different thinking patterns and ways of processing information. Maybe that can lead to strengths in academic, economic, or artistic areas, but not so much in social skills. To me, these differences feel inherent, not just a matter of being “smart” or “weird.”
+
+I’m wondering if anyone else relates to this. Did growing up alone change the way your mind works? How do you deal with feeling like you’re always performing instead of just existing naturally around others?

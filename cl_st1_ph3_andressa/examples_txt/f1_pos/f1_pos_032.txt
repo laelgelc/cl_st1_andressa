@@ -1,20 +1,20 @@
-Text ID: t005678
+Text ID: t003734
 Group: human
 Model: human
-File:   corpus/05_human/t967_human.txt
+File:   corpus/05_human/t1709_human.txt
 
-Score (f1_pos): 23
-Loading words (f1_pos), N=23: life, text, work, home, show, people, talk, phone, something, ache, day, everyone, silence, family, time, thing, anyone, someone, anything, way, friend, nothing, kid
-I have this fear that one of the only friends I go out with doesn’t like to hang out with me anymore but is too polite to say. I always ask to hang out, it’s almost never the other way around. We only ever talk when we see each other in real life, or when I text something.
+Score (f1_pos): 50
+Loading words (f1_pos), N=50: go, group, like, know, life, say, home, small, put, work, outside, own, part, people, talk, try, most, bad, job, mess, day, feel, see, start, make, realize, close, more, constant, look, think, time, awkward, normal, sit, anyone, other, someone, change, social, much, everything, guess, boring, stuff, scare, okay, need, nothing, feeling
+Lately I’ve been dealing with a lot, but honestly the worst part isn’t even the outside stuff. It’s the loneliness. That constant feeling of being on the outside of everything.
 
-So I’m trying to go out on my own tomorrow. I feel pretty sad but I’m trying to look at the positive side that at least I can do that. But having so much silence. Looking at my phone constantly with no one really who wants to ask me about my day or anything as much as I ask about theirs.
+I didn’t go to college. I just started working shitty customer service, nothing special. I always thought I’d be more by now. I put so much pressure on myself to impress people, be someone, prove I’m smart. Now having a normal low-level job makes me feel like I already failed at life.
 
-I’m trying to ignore getting depressed, but being this lonely makes me tired. Drained. When I go to sleep I try to be as vivid as possible to imagine I’m with someone. I have these two people on YouTube that I “watch” movies with because I don’t have anyone in real life to do that with.
+I grew up mostly with my grandma, and I think that messed with me more than I realized. I don’t really know how to build close connections. I don’t have a solid friend group. I overthink everything I say. I don’t even know how people see me. Some days I feel okay about myself, other days I feel so pathetic and ugly. 
 
-At work, everyone is going on vacation. To see their friends and families, with their husbands or wives and kids. Everyone has someone to go home to. I’m always the last to leave, I walk alone and I wait alone for the bus.
+Adhd didn’t help either. I wasn’t diagnosed when I was younger so school was a total mess. Couldn’t focus for my life, procrastinated everything, avoided friends, stayed home because of insecurities about how I look. I never built any good habits, so I know I’d probably struggle even if I went to uni now. My brain just never learned how to handle long projects, deadlines, sitting through boring lectures, and nobody ever taught me. Even now going out, gym (started recently), social stuff drains me fast. I feel awkward and anxious most of the time, kinda autistic in how I overthink everything.
 
-My dream is to just have someone see me. And want to know me and talk to me just because they feel like it. I look in the mirror and wonder if maybe I’m too fat, or too ugly, or just too annoying with the things that I like. 
+I’ve been trying to change though. Lost a lot of weight, started working out, taking care of my skin (meds for acne), small upgrades here and there. On the outside it kinda looks like progress. But realizing I’m 22 and I should be way ahead drains me of any positive thoughts.
 
-There’s a boy that I think about always who never falls short of finding someone else to be in love with. It makes my heart ache.
+I don’t need a perfect life. I just want connection. Someone to talk to. Maybe date. Maybe just not feel like I’m doing everything alone. I’m scared of being a burden. I’m afraid people see me as unambitious or boring even though I know I’m not boring or unfunny. And I hate that my own brain makes everything harder than it probably is.
 
-I keep trying to keep myself in good spirits thinking that it’s for a reason. But even in my thoughts I’m lonely and have nothing to talk to myself about. I fill my time consuming information and watching shows hoping that I’ll get to talk to someone about it for the day.
+So yeah, I guess I’m just writing this here because I don’t really have anyone to say it to. Any advice would be super appreciated 🖤

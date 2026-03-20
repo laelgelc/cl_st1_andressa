@@ -1,18 +1,22 @@
-Text ID: t005838
-Group: summary_guided_gpt
-Model: gpt
-File:   corpus/05_summary_guided_gpt/t1026_gpt.txt
+Text ID: t003202
+Group: human
+Model: human
+File:   corpus/05_human/t1225_human.txt
 
-Score (f2_pos): 6
-Loading words (f2_pos), N=6: man, reason, guy, girlfriend, woman, experience
-Throwaway for obvious reasons.
+Score (f2_pos): 26
+Loading words (f2_pos), N=26: issue, year, emotional, lose, love, experience, lot, grow, date, find, thing, give, kind, want, good, only, least, guy, understand, friend, same, hard, care, advice, hate, wish
+I have hobbies, a side hustle, and keep myself busy with my studies. But when im not busy with these things, i feel empty. I feel so lonely. I crave for some kind of emotional connection with someone.
 
-I’m 28, and the more I look around, the more I feel like the future for guys like me is just… bleak. I don’t hate women, I’m not anti-feminist – women’s struggles and feminism are real and important, and I genuinely believe that. But at the same time, it feels like men are being vilified more and more, like just existing as a man makes you suspect or unwanted.
+I have friends but i never open up with them. I have trust issues. I listen to their rants, vents, and their random stories and thoughts but im having a hard time doing the same for them. Maybe because i know they wouldnt understand me and i live a double life. I keep a lot of secrets because of my strict religion. And growing up, i was constantly shamed for almost everything i do.
 
-It seems like there are simply more men than women, and that math alone means a lot of us are going to end up alone no matter what we do. On top of that, it feels like men generally crave intimacy more, while a lot of women I know seem genuinely content being single, focusing on themselves, their friends, their careers. I’m happy for them, but it just reinforces this feeling that there’s no place for someone like me.
+I hate that i feel such a complex person. I wish i was normal.
 
-I’ve spent about a decade trying. Shared interest groups, hobbies, meetups, dating apps – you name it. Not a single date, not a single kiss, no girlfriend, no sexual experience. Nothing. It’s like I’m invisible, or worse, like I’m not even allowed to want anything without being labeled creepy or entitled.
+Ever since I had my first heartbreak, i have a hard time being alone. I always crave to be loved. Im always talking to some guy and usually it doesnt last. I had 2 boyfriends within 3 years and each lasted only for a year. I'm probably addicted to male attention atp.
 
-Economic stuff doesn’t help either. Money is tight, everything is expensive, and even hobbies cost more than I can really afford. It’s hard to “enjoy life” when you’re broke and alone.
+(And also, im not allowed to have a bf lol.)
 
-The gym is literally the only thing keeping me going at this point. Some days it feels like young men like me are just meant to work hard, shut up, and die alone. I don’t know what I’m looking for posting this, I just needed to say it somewhere.
+Im probably addicted because guys are so good at pretending to care which i really crave for. At least i got a safe space to overshare my life TEMPORARILY. If it doesnt work out I can just find someone else to talk to who can occupy the void in me and repeat.
+
+Ive given up on dating genuinely as well, with all the dating rules on social media like "dont double text", "dont show too much affection, theyll lose attraction" etc. Idek if genuine love is possible these days. But if love does exist, i dont think i'll ever experience it.
+
+I dont want advice or anything, i just wanna let feelings out.

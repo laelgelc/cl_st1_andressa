@@ -1,8 +1,10 @@
-Text ID: t003811
+Text ID: t005181
 Group: human
 Model: human
-File:   corpus/05_human/t1779_human.txt
+File:   corpus/05_human/t470_human.txt
 
 Score (f1_neg): 1
-Loading words (f1_neg), N=1: f2 score: 1
-growing up I always seen my parents fight and fight and keep fighting nowdays I feel lonley most of the day but it got worst I'm mentally ill to the point of breaking I'm broken too I don't know I always feel lonely
+Loading words (f1_neg), N=1: f2 score: 0
+I'll just have to figure out how to not be extremely depressed on my own, be successful on my own, and figure out how to be ok with being alone.
+
+Merry Christmas. 

@@ -1,16 +1,18 @@
-Text ID: t001476
+Text ID: t002368
 Group: generic_gpt
 Model: gpt
-File:   corpus/05_generic_gpt/t2251_gpt.txt
+File:   corpus/05_generic_gpt/t512_gpt.txt
 
-Score (f3_pos): 2
-Loading words (f3_pos), N=2: lot, relationship
-I don’t really know how to explain this to people in my life, so I’m dumping it here instead.
+Score (f3_pos): 1
+Loading words (f3_pos), N=1: suck
+I don’t really know how to explain this without sounding dramatic, but I feel like I’m slowly disappearing from my own life.
 
-I’m surrounded by people but I feel like I’m behind glass all the time. I go to work, make small talk, even crack jokes, and everyone would probably describe me as “fine” or “chill.” But I go home and it’s like everything goes silent inside my head except this heavy awareness that nobody really knows me, and I’m not sure anyone wants to.
+On paper, I’m “fine.” I have a job, I reply to work messages, I say “hey” to coworkers, I like some memes in group chats. But none of it feels like it actually connects to me. It’s like I’m playing an NPC version of myself that knows the right lines but doesn’t feel anything behind them.
 
-I’ve had friends, relationships, all of that. But even when I’m physically with someone, I feel this weird distance, like I’m playing a version of myself that’s easier to digest. I edit what I say so I don’t sound too needy, too intense, too negative. Then I end up feeling fake, but when I try to be more honest, people slowly drift away or get uncomfortable.
+I don’t have anyone I can message just to say “today sucked” without feeling like I’m being a burden. The people I used to be close to moved on, got partners, got busier, or just drifted away. I keep replaying old conversations in my head, wondering when exactly I became the person no one thinks to invite.
 
-It’s starting to feel like I’m fundamentally out of sync with everyone else. I watch people talk about their “group” or “best friend” or “person” and I can’t even imagine what it’s like to feel that secure with someone. I’ve moved around a lot, so there’s no childhood friend who “gets me,” no long-term social circle. Just a lot of people I used to know.
+I try to “put myself out there” sometimes—join a Discord, comment in a group, go to a meetup—but it always feels like everyone already has their circles. I’m the extra chair at the table that no one really needs. People are polite, but it never goes deeper. I leave feeling more alone than before I went.
 
-What scares me most is how normal this has started to feel. I wake up, go through the motions, distract myself with screens until I’m tired enough to sleep. I tell myself it’s not that bad, that I’m used to it. But every so often it hits me how much of my life I’m spending feeling like this, and I don’t really know what to do with that.
+The worst part is how quiet everything gets at night. No notifications, no one who might randomly call. Just me, my thoughts, and this constant sense that I could vanish and it would only show up as a small inconvenience on someone’s schedule, if at all.
+
+I don’t even know what I’m looking for writing this. I just wanted to put it somewhere that isn’t only in my head.

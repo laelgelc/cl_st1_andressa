@@ -1,20 +1,12 @@
-Text ID: t006647
+Text ID: t005824
 Group: summary_guided_gpt
 Model: gpt
-File:   corpus/05_summary_guided_gpt/t1761_gpt.txt
+File:   corpus/05_summary_guided_gpt/t1013_gpt.txt
 
-Score (f3_pos): 7
-Loading words (f3_pos), N=7: health, depression, anxiety, top, support, year, situation
-I’m 27 and I feel like I’ve hit a wall in every direction.
+Score (f3_pos): 1
+Loading words (f3_pos), N=1: thanks
+I live in a big city, surrounded by people, but somehow I still feel completely alone. Most social stuff here seems to revolve around drinking, and I don’t drink anymore. I used to self-medicate a lot with alcohol and drugs just to get through the days and to feel like I could connect with people.
 
-My family is tiny and toxic, and I barely speak to them. I don’t have any close friends. I’ve basically learned that the only person I can rely on is myself, and even I’m not doing a great job of holding it together lately.
+I’ve been sober from alcohol for almost three years now, and I quit cannabis a few weeks ago. Without those crutches, it feels like everything I pushed down for years is rushing to the surface. I cry a lot, I barely sleep, and I keep thinking about how much time I spent just coping instead of actually building a life or real connections.
 
-For years, my two cats were my main emotional support. They were the only ones who were always there when I came home. One of them died seven months ago, and I still feel that loss every day. Now my other cat’s health is declining, and it feels like the last bit of stability I had is slipping away.
-
-My own health is getting worse too, physically and mentally, but I can’t afford proper medical care. My job pays just enough that I don’t qualify for help like food stamps, but not enough to actually live comfortably. Rent is high even with a roommate, and then there’s my car payment, insurance, debt, groceries, and vet/medicine bills for my cat. Every month feels like a balancing act I’m slowly losing.
-
-On top of that, I’m dealing with severe OCD, depression, anxiety, and ADHD. I know I need therapy, meds, maybe even a proper evaluation, but all of that costs money I don’t have. It feels like I’m stuck in this loop where I can’t get better because I’m poor, and I can’t stop being poor because I’m not well enough to do more.
-
-I don’t have a support system. No family safety net, no partner, no close friends. I don’t have a college degree, and I don’t have the money or motivation to go back to school. I keep thinking about how many people are in similar situations, and how much of life comes down to whether you were born with financial and emotional support.
-
-People don’t talk enough about how big a privilege it is to have that from the start. Some of us are just trying to survive without it, and it’s exhausting.
+I’m not sure what I’m looking for, but I guess I’m wondering if anyone else has gone through something like this. Thanks for reading. Peace and love to all of you.

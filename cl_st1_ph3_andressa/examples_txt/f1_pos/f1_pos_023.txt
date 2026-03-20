@@ -1,18 +1,20 @@
-Text ID: t008533
+Text ID: t008121
 Group: summary_guided_gpt
 Model: gpt
-File:   corpus/05_summary_guided_gpt/t967_gpt.txt
+File:   corpus/05_summary_guided_gpt/t555_gpt.txt
 
-Score (f1_pos): 27
-Loading words (f1_pos), N=27: group, life, text, work, head, home, show, people, talk, something, weekend, day, everyone, person, silence, family, time, thing, plan, someone, end, friend, conversation, feeling, partner, kid, loneliness
-I feel like I’m just… existing on mute.
+Score (f1_pos): 55
+Loading words (f1_pos), N=55: go, group, like, fine, know, life, home, message, put, laugh, watch, ask, light, outside, people, talk, try, most, bad, something, day, everyone, heavy, feel, see, start, inside, person, make, family, keep, first, time, awkward, normal, sit, anyone, exist, other, someone, stop, reply, social, while, end, conversation, everything, place, seem, okay, walk, pretend, turn, open, speak
+I ended a long-term relationship a little while ago, and I feel like I lost everything in one go. He wasn’t just my boyfriend, he was my best friend, my emotional support, the one person I could actually talk to and feel safe with. In a life and household that already felt heavy and difficult, he was kind of the only light. Now that he’s gone, it feels like someone switched that light off and I’m just stumbling around in the dark.
 
-I have this one friend I hang out with sometimes, but I’m always the one who has to text first, always the one who suggests meeting up. If I don’t reach out, we just don’t talk. It makes me feel like they don’t really want to see me, like I’m just something they tolerate when I appear, not someone they’d actually miss. I’m trying to push myself to go out alone, to sit in cafés or walk around so I’m not always trapped inside, but it just makes me painfully aware of how silent my life is. No one asks how my day was. No one is waiting to hear about the little things.
+I don’t really have anyone I can turn to now. I can’t have normal conversations with my family, let alone talk to them about how I feel. It just doesn’t feel possible or safe to seek comfort from them. So I keep it all inside and pretend I’m fine.
 
-The loneliness is so draining. I cope by imagining being with someone, making up conversations in my head, or “watching” movies with YouTubers and pretending they’re friends sitting next to me. I know it’s not real, but it fills the silence a bit. Still, when the video ends, it’s just me again.
+Outside of that, I basically only have two people in my life. One friend I bonded with because we were both in relationships, but now we barely see each other or talk. The other friend hardly replies anymore and has become really distant. I can feel them both slipping away and I don’t know how to stop it.
 
-Work makes it worse. Everyone else seems to have partners, families, people to go home to. They talk about their weekend plans, their kids, their relationships. Then the day ends and they leave in pairs or groups, and I’m the one walking out alone, waiting for the bus alone, going home to no one. It makes me wonder what’s wrong with me. Am I too fat, too ugly, too annoying, too… something?
+I’m in university, and everyone always talks about this being “the time of your life,” but it doesn’t feel like that for me at all. I’ve always struggled to make and keep friends. I feel awkward and not very social, like I’m just fundamentally bad at this. It feels like it takes a very specific kind of person to tolerate me long term, and those people are rare.
 
-There’s also this boy I have feelings for, but he always seems to find someone else to love. I’m just there on the sidelines, watching it happen again and again. It hurts more than I want to admit.
+I have tried to be open and start conversations at uni. Sometimes it seems to go okay at first, but then it just… fizzles out. People don’t follow up, don’t message, or even avoid sitting next to me. I don’t know what I’m doing wrong, or if there’s just something about me that puts people off.
 
-I try to stay positive, to keep my brain busy with information, shows, random interests. I fill my time hoping that one day I’ll have someone to talk to about all of it. But even in my own thoughts, I feel lonely. It’s like there’s an echo where another person should be.
+Most days I just go to class, sit alone, eat lunch alone, and go home alone. Sometimes I go an entire day barely speaking to anyone, maybe just a quick comment here or there. I feel like a ghost walking around campus, watching everyone else form groups, laugh, and make memories while I just exist on the edges.
+
+I feel out of place and I keep asking myself what the point of being there even is, when I’m just so lonely all the time.

@@ -1,8 +1,8 @@
-Text ID: t005237
+Text ID: t004736
 Group: human
 Model: human
-File:   corpus/05_human/t526_human.txt
+File:   corpus/05_human/t261_human.txt
 
 Score (f1_neg): 1
-Loading words (f1_neg), N=1: f2 score: 0
-I can’t handle it anymore, I really miss my social life and how I used to be 
+Loading words (f1_neg), N=1: f2 score: 2
+Are there any loners out there looking for a friend?

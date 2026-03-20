@@ -1,14 +1,8 @@
-Text ID: t003644
+Text ID: t005334
 Group: human
 Model: human
-File:   corpus/05_human/t1627_human.txt
+File:   corpus/05_human/t623_human.txt
 
-Score (f3_pos): 6
-Loading words (f3_pos), N=6: issue, pain, support, fact, year, love
-I never really had issues making friends in high school and uni. Nor do I consider myself to be shy. But now in my adulthood, I just…struggle to connect. I’m 30 and have no one. I used to have a bunch of online friendships, like real fucking deep connections. They’re all gone now. Even though I’m astonishingly self-critical, with therapy I’ve come to realize I’m not to blame. In fact, most of these falling outs were not set off by me. But it doesn’t mean I’m not hurt. 
-
-Anyway, I live with my folks, and I’m doing what I can to open a coffee shop at home soon. 
-Do I have a horrible life? Not really. I’d go as far as to call it privileged in some ways. Yet something in me is broken. Something beyond explanation.
-
-I’m in so much pain every second of the day, with no end in sight. I don’t understand why the love I gave amounted to nothing. If friendship, affection, support, and love, are the most important things in life, then how can people so easily dismiss it? How are people cold enough to ghost someone they’ve known for years? 
-I’m writing all of this not for sympathy, not for pity, not to fish for cliches about the value of life. It’s merely to show you none of this really matters. You can go through life wrecking everyone and still come out unscathed. You can take away someone’s dignity, make them feel unworthy for the rest of their lives, and face no consequences. The loving ones take the toll.
+Score (f3_pos): 3
+Loading words (f3_pos), N=3: cause, thanks, great
+i, 19, am going through it rn. its like a part of my soul was stripped away from the endless amount of work, unnecessary and necessary stress, and i just lost my gf. now i know i sound a bit pissy about my life to the whole wide world, but i genuinely don't know how to vent this anger and isolation to any of my peers or family due to them moving on to greater endeavors while im sitting down looking at what i could've been. i also know that some people have it worse than me but i don't know if i can accept my failure and move on cause its so damn difficult. the rant that im currently writing is an extension of my escapism. so if anyone pops by to look at this, may you please share your tips on how to combat this hopeless feeling? thanks 

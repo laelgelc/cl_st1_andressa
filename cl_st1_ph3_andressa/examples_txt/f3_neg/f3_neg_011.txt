@@ -1,14 +1,20 @@
-Text ID: t002038
+Text ID: t000544
 Group: generic_gpt
 Model: gpt
-File:   corpus/05_generic_gpt/t2762_gpt.txt
+File:   corpus/05_generic_gpt/t1404_gpt.txt
 
-Score (f3_neg): -2
-Loading words (f3_neg), N=2: notification, weather
-I’ve been feeling like I’m fading into the background of my own life.
+Score (f3_neg): -6
+Loading words (f3_neg), N=6: disconnected, crave, role, exhaust, invisible, perform
+I don’t really know how to talk about this in real life, so I’m dumping it here.
 
-I have people around me—coworkers, acquaintances, even family I see sometimes—but I don’t feel *known* by anyone. Conversations stay on the surface: work, the weather, random small talk. I can’t remember the last time someone asked how I really was and actually wanted to hear the answer.
+Lately I’ve been feeling like I’m living next to other people’s lives instead of in my own. I go through the motions: work, commute, groceries, scrolling on my phone until I’m tired enough to sleep. I talk to coworkers about tasks and deadlines, but as soon as it veers into anything personal, I panic a bit inside and steer it back to “safe” topics. Then I go home and feel weirdly hurt that no one really knows me.
 
-I try to reach out, but it always feels like I’m intruding, like I’m the “extra” person in every group. I’ll send a message, get a polite reply, and then it just dies. I start wondering if I’m just fundamentally forgettable.
+There are people around me, technically. I’m not completely isolated. I have acquaintances, a group chat that’s mostly memes, some old friends I occasionally text. But everything feels thin, like a bad phone signal. I keep craving those deep, comfortable connections where you can just exist around someone without feeling like you’re performing. Instead, I’m always hyper-aware of how I’m coming across, like I’m auditioning for the role of a normal human.
 
-Nights are the worst. I scroll through my phone, hoping for a notification that never comes, then put it down and just lie there, feeling this heavy, quiet emptiness that I don’t know what to do with.
+What’s confusing is that I’m not even sure who the “real me” is anymore. When I’m alone too long, I feel hollow and disconnected from myself. When I’m with people, I feel like I’m wearing a costume. I leave social situations exhausted, replaying every small thing I said, convinced I sounded weird or boring or too much.
+
+Weekends are the worst. I wake up with this heavy feeling in my chest, knowing I have two days to fill and no one who’s really expecting me. Sometimes I’ll try to reach out and suggest something, and if people are busy or just don’t respond, it hits way harder than it should. Then I feel pathetic for caring so much.
+
+I’ve tried the usual advice: hobbies, online communities, being the one to initiate. It helps a bit, but it still feels like I’m standing outside a house, looking through the window at other people laughing together. I can see them clearly, but there’s this invisible barrier between us that I can’t figure out how to cross.
+
+I don’t even know what I’m asking for. I guess I just wanted to say this somewhere.

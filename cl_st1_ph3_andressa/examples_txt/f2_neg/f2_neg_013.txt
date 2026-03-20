@@ -1,12 +1,8 @@
-Text ID: t000552
+Text ID: t000791
 Group: generic_gpt
 Model: gpt
-File:   corpus/05_generic_gpt/t1411_gpt.txt
+File:   corpus/05_generic_gpt/t1629_gpt.txt
 
-Score (f2_neg): -3
-Loading words (f2_neg), N=3: gap, noise, role
-I’m starting to feel like I’m disappearing while still being technically “around people.” I have coworkers, family chats, a couple of old friends I text every now and then, but I don’t feel actually known by anyone. Every interaction feels like I’m playing a role: the reliable one, the listener, the person who “seems fine.”
-
-When the day ends and I’m alone in my room, it hits me how little of my real thoughts I’ve shared with anyone. I scroll, watch videos, send memes, but it all feels like noise to cover up the silence. I don’t even know how to bridge the gap anymore—how do you go from surface-level small talk to saying, “I’m lonely, and I don’t know how to fix it,” without making everything weird?
-
-It’s like I’m waiting for someone to notice, but I’m also hiding it so they never will.
+Score (f2_neg): -2
+Loading words (f2_neg), N=2: lurk, surround
+I’m surrounded by people but feel like a ghost. I have coworkers, acquaintances, even family nearby, yet everything feels surface-level. I don’t know how to move conversations beyond small talk without seeming weird or needy. Nights are the worst; I scroll, lurk, and pretend I’m fine, but it’s like I’m invisible in my own life.

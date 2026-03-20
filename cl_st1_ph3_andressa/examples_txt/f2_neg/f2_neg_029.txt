@@ -1,18 +1,8 @@
-Text ID: t005898
-Group: summary_guided_gpt
-Model: gpt
-File:   corpus/05_summary_guided_gpt/t1080_gpt.txt
+Text ID: t003475
+Group: human
+Model: human
+File:   corpus/05_human/t1473_human.txt
 
-Score (f2_neg): -2
-Loading words (f2_neg), N=2: role, emptiness
-I don’t even know how to explain this without feeling ridiculous, but I’m surrounded by people and still feel completely alone.
-
-I have family, friends, acquaintances. On paper, I “shouldn’t” be lonely. But I feel like I’m behind glass all the time. I’m terrified of being vulnerable or showing that I’m struggling – with depression, fear, shame, any of it – because all I can imagine is embarrassment, judgment, rejection, and people eventually walking away.
-
-So I edit myself constantly. I change parts of my personality to fit whatever group I’m in. I laugh at things I don’t find funny, agree with things I don’t agree with, act like everything is easy. But no matter what I do, I never feel like I actually belong. I’m always on the outside, even when I’m in the middle of the room.
-
-It really hurts seeing my family get along naturally, joking and talking, while my interactions feel stiff and forced. With friends, I’m “nice” and try to be supportive, but there’s this emptiness behind it, like I’m playing a role rather than being myself. No one knows how pessimistic and self‑deprecating my thoughts are. They think I’m fine, maybe even “doing well,” and I just…let them think that.
-
-Part of why it’s so hard to open up is past stuff. I’ve been criticized a lot for being “incompetent” and I’ve been mocked for crying. That kind of thing sticks. Now, asking for help or showing any weakness feels almost impossible. I just swallow everything and keep pretending.
-
-Does anyone else relate to feeling lonely even when you’re not physically alone? How do you get over the fear of being vulnerable and actually let people see you without expecting them to judge or abandon you?
+Score (f2_neg): 1
+Loading words (f2_neg), N=1: f3 score: 0
+I given up trying to reach out to people I'm finished.

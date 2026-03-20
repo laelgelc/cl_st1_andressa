@@ -1,14 +1,20 @@
-Text ID: t004097
-Group: human
-Model: human
-File:   corpus/05_human/t2039_human.txt
+Text ID: t006589
+Group: summary_guided_gpt
+Model: gpt
+File:   corpus/05_summary_guided_gpt/t1709_gpt.txt
 
-Score (f2_pos): 5
-Loading words (f2_pos), N=5: heart, girlfriend, girl, experience, school
-Lately I’ve been doing a lot of self-reflection, and I feel like I need to finally put some of these thoughts into words. I’ve been single my whole life, and as I approach my early 30s, it’s been sitting heavy on my heart. I still don’t have a girlfriend, and there are moments where it truly feels like something is missing in my life not out of loneliness alone, but out of wanting connection, companionship, and shared experiences.
+Score (f2_pos): 23
+Loading words (f2_pos), N=23: treat, struggle, deal, lose, lot, grow, school, date, thing, way, college, kind, want, good, break, avoid, build, friend, same, care, advice, big, stick
+I’m 22 and I feel like I’ve already messed everything up.
 
-The one girl I liked back in high school went on to build a life with someone else, and while there’s no communication between us, I sometimes can’t help but wonder about the “what ifs.” I respected her space and her choices, but recently I’ve been thinking about whether I missed an opportunity by not acting when I had the chance. It’s not regret as much as reflection trying to understand myself better and learn from the past.
+I didn’t go to college. I work a low-level customer service job, and every shift just makes me feel like I’ve already failed at life. I know I’m not stupid, but I feel like I have no way to prove I’m actually smart or capable. When I look at people my age in university or starting “real” careers, I feel like I’m stuck at the bottom with no ladder.
 
-With my birthday coming up, these feelings have become even more real. I wanted to take a trip to Las Vegas, but realizing I don’t have anyone to go with has made me pause. The long flight, being far from home, and knowing my family would worry has added to that hesitation. I want to be safe and responsible, but I also don’t want fear or overthinking to stop me from living my life or enjoying the moments I deserve.
+I grew up mostly with my grandma, and I think that kind of messed with how I connect to people. I don’t really have a solid friend group. I have people I talk to sometimes, but no one I feel close to. I overthink every single thing I say. I replay conversations in my head and cringe at myself. I feel like I’m either too quiet or too weird or just… unnecessary.
 
-I’m sharing this because I’m at a point where I want to grow, take chances, and stop holding myself back but I also want to do it in a way that makes sense for me. I’m curious how others handle these crossroads in life. How do you balance being cautious while still allowing yourself to live fully? How do you know when it’s time to step out of your comfort zone instead of waiting for the “right” moment?
+I struggle a lot with how I see myself. Some days I feel genuinely pathetic and ugly. School was a nightmare because of (probably) undiagnosed ADHD. I could never focus, I procrastinated everything, I avoided people, and I never built any good habits. That’s a big reason I didn’t go to college, and part of me is scared that even if I tried now, I’d just fail again in the same ways.
+
+Social stuff drains me. Going out, going to the gym, just existing around people makes me feel awkward and anxious. I overthink to the point where I feel “kinda autistic” (not in a joking way, just in how intensely I analyze everything I do or say). I feel like everyone can see how uncomfortable I am.
+
+I’ve been trying to improve. I’ve lost some weight, started working out, treating my acne, doing small self-care things. But it feels like nothing is enough, and that at 22 I’m already so behind that I’ll never catch up. I don’t even care that much about being “successful” in the traditional sense. I just want connection. I want friends. I want to maybe date. I want someone I can talk to without feeling like I’m a burden or some boring, unambitious loser.
+
+I don’t really have anyone to talk to about this, which is why I’m posting. If anyone has advice on how to build connections from basically zero, or how to deal with feeling this behind and broken, I’d really appreciate it.

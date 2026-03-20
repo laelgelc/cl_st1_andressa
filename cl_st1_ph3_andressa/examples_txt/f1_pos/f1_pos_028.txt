@@ -1,18 +1,18 @@
-Text ID: t008236
+Text ID: t008533
 Group: summary_guided_gpt
 Model: gpt
-File:   corpus/05_summary_guided_gpt/t670_gpt.txt
+File:   corpus/05_summary_guided_gpt/t967_gpt.txt
 
-Score (f1_pos): 25
-Loading words (f1_pos), N=25: life, fine, work, part, show, outside, job, people, talk, something, everyone, wall, time, thing, kind, someone, anything, place, way, friend, stuff, character, feeling, nothing, partner
-I’m 30 and I feel like I’ve hit a wall with nothing to show for it. No partner, no real friends, no one I can actually talk to about this. It’s like my life just… never started, and now I’m already behind everyone else.
+Score (f1_pos): 52
+Loading words (f1_pos), N=52: text, go, group, like, know, life, head, home, show, work, watch, weekend, ask, own, people, talk, try, bad, silence, something, day, everyone, feel, plan, see, inside, person, make, family, keep, more, random, reach, annoy, first, happen, time, sit, exist, someone, real, end, conversation, miss, busy, hang, seem, wait, walk, pretend, feeling, silent
+I feel like I’m just… existing on mute.
 
-I live in this crappy, deteriorating house that I’ve been trying to swap out of, but nothing works out. I’ve tried and tried, but it’s like I’m stuck here, literally and metaphorically. I even tried to buy my own place at one point, thinking maybe that would be a fresh start, some kind of step forward. That failed too. Every time I think I see a way out, it just collapses.
+I have this one friend I hang out with sometimes, but I’m always the one who has to text first, always the one who suggests meeting up. If I don’t reach out, we just don’t talk. It makes me feel like they don’t really want to see me, like I’m just something they tolerate when I appear, not someone they’d actually miss. I’m trying to push myself to go out alone, to sit in cafés or walk around so I’m not always trapped inside, but it just makes me painfully aware of how silent my life is. No one asks how my day was. No one is waiting to hear about the little things.
 
-My job is just a dead-end cleaning job. No prospects, no ladder to climb, nothing. I go in, do the same repetitive stuff, and leave feeling exactly the same as when I arrived: empty and replaceable. My grades were always poor, and that just adds to this feeling that I’m too “dumb” to do anything better. I’ve tried online courses, but I either don’t understand them or can’t keep up, and it just reinforces this belief that I’m not cut out for more.
+The loneliness is so draining. I cope by imagining being with someone, making up conversations in my head, or “watching” movies with YouTubers and pretending they’re friends sitting next to me. I know it’s not real, but it fills the silence a bit. Still, when the video ends, it’s just me again.
 
-I’ve tried to use my spare time to do something different—selling things, making videos—just trying to create some kind of opportunity for myself. Nobody cares. No interest, no views, no sales. It’s like I’m shouting into a void.
+Work makes it worse. Everyone else seems to have partners, families, people to go home to. They talk about their weekend plans, their kids, their relationships. Then the day ends and they leave in pairs or groups, and I’m the one walking out alone, waiting for the bus alone, going home to no one. It makes me wonder what’s wrong with me. Am I too fat, too ugly, too annoying, too… something?
 
-I see myself as a bottom feeder in society. There are “main characters” and people in the middle who actually contribute something, and then there’s me. No real purpose, no value. I just want one “win” in life. Just one thing that works. I want to be part of something, to feel like I matter, to have someone love me. But it feels almost impossible, like it’s not meant for people like me.
+There’s also this boy I have feelings for, but he always seems to find someone else to love. I’m just there on the sidelines, watching it happen again and again. It hurts more than I want to admit.
 
-On the outside I pretend not to care, act like I’m fine with it, but that’s a lie. I care a lot. It hurts. I feel stuck in this life I don’t want, and I don’t know how to escape it.
+I try to stay positive, to keep my brain busy with information, shows, random interests. I fill my time hoping that one day I’ll have someone to talk to about all of it. But even in my own thoughts, I feel lonely. It’s like there’s an echo where another person should be.

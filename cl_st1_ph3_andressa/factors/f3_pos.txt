@@ -1,2 +1,2 @@
-variables loading on this pole = 22
-health (.84), depression (.73), issue (.64), pain (.62), anxiety (.60), top (.59), support (.56), fact (.43), year (.40), lot (.38), relationship (.38), (kind (.36)), love (.35), (gap (.34)), idea (.34), problem (.34), situation (.34), (thing (.33)), (parent (.32)), (time (.31)), (way (.31)), (friend (.30))
+variables loading on this pole = 10
+gonna (.96), wanna (.84), shit (.79), fuck (.63), cause (.58), (notification (.44)), thanks (.36), heart (.33), great (.31), suck (.31)

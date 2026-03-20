@@ -1,8 +1,20 @@
-Text ID: t008030
+Text ID: t005883
 Group: summary_guided_gpt
 Model: gpt
-File:   corpus/05_summary_guided_gpt/t464_gpt.txt
+File:   corpus/05_summary_guided_gpt/t1067_gpt.txt
 
-Score (f3_neg): -1
-Loading words (f3_neg), N=1: notification
-I’m so tired of people being rude when I reach out just to talk. No one is forcing you to reply to my message. You can ignore it, block me, whatever. But snapping at me? Seriously? Sorry my little notification “disappointed” you. I’m just trying to connect, not ruin your day.
+Score (f3_neg): -3
+Loading words (f3_neg), N=3: shallow, edge, expose
+It’s always at night, when everything finally goes quiet, that it hits me. During the day there’s enough noise, enough tasks, enough distraction to keep things at bay. But in those late hours, when the world is still and my thoughts stop running in circles, something heavier starts to surface.
+
+I’ve spent years building this solitude like armor. It’s made out of all the things that hurt, all the disappointments and betrayals and moments where I realized I could only really rely on myself. Over time, that pain turned into a kind of protection. Inside it, I feel like I have this huge inner space that belongs only to me. A self-contained wholeness, like I am my own world and that should be enough.
+
+Sometimes it really does feel like enough. There are moments when the silence feels pure, almost peaceful. Like I’ve finally carved out a place where no one can touch me or twist me into something I’m not. My boundaries are clear. My sense of self feels solid.
+
+But when the feeling lingers too long, the edges start to blur. The same space that felt vast and safe suddenly feels like distance. The solitude that made me feel strong starts to look a lot like loneliness. And then this thing I’ve built, this identity that I’ve carefully constructed to survive, starts to feel fragile, like it could just dissolve if I’m not careful.
+
+The strangest part is that the loneliness doesn’t come at me like an attack. It doesn’t scream. It just waits. It sits there, patient and quiet, like it knows I’ll eventually have to look at it. And that waiting, that silent presence, feels almost unbearable.
+
+I know I could probably reach for something to dull it—some distraction, some shallow connection, some way to not feel so exposed. But every time I imagine doing that, it feels like I’d be betraying myself, bending who I am just to escape for a moment.
+
+So I don’t. I stay. I endure the waiting and the heaviness because, for now at least, it feels like the only way to remain myself. Even if it means sitting in this vast, echoing space, wondering how long I can keep holding together.

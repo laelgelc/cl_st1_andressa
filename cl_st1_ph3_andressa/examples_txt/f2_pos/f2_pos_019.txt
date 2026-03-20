@@ -1,14 +1,20 @@
-Text ID: t005369
-Group: human
-Model: human
-File:   corpus/05_human/t658_human.txt
+Text ID: t006072
+Group: summary_guided_gpt
+Model: gpt
+File:   corpus/05_summary_guided_gpt/t1239_gpt.txt
 
-Score (f2_pos): 5
-Loading words (f2_pos), N=5: shit, guy, fun, girl, school
-For the first time in my work life I feel like the outsider and loser. I had 3 jobs in total the first two I loved my coworkers and we had lots of fun in and outside of work. Now since February I started a new job with 4 other guys at the same time. We have to go to classes to learn everything about the job and these classes are all year long.At the beginning we hung out alot during work and classes, but I started to distance myself a bit because I realized that theres guys are nothing like me, they are very childish, have in my opinion a very sexist mindset(cheat on their gf’s and their insta is full of thirst traps of girls) and they talk bad about everyone in class and then proceed to talk to them normal just to get notes. On top of that they think they are the shit and it gives me high school vibes and everything. Now that I distanced abit from them they think I betrayed them or something idk, but we had a group chat but now they have their own(I saw it) and they don’t share notes anymore with me and I once asked for a folder from another guy in the company and he said the 4 guys had it and then I asked the guys and they said the don’t know where it is…
+Score (f2_pos): 22
+Loading words (f2_pos), N=22: health, mental, year, help, love, lot, grow, relationship, thing, way, good, happy, many, meet, understand, build, friend, hurt, interest, same, new, push
+I’m over 30 and started transitioning in 2023, and in a lot of ways it was the best thing I’ve ever done for myself. It’s like so much of the self-hate and mental health chaos I’d been dragging around for years finally made sense and started to ease. For the first time, I actually feel like I’m living as myself.
 
-It’s the first time something like this happened to me tbh. I love my life outside of work and have great friends with good mindsets but when I think of work it starts to give me the ick. I just want the classes to be done with.
+But at the same time, I feel absolutely terrified and alone.
 
-You could say “your fault, you just had to fake it through until classes are over” but that’s no like me, if I don’t f with you I don’t fake being friends with you.
+The global anti-trans climate has me constantly on edge. It feels like there’s this huge, growing wave of hatred aimed at people like me, and I’m just standing there in the open with no shelter. That fear mixes with another, more personal one: the fear that I’m going to be alone forever.
 
-What do you guys think? What helps and am I overreacting?
+I’ve been single since 2017. Nine years. I’ve done everything people say you’re “supposed” to do: I go to therapy, I work on myself, I go to the gym, I have hobbies, I join clubs and groups, I meet new people, I’ve pushed myself to be more social even though I’m autistic and introverted. I’ve tried to pursue romantic interests instead of just waiting for something to happen. I’ve made friends. I’ve really, genuinely tried.
+
+And yet nothing changes. Everyone around me seems to be in long-term relationships, building lives with someone, while I just… don’t. I’m happy for them, but it also hurts so much. It makes me feel like there’s something fundamentally wrong with me, like love is some door that just won’t open no matter how many times I knock.
+
+My friends are busy and not available often. I feel like a side character in everyone else’s life. The loneliness is so heavy that it’s starting to turn into suicidal thoughts. I told my therapist and asked for a referral to a psychiatrist, because I know I’m depressed. But even if meds help, and even if friendships get a bit better, it still feels like there’s this huge missing piece.
+
+I don’t understand why love seems to be denied to me, and I’m really starting to feel like I can’t live like this much longer.

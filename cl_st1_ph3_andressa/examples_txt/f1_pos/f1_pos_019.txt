@@ -1,18 +1,18 @@
-Text ID: t001076
+Text ID: t002258
 Group: generic_gpt
 Model: gpt
-File:   corpus/05_generic_gpt/t1888_gpt.txt
+File:   corpus/05_generic_gpt/t402_gpt.txt
 
-Score (f1_pos): 38
-Loading words (f1_pos), N=38: paper, group, life, text, fine, work, head, home, part, outside, job, people, scroll, talk, chat, something, message, everyone, wall, silence, family, medium, post, glass, photo, time, night, anyone, while, anything, place, friend, interaction, character, word, background, partner, contact
-I’ve been feeling this weird combination of invisible and “too much” at the same time, and I don’t really know where else to put it, so here it goes.
+Score (f1_pos): 79
+Loading words (f1_pos), N=79: dramatic, paper, sound, explain, text, go, like, scroll, fine, know, life, home, small, message, show, joke, work, laugh, notice, watch, ask, outside, part, people, talk, try, bad, disappear, send, silence, job, something, day, everyone, glass, heavy, feel, initiate, plan, weather, night, respond, start, get, make, keep, more, needy, reach, look, think, wall, annoy, happen, awkward, door, normal, sit, anyone, exist, other, stop, real, social, catch, end, anything, conversation, everything, hit, seem, wait, belong, play, suppose, nothing, shut, feeling, open
+I don’t really know how to explain this without sounding dramatic, but lately it feels like my life is happening behind a glass wall.
 
-On paper, my life looks fine. I have a job, a place to live, people I can technically contact if I need something. But I don’t feel actually *known* by anyone. Most of my interactions are surface-level: work small talk, occasional memes in group chats, the “we should catch up sometime” messages that never turn into anything real. I keep thinking I’m part of people’s lives, then I realize I’m more like a background character.
+On paper, I’m “fine.” I have a job, I respond to messages, I show up when I’m supposed to. I make small talk about work, weather, TV shows. People laugh at my jokes sometimes. From the outside I probably look normal, maybe even “social.” But it all feels like acting. I can play the role, but once I’m back home and the door shuts, it’s just this heavy silence that feels louder than anything.
 
-I’ve noticed that when I’m around people, I feel lonelier than when I’m alone. It’s like there’s this glass wall between me and everyone else. I can see them laughing and connecting, but I can’t seem to join in properly. I either talk too much because I’m nervous and trying to fill the silence, or I shut down completely and just listen, then go home and overanalyze every word I said.
+What gets to me is the lack of anyone who really knows me. I don’t mean knowing my favorite movie or my coffee order. I mean the kind of knowing where you can send a half-finished text and they already understand, or where you can sit together in silence and it doesn’t feel awkward. I don’t have that with anyone. I have “we should catch up sometime” people, not “I’m outside, open the door” people.
 
-I also feel like I missed some critical social development stage. Other people seem to just know how to maintain friendships, how often to text, how to ask to hang out without sounding desperate or annoying. For me, every message feels like I’m imposing. I wait for people to reach out first, they don’t, and then I use that as proof that I don’t matter that much to them.
+I try to reach out, but it always feels one-sided. I’m the one asking how they’re doing, suggesting plans, trying to keep the conversation alive. When I stop initiating, everything just…stops. It’s like I disappear from their world unless I’m actively reminding them I exist. And then I start wondering if I’m just annoying them, if they’re only responding out of politeness.
 
-Nights are the worst. I lie in bed scrolling, seeing people posting photos with their friends, partners, families. I know social media is curated, but it still stings. I keep thinking, “No one is thinking about me right now. If I disappeared, it would take a while before anyone noticed.”
+I’ve also noticed I’m starting to hold back more. I censor myself because I don’t want to come across as needy or depressing. So I end up talking about nothing, and then I feel even more disconnected because I’m not actually sharing anything real. It’s like I’m protecting people from the parts of me that are actually lonely, which just makes me lonelier.
 
-I’m not even sure what I’m hoping for by posting this. I guess I just wanted to put it somewhere outside my own head for once.
+Nights are the worst. That’s when it hits me that no one is thinking about me, no one is wondering how my day went, no one is waiting for my message. I scroll, I lurk, I watch other people’s lives through screens, and it just reinforces this feeling that I’m on the outside of everything, watching everyone else belong to something I can’t seem to reach.

@@ -1,14 +1,68 @@
-Text ID: t003896
+Text ID: t003176
 Group: human
 Model: human
-File:   corpus/05_human/t1856_human.txt
+File:   corpus/05_human/t1201_human.txt
 
-Score (f1_pos): 20
-Loading words (f1_pos), N=20: group, couple, people, talk, something, day, everyone, person, time, thing, circle, end, while, everything, place, moment, connection, week, feeling, loneliness
-I’ve been sitting with this feeling for a while, so I figured I’d put it somewhere people might understand. Especially because I feel like this feeling is only getting worse.
+Score (f1_pos): 42
+Loading words (f1_pos), N=42: sound, like, scroll, life, phone, small, message, put, show, work, notice, old, own, people, talk, try, something, everyone, medium, start, bother, get, realize, room, time, someone, stop, real, change, social, while, force, much, conversation, place, busy, hang, use, seem, wait, week, sleep
+There comes a point
 
-I often feel much older in my soul than I actually am, and it makes it hard to connect with people my age. My passions lean toward things like aviation, history, and maritime topics, every couple weeks or so, there's something specific I hyperfixate on when it comes to learning about it and it's all I focus on. my current hyperfixation is Sutra Baths. Very niche, I understand.
+Where getting a message on your phone seems like a rare occurrence
 
-These are very specific worlds that most of my peers just aren’t into. I get that these interests aren’t exactly mainstream, and I don’t expect everyone around me to share them. But sometimes that disconnect spills into simpler things too. I’ll want to spend an entire day just walking along the ocean, listening to the waves, watching the horizon, thinking about ships, time, and everything in between. I crave slow, reflective moments like that, and it often feels like I’m the only one in my circle who does.
+You hear the sound of the notification pinging through the room
 
-I’ve tried to build connections online with people who share these interests, but those relationships rarely feel mutual. I’m usually the one reaching out, initiating, and keeping things going, and eventually I just end up feeling more alone than before. I always tell people I do much better in person. I hate falling into the pattern of connecting briefly, talking for a few weeks and then the falling out.  I just want to feel understood, or at least less out of place in my own age group. I’m trying to accept that I’m wired differently, but some days the loneliness still hits hard.
+And your heart starts racing, receptors experience dopamine overdrive  
+  
+But it's usually just a meaningless message or some email you've received
+
+When that shouldn't be the case
+
+I experienced this for a while
+
+It may have been somewhat peaceful
+
+But deep down, I realized how lonely it was
+
+When I did the math
+
+I noticed that I hadn't held a decent conversation with someone (not small talk), even in real life, for weeks
+
+Work for 8 hours, small talk with co-worker, leave, sleep, repeat
+
+Life can't be that stale
+
+Old friends are all living in different cities, we hang out 2 or 3 times a year where we meet up in a planned spot
+
+Everyone's busy with their own responsibilities
+
+Few messages that show up on birthdays
+
+And that was pretty much the jist of it
+
+There must be way to change the dynamic
+
+And I acted on it
+
+Stopped waiting for a connection to randomly show up 
+
+Stopped waiting for destiny
+
+Forced it upon myself to start putting myself in places
+
+Where there was a chance of forming a social life
+
+I didn't chase people down
+
+I didn't try to force convos
+
+I'm just a guy who tried to change the conditions I lived in
+
+And slowly
+
+My phone wasn't just a device I used to doom scroll social media before falling asleep anymore
+
+You can do it too
+
+Don't get comfortable with isolation, it may seem peaceful, I get it
+
+But if it's bothering you deep down, do something about it

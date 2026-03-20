@@ -1,68 +1,20 @@
-Text ID: t003176
+Text ID: t005678
 Group: human
 Model: human
-File:   corpus/05_human/t1201_human.txt
+File:   corpus/05_human/t967_human.txt
 
-Score (f1_pos): 21
-Loading words (f1_pos), N=21: life, work, show, people, scroll, talk, phone, something, message, everyone, medium, time, room, someone, while, place, way, friend, connection, week, conversation
-There comes a point
+Score (f1_pos): 43
+Loading words (f1_pos), N=43: text, go, like, know, life, phone, say, home, show, work, watch, ask, own, people, talk, try, silence, something, day, everyone, feel, see, polite, get, ache, make, family, keep, look, think, annoy, time, anyone, other, someone, real, much, anything, hang, wait, sleep, walk, nothing
+I have this fear that one of the only friends I go out with doesn’t like to hang out with me anymore but is too polite to say. I always ask to hang out, it’s almost never the other way around. We only ever talk when we see each other in real life, or when I text something.
 
-Where getting a message on your phone seems like a rare occurrence
+So I’m trying to go out on my own tomorrow. I feel pretty sad but I’m trying to look at the positive side that at least I can do that. But having so much silence. Looking at my phone constantly with no one really who wants to ask me about my day or anything as much as I ask about theirs.
 
-You hear the sound of the notification pinging through the room
+I’m trying to ignore getting depressed, but being this lonely makes me tired. Drained. When I go to sleep I try to be as vivid as possible to imagine I’m with someone. I have these two people on YouTube that I “watch” movies with because I don’t have anyone in real life to do that with.
 
-And your heart starts racing, receptors experience dopamine overdrive  
-  
-But it's usually just a meaningless message or some email you've received
+At work, everyone is going on vacation. To see their friends and families, with their husbands or wives and kids. Everyone has someone to go home to. I’m always the last to leave, I walk alone and I wait alone for the bus.
 
-When that shouldn't be the case
+My dream is to just have someone see me. And want to know me and talk to me just because they feel like it. I look in the mirror and wonder if maybe I’m too fat, or too ugly, or just too annoying with the things that I like. 
 
-I experienced this for a while
+There’s a boy that I think about always who never falls short of finding someone else to be in love with. It makes my heart ache.
 
-It may have been somewhat peaceful
-
-But deep down, I realized how lonely it was
-
-When I did the math
-
-I noticed that I hadn't held a decent conversation with someone (not small talk), even in real life, for weeks
-
-Work for 8 hours, small talk with co-worker, leave, sleep, repeat
-
-Life can't be that stale
-
-Old friends are all living in different cities, we hang out 2 or 3 times a year where we meet up in a planned spot
-
-Everyone's busy with their own responsibilities
-
-Few messages that show up on birthdays
-
-And that was pretty much the jist of it
-
-There must be way to change the dynamic
-
-And I acted on it
-
-Stopped waiting for a connection to randomly show up 
-
-Stopped waiting for destiny
-
-Forced it upon myself to start putting myself in places
-
-Where there was a chance of forming a social life
-
-I didn't chase people down
-
-I didn't try to force convos
-
-I'm just a guy who tried to change the conditions I lived in
-
-And slowly
-
-My phone wasn't just a device I used to doom scroll social media before falling asleep anymore
-
-You can do it too
-
-Don't get comfortable with isolation, it may seem peaceful, I get it
-
-But if it's bothering you deep down, do something about it
+I keep trying to keep myself in good spirits thinking that it’s for a reason. But even in my thoughts I’m lonely and have nothing to talk to myself about. I fill my time consuming information and watching shows hoping that I’ll get to talk to someone about it for the day.

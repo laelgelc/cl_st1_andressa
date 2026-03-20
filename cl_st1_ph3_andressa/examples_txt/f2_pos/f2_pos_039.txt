@@ -1,16 +1,20 @@
-Text ID: t001053
+Text ID: t002774
 Group: generic_gpt
 Model: gpt
-File:   corpus/05_generic_gpt/t1867_gpt.txt
+File:   corpus/05_generic_gpt/t918_gpt.txt
 
-Score (f2_pos): 1
-Loading words (f2_pos), N=1: reason
-I don’t really know how to explain this without sounding dramatic, but lately it feels like I’m disappearing from my own life.
+Score (f2_pos): 10
+Loading words (f2_pos), N=10: way, want, good, only, happy, mean, friend, care, leave, share
+I’m in that weird place where I’m not technically “alone,” but I feel completely disconnected anyway.
 
-On paper, I’m “fine.” I go to work, I answer emails, I say “not much, you?” when people ask how I’m doing. I have acquaintances I can joke with, but no one I can text at 2 a.m. when my chest feels heavy for no obvious reason. Most of my conversations stay at the surface: weather, work, memes. I can feel myself wanting to say something real, and then I just… don’t.
+On paper, I’m fine. I have coworkers I get along with, a couple of old friends I text occasionally, family I see on holidays. If someone looked at my life from the outside, they’d probably assume I’m just another average person. But most days it feels like I’m living behind glass, watching everything happen without really being part of it.
 
-What scares me is how used to it I’m becoming. I move through my days like I’m on autopilot, then come home and scroll my phone until I’m too tired to think. The silence in my apartment is so loud, but the idea of reaching out and being brushed off feels worse than the quiet.
+I’ll go through an entire day at work and realize I haven’t had a single conversation that went beyond surface-level stuff: “How was your weekend?” “Busy.” “You see that show?” “Yeah, it was good.” It’s like we’re all reading from a script and I can’t remember my lines. I try to join in, but I feel like I’m forcing myself into a rhythm that doesn’t fit me.
 
-I keep wondering if I somehow missed the part of life where everyone else learned how to form real connections. I watch people talk so easily, make plans, have inside jokes, and I’m just there on the sidelines, smiling and nodding, feeling like an extra in my own story.
+What really gets me is the evenings. I come home, make dinner, and then just…exist. I scroll through my phone, see people hanging out, going places, posting group photos with inside jokes in the captions. I’m happy for them in theory, but it also hits this raw nerve, like I’m the only person who never got invited to the part where life becomes shared.
 
-Sometimes I’m not even sure what I’d say if someone genuinely asked how I was. I don’t think “lonely” even covers it anymore.
+I’ve tried to “fix” it in all the ways people suggest. Joined a club. Went to a meetup. Chatted with strangers online. I can make small talk, I can be polite, I can smile and nod, but I never feel that click that tells me, “This person actually sees you.” I leave those interactions feeling more drained than before, like I’ve just proven to myself again that I don’t quite fit anywhere.
+
+I don’t think I want a huge social circle or constant excitement. I just want one or two people I can message without overthinking it, someone who’d notice if I went quiet for a few days and actually care enough to ask why.
+
+It’s strange how you can go weeks without anyone really asking how you’re doing in a way that means, “No, really. Tell me.” And after a while, you start wondering if maybe there isn’t much to tell.

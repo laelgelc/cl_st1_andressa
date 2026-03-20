@@ -1,8 +1,8 @@
-Text ID: t001487
+Text ID: t001132
 Group: generic_gpt
 Model: gpt
-File:   corpus/05_generic_gpt/t2261_gpt.txt
+File:   corpus/05_generic_gpt/t1939_gpt.txt
 
 Score (f2_neg): -3
-Loading words (f2_neg), N=3: script, noise, role
-I feel like I’m drifting further away from everyone, even when I’m technically “with” people. Conversations feel scripted, like I’m playing a role I never auditioned for. I have acquaintances, coworkers, people who’d say hi if they saw me, but no one I can text when something small but important happens. I scroll through my phone at night, staring at names I don’t feel close enough to message. It’s weird how I can be so desperate to be seen and simultaneously terrified of being really known. Most days, it just feels like I’m background noise in my own life.
+Loading words (f2_neg), N=3: forgettable, surround, errand
+I’m starting to feel like I’ve become invisible in my own life. I go through the motions—work, errands, scrolling on my phone—but there’s no real connection anywhere. Group chats are silent unless I message first, and even then replies feel obligatory. I’m surrounded by people yet no one actually knows me. I miss being someone’s first choice, or even a thought during the day. Mostly, I just feel forgettable.

@@ -1,8 +1,8 @@
-Text ID: t006607
+Text ID: t007167
 Group: summary_guided_gpt
 Model: gpt
-File:   corpus/05_summary_guided_gpt/t1725_gpt.txt
+File:   corpus/05_summary_guided_gpt/t2234_gpt.txt
 
 Score (f1_neg): 1
-Loading words (f1_neg), N=1: f2 score: 0
-It really stung realizing I remembered their birthday so easily, but they forgot mine. Only my family remembered. Maybe that’s all that really matters… right?
+Loading words (f1_neg), N=1: f2 score: 1
+I don’t know what to do anymore, even video games don’t interest me now.

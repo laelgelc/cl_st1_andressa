@@ -1,8 +1,8 @@
-Text ID: t007915
+Text ID: t007626
 Group: summary_guided_gpt
 Model: gpt
-File:   corpus/05_summary_guided_gpt/t349_gpt.txt
+File:   corpus/05_summary_guided_gpt/t2651_gpt.txt
 
 Score (f1_neg): 1
-Loading words (f1_neg), N=1: f2 score: 0
-I feel so abused and used that I’m honestly close to killing myself. No one listens unless I shout and turn rude, and I’m so tired of always being the one who takes care of everyone else. It feels like everyone hurts me, and I’m at the point where I don’t even care who I hurt anymore.
+Loading words (f1_neg), N=1: f2 score: 2
+“Woe to the thinker who is not the gardener but only the soil of the plants that grow in him.” I’m scared I’m just soil, never gardener.

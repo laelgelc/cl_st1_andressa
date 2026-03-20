@@ -1,8 +1,14 @@
-Text ID: t003161
-Group: human
-Model: human
-File:   corpus/05_human/t1188_human.txt
+Text ID: t008034
+Group: summary_guided_gpt
+Model: gpt
+File:   corpus/05_summary_guided_gpt/t468_gpt.txt
 
-Score (f2_pos): 7
-Loading words (f2_pos), N=7: man, mom, guy, girlfriend, girl, woman, experience
-im a 20 year old girl who hasnt really experienced anything worthwhile. my experience isnt much similar to the usual trans experience as my transition started in adolescence and ive lived my teenage years and young adult as a female but even my cis girlfriends cant really help when i have dysphoria or raise trans related concerns. its a pretty lonely phenomenon. i have trans women tell me i should count my blessings just because im societally pretty but that doesnt matter because men still wanna just use me and not love me. i crave that pure love or just a allday friend but fails all the time. used to hurt but i kinda got used to the cycle of "guy hits me up thinks im pretty" "guy games with me and is nice" "guy finds out im trans and seems cool although shocked" "guy randomly blocks or ghosts" all i really wanted from them was a friend tbh yet still fail. its just a very lonely life to be trans. politics and a huge part of society sees u as a perverted freak of nature or mentally ill (which is funny granted i actually studied psychology) then men who have to be taught how to love u or dont try at all, and the tough time making friends as a human in America that im sure many of yall struggle with. in a perfect world im someones wife and mom and i dont have to deal with the anxiety of another post on social media about a trans topic being posted and having to see the awful comments. although transphobia thankfully doesn't really affect me personally in life it still affects me emotionally seeing it in society...
+Score (f2_pos): 26
+Loading words (f2_pos), N=26: cope, depression, year, lose, experience, lot, cry, relationship, way, kind, want, good, only, different, happy, mean, impossible, meet, build, friend, problem, same, whole, new, month, stick
+I’m Hugo, almost 23, from Spain. About a month ago I lost my job because of my depression, and only recently did I finally start medication after years of trying to cope on my own. The last three weeks I’ve basically been at home the whole time, just playing video games and sleeping. I barely have energy to do anything else, sometimes not even to eat or cry. It feels like I’m just existing rather than living.
+
+I feel more alone than I ever have. I’ve tried a lot of different ways to meet new people over the years, but it always ends up feeling almost impossible, especially being an introvert. I don’t naturally put myself out there, and when I do, it usually feels awkward or forced. After some really bad experiences with friends about five years ago, I kind of retreated into myself and chose a more solitary lifestyle, thinking it would protect me. Now it just feels like I built my own prison.
+
+I do still have some good friends, but they’re busy with their own adult lives: work, relationships, responsibilities. I’m happy for them, but at the same time I feel like I’m the one whose life isn’t going anywhere. I’m the friend who’s stuck, the one whose life isn’t going well, and it makes it even harder to reach out to them. I don’t want to be the constant “problem” friend.
+
+I’m not posting this because I want pity. I just needed to open up somewhere, to say out loud that I feel incredibly lonely and lost right now. If anyone relates to this or just feels like talking, I’d honestly be really grateful to have someone to chat with. Even just a simple conversation would mean a lot.

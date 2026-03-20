@@ -1,8 +1,8 @@
-Text ID: t006422
+Text ID: t005733
 Group: summary_guided_gpt
 Model: gpt
-File:   corpus/05_summary_guided_gpt/t1557_gpt.txt
+File:   corpus/05_summary_guided_gpt/t023_gpt.txt
 
 Score (f1_neg): 1
-Loading words (f1_neg), N=1: f2 score: 0
-I’m overwhelmed by this constant thought: if everyone dies anyway, what’s the point? I honestly don’t even want to be here.
+Loading words (f1_neg), N=1: f2 score: 1
+Woke up and found my wife dead beside me. She’d been doing autoerotic asphyxiation. I feel numb, guilty, and utterly alone.

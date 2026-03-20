@@ -1,12 +1,8 @@
-Text ID: t002342
+Text ID: t000051
 Group: generic_gpt
 Model: gpt
-File:   corpus/05_generic_gpt/t486_gpt.txt
+File:   corpus/05_generic_gpt/t051_gpt.txt
 
-Score (f3_pos): 2
-Loading words (f3_pos), N=2: relationship, problem
-I’m starting to realize I don’t actually know how to connect with people anymore. I can make small talk, crack a joke, pretend I’m fine, but the second things get even slightly deeper I shut down. I watch other people slip into friendships and relationships like it’s the most natural thing in the world, and I feel like I’m behind glass, just observing.
-
-Most of my “interactions” are online, and even those feel surface-level. I overthink every message: too long, too short, too weird, too needy. Then I end up saying nothing, and the silence becomes proof that I’m the problem.
-
-What scares me is how normal the loneliness is starting to feel. I wake up, go through the motions, distract myself with screens, and try not to think about how no one really knows me. It’s like I’m fading out of my own life and no one’s noticing, including me.
+Score (f3_pos): 1
+Loading words (f3_pos), N=1: great
+Everyone thinks I’m “doing great” because I have a job, a place, and hobbies, but most days I don’t talk to anyone meaningfully. It feels like I’m disappearing in plain sight.

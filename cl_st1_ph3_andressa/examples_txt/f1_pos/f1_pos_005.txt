@@ -1,20 +1,20 @@
-Text ID: t001022
+Text ID: t001547
 Group: generic_gpt
 Model: gpt
-File:   corpus/05_generic_gpt/t1839_gpt.txt
+File:   corpus/05_generic_gpt/t2316_gpt.txt
 
-Score (f1_pos): 40
-Loading words (f1_pos), N=40: paper, group, life, text, fine, work, head, home, part, show, answer, outside, job, people, scroll, talk, joke, chat, phone, something, message, ache, day, everyone, person, version, wall, post, photo, time, night, thing, place, stuff, window, acquaintance, conversation, name, nothing, surface
-I don’t really know how to explain this without sounding dramatic, but lately it feels like I’m slowly disappearing from my own life.
+Score (f1_pos): 83
+Loading words (f1_pos), N=83: dramatic, paper, sound, explain, text, go, group, like, scroll, coworker, know, life, chat, couple, phone, head, home, small, put, show, joke, work, laugh, watch, weekend, outside, own, part, people, talk, try, quiet, bad, join, send, mess, something, day, heavy, feel, initiate, loud, plan, weather, night, inside, polite, get, person, make, realize, remember, acquaintance, close, keep, reach, invite, think, annoy, happen, door, orbit, sit, smile, circle, exist, other, someone, stop, expect, force, much, right, word, conversation, everything, guess, moment, call, seem, contact, tire, need
+I don’t really know how to explain this without sounding dramatic, but I feel like I’m living next to my own life instead of inside it.
 
-I’m in this weird place where, on paper, I’m “fine.” I have a job, I pay my bills, I answer emails, I say “not much, you?” when people ask how I’m doing. I show up, I smile, I make small talk. But underneath that, it’s like there’s this constant, low-level ache of being alone that never really goes away.
+On paper, I’m not “alone.” I have coworkers, acquaintances, a couple of people I could technically text if I really needed something. I show up to work, make small talk about TV shows, complain about the weather, laugh at the right moments. People would probably describe me as “nice” or “quiet but friendly.” But once I get home and close the door, it’s like the world just forgets I exist, and honestly, I kind of forget too.
 
-What’s messing with me is that I’m not completely isolated. I have acquaintances. People at work know my name. Sometimes I even get invited to group things, like birthday drinks or office lunches. But I always feel like an extra. Like if I stopped showing up, the dynamic wouldn’t change. They might notice once, say “oh, where’s [me]?” and then just move on.
+What messes with my head is that I don’t even know how to bridge the gap between “friendly” and “actually close.” I watch other people slip into friendships so easily—inside jokes, group chats buzzing all day, weekend plans that just seem to form out of nowhere. Meanwhile, I’m sitting there overthinking whether sending a meme to someone is “too much” or if I’ll come across as annoying.
 
-I miss feeling known. I miss when people used to text me just to send a dumb meme or ask how my day was, not because they needed something or it was part of a group chat. I scroll through my messages and it’s basically a graveyard of old conversations that just… faded. No fights, no drama, just slowly shorter replies until nothing.
+I’m tired of being the person who only gets invited as an afterthought, or not at all. I’m tired of realizing that if I stopped initiating with the few people I do talk to, the conversations would just die. It makes me feel like a placeholder in other people’s lives, someone they don’t dislike but don’t really think about either.
 
-I’ve tried to “fix” it. I’ve joined clubs, gone to meetups, tried to be more open and vulnerable in conversations. But there’s this wall I can’t seem to get past. I can talk about surface stuff, even share a few personal things, but I never feel that click where you realize, “Oh, this person actually sees me.” I always feel like I’m performing a version of myself that’s easier to like.
+It’s not like I haven’t tried. I’ve joined clubs, gone to meetups, forced myself into situations that are uncomfortable for me as an introvert. I show up, I smile, I try to be interested in others. But the connections never seem to stick. People are polite, then they drift back into their established circles, and I’m left orbiting on the outside again.
 
-Nights are the worst. I come home, eat alone, sit on my phone, watch other people’s lives happening in real time. Group photos, inside jokes, “had the best night with my favorite people.” I’m happy for them in theory, but it also feels like I’m standing outside a house in winter, looking through the window at everyone else sitting by the fire.
+The worst part is the way loneliness seeps into everything. It’s not just about not having plans on a Friday night. It’s eating dinner at my table and realizing I haven’t heard my own voice out loud all day. It’s having something funny or upsetting happen and instinctively reaching for my phone, then remembering there’s no one I feel close enough to share it with. It’s scrolling through my contacts and realizing there isn’t a single person I’d feel comfortable calling just to talk.
 
-I don’t even know what I’m expecting from posting this. I guess I just wanted to put it somewhere instead of letting it bounce around in my head. It’s tiring, feeling this invisible all the time.
+I don’t even know what I’m expecting by posting this. I guess I just wanted to put it into words somewhere, because keeping it all in my head makes it feel even heavier.

@@ -1,18 +1,20 @@
-Text ID: t006100
+Text ID: t007059
 Group: summary_guided_gpt
 Model: gpt
-File:   corpus/05_summary_guided_gpt/t1264_gpt.txt
+File:   corpus/05_summary_guided_gpt/t2136_gpt.txt
 
-Score (f1_pos): 30
-Loading words (f1_pos), N=30: life, fine, work, home, part, answer, outside, people, scroll, talk, something, day, everyone, person, version, family, time, thing, door, anyone, kind, someone, end, anything, way, stuff, week, surface, contact, loneliness
-Some weeks I can go days without speaking to anyone. I go to work, I answer emails, I do the basic “how are you / good thanks” stuff, but there’s no real contact. I come home, eat, scroll, sleep. It starts to feel like I’m just watching my own life from the outside, like it’s happening to some other person I barely know.
+Score (f1_pos): 55
+Loading words (f1_pos), N=55: dramatic, explain, go, like, fine, know, life, answer, say, weird, laugh, outside, part, people, talk, most, quiet, something, everyone, heavy, feel, loud, inside, ache, make, realize, close, family, keep, more, look, think, story, time, sit, anyone, exist, move, someone, background, tell, end, expect, much, right, everything, hit, miss, moment, seem, assume, pretend, space, open, strange
+I lost my last grandmother about two months before the new year, and the grief has been this weird, quiet thing that just sits with me all the time. It’s not loud or dramatic, more like a dull ache that keeps humming in the background of everything I do.
 
-When I’m around family, I put on the “I’m fine” version of myself. I can feel that my loneliness makes people uncomfortable, like it’s something awkward they don’t know what to do with. So it never really gets talked about. No one is cruel or openly dismissive, but it just sort of… floats there, unacknowledged. It leaves me feeling quietly unsupported rather than obviously abandoned, which somehow hurts in a more subtle way.
+What makes it confusing is that we weren’t especially close. She wasn’t my “favourite” grandparent, not the one I visited the most or told everything to. If you looked at it from the outside, you’d probably think I’d be fine. A lot of people around me do seem to assume that. They’ll say, “Oh, you weren’t that close, right?” and then move on, like that explains everything and means I shouldn’t be hurting.
 
-The strange part is I’m very aware that, in theory, I’m free to change this. I know the kinds of things I could try, the steps I’d probably need to take. But I feel paralyzed. It’s like standing in front of a door that I know is unlocked and just… not being able to turn the handle. That “freedom” starts to feel like its own kind of prison, because every day I don’t change anything, I end up blaming myself.
+But I do hurt. A lot more than I expected.
 
-I feel like I’m wasting time and failing at something really basic that everyone else seems to manage without thinking. On the surface I’m functioning: I get up, I work, I pay my bills, I feed myself. Underneath, I feel stuck, frozen by all the choices I could make but don’t, and deeply disappointed in myself for not being braver.
+It’s little everyday moments that hit the hardest. When my classmates talk about missing their families or grandparents, I feel this emptiness open up inside me. I miss her voice, the way she would repeat the same stories, her forgetfulness that we’d gently laugh about. I miss just knowing she was there, existing in the background of my life. I didn’t realize how much comfort that gave me until it was gone.
 
-I wish I had someone I could really lean on, but it doesn’t feel like that’s truly available. So it all feels like it rests on me alone, and I’m so tired of carrying it.
+Now that she isn’t here anymore, something in me feels… shifted. Or broken. Like a part of the foundation under my life has quietly crumbled, even though it wasn’t the most visible or important part. I keep thinking, “Why is this hitting me so hard when we weren’t that close?” and I don’t really have an answer.
 
-I’m not asking for advice. I just needed to say this out loud somewhere. And if anyone else feels this way too, you’re not the only one.
+I also feel pretty alone with it. Since people think I’m fine, there isn’t really space to talk about how strange and heavy this feels. I end up just carrying it around by myself, pretending it’s not a big deal because that’s what everyone seems to expect.
+
+I’m sharing this here because I’m wondering if anyone else has gone through something similar—missing someone way more than you thought you would, even if the relationship wasn’t super close or perfect. It would help to know I’m not the only one who feels this kind of quiet, confusing grief.

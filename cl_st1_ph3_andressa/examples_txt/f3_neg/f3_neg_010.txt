@@ -1,14 +1,8 @@
-Text ID: t001847
+Text ID: t002049
 Group: generic_gpt
 Model: gpt
-File:   corpus/05_generic_gpt/t2589_gpt.txt
+File:   corpus/05_generic_gpt/t2772_gpt.txt
 
-Score (f3_neg): -2
-Loading words (f3_neg), N=2: notification, weather
-I’m starting to realize I’m not just “a bit introverted,” I’m actually lonely in a way that’s starting to feel like a personality trait.
-
-My days are weirdly full and completely empty at the same time. I go to work, I answer emails, I make small talk about weather and TV shows, and then I come home and it’s like I vanish. My phone barely buzzes unless it’s a notification from an app. When I scroll through my contacts, I see names but no one I feel like I can text without overthinking it.
-
-What bothers me most is how invisible it feels. I can be surrounded by people and still feel like I’m standing behind glass. I laugh at the right moments, say the right things, and no one notices that my mind is just looping on, “You don’t really belong here.”
-
-I’ve also started lying when people ask what I’m doing on the weekend. I say “meeting friends” or “going out” when really I’m just trying to make the hours pass without thinking too hard about any of this.
+Score (f3_neg): -6
+Loading words (f3_neg), N=6: disconnected, script, role, exhaust, invisible, worry
+I’m surrounded by people yet feel completely disconnected. Conversations feel scripted, like I’m playing a role instead of being myself. I scroll through chats I’m too afraid to start, rehearsing messages and deleting them. It’s exhausting feeling invisible while constantly worrying I’m too much.

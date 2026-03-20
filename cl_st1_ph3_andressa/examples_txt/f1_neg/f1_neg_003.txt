@@ -1,8 +1,8 @@
-Text ID: t004626
+Text ID: t004945
 Group: human
 Model: human
-File:   corpus/05_human/t251_human.txt
+File:   corpus/05_human/t280_human.txt
 
 Score (f1_neg): 1
-Loading words (f1_neg), N=1: f2 score: 1
-today flopped but ill girlboss my way back into consistency again tomorrow
+Loading words (f1_neg), N=1: f2 score: 2
+We all have our explanations as to why we are loners, I would like to hear some reasons you guys have. 

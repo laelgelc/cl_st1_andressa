@@ -1,2 +1,2 @@
-variables loading on this pole = 7
-script (-1.04), gap (-.71), noise (-.61), role (-.52), errand (-.51), mix (-.41), emptiness (-.32)
+variables loading on this pole = 6
+notification (-.69), forgettable (-.66), lurk (-.62), surround (-.53), replaceable (-.48), errand (-.37)

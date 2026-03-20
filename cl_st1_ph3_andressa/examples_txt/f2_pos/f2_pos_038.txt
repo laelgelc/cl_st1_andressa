@@ -1,20 +1,18 @@
-Text ID: t001022
+Text ID: t000036
 Group: generic_gpt
 Model: gpt
-File:   corpus/05_generic_gpt/t1839_gpt.txt
+File:   corpus/05_generic_gpt/t036_gpt.txt
 
-Score (f2_pos): 1
-Loading words (f2_pos), N=1: house
-I don’t really know how to explain this without sounding dramatic, but lately it feels like I’m slowly disappearing from my own life.
+Score (f2_pos): 11
+Loading words (f2_pos), N=11: year, lose, situation, thing, kind, want, good, different, friend, leave, kid
+I don’t know how to explain this without sounding dramatic, but lately it feels like I’m disappearing from my own life.
 
-I’m in this weird place where, on paper, I’m “fine.” I have a job, I pay my bills, I answer emails, I say “not much, you?” when people ask how I’m doing. I show up, I smile, I make small talk. But underneath that, it’s like there’s this constant, low-level ache of being alone that never really goes away.
+I’m not completely isolated in the obvious sense. I have coworkers I chat with, a family group chat that occasionally pings, a couple of old friends I exchange memes with. On paper, it looks like I’m “connected.” But none of it feels like it actually reaches me. It’s like I’m standing behind glass, watching myself go through the motions of being a person among other people.
 
-What’s messing with me is that I’m not completely isolated. I have acquaintances. People at work know my name. Sometimes I even get invited to group things, like birthday drinks or office lunches. But I always feel like an extra. Like if I stopped showing up, the dynamic wouldn’t change. They might notice once, say “oh, where’s [me]?” and then just move on.
+The worst part is how ordinary everything looks from the outside. I go to work, I answer emails, I say “good weekend?” on Mondays and “have a good one” on Fridays. I laugh at the right times. But underneath, there’s this constant ache that nobody really knows me, and I’m not sure I even remember how to let them.
 
-I miss feeling known. I miss when people used to text me just to send a dumb meme or ask how my day was, not because they needed something or it was part of a group chat. I scroll through my messages and it’s basically a graveyard of old conversations that just… faded. No fights, no drama, just slowly shorter replies until nothing.
+I used to have deeper friendships, but they faded slowly—different cities, different schedules, people pairing off and having kids. I can’t point to a single moment where I “lost” anyone; it was more like we all just stopped being central to each other’s lives. Now, every time I think about reaching out, I feel weirdly ashamed, like I’m trying to resurrect something that quietly died years ago.
 
-I’ve tried to “fix” it. I’ve joined clubs, gone to meetups, tried to be more open and vulnerable in conversations. But there’s this wall I can’t seem to get past. I can talk about surface stuff, even share a few personal things, but I never feel that click where you realize, “Oh, this person actually sees me.” I always feel like I’m performing a version of myself that’s easier to like.
+I try to be proactive—join things, say yes to invitations when they appear—but conversations never seem to get past the surface. I leave social situations feeling more alone than before, because it reminds me how far I am from the kind of closeness I actually want.
 
-Nights are the worst. I come home, eat alone, sit on my phone, watch other people’s lives happening in real time. Group photos, inside jokes, “had the best night with my favorite people.” I’m happy for them in theory, but it also feels like I’m standing outside a house in winter, looking through the window at everyone else sitting by the fire.
-
-I don’t even know what I’m expecting from posting this. I guess I just wanted to put it somewhere instead of letting it bounce around in my head. It’s tiring, feeling this invisible all the time.
+Most days I just come home, sit in the quiet, scroll through other people’s lives, and wonder when exactly mine started feeling like a waiting room.

@@ -1,10 +1,14 @@
-Text ID: t002948
+Text ID: t003095
 Group: human
 Model: human
-File:   corpus/05_human/t093_human.txt
+File:   corpus/05_human/t1128_human.txt
 
-Score (f3_neg): -1
-Loading words (f3_neg), N=1: weather
-What have you been doing, plans etc. However trivial or small. Tell us what you will be up to over this weekend. 
+Score (f3_neg): -2
+Loading words (f3_neg), N=2: role, worry
+I'm a pretty cool guy, atleast thats what i think. I cannot exactly say that i dont have friends and all, i get along with people just fine and I've noticed a lot of people feel attracted towards me, like you know they want to talk to me and all. 
 
-Myself: today took the kids (twin boys 3 1/2) to local garden centre soft play. Picked up a few things to update the look and feel of my front garden. Tonight I’m going to be watching Vemon on Netflix with the wife. Tomorrow not sure what We are doing yet, mostly depends on the weather.
+But the thing is, all of the people i know, my "friends", "family" whatever, everyone seems to maintain a certain boundary line with me. It feels less like having people of my own, and more like people watching me afar. I dont know how to express this feeeling, but i feel like people are just standing it a round circle and im doing tricks in the middle for their entertainment. For example, nobody wished me on my 19th birthday. That was a big blow to my face bacause it made me realise how less important to these "friends" i am. I've started to think that i was nothing more that some crowd. As ikept growing up, i kept seeing people go further and further from me. It's like, they wont leave, but stand at a distance and cheer for me.
+
+Honestly all I've wanted in this life is a brother. A friend. who would come chill on my room like he owns it. Whom I wouldn't have to maintain distance from or worry about "what he will think" because i know he wont judge me. I can run to at 3 am at midnight if i need to. But i dont know, nobody seems to step up for that role.
+
+So yeah, here i am, with a hell bunch of "friends" around me and i still feel alone. I dont know what went wrong. I dont know if I'm overthinking. And sorry if this post is too long, tbh im just venting here cus apperently, i dont have anyone to vent to.

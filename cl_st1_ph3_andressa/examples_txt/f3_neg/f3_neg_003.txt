@@ -1,16 +1,16 @@
-Text ID: t000691
+Text ID: t001728
 Group: generic_gpt
 Model: gpt
-File:   corpus/05_generic_gpt/t1538_gpt.txt
+File:   corpus/05_generic_gpt/t2480_gpt.txt
 
-Score (f3_neg): -2
-Loading words (f3_neg), N=2: notification, weather
-I don’t really know how to talk about this in my “real” life, so I’m dumping it here.
+Score (f3_neg): -6
+Loading words (f3_neg), N=6: shallow, mix, role, expose, invisible, worry
+I’ve been feeling this weird mix of invisible and too exposed at the same time.
 
-Lately I feel like I’m living next to people instead of with them. I have coworkers, acquaintances, people I chat with about weather and TV shows, but no one who actually knows me. I go home, close the door, and it’s just…quiet. Not peaceful quiet, more like “if I disappeared, the day would sound exactly the same” quiet.
+On paper, I’m “fine” — job, small apartment, a couple of acquaintances I sometimes see. But I don’t feel like I actually exist in anyone’s mind when I’m not physically there. No one texts just to check in. If I don’t reach out, days go by in complete silence except for work emails and random notifications.
 
-I’m at that age where everyone seems to be pairing off, having kids, planning trips with their “group.” My phone mostly lights up with notifications from apps, not people. If I don’t start a conversation, my messages just stay empty. I’m tired of always being the one who reaches out, only to get polite, delayed replies.
+When I do see people, I feel like I’m playing a role: the “okay” version of myself who can make small talk and laugh at the right spots. Meanwhile there’s this heavy, dull ache underneath, like I’m watching my own life from the outside. I leave gatherings feeling more alone than before, because it just highlights how shallow most of my connections are.
 
-What really messes with me is how this is becoming my “normal.” I’m getting too used to eating alone, going to events alone, saying “it’s fine” when it isn’t. I’ve started to feel awkward even when I am around people, like I’ve forgotten how to be part of anything.
+I’ve tried joining clubs, going to events, chatting online. It’s like there’s a glass wall — I can see everyone, hear them, but I can’t actually get through to the part where you become important to each other. I worry that I’m just fundamentally forgettable.
 
-I don’t even know what I’m asking for writing this. Maybe I just wanted it to exist somewhere outside my head.
+What scares me is how normal this has started to feel. Like this is just how my life is now: presentable on the surface, hollow underneath, and no one really noticing the difference.

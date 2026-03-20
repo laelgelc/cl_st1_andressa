@@ -1,20 +1,16 @@
-Text ID: t006673
+Text ID: t008118
 Group: summary_guided_gpt
 Model: gpt
-File:   corpus/05_summary_guided_gpt/t1785_gpt.txt
+File:   corpus/05_summary_guided_gpt/t552_gpt.txt
 
-Score (f1_pos): 26
-Loading words (f1_pos), N=26: group, life, work, show, coworker, outside, job, people, talk, chat, something, everyone, person, family, time, thing, kind, circle, someone, end, everything, anything, way, friend, stuff, surface
-I feel like I’ve spent my whole life standing just outside of everyone else’s circle.
+Score (f1_pos): 52
+Loading words (f1_pos), N=52: text, go, group, like, life, couple, small, message, joke, work, laugh, watch, outside, own, part, people, try, most, bad, photo, something, day, everyone, feel, initiate, plan, see, start, inside, get, make, more, constant, wall, first, happen, time, sit, move, other, real, end, much, everything, hit, moment, place, use, seem, stuff, contact, nothing
+I’m 29, originally from Iran, and I’ve been in the US for about four years now for my master’s. I just moved to Texas by myself because of immigration stuff, and it’s really hitting me how much “being alone” has become the default setting of my life.
 
-It started in grade school. My classmates didn’t talk to me unless they had to, and even some teachers acted like I wasn’t there. The only person who treated me like a real human being was the cleaning lady, who was kind and actually spoke to me. That pretty much set the tone for everything that came after.
+It’s not like this started with moving here. Even back in college, at work, traveling, doing hobbies… I’ve always been the one who has to initiate everything. If I don’t text first, if I don’t suggest plans, nothing happens. I’ve gotten used to doing most things alone: going to museums, watching movies in the theater, trying out new places. I’m genuinely comfortable with that part; I don’t feel ashamed sitting alone at a café or going to a movie by myself.
 
-I tried to make friends in childhood, in my teens, and later at university, but everything stayed on the surface. People would chat with me in class or in group projects, but they never actually included me in anything. No one invited me to any graduation parties, and nobody came to mine. It was like I was always “nice enough to talk to,” but never someone they thought to actually spend time with.
+But there’s this painful side to it. When I’m out, I see groups of friends laughing, couples sharing inside jokes, people taking photos together. It’s like there’s this invisible wall between my world and theirs. I can do the same activities, but the “together” part feels like something I just don’t have access to. It’s not even that I’m desperate to be surrounded by people all the time; it’s more this constant reminder that I’m on the outside of something everyone else seems to have.
 
-Romantic stuff hasn’t gone anywhere either. On the rare occasions someone showed interest, it fizzled out fast. I’ve been ghosted after a few dates more than once. It’s like as soon as someone gets a slightly closer look, they decide I’m not worth sticking around for.
+Remote work has made all of this worse. At least with in-person work or school there was some built-in contact, even if it was shallow. Now my days are mostly just me, my laptop, my apartment. On the rare occasions I do spend time with people, I almost feel disoriented, like I’ve forgotten how to be around others. And then, inevitably, I go back to being alone again, like that’s the “real” state and everything else was a temporary glitch.
 
-Even therapy hasn’t really worked out. One therapist ended things after about five sessions, and another never even scheduled a second one. That hurt in a different way, like even the people whose job it is to listen and help don’t really want to deal with me.
-
-My relationships with family and coworkers are the same: polite, functional, but shallow. I try to connect, but it never seems to go anywhere deeper. Over time, I’ve gone pretty numb to it. I just expect to be ignored now, and I’m actually surprised when someone doesn’t overlook me.
-
-At this point, my only real friends are my parents. I’m grateful for them, but it’s hard not to feel like that says something about me that no one else ever really chooses me.
+I’ve basically paused dating. I value my alone time a lot, and the constant messaging, check-ins, and small obligations of a relationship feel draining compared to the few shared moments they bring. It doesn’t feel like a good trade-off. So I end up choosing solitude, even though that same solitude hurts in its own way.

@@ -1,9 +1,8 @@
-Text ID: t003484
+Text ID: t005378
 Group: human
 Model: human
-File:   corpus/05_human/t1481_human.txt
+File:   corpus/05_human/t667_human.txt
 
-Score (f3_pos): 6
-Loading words (f3_pos), N=6: pain, support, year, relationship, love, problem
-Huge vent 
-I (21f) feel like there's so point for me to fight for the life I want. Nothing works out for me and I feel like I can't get a break. The last few years have just been shitty but nothing rlly broke me apart until my boyfriend's recent passing. Our plans, our dreams, our nightly chocolate milks, and our morning cuddles, are all gone. I don't have my dad's support through this time. My boyfriend's family have all been supportive and encouraging. I would love to move near them but my mom feels like I'm replacing mt family with them (she likes to twist my words around). I've never had a good relationship with them and the events that happened this year and years before, have rlly put a strain in my relationship with them. I also have Borderline Personality Disorder which makes it 10x harder for me and them to be on the same level. I feel like I'm a problem, I'm horrible to be around, no one understands me, I feel mentally insane, alone, angry yet sad. It just never ends and being home just adds so much on me.. I also got diagnosed with PCOS recently and like rlly? I NEEDED that too? I have arthritis everywhere in my body and it crushes my dream to be an artist bc of the pain in my hands. There's just so much more but I hate to sound whiny. I just can't handle all of this on me and nothing is taking huge toll on me more than my boyfriends death. I don't want to continue my life without him more than I already have. I feel like I'm suffocating in my own mental suffering .. I don't think it's worth it to keep living with my insanity....
+Score (f3_pos): 3
+Loading words (f3_pos), N=3: wanna, heart, great
+I sat up yesterday and cried for a solid 2 hours  because of how lonely i felt it really felt like my heart was shattering and im scared of myself i just want to be happy i dont know how to fix it like ive had relationships but i have been dumped in pretty much all of them i don't understand what im doing wrong is my care and love not enough im trying my best to be a great like guy and then I just get dumped. i don't even know anymore if someone wants to text my dms are open if you wanna vent or just talk for the sake of talking have a good day everyone 

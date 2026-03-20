@@ -1,38 +1,16 @@
-Text ID: t003424
-Group: human
-Model: human
-File:   corpus/05_human/t1427_human.txt
+Text ID: t008376
+Group: summary_guided_gpt
+Model: gpt
+File:   corpus/05_summary_guided_gpt/t810_gpt.txt
 
-Score (f2_pos): 5
-Loading words (f2_pos), N=5: man, heart, woman, experience, school
-Hey,
+Score (f2_pos): 24
+Loading words (f2_pos), N=24: top, struggle, year, future, emotional, lose, love, grow, find, thing, girl, kind, want, good, only, happy, impossible, meet, understand, friend, care, month, share, stick
+I turned 20 today and it honestly just feels like any other lonely day, maybe a bit worse. So far only one person has said happy birthday to me. My own family hasn’t said anything. I’ve also had the flu for the last four days, so I’m stuck in bed feeling physically awful on top of everything else.
 
-I'm a 33yo male, no partner and I lost my job. I haven't found a job in half a year.
+I’m kind of used to being alone, so I didn’t expect much, but it still stings more than I want to admit. I grew up in a family where we don’t talk about feelings at all. No “I love you,” no real conversations about what’s going on inside. Because of that, opening up to people and being social feels almost impossible sometimes. It’s like I never learned how.
 
-I have been feeling lonely ever since my traumatic mobbing experience in elementary school.
-I am in therapy, but every time I remember the verbal and physical violence I almost throw up.
+About three years ago I met a girl on Discord. We were friends for a year, then we became long-distance partners. That year we were together was honestly the best I’ve ever felt. We had this really beautiful connection. I could tell her about my day, my dreams, my fears. We made plans together and had shared goals. For once, I felt like I wasn’t just drifting through life. I had direction, and a future that actually seemed worth moving toward.
 
-I am in a sports club, but everytime I ask to go for coffee, everyone declines.
-I have 2 friends which I see every 2 weeks.
+She ended things around our one-year anniversary because of external reasons. I still loved her, but it didn’t matter. It’s been about ten months since then. I don’t miss her specifically as intensely anymore, but I really miss what we had. That feeling of being understood, of having someone I could be completely honest with. Someone who cared about my day and my future, and whose future I cared about too.
 
-But most days I sit in my apartment, incredibly depressed, because I cannot self motivate to do anything and there is nobody around to interact with.
-
-I wish I had the motivation to do things that would help, like going out and looking for a job, but I often don't.
-
-I'm really mad with my brain for sabotaging me like this, because I have all it takes to be a happy man with a job and a partner.
-
-It has become harder and harder to write job applications and to ask out women, because I have lost faith in succeeding.
-
-Is there anything I can do?
-
-Whatever it is, it has to be something small I can do and it must give me swift positive feedback. Otherwise I will simply loose heart and stop.
-
-Going to the gym works sometimes, because I believe that it makes me stronger and being able to increase the weight gives me a dopamine high. But some days that doesn't work either.
-
-I am grateful for any support.
-
-If you have advice, remember it needs to be actionable and have a short feedback loop to work for me.
-
-I am also grateful for just messages of sympathy, because they make me feel like I'm not alone in this world.
-
-I wish all of you out there nothing but the best!
+Now I just feel lost again. I miss having that deep emotional connection more than anything. I don’t even know how to find something like that again, especially when I struggle so much with opening up in the first place. I guess I just needed to put this somewhere, because I don’t really have anyone in my life I can say it to.

@@ -1,8 +1,8 @@
-Text ID: t000085
+Text ID: t001636
 Group: generic_gpt
 Model: gpt
-File:   corpus/05_generic_gpt/t085_gpt.txt
+File:   corpus/05_generic_gpt/t2397_gpt.txt
 
-Score (f1_neg): 1
-Loading words (f1_neg), N=1: f2 score: 0
-I’m surrounded by people daily, yet no one really knows me. It feels like I’m fading in plain sight.
+Score (f1_neg): 2
+Loading words (f1_neg), N=1: f2 score: -1
+I’m surrounded by people daily, yet no one actually knows me at all.

@@ -1,16 +1,14 @@
-Text ID: t006292
+Text ID: t007997
 Group: summary_guided_gpt
 Model: gpt
-File:   corpus/05_summary_guided_gpt/t1439_gpt.txt
+File:   corpus/05_summary_guided_gpt/t431_gpt.txt
 
-Score (f3_pos): 7
-Loading words (f3_pos), N=7: health, issue, pain, top, lot, relationship, love
-I’m 21 and for as long as I can remember I’ve had this feeling that I don’t want to live past 30. It used to be more of a vague thought in the background, but since my ex died it’s become so much stronger and scarier. I still thought of him as my boyfriend. I loved him so much, even though our relationship really messed me up and left me with a lot of emotional damage and self-esteem issues that I still carry.
+Score (f3_pos): 2
+Loading words (f3_pos), N=2: gonna, suck
+Feeling pretty low after New Year’s. I’m 31 and decided I’m gonna stop drinking for a while because it’s just making me more depressed. I’ve felt lonely for a long time, even though I’m usually pretty social. Right now I’m just… alone, and it sucks.
 
-His family was really supportive at first, but now they’re upset with me and somehow I’ve become this person in the middle of their conflicts. They come to me to vent or expect me to help fix things between them, but no one seems to think, “Maybe I should ask how she’s doing.” It feels like I’m just here to absorb everyone else’s pain and drama.
+A few years ago I met this woman (she’s 26 now) through a friend on Discord. We’ve met in person and I’ve had a crush on her pretty much since then. Recently she broke up with her boyfriend and after that we started talking a lot more. She’s told me she loves me multiple times and even said it on a call on New Year’s Eve. It felt really sincere, but I have no idea if she means it in a romantic way or just as a close friend.
 
-My friends don’t really reach out unless I text first. If I stop talking, everything just goes quiet. I don’t have a car, a job, money, or a place of my own. I feel like I have nothing going for me and no real future to look forward to.
+Lately she’s been more withdrawn and we’ve been talking less. I don’t know if she’s overwhelmed, changed her mind, or just needs space after her breakup. I’m scared of pushing her away if I ask directly, but it’s messing with my head not knowing where I stand.
 
-On top of that, my body feels like it’s falling apart. I’m exhausted all the time, my physical health is a mess, and emotionally I’m all over the place. I have BPD and sometimes I can manage it okay, but other times it completely runs my life. My relationship with my family is strained too, so I don’t really feel like I have a safe place anywhere.
-
-I can’t eat properly, I can’t sleep, I can’t relax or enjoy the things I used to like. I’m trying to cope, but I keep wondering what the point of any of this is. I feel so alone, and it honestly scares me how alone I am.
+I’m not sure what to do. Should I tell her how I feel? Give her space? Has anyone been in a similar situation?

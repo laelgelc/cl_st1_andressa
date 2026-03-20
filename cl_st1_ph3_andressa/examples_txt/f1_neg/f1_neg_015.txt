@@ -1,13 +1,8 @@
-Text ID: t003195
+Text ID: t004788
 Group: human
 Model: human
-File:   corpus/05_human/t1219_human.txt
+File:   corpus/05_human/t2667_human.txt
 
 Score (f1_neg): 1
 Loading words (f1_neg), N=1: f2 score: 1
-Been alone my whole life. I am almost 40 and wish I would just die in my sleep tonight 
-
-
-
-
-Stomach hurts everyday, I shit my pants every 6 months. Tiny dick, I fucking hate this world
+Alternatively, what would cause a person to suddenly adapt an absolute-loner outlook and cause them to sever all their relationships?

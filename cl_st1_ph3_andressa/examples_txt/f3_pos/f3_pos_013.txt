@@ -1,14 +1,8 @@
-Text ID: t003803
+Text ID: t005287
 Group: human
 Model: human
-File:   corpus/05_human/t1771_human.txt
+File:   corpus/05_human/t576_human.txt
 
-Score (f3_pos): 6
-Loading words (f3_pos), N=6: health, anxiety, support, fact, problem, situation
-I (25F) don't really know how to comprehend this situation I'm in. 
-
-My entire life basically blew up recently. Firstly, my mental health went extremely downhill. I had a huge episode of OCD or maybe anxiety (?) that has completely taken all my joy away from me. None of my hobbies appeal to me anymore. And I have also considered "exiting". Secondly, I just finished college and have somehow found myself a NEET with no prospects, mobility or social skills. This makes everyday so difficult and torturous. 
-
-Now, the relevant aspect to this sub is that I'm also feeling utterly lonely. My few friends are either (understandably) busy or tired of supporting me. Sometimes I even take the initiative to avoid them because I'm ashamed of who I have become. This is a big problem because I feel like I need people and want them around. I get so sad when there's no one to even talk to. But how, on god's green earth, do I reconcile the urgent need for company with the fact that I really need to work on myself to be worthy of such company? How can I say I want people around me when everyone currently deserves better?
-
-I think there is a loooong list of things. Need to go to therapy at long last. Need to get a job somehow. Need to do a hundred more things probably.. I just... have so much to do, and I don't know how I'll do it all alone.
+Score (f3_pos): 3
+Loading words (f3_pos), N=3: shit, fuck, suck
+I just want my daddy, I want to cry. I feel so so alone, I hate existing and dealing with this shit daily and the holidays are awful fucking reminders. I have to go visit extended family four hours away tomorrow for thanksgiving and I do NOT want to be around family. I do not want to socialize. I do not want to have a conversation. I know I'm just going to be there silently moping and miserable and trying to "subtly" exclude myself from my family until eventually my extended family wonder what’s wrong with me and my parents are embarrassed and disappointed by their miserable daughter. I do not want to go but I know if I told my parents they would be hurt and I'd have to go anyway, so I've just kept my mouth shut and do whatever they ask of me. I just want to lay here and cry. I want to be cuddled, and held, and told that everything is alright and know that I have someone to love and who loves me. I'm so desperately lonely, I don't want to wake up to a fucking holiday tomorrow. And then after that I'm going to spend more of the money I need to save to move out on holiday gifts and junk for myself. I need a job, I have no job, and I have no interest in a career, but I need to LEAVE. I don't want to live here!! I'm so unhappy!!! I need to leave and be alone and be elsewhere to be unhappy by myself. Everything sucks, I'm so hateful and yet I'm so fucking sad I just wanted a future worth living for with my ex but I don't have that, it's always just a facade I don't want to keep doing this

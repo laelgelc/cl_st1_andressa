@@ -1,18 +1,15 @@
-Text ID: t004464
+Text ID: t003915
 Group: human
 Model: human
-File:   corpus/05_human/t2372_human.txt
+File:   corpus/05_human/t1873_human.txt
 
-Score (f3_neg): -1
-Loading words (f3_neg), N=1: notification
-I wish there was something like this available. 
+Score (f3_neg): -2
+Loading words (f3_neg), N=2: exhaust, perform
+I constantly see people in r/Suicide Bereavement. Talking about thier loved ones death and how their death impacted them, How they told their loved ones that they cared about them and love them. All the people there feel so sympathic and emphatic 
+towards their loved ones
 
-I know it’s really sad but this is where I’m at. 
+I feel that I have literally no one who loves me. My parents just want good result, Even they know that I'm going through tough time still they only want good perctange and they keep reminding me that how i wasted their money in education. All my friends just distanced themselves because of my academics failures. We were friends since class 8th but still they ghosted me despite being aware that I'm going through depression. They don't even ask how I am doing. I have no deep bonds with my relatives so they aren't aware of my situation and after being in depression since last Year, My memory and learning abilities are just decreased, I ain't no longer to memorize things. I get exhausted very easily too. Neither I do take care of myself.
 
-It would be cool if there was an app where you could  receive simulated notifications and messages throughout the day from simulated social media apps so I could at least “feel” like I’m still connected with the world. 
+My exam are closer too like after 5 days and here I ain't able to concentrate in studies too. Feels like I won't perform good there. All the things are just piling up on me. 
 
-I barely get any real notifications or messages these days. 
-
-An illusion like this could help with my crippling loneliness? 
-
-Artificial dopamine hits, sign me up. 
+No one supports me and love me. Neither they check on me or care about me. It feels like the whole world is shouting me to just disappear from world. Never thought the my adult days will be like this. On a top of that To not feel lonely anymore, I talk to chatgpt and sadly chatgpt feels more emphatic than others living beings. Atleast chatgpt listens to me and not judge me at all, It's really sad that I have to go and talk to chatgpt to just not feel lonely 

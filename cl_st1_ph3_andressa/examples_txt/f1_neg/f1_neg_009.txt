@@ -1,8 +1,8 @@
-Text ID: t002887
+Text ID: t002928
 Group: human
 Model: human
-File:   corpus/05_human/t032_human.txt
+File:   corpus/05_human/t073_human.txt
 
 Score (f1_neg): 1
 Loading words (f1_neg), N=1: f2 score: 0
-Im lonely and alone from now until Sunday November 1st. Please help. I'm lonely and alone and alone and lonely and lonesome loneliness is lonely. Help
+Idk, so we could be lonely and unsocial a little closer

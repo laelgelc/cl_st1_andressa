@@ -1,16 +1,18 @@
-Text ID: t008118
+Text ID: t006031
 Group: summary_guided_gpt
 Model: gpt
-File:   corpus/05_summary_guided_gpt/t552_gpt.txt
+File:   corpus/05_summary_guided_gpt/t1201_gpt.txt
 
-Score (f1_pos): 27
-Loading words (f1_pos), N=27: group, life, text, couple, work, part, outside, people, joke, something, message, day, everyone, wall, photo, time, thing, plan, end, everything, place, way, friend, moment, stuff, nothing, contact
-I’m 29, originally from Iran, and I’ve been in the US for about four years now for my master’s. I just moved to Texas by myself because of immigration stuff, and it’s really hitting me how much “being alone” has become the default setting of my life.
+Score (f1_pos): 55
+Loading words (f1_pos), N=55: go, like, scroll, coworker, know, life, phone, home, small, message, put, show, work, old, own, people, talk, something, day, feel, night, start, bother, get, make, realize, remember, keep, more, random, look, door, normal, exist, other, stop, real, change, social, tell, while, catch, force, anything, conversation, everything, hit, busy, stuff, wait, week, scare, sleep, nothing, open
+I remember one night looking at my phone and realizing I hadn’t gotten a meaningful message in… I don’t even know how long. Just random memes, work stuff, and the occasional “how are you?” that never went beyond small talk. It hit me that I hadn’t had a real conversation in weeks.
 
-It’s not like this started with moving here. Even back in college, at work, traveling, doing hobbies… I’ve always been the one who has to initiate everything. If I don’t text first, if I don’t suggest plans, nothing happens. I’ve gotten used to doing most things alone: going to museums, watching movies in the theater, trying out new places. I’m genuinely comfortable with that part; I don’t feel ashamed sitting alone at a café or going to a movie by myself.
+My days had all blurred into the same pattern: wake up, go to work, exchange a few surface-level comments with coworkers, come home, scroll on my phone, sleep. Repeat. I told myself I was “too tired” or “too busy” to do anything else, but really I was just stuck. My old friends are far away now, and we only talk every once in a while. I kept waiting for something to change on its own, like one day I’d just magically feel less alone.
 
-But there’s this painful side to it. When I’m out, I see groups of friends laughing, couples sharing inside jokes, people taking photos together. It’s like there’s this invisible wall between my world and theirs. I can do the same activities, but the “together” part feels like something I just don’t have access to. It’s not even that I’m desperate to be surrounded by people all the time; it’s more this constant reminder that I’m on the outside of something everyone else seems to have.
+Instead, everything just felt empty and stale. I’d catch myself doomscrolling, not because I cared about what I was looking at, but because there was nothing else going on. It scared me how normal that started to feel.
 
-Remote work has made all of this worse. At least with in-person work or school there was some built-in contact, even if it was shallow. Now my days are mostly just me, my laptop, my apartment. On the rare occasions I do spend time with people, I almost feel disoriented, like I’ve forgotten how to be around others. And then, inevitably, I go back to being alone again, like that’s the “real” state and everything else was a temporary glitch.
+At some point I realized that if I didn’t do anything, this would just keep being my life. So I made a decision: stop waiting for destiny to hand me a social life and start putting myself in situations where one could actually exist. I didn’t force conversations or chase people, but I did show up more. I gave myself chances to meet others instead of hiding behind the same routines.
 
-I’ve basically paused dating. I value my alone time a lot, and the constant messaging, check-ins, and small obligations of a relationship feel draining compared to the few shared moments they bring. It doesn’t feel like a good trade-off. So I end up choosing solitude, even though that same solitude hurts in its own way.
+It wasn’t instant, but slowly my phone stopped being just a black hole of scrolling. It started to be something that buzzed with actual connection.
+
+If loneliness is bothering you, don’t let isolation become your comfort zone. Nothing changes if nothing changes. Even small steps to put yourself out there can open the door to something better.

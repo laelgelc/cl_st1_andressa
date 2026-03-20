@@ -1,8 +1,10 @@
-Text ID: t003361
+Text ID: t005561
 Group: human
 Model: human
-File:   corpus/05_human/t136_human.txt
+File:   corpus/05_human/t850_human.txt
 
 Score (f1_neg): 1
-Loading words (f1_neg), N=1: f2 score: 0
-Chill discord made to just be themselves and chat and be goofy 
+Loading words (f1_neg), N=1: f2 score: 2
+Give title to this
+
+Why do I feel lonely and sad when I recall my childhood memories? Why was my father always hating me out of 3 siblings? And why at the age of 40, do I feel very sad about this?

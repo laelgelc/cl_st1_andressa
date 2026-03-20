@@ -1,18 +1,12 @@
-Text ID: t000697
+Text ID: t001616
 Group: generic_gpt
 Model: gpt
-File:   corpus/05_generic_gpt/t1543_gpt.txt
+File:   corpus/05_generic_gpt/t2379_gpt.txt
 
-Score (f3_neg): -2
-Loading words (f3_neg), N=2: notification, weather
-I’m starting to feel like I’m disappearing while still technically being “around people.”
+Score (f3_neg): -6
+Loading words (f3_neg), N=6: disconnected, mix, role, exhaust, expose, invisible
+I’ve been feeling this weird mix of invisible and exposed lately. I can be surrounded by people and still feel like I’m behind glass. I talk, I laugh at the right times, but it all feels like I’m playing a role that doesn’t belong to me. When I’m finally alone, it’s like the silence is louder than anything that happened during the day.
 
-On paper my life looks fine: job, small apartment, coworkers I can make small talk with, family chats on holidays. But most days I go hours without anyone saying my name. I can go entire weekends where my phone doesn’t light up unless it’s spam or some automated notification. It’s like I exist mostly in the periphery of other people’s lives.
+What gets to me most is that I don’t even know how to fix it. I try to reach out, but my messages feel forced, like I’m bothering people. I overthink every word, then usually delete it. I miss having someone I can just text without planning the conversation in my head first.
 
-I think what gets to me most is the lack of being known. People know the version of me that smiles at work, makes a joke in a meeting, answers “I’m good, you?” in the hallway. No one sees the version that comes home, drops everything on the floor, and just sits in silence because there is nothing and no one to come home “to.”
-
-I’ve tried to be proactive: joined a hobby group, said yes to after-work drinks, messaged old friends to “catch up sometime.” It’s always surface level. We talk about TV shows, work stress, the weather. Then everyone goes back to their real lives, where they text their close friends, partners, family. I go back to my room and the quiet.
-
-There’s also this weird shame about it. Like I’m old enough that I “should” have a solid circle by now, maybe a partner, at least a couple people who’d notice if I went offline for a few days. Instead I overthink every interaction, wondering if I’m too much, or not enough, or just forgettable.
-
-I don’t even know what I want from posting this. Maybe just to put it somewhere outside my own head for once.
+It’s exhausting feeling this disconnected and still having to function like everything is fine.

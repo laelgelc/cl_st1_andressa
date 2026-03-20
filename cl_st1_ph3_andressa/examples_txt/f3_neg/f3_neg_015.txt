@@ -1,16 +1,8 @@
-Text ID: t000325
+Text ID: t000565
 Group: generic_gpt
 Model: gpt
-File:   corpus/05_generic_gpt/t1205_gpt.txt
+File:   corpus/05_generic_gpt/t1423_gpt.txt
 
-Score (f3_neg): -1
-Loading words (f3_neg), N=1: notification
-I don’t really know how to start this without sounding dramatic, but lately it feels like my life is just… background noise.
-
-I’m surrounded by people most days – work, errands, public transport – but I feel like a ghost slipping around the edges. I talk to coworkers, I make small jokes, I nod at the right times. Then I go home, close the door, and it’s like I never existed in the first place. No one checks in. My phone is mostly silent unless it’s a notification from some app that doesn’t actually care I exist.
-
-I’ve had friends before, or at least I thought I did. Over time, people drifted away: moved, got partners, had kids, got “busy.” I understand that life changes, but it’s like I got left in an earlier chapter everyone else outgrew. When I try to reconnect or make new friends, it feels forced, like I’m auditioning for a role I’m not quite right for.
-
-What really gets to me is that I’m not even sure how to be close to people anymore. When someone asks “How are you?” my automatic response is “I’m good, you?” even when I’m not. I don’t know how to bridge the gap between small talk and actually saying, “I’m lonely and I don’t know what to do about it.”
-
-Nights are the worst. There’s this heavy awareness that no one really knows me in any deep way right now, and I’m not sure if that’s my fault or just how things turned out. I keep wondering if this is just how adulthood is for some of us, or if I missed some crucial step everyone else seemed to understand.
+Score (f3_neg): -5
+Loading words (f3_neg), N=5: disconnected, terrify, crave, shallow, role
+I’m surrounded by people but feel completely disconnected. Conversations feel shallow, like I’m acting a role. I crave one person who genuinely understands me, yet I’m terrified I’ll repel them somehow.

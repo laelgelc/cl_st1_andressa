@@ -1,16 +1,8 @@
-Text ID: t005034
+Text ID: t003450
 Group: human
 Model: human
-File:   corpus/05_human/t323_human.txt
+File:   corpus/05_human/t1450_human.txt
 
-Score (f3_pos): 7
-Loading words (f3_pos), N=7: health, depression, support, year, lot, love, situation
-I am 20 years old and I have been depressed for the last 3–4 years. Even after coming out of depression, it has left a big impact on me and has made my physical health worse. I don’t know whether I am still depressed or not, but I still get negative thoughts sometimes, and I have almost lost my emotions or feelings.
-
-Talking about my recent situation, I’m really not feeling good. I really need someone to understand me—someone who can take care of me or at least care about what disappoints me. I have literally lacked support, love, and care from my family. I was ditched by my best friends, and slowly I lost even having a good friend. When I fell into my depression phase, my friends stepped away from me at my lowest point.
-
-After friends and family, I have my boyfriend, but I feel that he gives more importance to his friends than to me. He takes me for granted, and he has done that many times. He always disappoints me, which hurts a lot. He doesn’t understand me, especially when it comes to his friends. He even disappointed me on my birthday. I don’t find him supportive anymore.
-
-I feel so lonely because I have lacked love and importance from my family, lacked loyalty from my best friends, and now I’mIacking understanding from my boyfriend. I don’t know what action I should take or how I should treat him back for this.
-
-Overall, I am really disappointed with my life and feel extremely lonely. I truly need someone to understand me and care about me.
+Score (f3_pos): 4
+Loading words (f3_pos), N=4: shit, fuck, cause, suck
+15m here, after a long time of feeling like I would never find anyone worth my time, I did find someone, this was the first time I’ve had the confidence to ask somebody out ever, so I did, and I was rejected, I took it really well at first, but after a while, I began to feel like nothings ever worth it. Dealing with my parent at home is abs the worst thing in the world cause the only thing my mother seems to do half the time is yell at me, and my siblings just fucking suck in general. On another note, while I have plenty of friend, most don’t even seem to be worth it, I will admit that I‘m a femboy, but that’s only because al everyone I know makes fun of me over it and either calls me gay, a woman, or just a weirdo. I’ll also admit that I have had small sips beer before, this little known fact is very important cause I have decided to steal a beer from my parent because I feel like nothings ever worth it, and that alcohol is already my only escape, I know that this is a horrible thought mentally, but this is all I have. Life just isn’t worth it 90% of the time. I’ll probably come back tomorrow with the situation involving the beer, but yeah, I just can’t take this shit anymore

@@ -1,18 +1,20 @@
-Text ID: t001465
+Text ID: t000020
 Group: generic_gpt
 Model: gpt
-File:   corpus/05_generic_gpt/t2241_gpt.txt
+File:   corpus/05_generic_gpt/t020_gpt.txt
 
-Score (f1_pos): 39
-Loading words (f1_pos), N=39: paper, group, life, text, couple, fine, work, home, coworker, people, scroll, talk, joke, chat, something, message, day, everyone, silence, family, glass, motion, time, thing, anyone, kind, someone, end, while, everything, way, friend, moment, interaction, character, background, week, conversation, nothing
-I’ve been feeling this weird, heavy kind of invisible lately. Not in a dramatic “nobody cares if I live or die” way, but in a quieter “if I disappeared, it would take a while for anyone to notice” way. Days blur together and I’m starting to realize most of my “interactions” are with screens, not people.
+Score (f1_pos): 81
+Loading words (f1_pos), N=81: dramatic, paper, sound, go, group, like, scroll, fine, know, life, chat, phone, say, head, home, small, message, put, show, work, laugh, notice, watch, weekend, ask, nod, own, part, people, talk, try, quiet, bad, join, silence, job, mess, day, everyone, glass, feel, plan, see, weather, medium, night, respond, start, get, make, close, more, sense, look, think, first, time, awkward, sit, smile, anyone, other, someone, replay, background, social, end, force, right, conversation, hit, boring, busy, interaction, second, seem, stuff, noise, suppose, nothing, pretend
+I don’t really know how to say this in a way that doesn’t sound dramatic, but I feel like I’m living my life behind glass.
 
-I technically have people in my life. Coworkers I chat with, a family group chat where we send memes, a couple of old friends I text every once in a while. On paper, that probably looks fine. But the reality is that everything feels surface-level, like I’m playing a character who’s “doing okay” instead of being honest about how hollow I feel.
+On paper, I’m “fine.” I have a job, I respond to messages, I show up when I’m supposed to. People would probably describe me as quiet but “nice.” I make small talk about work, the weather, whatever show is popular. I smile, I nod, I laugh at the right times. Then I go home and it’s like I evaporate. No one notices that part.
 
-I’ll have moments where I want to message someone and say, “I’m lonely. Can we just talk about nothing for a bit?” But I always end up deleting it because I don’t want to sound needy or make things awkward. I overthink every possible response they could have and convince myself I’m burdening them. So I stay quiet, scroll, watch videos, listen to podcasts—anything to fill the silence without actually breaking it.
+What’s getting to me lately is this sense that I’m “around people” all the time but not actually *with* anyone. At work, everyone has their little groups. They talk about weekend trips, brunches, game nights. I’m always just close enough to overhear plans, never close enough to be included. I stand there pretending to be busy on my phone so it doesn’t look as awkward as it feels.
 
-What makes it worse is how disconnected I feel even when I’m around people. I’ll be in a group conversation, laughing at the right times, making jokes, and still feel like I’m standing behind glass, watching it all happen. Everyone else seems to have these natural, effortless bonds, and I’m just… adjacent to them.
+I’ve tried to put myself out there. I’ve gone to meetups, joined group chats, even forced myself to start conversations. It always ends the same way: a few surface-level interactions that slowly fade out, like I’m forgettable background noise. I don’t think people dislike me; it’s more like I’m just… not anyone’s first choice. Or second. Or third.
 
-I miss feeling known. Not just “how’s work?” known, but the kind of known where someone notices when you’re off, or remembers something small you said weeks ago. I don’t really have that right now. I don’t know if it’s because I’ve pulled away over time, or because I never really had it to begin with.
+The worst part is how it messes with my sense of reality. I start wondering if maybe I’m actually really boring, or off-putting in ways I can’t see. I replay every conversation, every silence, every time someone’s eyes drift past me to someone more interesting. It’s exhausting to constantly feel like you’re auditioning for a role in other people’s lives and never getting the part.
 
-Most days I just go through the motions: wake up, work, come home, distract myself until I’m tired enough to sleep. It’s functional. It’s fine, technically. But it also feels like I’m slowly fading into the background of my own life.
+Nights are the hardest. I come home, put my stuff down, and the silence just hits me. No one asking how my day was, no one to vent to, no one to sit next to on the couch doing nothing. I scroll through social media and it feels like watching a world I’m not part of. Everyone seems to have “their people.” I have… me.
+
+I don’t even know what I’m hoping for by posting this. Maybe I just wanted to put it somewhere other than my own head for once.

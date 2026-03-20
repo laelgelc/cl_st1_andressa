@@ -1,18 +1,16 @@
-Text ID: t007919
+Text ID: t007274
 Group: summary_guided_gpt
 Model: gpt
-File:   corpus/05_summary_guided_gpt/t353_gpt.txt
+File:   corpus/05_summary_guided_gpt/t2331_gpt.txt
 
-Score (f3_pos): 7
-Loading words (f3_pos), N=7: issue, pain, top, year, relationship, idea, problem
-I don’t even know where to start. I feel completely trapped and alone.
+Score (f3_pos): 2
+Loading words (f3_pos), N=2: cause, great
+I’ve never kissed a guy, and honestly, I’m not exactly sad about it. It’s not like I’ve never had the chance either – I’ve turned down a few opportunities, and later it turned out those guys were not great people. So I don’t regret saying no.
 
-I’m married with kids and I’m seriously considering divorce, but I have almost nothing. I make about $300 every two weeks, I have nowhere to go with my children, and I have untreated medical issues that make it hard to work, but also somehow I’m “not sick enough” to qualify for disability. It feels like I’m stuck in this tiny, suffocating box with no doors.
+I have this friend I’ve known for a long time, she’s always been introverted too. She had some experience in college and later lost her virginity to a coworker. He moved away afterward, and she was really depressed and heartbroken. It was rough to see her go through that.
 
-For 12 years his friends and family have treated me like garbage. They talk down to me, ignore me, or act like I’m the problem, and he never, ever defends me. Recently he literally yelled at me just for talking to one of his friends, then threw a can at me. His friends said he “did nothing wrong.” He hasn’t hit me, but he’s punched holes in walls and doors. I feel constantly on edge, waiting for the next outburst.
+Now, though, she keeps bringing up the fact that I’ve never kissed anyone. She’ll say things like, “We should go out so you can finally have your first kiss,” like it’s some embarrassing problem that needs to be fixed. Every time she says it, it stings.
 
-On top of that, he’s been lying to everyone about our relationship. He told his friends we had an “open marriage” and that it was my idea, and that it was basically all for my benefit. In reality, he was cheating on me with multiple women, even when I was pregnant. The “open” thing only came up so he wouldn’t have to hide it anymore. I only tried seeing someone myself last year, after he finally “allowed” it, and somehow his friends still blamed me.
+It feels like she’s treating my lack of experience as something shameful, like I’m broken or behind. It also feels like she’s implying that having standards is wrong, or that nobody has ever wanted me. I don’t see it that way – I just don’t want my first experiences to be with people who don’t respect me or who are clearly wrong for me.
 
-I never really wanted to marry him. I said as much back then, but my family approved of the marriage and kind of pushed it, even when I had my doubts. Now here I am, years later, feeling like a burden to everyone, like I ruined my own life and my kids’ lives.
-
-I’m severely depressed. I don’t have anyone I can really talk to in my real life. I feel invisible, like my pain doesn’t matter to anyone. I don’t even know what I’m hoping for by posting this. Maybe I just needed to say it somewhere.
+I’m not sure how to handle her comments without causing drama, but they really hurt.

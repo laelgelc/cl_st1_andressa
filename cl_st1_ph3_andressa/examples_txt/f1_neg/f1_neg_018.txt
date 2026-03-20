@@ -1,10 +1,14 @@
-Text ID: t003985
+Text ID: t004613
 Group: human
 Model: human
-File:   corpus/05_human/t1937_human.txt
+File:   corpus/05_human/t2508_human.txt
 
 Score (f1_neg): 1
-Loading words (f1_neg), N=1: f2 score: 0
-We are a social species, those of us ostracized could not gather food and had no way to defend against predators. The modern age created a new cruelty, there is no lion here to pounce on us and kill us before the damage accumulates.
+Loading words (f1_neg), N=1: f2 score: 2
+Same loneliness. 
 
-We are stuck in crisis mode, stuck in a panic state where no matter how loud we cry, no one will come. Our instincts cry “death is imminent, death is imminent” but it never comes, leaving us in emotional anguish
+Same lack of connection. 
+
+Same no one else giving a damn.
+
+Day after day after day.....

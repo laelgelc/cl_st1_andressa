@@ -1,15 +1,20 @@
-Text ID: t005521
+Text ID: t002888
 Group: human
 Model: human
-File:   corpus/05_human/t810_human.txt
+File:   corpus/05_human/t033_human.txt
 
-Score (f3_pos): 6
-Loading words (f3_pos), N=6: top, fact, year, relationship, love, problem
-(This is translated with GPT because I don’t speak English very well)
+Score (f3_pos): 3
+Loading words (f3_pos), N=3: wanna, shit, fuck
+ 
 
-I’m (20M) and today I feel lonelier than usual. Today is my birthday and it feels strange. Only one person congratulated me, and none of my family has. On top of that, I’ve been sick with the flu for 4 days, so I don’t even have the energy to do anything.  
-I’ve lived a lonely life all these years, and it’s something I’ve gotten used to. About 3 years ago, I met a girl on Discord in a community a friend created. We were friends for about a year, and then we became long-distance partners. It was a beautiful relationship that lasted a year. But the relationship ended on her side, while I still loved her and wanted to continue, since the problem wasn’t between us but something external. The breakup happened during the first week of November (right when our anniversary was coming up). It hit me really hard because with her I didn’t need anyone else to socialize with. I had friends, with whom I’m still in touch, but I haven’t had anyone else to socialize with at the level I did with her. (In my family, I was raised in a way where we don’t usually talk about our feelings.) With her, I could tell her about my day, what I did, what I wanted to do. She told me about her life, about her dreams, which also became mine, because before I met her I was totally lost, without dreams or goals, and she made me dream.
+in 2019 my place of work announced they were closing the place where i am employed. i been looking for new work ever since. cant find shit. had ANOTHr interview last monday. and Got a rejection email late last night. its my 10th interview. 10th rejection. out of nearly 300 applications. i expect the last of us will be let go b the end of this year so my time is almost up
 
-It’s been about 10 months since the breakup, and honestly the only thing I’ve missed is having that kind of connection again. I don’t miss her; I miss what I could do with her and the fact that I could open up emotionally to someone else. Also, because of how my family treated me during childhood, it’s really hard for me to open up emotionally to other people and be sociable.
+i bought 3 bottles of liquor dont know why. just dcrank one and a half of them. so yea im drunk as the fukin worthless fuck i am
 
-Sorry if this isn’t well structured, but it’s just what I’m thinking in the moment.
+i think im broken. there must be something wrong with me. otherwise i would be abl to find work wouldnt i?
+
+feeling drunk is the best ive felt since i found out im losing my job. ii dont wanna have to sober up.
+
+i hate my llife, i hate myself. i hate waking up in the morning because it means i dint die in my sleep.
+
+i still have 1 and a half bottles left. i honesly dont know if ill be able to stop myself from just drinking it all tonight and im not sure i care if i can or not

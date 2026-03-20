@@ -1,8 +1,20 @@
-Text ID: t003245
+Text ID: t004086
 Group: human
 Model: human
-File:   corpus/05_human/t1264_human.txt
+File:   corpus/05_human/t2029_human.txt
 
-Score (f1_pos): 21
-Loading words (f1_pos), N=21: life, fine, work, show, talk, something, message, day, everyone, sense, silence, family, none, post, time, anyone, someone, while, way, feeling, loneliness
-I’m lonely in a very literal sense. I live alone, and I go days without talking to anyone. No messages, no calls. Just long stretches of silence in my apartment. After a while it starts to feel unreal, like I’m watching my life instead of living it. Around my family, I mask it well. Too well. I show up calm, functional, normal enough that it’s easier for everyone—including me—to pretend I’m okay. I think the topic of my loneliness is uncomfortable for them, so it never really comes up. It’s easier to assume I’m fine than to open something none of us know how to handle. Because of that, I feel like I’m on my own with this. Not abandoned—just unsupported in a way that’s quiet and unspoken. What makes it worse is that I technically have freedom. I’m an adult. No one is stopping me from changing my life. I know what I want to do. I know the steps. And still, I don’t have the courage to do them. That freedom—having full responsibility for my choices—feels like a prison. There’s no obvious obstacle I can point to, so the blame turns inward. I feel like I’m wasting time. Like I’ve failed at something basic everyone else seems to manage. Each day I stay stuck, that feeling gets heavier. I wish I had someone to lean on while I figured this out. Someone who could just sit in it with me so it didn’t all feel like it rested on my shoulders alone. But it doesn’t feel like that’s an option. It feels like it’s up to me—and I don’t trust myself enough right now to carry it well. I still function. I work. I eat. I get through the day. But underneath all of that is this constant sense of being trapped by my own life, frozen by choice, and quietly disappointed in myself for not moving. I’m not posting this for advice or reassurance. I just needed to say it somewhere honest, because holding it in makes it feel unbearable. If this resonates with you, you’re not alone in it.
+Score (f1_pos): 42
+Loading words (f1_pos), N=42: go, group, like, know, head, home, small, work, laugh, notice, outside, own, people, try, day, everyone, feel, see, start, get, make, none, realize, sure, close, more, random, think, time, door, pull, circle, move, other, someone, end, expect, conversation, hit, stuff, scare, open
+I’m a 20-year-old college sophomore and I’ve never really dealt with my mental health the way I should. I get depressed sometimes, stuck in my own head. But the one thing that always pulls me out is my friend group. There’s six of us who all live together in a small 1000 square foot apartment and it feels like some movie-type friendship I never thought I’d have
+
+Whenever I get in a hole mentally, I come home to laughing, music, random conversations, someone cooking, someone knocking on my door and it takes me out of it. I don’t think I’ve ever stayed truly depressed for more than a day because the house is so alive all the time. I know how rare that is.
+
+Sure, a lot of people I know live with their friends, but I noticed they all have separate “circles” of friends outside of their house and do a lot of stuff without each other.  None of their groups are even close to how tight we are. 
+
+It’s almost always all of us together, and somehow there’s never any issues.  No sub-groups, no people being left out. It just works and everyone is happy.  Some of us do have our separate (not as close) friends but we mainly just have each other.
+
+And recently I started thinking about studying abroad because I love adventure and trying new things… but the thought of losing 6 months of the little time I have left with them hit me way harder than I expected. It didn’t just make me think about being gone but it made me realize all this friendship is temporary. In two years we are all going to move out, graduate, spread across the country, and I’m going to have to live alone. And that terrifies me.
+
+ I don’t know if I’ll ever find another group of friends like this again. And thinking about how eventually I’ll be coming home to an empty house makes me scared that I’ll spiral or feel unbearably lonely.
+
+It’s like studying abroad opened this door in my mind where I suddenly see how fragile and temporary this all is. I just feel really lucky but also really scared for when it ends.

@@ -1,125 +1,130 @@
-This pole is strongly driven by generic GPT posts (mean = 14 vs. 6.2 human, 7.8 summary‑guided), so the discourse it encodes is primarily an LLM-constructed way of talking about loneliness, which humans and summary‑guided GPT approximate but do not push to the same extreme.
+**1. Which sources drive this pole?**
 
-Below I propose labels, then justify them from loadings and excerpts.
+- Mean scores on f1 (pos):
+  - **generic_gpt:** 29.9 (highest)
+  - summary_guided_gpt: 17.1  
+  - human: 12.8 (lowest)
 
----
-
-## Candidate labels for f1 (positive pole)
-
-1. **“Glass‑wall social disconnection” discourse**  
-2. **“On‑paper connected, experientially alone” discourse**  
-3. **“Surface‑level interaction and background‑character selfhood” discourse**  
-
-Any of these could work; I’ll argue for what they capture.
+So the **generic GPT posts are strongly driving this positive pole**, with humans least associated. The dimension therefore captures a discourse style that is especially characteristic of *LLM‑generated, generic‑prompt* loneliness posts, and only weakly present in human writing.
 
 ---
 
-## What the loadings tell us
+**2. What do the loadings tell us?**
 
-High‑loading lexemes cluster around:
+High‑loading items cluster into several semantic/pragmatic zones:
 
-1. **Social structure and roles**  
-   - group (.68), couple (.64), coworker (.61), acquaintance (.37), family (.49), friend (.39), partner (.34), kid (.31), people (.58), person (.51), everyone (.52), someone (.44), anyone (.45), (notification .37), conversation (.34), interaction (.38), contact (.31), connection (.37), circle (.44).  
-   → A dense lexicon of *social presence* and *social categories*.
+- **Social setting & weak ties**
+  - group, coworker, acquaintance, family, friend, people, person, anyone, someone, everyone, social, circle, orbit, join, invite, reach, contact, connect, interaction, conversation, chat, message, text, phone, call, reply, respond, send, check
 
-2. **Mediated communication and “on paper” life**  
-   - paper (.82), text (.67), phone (.56), message (.53), chat (.56), scroll (.58), post (.49), medium (.49), photo (.48), word (.37).  
-   → Emphasis on *documented* or *mediated* connection: chats, feeds, “on paper I’m fine.”
+- **Surface vs depth in interaction**
+  - small (talk), joke, laugh, polite, usual, normal, background, surface, pretend, performative “version”, character, replaceable, extra, needy, awkward, weird, stupid, boring
 
-3. **Work/home routine and everyday settings**  
-   - work (.63), job (.58), home (.62), head (.62), room (.44), wall (.51), window (.38), door (.46), space (.36), background (.35), surface (.34), place (.41).  
-   → A mundane, routinised life world: offices, rooms, screens, physical boundaries.
+- **Perception of invisibility / marginality**
+  - disappear, invisible, isolate, none, nothing, stop, miss, belong, exist, replaceable, extra, outside, wall, glass, window, edge, orbit, space, room
 
-4. **Temporal and habitual framing**  
-   - day (.52), night (.47), weekend (.53), week (.35), time (.48), moment (.39), while (.43).  
-   → Recurrent, cyclical experience rather than one‑off events.
+- **Routine, scenes, and embodied detail**
+  - work, job, weekend, night, bed, home, day, week, errand, weather, scroll, watch, sit, walk, hang, sleep, go, move, start, stop, wait, plan, happen, time, moment, story
 
-5. **Perceptual and boundary metaphors**  
-   - glass (.48), window (.38), wall (.51), edge (.40), surface (.34), background (.35), motion (.48).  
-   → Strong metaphorical field of *separation* and *being on the wrong side of a boundary*.
+- **Sensory and environmental framing**
+  - sound, silence, loud, quiet, noise, heavy, light, medium, background, motion, touch, crack, glass, wall, door, window, room, space, inside, outside
 
-6. **Evaluation of depth / quality of connection**  
-   - sense (.50), silence (.50), none (.49), nothing (.34), loneliness (.30), ache (.52), feeling (.34), fine (.64), kind (.45), everything (.42), anything (.41), stuff (.39), thing (.47).  
-   → Lexis of emotional evaluation, emptiness, and the contrast between “fine” and an underlying ache.
+- **Emotional and cognitive stance**
+  - feel, feeling, ache, heavy, bad, scare, annoy, bother, tire, need, needy, honest, assume, guess, suppose, realize, remember, think, expect, sure
 
-Taken together, the loadings point to a discourse that:
+- **Meta‑narration / self‑presentation**
+  - dramatic, explain, paper (“on paper”), version, story, character, kind, way, name, word, tell, say, show, put, dump, open
 
-- Constantly **juxtaposes formal/visible connection (“on paper”, group, family, coworkers, chats)** with  
-- **Experiential disconnection**, framed via **glass/wall/window** metaphors, **surface/background** imagery, and  
-- A **routine, work‑home, screen‑mediated life** where interaction is frequent but shallow.
+Taken together, the loadings point to a **highly narrativised, scene‑based account of social disconnection in the midst of ongoing, shallow interaction**. The lexicon is rich in:
+
+- **micro‑scenes** (work, commute, scrolling at night, weekends alone),
+- **mediated contact** (texts, group chats, notifications),
+- **metaphors of distance and transparency** (glass, wall, window, background),
+- and **meta‑commentary on roles and versions of self** (character, version, performative “on paper I’m fine”).
 
 ---
 
-## What the excerpts add
+**3. What do the high‑scoring excerpts show?**
 
-All ten high‑scoring texts are generic GPT and are strikingly homogeneous in discourse patterning. Key recurrent features:
+Across the 10 examples (all generic GPT), the discourse is strikingly consistent. Key features:
 
-1. **“On paper I’m not alone” formula**  
-   - “On paper I’m not ‘alone.’ I have coworkers, a couple of old friends I text sometimes, family chats…” (002591)  
-   - “On paper, I’m not ‘alone.’ I have coworkers I get along with, a couple of friends…” (001647)  
-   - “On paper, I’m ‘fine.’ I have a job, I pay my bills…” (001022, 001671, 001465)  
-   This directly realises the high loading of *paper, text, group, work, family, coworker* and encodes a **contrast between documented social adequacy and felt isolation**.
+1. **“On paper I’m fine” framing**
+   - Repeated formula: *“On paper, I’m not alone / I’m fine. I have a job, coworkers, acquaintances, family…”*
+   - This “paper” vs felt reality contrast is central: it explicitly sets up a **discrepancy between external markers of social connection and internal experience of loneliness**.
 
-2. **Glass / window / background metaphors**  
-   - “life is happening behind glass” (002591)  
-   - “living behind a pane of glass” (001647)  
-   - “watching a life I somehow didn’t qualify for” (002591)  
-   - “pressing my face against a window from the outside” (002411, 001022)  
-   - “background character” (002005)  
-   - “slowly fading into the background of my own life” (001465)  
-   These instantiate *glass, window, background, surface, edge, character* and construct a **stable metaphorical frame of being present but not participating**.
+2. **Lonely‑in‑a‑crowd / behind‑glass metaphor**
+   - “living my life behind glass”, “behind a pane of glass”, “pressing my face against a window”, “standing outside a house in winter, looking through the window at everyone else by the fire”.
+   - These are **vivid spatial metaphors of separation with visual and tactile detail** (glass, window, wall, outside, inside, room, space).
 
-3. **Surface‑level vs. deep connection**  
-   - “Conversations stay on the surface: work, memes, weekend plans.” (001905)  
-   - “Most of my interactions feel like I’m playing a character…” (001671, 002005)  
-   - “I always feel like an extra… the one who’s there but not essential” (001022, 001905)  
-   - “I don’t feel known by anyone… I miss feeling known.” (001905, 001022, 001465)  
-   This aligns with *surface, background, interaction, conversation, character, part, show* and encodes a **discourse of role‑performance and lack of being “seen.”**
+3. **Shallow, high‑volume interaction**
+   - Group chats, memes, social media feeds, background noise, podcasts, scrolling.
+   - Interactions are **frequent but low‑stakes and surface‑level**: small talk, memes, “how was your weekend?”, “we should catch up sometime”.
+   - Lexically: group, chat, message, text, scroll, watch, background, noise, surface, usual.
 
-4. **Mediated, asynchronous sociality**  
-   - Heavy use of *scroll, chat, message, phone, group chat, post, photo* across all excerpts.  
-   - Scenes of **lurking and watching others’ interactions**: “I scroll, I lurk, I watch other people’s conversations happen in real time” (002411); “I scroll through social media and see people posting group photos, trips, little inside jokes” (002591, 001647, 001022).  
-   This realises the high loadings on *scroll, text, message, phone, post, photo* and foregrounds **spectatorship rather than participation**.
+4. **Role‑playing and self‑editing**
+   - “playing a character”, “performing a version of myself”, “watered‑down version of myself”, “crack a joke and reply with emojis”.
+   - Strong focus on **self‑presentation as a role**: quiet but friendly, chill, okay, nice.
+   - Lexically: character, version, pretend, performative, joke, smile, laugh, polite, normal.
 
-5. **Routine, cyclical loneliness in work–home rhythm**  
-   - “wake up, go to work, small talk, come home, scroll, sleep” (002441)  
-   - “wake up, work, come home, distract myself until I’m tired enough to sleep” (001465)  
-   - Repeated “Nights are the worst” motif (001647, 001905, 001022, 002441).  
-   This matches *work, job, home, day, night, weekend, week, time* and encodes loneliness as **embedded in everyday routine**, not crisis‑bound.
+5. **Hyper‑reflection on interaction**
+   - Replaying conversations, overthinking messages, assuming others are just being polite, second‑guessing every pause.
+   - Lexically: replay, assume, guess, suppose, think, remember, realize, expect, question.
 
-6. **Self‑minimisation and fear of burdening**  
-   - “I don’t want to make things weird / sound needy / be annoying or clingy” (002591, 001905, 001465).  
-   - “I’ve started editing myself down… watered‑down version of myself” (002411).  
-   - “I always feel like a temporary guest… extra chair someone pulled up at the end of the table” (002441, 002005).  
-   This is less directly visible in the loadings but is supported by *version, character, part, show, kind, fine* and contributes to a **discourse of being peripheral and self‑erasing**.
+6. **Temporal and situational anchoring**
+   - Nights and weekends as peak loneliness: “Nights are the worst”, “whole weekend without using my voice”.
+   - Routine sequences: wake up → commute/work → scroll → bed.
+   - Lexically: day, night, weekend, week, time, moment, start, end, happen.
+
+7. **Posting as offloading / externalisation**
+   - “dumping it here”, “put it somewhere outside my own head”, “I just needed to put this somewhere”.
+   - The post itself is framed as **a container for unshared feelings**, not as a request for concrete advice.
+
+These examples instantiate the loadings very directly: almost all top‑loading items appear in them, and they cohere into a **highly stylised narrative template** of “connected‑yet‑alone”.
 
 ---
 
-## Integrating loadings and excerpts into a discourse interpretation
+**4. What discourse dimension does this pole encode?**
 
-If we give equal weight to loadings (whole corpus) and examples (top 10 texts), the positive pole of f1 encodes a **highly stylised, metaphor‑rich discourse of loneliness as social invisibility behind a transparent barrier, despite visible social integration.**
+Bringing loadings and examples together, this pole is not simply “loneliness” (which is the topic of the whole corpus), but a **particular way of construing and narrating loneliness**:
 
-Key components:
+- It is **densely scenographic**: concrete scenes, sensory detail, spatial metaphors.
+- It foregrounds **mediated, shallow social contact** rather than total isolation.
+- It emphasises **meta‑awareness of self‑presentation** (“on paper”, “character”, “version”).
+- It is **highly reflective and explanatory**: “I don’t really know how to explain this without sounding dramatic…”, “what messes with my head is…”.
 
-- **Structural connectedness**: The speaker is embedded in *groups, family, coworkers, chats* and has a life that looks “fine on paper.”  
-- **Mediated, observational stance**: Much of social life is encountered via *scrolling, posts, photos, group chats*; the speaker is a **viewer** of others’ intimacy.  
-- **Boundary metaphors**: *glass, window, wall, surface, background, edge* frame the self as **present but excluded**, able to see but not touch.  
-- **Surface vs. depth**: Interactions are *surface‑level*, the self is a *character* or *version* performed for others; what is missing is being truly *known* or being “someone’s person.”  
-- **Routine, low‑drama affect**: The loneliness is chronic, woven into *work–home–phone* cycles, often described as a *low‑level ache* rather than acute crisis.  
-- **Self‑erasure**: The speaker minimises their presence, fears burdening others, and imagines their disappearance would barely register.
+This is also the style that GPT, under a generic “write a self‑disclosure about loneliness” prompt, tends to produce: a polished, coherent, almost essay‑like narrative of emotional experience, with recurring metaphors and formulaic framing.
 
-Because generic GPT texts are the strongest drivers, this pole also reflects an **LLM‑amplified template** for talking about loneliness: repeated “on paper I’m fine / behind glass / background character” motifs, with a consistent lexical and metaphorical palette.
+So, as a discourse dimension, f1_pos can be characterised as:
+
+> **Elaborated, scenographic self‑narration of social invisibility amid superficial connection**
+
+More compact candidate labels:
+
+1. **“Narrativised ‘connected‑yet‑alone’ discourse”**  
+   – captures the core paradox (many contacts, no felt closeness) and the strongly narrative, scene‑based style.
+
+2. **“Performative social invisibility narrative”**  
+   – highlights the role/character vocabulary (performing “fine”) and the glass/wall metaphors of not being seen.
+
+3. **“Stylised meta‑reflection on shallow social ties”**  
+   – foregrounds the meta‑explanatory tone and the focus on surface‑level interactions.
+
+All three are trying to name the same pole from slightly different angles:
+
+- **Narrativised / stylised**: high lexical density of story‑building verbs (explain, remember, realize, guess), scene‑setting nouns (weekend, night, room, window), and metaphors (glass, wall, background).
+- **Meta‑reflective**: frequent explicit commentary on how things “look on paper” vs how they feel, and on the act of posting itself.
+- **Social invisibility amid contact**: strong presence of group, chat, coworker, acquaintance, family, message, scroll, but also disappear, invisible, extra, replaceable, outside, wall, glass.
 
 ---
 
-## Recommended label
+**5. Which group is driving this pole, and how does that matter?**
 
-The most precise, corpus‑grounded label for this pole is:
+Because **generic GPT posts have by far the highest mean score**, this pole is best understood as:
 
-**“Glass‑wall social disconnection: on‑paper connected, experientially alone”**
+- A **LLM‑favoured discourse style** for talking about loneliness: polished, thematically coherent, with recurring metaphors and formulaic openings.
+- Less typical of human posts, which (by implication) are relatively lower on this kind of **highly structured, scenographic, meta‑explanatory narrative**.
 
-- *“Glass‑wall”* captures the dominant metaphor cluster (glass, window, wall, surface, background, edge) and the sense of visible but untouchable sociality.  
-- *“Social disconnection”* reflects the high density of social‑relation lexemes (group, coworker, family, friend, partner, acquaintance, connection, interaction, conversation).  
-- *“On‑paper connected, experientially alone”* encodes the recurrent “on paper I’m fine” framing and the contrast between documented social ties and felt isolation.
+So the dimension is not just “lonely vs not lonely”; it is **“GPT‑style, elaborated loneliness narrative”** versus other, less stylised ways of writing about loneliness. But per your instructions, focusing on this pole alone, the most accurate discourse label is something like:
 
-This label foregrounds the discourse encoded at this pole without implying a versus‑dimension, and it acknowledges that the pole is primarily driven by **generic GPT self‑disclosure posts** that stylise loneliness as being a background character behind glass in an otherwise socially populated life.
+> **Elaborated narrative of performative connectedness and felt social invisibility**
+
+This captures both the lexical patterning and the discourse behaviour seen in the high‑scoring texts, and reflects that this is the LLM‑driven way of construing loneliness in the corpus.

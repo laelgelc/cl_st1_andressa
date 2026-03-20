@@ -1,20 +1,16 @@
-Text ID: t006996
+Text ID: t008205
 Group: summary_guided_gpt
 Model: gpt
-File:   corpus/05_summary_guided_gpt/t2079_gpt.txt
+File:   corpus/05_summary_guided_gpt/t639_gpt.txt
 
-Score (f1_pos): 26
-Loading words (f1_pos), N=26: life, head, answer, people, talk, phone, something, message, day, everyone, silence, glass, time, thing, door, anyone, kind, someone, end, everything, way, friend, window, connection, nothing, loneliness
-I feel completely defeated with this whole “trying to socialize” thing. It’s not even just loneliness anymore, it feels like some kind of complex that’s wrapped itself around everything I do and think. It’s not just being sad that I’m alone. It’s feeling like I’m fundamentally broken in a way that can’t be fixed.
+Score (f1_pos): 53
+Loading words (f1_pos), N=53: text, go, like, scroll, fine, know, life, chat, couple, say, message, laugh, ask, outside, people, talk, try, most, silence, something, day, feel, respond, start, bother, person, remember, close, keep, more, reach, constant, look, first, time, other, someone, real, reply, tell, catch, end, conversation, everything, busy, call, delete, week, okay, nothing, pretend, open, speak
+I haven’t properly spoken to my best friend in over two months now. The last real conversation we had ended in a fight. After that, it was just a couple of “happy festival” messages back and forth, and then… nothing. Complete silence.
 
-I have no friends. I don’t talk to anyone in real life. All I have is my phone, and it feels like this tiny window where I keep pressing my face against the glass and nobody ever looks back. Every time I try to reach out to someone, it ends the same way: silence, or rejection, or just being ignored until I get the message.
+They were always the “busy” one, the kind of person who replied late but eventually did. Now it’s different. Sometimes they respond after days, sometimes not at all. They don’t call, they don’t text first, and I can’t tell if I’m being ignored or if they just don’t even bother opening WhatsApp anymore. I keep wondering if they’re just quietly done with me and don’t have the courage to say it.
 
-Recently I messaged someone and they just didn’t reply for a day. Rationally, I know people get busy, but the way it hit me was like, “There it is again. I’m nothing. I’m not worth even a quick answer.” I got so angry and hurt that I just blocked them. It felt like the only way to stop feeling like I was begging for attention. I’d rather slam the door myself than sit there waiting like an idiot.
+On the outside, I’m acting like everything is fine. I laugh, I talk to other people, I go through my routine like I’m okay. But I’m not. It feels like there’s this constant weight in my chest. Every time I open WhatsApp, I end up clicking on our chat. I start typing something – “Hey, how are you?” or “Can we talk?” – and then I scroll up, reread our last conversation, remember how it ended, and just delete everything. Then I close the app and pretend I never tried.
 
-That’s kind of my pattern now. Blocking, pushing away, getting aggressive in my head. It’s the only way I feel any control at all. If I don’t do that, I just feel like an abandoned building everyone walks past without even noticing. That’s honestly how I see myself: something left behind, decaying, not worth entering, not worth fixing.
+I don’t know if I’m overthinking, or if this is just what it looks like when someone slowly lets you go. It hurts that someone who once knew almost everything about me can now go days, weeks, months without wanting to talk. I keep asking myself if I should reach out one more time or just accept that maybe they don’t want me in their life anymore.
 
-People talk about self-improvement, social skills, “putting yourself out there.” I don’t believe in any of that anymore, at least not for me. I feel like my social skills are beyond repair. I don’t want to “grow” or “learn” or “try again.” I just wish the need for connection would disappear completely so it would stop hurting. If I didn’t want anyone, then being unwanted wouldn’t matter.
-
-Does anyone else feel like this? Like an abandoned building too? Like your only defense is to shut doors, block people, act like you don’t care, just so you don’t have to feel that sting of being ignored again?
-
-I even used AI to help me write this because I couldn’t figure out how to say it on my own.
+I feel really alone in this. I’m surrounded by people, but the one person I want to talk to the most feels out of reach, like they’re already gone, and I’m the only one who hasn’t caught up to that reality yet.

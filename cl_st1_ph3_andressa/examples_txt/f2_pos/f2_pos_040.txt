@@ -1,10 +1,18 @@
-Text ID: t001094
+Text ID: t002436
 Group: generic_gpt
 Model: gpt
-File:   corpus/05_generic_gpt/t1904_gpt.txt
+File:   corpus/05_generic_gpt/t580_gpt.txt
 
-Score (f2_pos): 1
-Loading words (f2_pos), N=1: reason
-I’ve been feeling like I’m slowly fading out of everyone’s life, including my own. I go to work, come home, scroll, sleep. The days blur together and I’m not really “in” any of them. I have acquaintances, people I joke with, but no one I’d call if something actually went wrong. I’m always the extra person in a group, never the reason it exists.  
+Score (f2_pos): 10
+Loading words (f2_pos), N=10: year, kind, want, different, mean, understand, friend, spend, whole, care
+I don’t really know how to talk about this in real life, so I’m dumping it here.
 
-What messes with my head is how normal I probably look from the outside. I show up, I smile, I talk. Then I go home and realize no one really knows me, and I’m not sure I know myself outside of being alone.
+I’m at this weird point where my life looks “fine” from the outside, but I feel like a ghost moving through it. I have coworkers I chat with, a family I text sometimes, a couple of old friends I send memes to. But none of it feels like connection. It’s like I’m constantly in “small talk mode,” even with people I’ve known for years.
+
+I can’t remember the last time I felt genuinely understood by someone. Not “they listened to me talk,” but that feeling of, “oh, they actually get what I mean.” I always end up editing myself mid-sentence, making my thoughts shorter, lighter, less intense, so I don’t come off as “too much.” And then I go home feeling like I spent the whole day pretending to be a watered-down version of myself.
+
+I try to reach out sometimes, but it always feels like I’m intruding. I’ll type a message, stare at it, then delete it because I convince myself the other person is just being polite when they say we should talk more. When I do send it, I overanalyze every minute they don’t respond, then feel stupid for caring so much.
+
+The worst part is the evenings. That moment when the distractions run out and it’s just me, the quiet, and this heavy sense that if I disappeared from everyone’s life, their routines wouldn’t really change. Maybe they’d be sad for a bit, but nothing would actually be different for them in the long run. For me, it would be everything. For them, it would be… a passing thought.
+
+I don’t even know what I’m hoping for by posting this. I guess I just wanted to put into words that specific kind of loneliness where you’re not technically alone, but you still feel completely unreachable.

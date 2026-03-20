@@ -1,15 +1,29 @@
-Text ID: t005521
+Text ID: t003399
 Group: human
 Model: human
-File:   corpus/05_human/t810_human.txt
+File:   corpus/05_human/t1404_human.txt
 
-Score (f1_pos): 22
-Loading words (f1_pos), N=22: life, people, talk, something, day, person, family, none, thing, anyone, kind, someone, end, while, anything, way, friend, moment, connection, week, feeling, partner
-(This is translated with GPT because I don’t speak English very well)
+Score (f1_pos): 44
+Loading words (f1_pos), N=44: go, group, like, know, chat, say, small, show, ask, part, people, talk, try, join, photo, something, everyone, feel, initiate, plan, see, start, person, make, realize, close, more, invite, look, think, version, other, someone, tell, everything, guess, miss, fix, hang, surface, wait, easy, need, speak
+I'm trying to solve my version of loneliness, and that has led to a small team of 3 interviewing 150+ people over the last few months. Thought I'd share some data of what we found
 
-I’m (20M) and today I feel lonelier than usual. Today is my birthday and it feels strange. Only one person congratulated me, and none of my family has. On top of that, I’ve been sick with the flu for 4 days, so I don’t even have the energy to do anything.  
-I’ve lived a lonely life all these years, and it’s something I’ve gotten used to. About 3 years ago, I met a girl on Discord in a community a friend created. We were friends for about a year, and then we became long-distance partners. It was a beautiful relationship that lasted a year. But the relationship ended on her side, while I still loved her and wanted to continue, since the problem wasn’t between us but something external. The breakup happened during the first week of November (right when our anniversary was coming up). It hit me really hard because with her I didn’t need anyone else to socialize with. I had friends, with whom I’m still in touch, but I haven’t had anyone else to socialize with at the level I did with her. (In my family, I was raised in a way where we don’t usually talk about our feelings.) With her, I could tell her about my day, what I did, what I wanted to do. She told me about her life, about her dreams, which also became mine, because before I met her I was totally lost, without dreams or goals, and she made me dream.
+To preface, a UK Gov report showed that **47%** of university students felt lonely **often** and **43%** worry they would be judged if they told someone they felt lonely, so our interviews never directly mentioned loneliness.
 
-It’s been about 10 months since the breakup, and honestly the only thing I’ve missed is having that kind of connection again. I don’t miss her; I miss what I could do with her and the fact that I could open up emotionally to someone else. Also, because of how my family treated me during childhood, it’s really hard for me to open up emotionally to other people and be sociable.
+Some not-so-fun facts:
 
-Sorry if this isn’t well structured, but it’s just what I’m thinking in the moment.
+* The average person (mainly Gen Zs) we spoke to had **400+ online mutual followers**, yet only spoke to a handful more than once
+* **86%** of people said they'd wait to be invited rather than initiating plans
+* **75%** said they’d join an activity if they saw a friend was interested or already going
+* **93%** has tried something new because a friend was involved
+
+I know that everyone has had different experiences, but I've found that my loneliness comes from "knowing" too many people and being too close to too few. Basically I'm horrible at converting surface level friendships into deeper friendships. Alongside sucking at inviting people out and overthinking everything, a huge part of me especially hates looking desperate and risking rejection. And so, like those 86% of people we talked to, I'd just… wait.
+
+When we realized how common this pattern was, we've started to build an app to hopefully make it easier. The idea is that you **share what you'd like to do**:
+
+*Checking out the xmas market/ Trying out this new café/ Learning Tennis*
+
+And if a friend is genuinely interested in joining you, they'll be automatically added into a group chat (other attendees are hidden until you join). Then you'll go and plan the event, do it, and have a shared photo album to cherish it. I'm hoping that the lack of a fixed date and not needing to personally DM someone/ ask in a group chat would help me starting hanging out with people more. But truthfully, I have no idea AHAHAHA We're only planning to launch beta tests in Jan next year
+
+So I guess I’m wondering:  
+**Do you relate to any of this?**  
+**Would something like this genuinely help you, or is there something missing?**

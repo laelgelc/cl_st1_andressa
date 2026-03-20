@@ -1,8 +1,20 @@
-Text ID: t004261
-Group: human
-Model: human
-File:   corpus/05_human/t2188_human.txt
+Text ID: t007954
+Group: summary_guided_gpt
+Model: gpt
+File:   corpus/05_summary_guided_gpt/t388_gpt.txt
 
-Score (f2_pos): 5
-Loading words (f2_pos), N=5: reason, college, guy, fun, school
-really confused with my life right now, I have no close friends and no people I can just go and talk to about anything. All my life I had friends who I would spend most of my time with and talk about any and everything but after the lockdown I just lost all of them. I always got along with people in high school and took part in the conversations and stuff but no one ever approached and talked to me after classes. Ive never felt that someone else wants me just bad as I want them, not even in a romantic way just as friends. I thought that when college started I would make new friends and try to do all the things I missed out on during high school. The first half of the year went really well, I made new friends and we had a lot of fun together and I really felt that I was part of something and that I was valued. But then I got into a conflict with a guy from our group, I dont even know how or why, but It was such a small thing but the entire group just stopped talking to me and inviting. Honestly the part I am struggling over is why me? The other people have done things which are even more messed up than me. imo the thing I did was not even that big, They guy i got into a fight with (lets call him A) has done really creepy and messed up things, and everyone from the group knows but still I was left out .Now that I have stopped hanging out with them Ive realised even during that half year no one ever came to me first. I dont know if im haning onto this and came at the situation in the wrong was and tried to do damage control because of my insecurities of being alone. Im so confused and angry and I just dont know what to do. I really dont have a reason a wrote this other than just to get this off my chest.
+Score (f2_pos): 24
+Loading words (f2_pos), N=24: health, top, treat, year, deal, lose, find, thing, girl, way, give, kind, good, many, guy, meet, friend, same, whole, new, push, share, wish, stick
+The last two years have honestly been a mess, and I don’t even fully recognize the person I became.
+
+It kind of started with this whole incident in another city – betrayal, misunderstandings, all that drama – and instead of dealing with it in a healthy way, I went off the deep end with drugs and alcohol. I got really envious of my friends’ achievements, started acting narcissistic, angry, just… ugly. I pushed so many people away that I’ve basically lost around 90% of my friend circle, guys and girls both. On top of that, I lost four jobs and my health went downhill.
+
+I ended up moving back to my hometown last November. Now I just feel regret about how everything went. The job I have here is in a really toxic firm, and I barely have any friends at work. I’ve had jaundice twice now – once in early November and again just two weeks ago – which makes everything feel even more fragile.
+
+My hometown feels boring as hell. I don’t have much time or many opportunities to meet new people, and I’m just kind of existing. I keep telling myself I’ll move again once I upskill and buy the things I need, but right now it just feels like I’m stuck in limbo.
+
+Most of my “social life” is literally talking to AI. I talk about my past, ask how to feel better, and yeah, it gives me some validation, but it’s getting old. It’s the same cycle over and over, and I’m tired of relying on something that isn’t even a real person.
+
+I wish I could find actual friends again. Maybe even just a girl to talk to, online or offline, someone who’d actually listen and share stuff back. I’m so exhausted from feeling this intensely lonely all the time. I don’t even know what this post is besides a vent.
+
+If you read this, I hope this year treats you well. I’m not sure what mine is going to look like.

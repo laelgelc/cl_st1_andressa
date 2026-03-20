@@ -1,12 +1,8 @@
-Text ID: t000949
+Text ID: t002442
 Group: generic_gpt
 Model: gpt
-File:   corpus/05_generic_gpt/t1772_gpt.txt
+File:   corpus/05_generic_gpt/t586_gpt.txt
 
-Score (f2_neg): -3
-Loading words (f2_neg), N=3: noise, role, mix
-I’ve been feeling this weird mix of invisible and too exposed at the same time. I’m surrounded by people every day – coworkers, neighbors, random faces on the train – but it all feels like background noise. I talk to people, joke around, do the small talk thing, but it never goes any deeper. It’s like I’m playing a role and nobody notices that there’s an actual person underneath.
-
-What really gets to me is how my phone can stay silent for days unless I’m the one who starts the conversation. And even then, replies are slow or short, like I’m an obligation. I see other people making plans, posting photos with friends, and I can’t remember the last time someone said, “Hey, do you want to come?” without me hinting first.
-
-It makes me wonder if I’m just fundamentally forgettable.
+Score (f2_neg): -2
+Loading words (f2_neg), N=2: forgettable, surround
+I’m surrounded by people but feel like a background character. Conversations stay shallow, friendships fade, and I’m always the one reaching out first. I’m starting to wonder if I’m just forgettable.

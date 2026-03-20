@@ -1,8 +1,8 @@
-Text ID: t000692
+Text ID: t002497
 Group: generic_gpt
 Model: gpt
-File:   corpus/05_generic_gpt/t1539_gpt.txt
+File:   corpus/05_generic_gpt/t641_gpt.txt
 
-Score (f2_neg): -3
-Loading words (f2_neg), N=3: script, gap, role
-I’m surrounded by people but feel completely disconnected. Conversations feel scripted, like I’m playing a role instead of being myself. I crave real closeness but have no idea how to bridge the gap, so I just stay quiet and drift further away.
+Score (f2_neg): -2
+Loading words (f2_neg), N=2: forgettable, surround
+I’m surrounded by people but feel like background noise. Conversations stay shallow, friendships fade, and I’m starting to wonder if I’m just fundamentally forgettable.

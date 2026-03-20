@@ -1,8 +1,8 @@
-Text ID: t003156
-Group: human
-Model: human
-File:   corpus/05_human/t1183_human.txt
+Text ID: t008503
+Group: summary_guided_gpt
+Model: gpt
+File:   corpus/05_summary_guided_gpt/t937_gpt.txt
 
-Score (f2_neg): -1
-Loading words (f2_neg), N=1: emptiness
-ALmost 50; I have been thinking about lately, I've reached the age where i feel everybody in my circle thinks i already made. But deep inside, i know I'm struggling and there's  a lot of emptiness. I don't know how to express it or even where and when to start. When i do long drives for work, listening to music  keeps me awake en route but sometimes I feel it's nice to talk to someone.  Friends or family members are busy and they won't even entertain. so ending up listening to the same playlist. I don't know, it just feels lonely..  
+Score (f2_neg): 1
+Loading words (f2_neg), N=1: f3 score: 0
+Sometimes I stare at the moon and wonder if it ever feels as lonely as we humans do.

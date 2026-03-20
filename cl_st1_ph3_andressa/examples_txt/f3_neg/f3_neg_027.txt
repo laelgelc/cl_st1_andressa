@@ -1,8 +1,12 @@
-Text ID: t007319
+Text ID: t007538
 Group: summary_guided_gpt
 Model: gpt
-File:   corpus/05_summary_guided_gpt/t2372_gpt.txt
+File:   corpus/05_summary_guided_gpt/t2571_gpt.txt
 
-Score (f3_neg): -1
-Loading words (f3_neg), N=1: notification
-I feel so lonely lately that my phone is basically just a clock. Days go by without any real notifications or messages. It sounds pathetic, but I keep wishing there was an app that would send fake social media notifications and messages throughout the day, just so I could feel like I’m part of something. Even if it was all simulated, I think those little artificial “dopamine hits” might make this crushing emptiness a bit more bearable. I hate that I’m desperate enough to want that.
+Score (f3_neg): -3
+Loading words (f3_neg), N=3: exhaust, perform, worry
+I honestly regret ever trying to make friends. The more I socialize, the more I realize how exhausting and overwhelming it is for me. It feels like every interaction demands so much energy and attention, and I’m constantly worrying about saying or doing the “right” thing for people who care about me.
+
+I think my true self is just a loner. I’ve kind of accepted that I might lose whatever social skills I have, and I’m weirdly okay with that. Being around others takes up too much mental space. Their presence sits in my head, disrupting my thoughts, pulling me away from my own ideas and plans. I can’t think clearly when I’m always trying to manage relationships.
+
+All I really want is peace. I just want to be alone, talking to myself in my own head, without the pressure of interacting, responding, performing. It feels like the only way I can actually move forward is by disconnecting and letting myself exist quietly, without anyone else’s expectations.

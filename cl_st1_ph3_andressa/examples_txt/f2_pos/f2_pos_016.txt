@@ -1,8 +1,22 @@
-Text ID: t003882
-Group: human
-Model: human
-File:   corpus/05_human/t1843_human.txt
+Text ID: t008315
+Group: summary_guided_gpt
+Model: gpt
+File:   corpus/05_summary_guided_gpt/t749_gpt.txt
 
-Score (f2_pos): 5
-Loading words (f2_pos), N=5: man, heart, fun, girl, woman
-I’ve always been introverted and loved my solitude. genuinely love spending time in bed and love being single. grew up always having friends and bfs on and off. the past couple years i busied myself with the wrong crowd and began abusing drugs and alcohol, all i think as a way to mask my shyness. when im intoxicated i become normal and less embarrassed and shy like i am naturally. i decided to stop that lifestyle last year, and now have quite literally no social life. the people i used to hang with stopped reaching out when i told them i no longer want to do drugs. (I still drink small amounts.) i am a 24 year old woman and i spend my nights and all my weekends alone wishing i had friends that wanted to go out and have fun like i used to. I am attractive, yet no man ever approaches me in public and on dating apps not a single person has ever actually asked me on a date. I am a gym rat, love art and reading so i fill my time with these hobbies but it doesn’t fill the deep hole in my heart of wanting community and connection with other humans. I don’t talk to a single person outside of work. I had to delete instagram because seeing all my “friends” continuing to hang out all the time hurts my self esteem so much. is it really because i told them i no longer engage in drugs or is it because i am genuinely not fun or desirable to be around? im starting to become so depressed living a life with no one. I consider going to bars alone hoping someone will approach me. Idk maybe i have autism im just so sad and wish people liked me and wanted to hangout with me. watching girls on hbo wishing i had that social of a life lol.
+Score (f2_pos): 22
+Loading words (f2_pos), N=22: year, help, support, grow, believe, date, man, give, house, kind, want, happy, break, meet, spend, whole, hard, care, leave, push, kid, big
+I’m 31 now and it feels like my whole adult life has just been one long lesson in being used and then discarded.
+
+I met my ex-husband when I was 21. We got married, had a child, and for six years I stayed even though he cheated on me over and over. I kept trying to make it work for our son, kept hoping he’d change, but in the end he left us. He wants nothing to do with our child now. Watching my son grow up without a dad who even cares to know him is its own kind of heartbreak.
+
+After a year on my own, I thought maybe I was ready to try again. I started dating someone long-distance. Eventually I moved to be with him, about two hours away from my family. It felt like a big risk, but I really believed in us.
+
+We were together for 3.5 years. Between my son and his two kids, we had three children in the house most of the time. I was the one mostly supporting us. When he was unemployed and depressed, I spent hours helping him apply for jobs, redoing his resume, pushing him to not give up. He finally got a job he liked, then a promotion to manager, and even a company truck. I was genuinely happy for him.
+
+And then he broke up with me.
+
+It’s hard not to see a pattern: both men left right after they “got everything” they seemed to want—stability, support, someone to carry them through the hard parts. Once life started looking up for them, I was suddenly no longer needed.
+
+Now I’m here, two hours from my family, feeling like most of my light is just…gone. I feel empty and stupid for trusting again. I feel like I poured myself into other people until there was nothing left for me, and now I’m alone with a child to raise and no one to lean on.
+
+I don’t even know what I’m looking for by posting this. I just feel so used and so alone.

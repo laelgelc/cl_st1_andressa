@@ -1,12 +1,8 @@
-Text ID: t006399
-Group: summary_guided_gpt
-Model: gpt
-File:   corpus/05_summary_guided_gpt/t1536_gpt.txt
+Text ID: t004191
+Group: human
+Model: human
+File:   corpus/05_human/t2124_human.txt
 
-Score (f2_neg): -2
-Loading words (f2_neg), N=2: noise, role
-It’s hard to put into words how empty I feel most of the time. It’s not just being alone, it’s like there’s this hollow space where a sense of “me” should be. I always feel like I quietly fade out of people’s lives, like I’m forgettable background noise. There’s nothing special or important about me that anyone seems to notice or care about.
-
-What hurts is that even when people I care about hurt me, I still love them. I keep taking it, because I don’t want them to feel this kind of loneliness. It feels like my role is to absorb the pain.
-
-To anyone else feeling this way: I’m sending you love and strength.
+Score (f2_neg): 1
+Loading words (f2_neg), N=1: f3 score: 0
+Name one valid solution. There aren't any. Loneliness is only solved by connection. Everything else is a distraction to it.

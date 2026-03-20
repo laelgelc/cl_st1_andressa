@@ -1,12 +1,8 @@
-Text ID: t006561
-Group: summary_guided_gpt
-Model: gpt
-File:   corpus/05_summary_guided_gpt/t1683_gpt.txt
+Text ID: t003877
+Group: human
+Model: human
+File:   corpus/05_human/t1839_human.txt
 
-Score (f2_pos): 5
-Loading words (f2_pos), N=5: mom, parent, house, experience, school
-I’m 24 and I feel like my whole life has been lived in a bubble I never chose. My parents were so overprotective that I basically grew up without friends. No sleepovers, no hanging out after school, barely any contact with people my age. Now I’m an adult with no real-life friendship experience and almost no social skills, and it feels like I was never allowed to even try.
-
-I still live at home because my parents are old and constantly sick. The house feels more like a hospital than a home. My mom unloads all her worries and problems on me, and every time I try to think about leaving or changing something, she shuts it down. I’m starting to resent her for it, but then I feel guilty because they did give me food, shelter, all the “basics.”
-
-My hobbies, my ambitions, everything I used to care about has just…faded. I’m ashamed of where I live, ashamed of how behind I am, and I’m so, so lonely. I don’t want advice, I just needed to say this somewhere.
+Score (f2_pos): 22
+Loading words (f2_pos), N=22: depression, parent, year, anxiety, able, similar, school, date, man, thing, girl, way, house, kind, only, break, guy, meet, avoid, friend, month, leave
+Hello. I really don't know what exactly I'm on here for. I go expelled from my "regular" brick school when I was in sixth grade. I've been doing online school since then. I have pretty intense social anxiety and only two "friends". I haven't seen them in person in years. They don't live super far away. They are never really interested in talking to me and they've done some pretty iffy things before. I'm gay btw, which is relevant. One friend dated this guy who would call me the f slur and tell me to KMS on numerous occasions and she was there for each of them. She dated him for like two years, there break up was unrelated. Another instance we were talking to a guy in our grade who repeatedly called me similar stuff and threatened to set me on fire. She only "denounced" him when he left. Like a week later she posted the two of them and another girl huddled together smiling as friends. The other friend once laughed when some kind of friend of hers was being very actively homophobic and some other minor "micro aggressions". I am really lonely, I've had off and on depression and anxiety for like three years, had to repeat my junior year because I wasn't doing my school work during my depression. Again I just came on here to vent on a whim. I am scared I'll never meet a guy or have any real social life. I usually only leave my house like once a month, with my parents. I don't have a driver's license. When I'm around people ik (my parents and siblings) I'm usually a confident person and when I'm alone I like think of myself as awesome and confident, able to stand up for myself, but when I'm on a walk by myself (which my therapist told me I should do) I get really nervous about running into someone, especially men, my head is always on a swivel and I turn around if I see someone coming my way, I've walked two blocks out of my way just to avoid a couple walking their dog two last week. I don't really know what you guys could say but here goes.

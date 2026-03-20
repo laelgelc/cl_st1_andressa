@@ -1,8 +1,8 @@
-Text ID: t003175
+Text ID: t003971
 Group: human
 Model: human
-File:   corpus/05_human/t1200_human.txt
+File:   corpus/05_human/t1924_human.txt
 
 Score (f1_neg): 1
-Loading words (f1_neg), N=1: f2 score: 0
-fresh love and romance would be a perfect way to enjoy that holiday
+Loading words (f1_neg), N=1: f2 score: 1
+To be forgotten means to be isolated, there is just no signal neither from me to another nor from another towards me.

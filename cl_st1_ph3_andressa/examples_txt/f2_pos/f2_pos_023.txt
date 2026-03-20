@@ -1,12 +1,8 @@
-Text ID: t007441
-Group: summary_guided_gpt
-Model: gpt
-File:   corpus/05_summary_guided_gpt/t2483_gpt.txt
+Text ID: t004502
+Group: human
+Model: human
+File:   corpus/05_human/t2407_human.txt
 
-Score (f2_pos): 5
-Loading words (f2_pos), N=5: man, mom, today, girlfriend, fun
-I found this old plushie today, the one I hid when I was 13 so no one would see it and make fun of me. As soon as I picked it up, it was like something broke open inside me. I’m more than 10 years older now, and all I could think was how that kid never grew into anything he hoped he’d be.
-
-Now I just feel like some old, ugly man who’s never even had a girlfriend, like I missed every chance I was supposed to have. It honestly feels like there’s no saving me anymore. I feel so unloved and abandoned, like I don’t belong in this world at all. It seems like everything is made for selfish, abusive people who somehow always get what they want, while people like me just sink.
-
-I keep wanting to apologize to my mom for turning out like this, and to that younger version of me who thought things would be different. I feel like I’m drowning and everyone can see it but just looks away. I can’t stop crying. I just want someone to hold me and tell me I’m not completely worthless.
+Score (f2_pos): 25
+Loading words (f2_pos), N=25: top, parent, year, deal, future, high, lose, love, school, believe, find, way, give, kind, good, only, break, guy, impossible, meet, friend, problem, hard, new, care
+I feel like I’ve kind of doomed myself and I’m just going to die alone with no one who really gives a fuck about my existence I dropped out of high school because it was too much for me to deal with on top of all my other problems in life so I’ve basically cut myself off from finding new people to talk to I only have like three friends at most and we barely even hang out I’m isolated and trapped inside all day and I’ve basically made it impossible for me to meet new people I feel like at some point I’ll be forced to become a normal slave in society and get a 9-5 office job or some degrading job like that and I’ll just be the guy who’s super addicted to substances because it doesn’t matter if it’s harmful if no one really cares or reaches out it doesn’t matter if the substances ruin my organs slowly if no one even bothers to seem like they care I’ll just be that one dude that dies and gets forgotten in a span of two weeks I’ve ruined any chances of me finding a partner in life and I’ve given up on trying to even believe that my life will just magically get better one day my life has been just fucked up and horrible for the past five years and I can’t do this anymore who would it even affect if I just disappeared my parents obviously don’t care and I can’t think of anyone that really ever cared I’ve lost myself and no matter how hard I try I can’t seem to find myself again I’m scared of the future and I’m hoping by the 0.00001% chance that the world doesn’t get way worse in the next few years that I somehow find peace and love but considering what has happened to the world recently and who we have running the usa right now I really doubt life will ever have a chance at being peaceful ever again I’m scared I’m sad I’m isolated and I’m going insane I just can’t ever get a break from this and it’s staring to get annoying

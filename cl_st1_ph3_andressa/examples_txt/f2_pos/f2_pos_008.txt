@@ -1,22 +1,14 @@
-Text ID: t004271
-Group: human
-Model: human
-File:   corpus/05_human/t2197_human.txt
+Text ID: t006682
+Group: summary_guided_gpt
+Model: gpt
+File:   corpus/05_summary_guided_gpt/t1793_gpt.txt
 
-Score (f2_pos): 5
-Loading words (f2_pos), N=5: man, today, reason, woman, school
-Recently, I became more and more confident on the idea that I might have depression, but I never got diagnosed. Among the questions, I answered a 10/10 for how lonely I felt lately. 
+Score (f2_pos): 23
+Loading words (f2_pos), N=23: cope, depression, issue, top, anxiety, deal, future, help, lose, date, thing, way, kind, want, good, happy, many, understand, avoid, friend, problem, care, stick
+I’m so tired. Not just physically, but in a way that feels like something inside me has burned out. I keep saying to myself that my “soul is dead,” and that’s honestly the closest thing I have to describing it. I don’t even understand my own feelings anymore. I’m sad, but also kind of numb, like everything is happening behind a thick piece of glass.
 
-It is not a problem of being by myself, I do enjoy my own time. But as someone that has never dated, I am starting to feel more and more as an impostor. 
+I avoid talking to my family as much as I can. I don’t know what to say to them, and I don’t want to pretend I’m okay when I’m not. I don’t really have close friends either, just coworkers I talk to at work. I don’t trust people. I used to hang out more, but I stopped because it never actually made me happy. It just felt like going through the motions.
 
-Everyone talks about their relationships, or even just situationships, how do you relate when you never had something like that? 
+Dating feels pointless. Every time I start to care about someone, it ends up feeling worthless, like it was a waste of time to open up in the first place. I feel stuck with no real goals, no clear future, just existing. On top of that, I’m dealing with financial problems, constant overthinking, trust issues, depression, and anxiety. It all just piles up.
 
-I am starting to feel guilty, ashamed of my desires, for my need for intimacy. I crave the touch of another human, but also the connection, it’s gotten to the point that I can’t do anything to satisfy myself, because I end up crying. 
-
-Turns out the people I speak most comfortably with are men around 4 to 20 years older than me (20f), it’s concerning. I can’t stop thinking, why? What is the reason that I only seem to be glad talking to them? I have no daddy issues, and no they are not people taking advantage of me, they are professors or colleagues. 
-
-With my best friend, we often joke about how much of a loser I would be if I were a man because of my interests, but to be honest, is there really any difference? I am still a loser even if I am a woman.
-
-The last manga I read was Inside Mari by Shuzo Oshimi, and I related so deeply i had to take some time to think. 
-
-Today I saw someone that used to be my friend back in middle school, I didn’t reach out, neither did they. 
+I’ve tried so many things to cope. I’ve tried leaning on religious faith, and I’ve tried other “good” and “bad” ways of coping. Nothing seems to actually help. I’ve even gone to therapy, but it hasn’t felt useful because I can’t explain what exactly makes me so sad. I just am. I feel completely lost about what to do with my life, like I’m wandering without a map and every direction looks wrong.

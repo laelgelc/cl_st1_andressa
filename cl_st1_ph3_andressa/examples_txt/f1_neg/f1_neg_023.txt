@@ -1,8 +1,8 @@
-Text ID: t005865
+Text ID: t008077
 Group: summary_guided_gpt
 Model: gpt
-File:   corpus/05_summary_guided_gpt/t1050_gpt.txt
+File:   corpus/05_summary_guided_gpt/t511_gpt.txt
 
 Score (f1_neg): 1
 Loading words (f1_neg), N=1: f2 score: 1
-I was just watching YouTube on my laptop and suddenly got distracted by some random woman in a video. It scared me how quickly my mind latched on, like I could get attached to literally anyone.
+I’ve been hyper-vigilant and alone for so long that it’s wearing me down. My heart constantly races, squeezes, and hurts, and this nonstop stress feels completely overwhelming.

@@ -1,12 +1,9 @@
-Text ID: t006478
-Group: summary_guided_gpt
-Model: gpt
-File:   corpus/05_summary_guided_gpt/t1608_gpt.txt
+Text ID: t005611
+Group: human
+Model: human
+File:   corpus/05_human/t900_human.txt
 
-Score (f2_neg): -2
-Loading words (f2_neg), N=2: role, emptiness
-Lately I feel like I’m stuck in this weird in‑between state where I can’t even tell what’s wrong with me. I don’t know if I’m just exhausted, misunderstood, or actually lonely. It’s like I’m emotionally numb most of the time.  
-
-I really struggle to make genuine, deep connections. Almost every interaction feels surface‑level, like I’m playing a role instead of actually being there. Even with the two close friends I do have, there’s still this distance I can’t seem to cross. I care about them, but sometimes supporting them feels draining, like I’m running on empty and still trying to pour into other people.  
-
-The numbness is confusing too. Sometimes it’s a relief not to feel everything so intensely. But other times I just wish I could feel anything at all, because this emptiness makes me feel even more alone.
+Score (f2_neg): 1
+Loading words (f2_neg), N=1: f3 score: 0
+They will never reach out. They will never miss me. I’m nothing relevant to anybody :(
+It has always been like this since I was a child. I’m always forgotten, ignored and tossed aside. No one would notice me unless they wanted to abuse me. 

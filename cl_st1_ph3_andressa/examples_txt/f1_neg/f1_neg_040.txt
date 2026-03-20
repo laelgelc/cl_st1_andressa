@@ -1,8 +1,8 @@
-Text ID: t002606
+Text ID: t002671
 Group: generic_gpt
 Model: gpt
-File:   corpus/05_generic_gpt/t750_gpt.txt
+File:   corpus/05_generic_gpt/t815_gpt.txt
 
-Score (f1_neg): 1
+Score (f1_neg): 2
 Loading words (f1_neg), N=1: f2 score: 0
-I’m surrounded by people daily, yet nobody actually knows me, and it feels unbearable.
+I’m surrounded by people daily, yet no one actually knows me or really cares.

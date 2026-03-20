@@ -1,8 +1,8 @@
-Text ID: t007213
+Text ID: t006119
 Group: summary_guided_gpt
 Model: gpt
-File:   corpus/05_summary_guided_gpt/t2276_gpt.txt
+File:   corpus/05_summary_guided_gpt/t1281_gpt.txt
 
 Score (f1_neg): 1
 Loading words (f1_neg), N=1: f2 score: 1
-I’m actually really proud of myself today. I woke up at 7:30 a.m. and I’m outside right now. Those might seem small, but they feel like big wins for me.
+Already in your fibre optic cable; the universe scatters, I gather what everyone else loses.

@@ -1,20 +1,8 @@
-Text ID: t007634
-Group: summary_guided_gpt
-Model: gpt
-File:   corpus/05_summary_guided_gpt/t2659_gpt.txt
+Text ID: t003246
+Group: human
+Model: human
+File:   corpus/05_human/t1265_human.txt
 
-Score (f2_pos): 5
-Loading words (f2_pos), N=5: mom, thanks, college, parent, school
-I’m coming up on 40 and it hit me how much of my life has been spent on the outside looking in, and how much of that is by choice… and yet I still feel weird about it.
-
-As a kid I was the one sitting alone at lunch, not because I was being bullied or anything obvious, but because I just didn’t know how to be around people. The older I got, the worse the social anxiety got. I ended up switching to homeschooling in elementary school, tried going back to public high school for a bit, and then switched back to homeschool again. It always felt like I was dropping into this world everyone else already knew how to navigate, and I was just… there.
-
-My parents tried to help: church youth groups, hanging out with neighborhood kids, all that. But nothing ever really stuck. I’d go for a while, then slowly drift away. In college, living in the dorms forced me into more social situations, but I just felt like a fifth wheel tagging along with people who already had their own dynamics. Eventually I moved back home.
-
-I worked at a pizza shop for a while. Everyone there partied and did drugs together, and I was always on the outside of that, too. I stayed sober, watching it all like it was a movie I wasn’t part of.
-
-Fast forward twenty years, and my world is basically my wife, my son, my mom, and my siblings. My wife’s a loner too, which helps. I honestly prefer staying home with them and our dogs over going out. There’s an old friend I could meet up with, but every time we talk it feels like the same conversation on repeat. I put it off because I don’t really get anything from it.
-
-I technically have two long-term friends, but I barely message them. They’re both really social and always caught up in some kind of drama, and watching that just makes me retreat even more. It kind of confirms for me that I’m happier with a very small circle.
-
-Anyway, that’s all. Thanks for reading my little rant.
+Score (f2_pos): 25
+Loading words (f2_pos), N=26: parent, able, future, love, experience, cry, grow, situation, find, thing, way, give, want, good, only, least, many, mean, understand, hurt, same, self, hate, accept, wish, big
+Parents hate me. Pretty sure my sister finds me as a horrible weird person. Antisocial. Don’t talk to anybody. I have the urge to cry all the time but I just hold it in. I feel I’ve forgotten to cry. Just wanna let it out but at the same time not want to. I have most of the things I’ve ever wanted but past that I’m just a failure. I’m a burden and shame to the people I try to surround myself with. I promised my self that I would just give up this time around but I keep giving in to false hope and it just hurts even more. My entire life I have this one picture engrained in my mind, and it’s that same look of disappointment people have of me, their anger, their sadness caused by me, their negative experiences, all because of me. I’ve said some pretty horrible things to defend myself in heated situations. Some of which I do mean because of repeated trauma but deep down I know they’re right. There’s this side of me that envisions wild success in the future but with that also comes the person that made it happen. I’ve contemplated many times. Some times after big things, sometimes casually, sometimes in my dreams. I know that I’ll never be able to be normal. I’ve just accepted it. I will always be the miserable person I am, no matter how good or how bad things get. I grew up with the sole mindset that I am the burden, I am the discrepancy, I am trash that needs to be thrown away. No one will ever love me, understand me. It’s a dog eat dog world. I just wish i was normal. So enough of the rant. Been thinking about it. Thought of all the possible ways but not sure which one would be the easiest and least painful. Also don’t know how to make it so that it will happen so casually that nobody will notice. Feel like my existence has no significance. I only consume and not give anything in return. Just wished that somebody loved and understood me. Not just for a moment but they really understand me. 

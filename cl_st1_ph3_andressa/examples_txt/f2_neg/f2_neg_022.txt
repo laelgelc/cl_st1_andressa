@@ -1,14 +1,8 @@
-Text ID: t006203
-Group: summary_guided_gpt
-Model: gpt
-File:   corpus/05_summary_guided_gpt/t1358_gpt.txt
+Text ID: t004884
+Group: human
+Model: human
+File:   corpus/05_human/t2754_human.txt
 
-Score (f2_neg): -3
-Loading words (f2_neg), N=3: noise, role, emptiness
-Every year around this time I feel this knot in my stomach start to tighten. I’ve never really liked the holidays. For 16+ years my “role” was basically cook, waiter, and dishwasher. Everyone else sat together, laughed, watched TV, opened presents… and I was in the kitchen, serving, cleaning, eating alone. If I sat down too long, someone would call my name like I was staff.
-
-On top of that, I’d get pressured into buying expensive, last-minute gifts I couldn’t really afford. If I didn’t, I’d be guilted. When I did, the gifts were brushed off or criticized. Meanwhile, I’d get something small or thoughtless in return. It just drove home how taken for granted I was. Even my ex would throw tantrums about going to these family things, which somehow made it all feel even worse.
-
-I finally moved to another state, away from all of that. No more being the unpaid help, no more drama, no more fake “family time.” I’m not putting up a tree, not decorating, not doing anything holiday-related. Part of me feels like there’s no point to any of it.
-
-But what’s messing with my head is that I kind of miss the chaos. I don’t miss them, or how I was treated, but I miss… something. The noise? The distraction? Now it’s just quiet, and lonely, and I haven’t found any sense of calm in it yet. It’s like I escaped, but I don’t know what to do with the emptiness that’s left.
+Score (f2_neg): 1
+Loading words (f2_neg), N=1: f3 score: 0
+I live in an apartment on the outskirts of San Antonio. I work from home and I go to school from. I'm actually in heaven.

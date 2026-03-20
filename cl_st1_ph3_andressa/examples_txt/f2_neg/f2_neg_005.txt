@@ -1,12 +1,14 @@
-Text ID: t002380
+Text ID: t002513
 Group: generic_gpt
 Model: gpt
-File:   corpus/05_generic_gpt/t524_gpt.txt
+File:   corpus/05_generic_gpt/t657_gpt.txt
 
-Score (f2_neg): -3
-Loading words (f2_neg), N=3: noise, mix, emptiness
-I’ve been feeling this weird mix of invisible and too visible at the same time. Invisible because no one really checks in, too visible because I’m hyper-aware of how alone I look when I’m out by myself. I scroll through chats that went dead months ago, hover over the message box, then close it because I don’t want to seem needy or awkward.
+Score (f2_neg): -2
+Loading words (f2_neg), N=3: notification, surround, errand
+I’m starting to feel like I’ve become transparent to the world.
 
-I’m surrounded by people at work, online, in public, but it all feels like background noise. Surface-level small talk, nothing deeper. I can’t tell if I’ve forgotten how to connect or if people just don’t want to.
+I go through my days doing everything I’m supposed to: work, small talk, errands, pretending I’m “fine.” But when I come home and close the door, it’s like I just… cease to exist for anyone else. My phone barely buzzes unless it’s a notification from an app. Group chats move on without me. I scroll and scroll, watching other people’s lives, and feel like I’m pressed up against the glass of some party I was never invited to.
 
-Nights are the worst. It’s like everything slows down enough that the emptiness gets louder. I keep thinking, “Is this it? Is this just how my life is going to be?”
+What hurts most is that I’m not completely isolated. I have acquaintances, coworkers, people who’d say “you’re nice.” But no one really knows me. No one notices when I disappear for a few days. I could delete every account I have and I’m not sure a single person would ask why.
+
+I’m surrounded by people and somehow still feel like a missing person.

@@ -1,8 +1,8 @@
-Text ID: t003752
+Text ID: t004480
 Group: human
 Model: human
-File:   corpus/05_human/t1725_human.txt
+File:   corpus/05_human/t2387_human.txt
 
 Score (f1_neg): 1
-Loading words (f1_neg), N=1: f2 score: 0
-I remember their birthday without reminders, but they couldn’t remember mine. Only my family remembers my birthday. I guess that all that matters.
+Loading words (f1_neg), N=1: f2 score: 3
+Assuming you lost your parents , how did you lose your friends and ex gfs there must be a reason we are all alone

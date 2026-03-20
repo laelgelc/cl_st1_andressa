@@ -1,8 +1,8 @@
-Text ID: t007545
+Text ID: t007838
 Group: summary_guided_gpt
 Model: gpt
-File:   corpus/05_summary_guided_gpt/t2578_gpt.txt
+File:   corpus/05_summary_guided_gpt/t2844_gpt.txt
 
 Score (f1_neg): 1
-Loading words (f1_neg), N=1: f2 score: 0
-Thinking of launching a new fragrance for introverts: “Leave Me The Fu Cologne.” Guaranteed to keep everyone far, far away.
+Loading words (f1_neg), N=1: f2 score: 2
+Sharing “Flashdance... What a Feeling” by Irene Cara. Songs are all I have—hope you enjoy.

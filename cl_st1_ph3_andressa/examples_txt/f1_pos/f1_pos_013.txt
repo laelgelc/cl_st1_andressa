@@ -1,18 +1,20 @@
-Text ID: t002408
+Text ID: t000351
 Group: generic_gpt
 Model: gpt
-File:   corpus/05_generic_gpt/t552_gpt.txt
+File:   corpus/05_generic_gpt/t1229_gpt.txt
 
-Score (f1_pos): 38
-Loading words (f1_pos), N=38: paper, group, life, text, couple, fine, work, home, show, coworker, answer, people, scroll, talk, chat, phone, something, day, everyone, person, version, sense, family, medium, post, glass, time, plan, anyone, kind, someone, end, way, friend, word, conversation, surface, loneliness
-I’ve been feeling this weird, heavy kind of loneliness lately that doesn’t really fit into the usual “I don’t have friends” box. I technically have people in my life – coworkers, a couple of old friends I text every now and then, family chats that occasionally light up – but it all feels like I’m watching my own life from a few steps away.
+Score (f1_pos): 80
+Loading words (f1_pos), N=80: dramatic, paper, sound, explain, text, go, group, like, coworker, fine, know, chat, phone, say, head, put, show, work, notice, watch, ask, outside, own, people, talk, try, quiet, disappear, job, day, everyone, glass, heavy, feel, loud, see, start, inside, polite, get, person, full, remember, extra, family, keep, more, needy, random, sense, constant, invite, look, room, think, happen, awkward, normal, anyone, check, move, someone, real, question, social, while, catch, much, conversation, everything, guess, moment, busy, call, surface, seem, assume, connect, nothing, pretend
+I don’t really know how to explain this without sounding dramatic, but lately it feels like I’m living behind glass.
 
-Most of my day is just…quiet. I go to work, make small talk, answer emails, come home, scroll on my phone, maybe watch something, then go to bed. On paper it looks normal, but there’s this constant sense that no one actually knows me beyond the surface. I can talk about work, shows, memes, whatever, but the second the conversation might go deeper, I freeze up or steer it back to something safe. Then I end up resenting the fact that I never have deep conversations.
+On paper, I’m “fine.” I have a job, I pay my bills, I occasionally go out with coworkers, my family texts me memes. There’s nothing obviously wrong. But I feel like I’m just… not actually there. Like I’m role‑playing a normal person while the real me is somewhere far away, watching.
 
-What gets to me the most is that I don’t really feel “missed” by anyone. If I disappeared from social media, I don’t think anyone would notice for a long time. People like me fine, I guess, but it feels like I’m always the extra, never the person someone thinks of first when they want to share good news or vent or just hang out. I’m always the “oh, you can come too if you want” person.
+The loneliness isn’t loud. It’s this low, constant hum. I can be in a room full of people and still feel like I’m on mute. Everyone else seems to have this invisible thread connecting them to someone: group chats that are actually active, people who call “just to talk,” someone who would notice if they disappeared for a day. I don’t feel like I have that. If I went quiet, I think people would just assume I was busy and move on.
 
-I’ve tried to “put myself out there” the way everyone says you should. Joined a couple of groups, tried talking more at work, even forced myself to say yes to plans when I just wanted to stay home. But even when I’m around people, I feel like I’m behind glass. I’m there, I’m smiling, I’m laughing at the right times, but it feels like acting. I leave feeling more drained and somehow lonelier than before.
+I’ve tried to be more social. I say yes to invites when they come (they don’t come often), I try to start conversations, I ask people questions. But I always feel like the extra person. The one you’re polite to, but don’t really think about later. There’s this awkward moment when everyone else is talking to “their person” and I’m just standing there, pretending to check my phone like it’s urgent.
 
-I don’t know if this is just who I am now, or if I’m missing some basic social skill everyone else learned a long time ago. It’s like there’s a version of me that could connect and be known, but it’s stuck under layers of awkwardness, fear of rejection, and just…tiredness.
+What really gets to me is not having anyone I can be unfiltered with. I have “people to talk to,” in the shallow sense, but not anyone I can text at 2am and say, “I feel like I’m falling apart,” without worrying I’m being too much, too needy, too heavy. So I keep everything on the surface. I talk about shows, work, random news. Meanwhile there’s this whole storm going on inside that never really comes out.
 
-Anyway, I’m not sure what I’m hoping for by posting this. I just needed to put into words how isolating it feels to be surrounded by people and still feel like a ghost.
+Sometimes I catch myself rehearsing conversations in my head that will never happen. Imagining what it would be like to have someone actually see me, remember little details about me, ask how I really am and mean it. It feels pathetic to admit that, but it’s true.
+
+I don’t even know what I’m looking for posting this. I guess I just wanted to put it somewhere outside my own head for once.

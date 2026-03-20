@@ -1,2 +1,2 @@
-variables loading on this pole = 12
-script (-1.04), gap (-.71), noise (-.61), role (-.52), errand (-.51), mix (-.41), (window (-.35)), emptiness (-.32), (glass (-.32)), (acquaintance (-.31)), (conversation (-.31)), (people (-.31))
+variables loading on this pole = 22
+notification (-.69), forgettable (-.66), lurk (-.62), surround (-.53), (nod (-.52)), (script (-.52)), replaceable (-.48), (scroll (-.46)), (weather (-.45)), (acquaintance (-.42)), (glass (-.41)), (orbit (-.39)), errand (-.37), (expose (-.36)), (background (-.35)), (chat (-.34)), (coworker (-.33)), (initiate (-.32)), (window (-.32)), (conversation (-.31)), (disconnected (-.31)), (needy (-.30))

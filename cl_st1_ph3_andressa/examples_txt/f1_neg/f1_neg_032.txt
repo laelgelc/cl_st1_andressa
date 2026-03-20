@@ -1,8 +1,8 @@
-Text ID: t001913
+Text ID: t002681
 Group: generic_gpt
 Model: gpt
-File:   corpus/05_generic_gpt/t2649_gpt.txt
+File:   corpus/05_generic_gpt/t825_gpt.txt
 
-Score (f1_neg): 1
-Loading words (f1_neg), N=1: f2 score: 0
-I’m surrounded by people daily, yet no one actually knows who I am.
+Score (f1_neg): 2
+Loading words (f1_neg), N=1: f2 score: -1
+I’m surrounded by people daily, yet no one actually knows me at all.

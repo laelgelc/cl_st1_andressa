@@ -1,17 +1,20 @@
-Text ID: t004497
-Group: human
-Model: human
-File:   corpus/05_human/t2402_human.txt
+Text ID: t006673
+Group: summary_guided_gpt
+Model: gpt
+File:   corpus/05_summary_guided_gpt/t1785_gpt.txt
 
-Score (f2_pos): 5
-Loading words (f2_pos), N=5: shit, man, reason, guy, experience
-I'm not shy, I'm not scared of people, I'm generally a confident creature. I like life on the wild side, prefer doing whatever I want - I'm the kind of person people have referred to as the "cool friend"; you know, the guy with their own world going on, is weird and doesn't care, collects shit, makes their own rules; can launch into a deep conversation on multiple topics, certainly has secrets, not remotely inside of the box - I'm one of those kinds of people.  Don't care about social norms.  My problem is I'm lonely as fuck for the opposite reason to many of you guys -- everyone's insecure, scared, and lacks any personality, and the outgoing people are all clones of each-other who feel intimated by me \[by their own admission.\] It's been like this for years, all I find are people scared of being themselves who treat me like I'm weird or avoid talking to me. Fuck 'em as they're not my type anyway --   
- Where the fuck do I find people like me? like, just going around. Online?
+Score (f2_pos): 22
+Loading words (f2_pos), N=22: treat, parent, deal, help, school, relationship, date, thing, way, kind, want, only, different, friend, hurt, interest, same, spend, whole, hard, human, stick
+I feel like I’ve spent my whole life standing just outside of everyone else’s circle.
 
-I've tried different groups online - Punk, Goth, Rock, etc - pretty much anywhere, it's either not my crowd or the folks there are doing their own thing. Not quite mine, too timid etc. 
+It started in grade school. My classmates didn’t talk to me unless they had to, and even some teachers acted like I wasn’t there. The only person who treated me like a real human being was the cleaning lady, who was kind and actually spoke to me. That pretty much set the tone for everything that came after.
 
-Sure I know where to find those who Connect like I do but --- come on... I want to meet people who are their own person, I want real friends; a variety of people here. From other circles... 
+I tried to make friends in childhood, in my teens, and later at university, but everything stayed on the surface. People would chat with me in class or in group projects, but they never actually included me in anything. No one invited me to any graduation parties, and nobody came to mine. It was like I was always “nice enough to talk to,” but never someone they thought to actually spend time with.
 
-I've seriously been isolated for years because, and I'm not trying to be narcissistic here, man, but people treat me like I'm the intimidating cool guy in almost every online space I enter the second I show a bit of personality. Like what the fuck. I'm trying to find places where there's a bunch of people like that - rebels, outcasts, artists, whatever...  I don't find you guys boring or lame; I'm also very lonely, like I said. I've had the same experiences. I'm also a shut-in, like many of you.  But, you know, I have a different worldview. Help a guy out?... 
+Romantic stuff hasn’t gone anywhere either. On the rare occasions someone showed interest, it fizzled out fast. I’ve been ghosted after a few dates more than once. It’s like as soon as someone gets a slightly closer look, they decide I’m not worth sticking around for.
 
-Perhaps just a little unused to this era to be honest. I'm late 20s, but, it's pretty clear to anyone I don't really fit at all.
+Even therapy hasn’t really worked out. One therapist ended things after about five sessions, and another never even scheduled a second one. That hurt in a different way, like even the people whose job it is to listen and help don’t really want to deal with me.
+
+My relationships with family and coworkers are the same: polite, functional, but shallow. I try to connect, but it never seems to go anywhere deeper. Over time, I’ve gone pretty numb to it. I just expect to be ignored now, and I’m actually surprised when someone doesn’t overlook me.
+
+At this point, my only real friends are my parents. I’m grateful for them, but it’s hard not to feel like that says something about me that no one else ever really chooses me.

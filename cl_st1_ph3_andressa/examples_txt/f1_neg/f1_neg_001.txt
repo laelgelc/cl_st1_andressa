@@ -1,8 +1,9 @@
-Text ID: t004632
+Text ID: t005249
 Group: human
 Model: human
-File:   corpus/05_human/t2525_human.txt
+File:   corpus/05_human/t538_human.txt
 
 Score (f1_neg): 1
 Loading words (f1_neg), N=1: f2 score: 0
-And disgusting and overthinking and addicted all the fucking time. I hate it so much...
+Come chat. It's free and hopefully therapeutic
+Yes I am alone too. 

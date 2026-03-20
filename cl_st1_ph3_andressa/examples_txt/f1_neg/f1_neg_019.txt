@@ -1,8 +1,8 @@
-Text ID: t003984
+Text ID: t004312
 Group: human
 Model: human
-File:   corpus/05_human/t1936_human.txt
+File:   corpus/05_human/t2234_human.txt
 
 Score (f1_neg): 1
-Loading words (f1_neg), N=1: f2 score: 0
-Is anybody else currently going through infertility? Truly the most heart-shattering, visceral loneliness I have ever felt :( 
+Loading words (f1_neg), N=1: f2 score: 2
+Don’t know what to do even losing interest in games 

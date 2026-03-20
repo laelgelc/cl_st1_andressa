@@ -1,8 +1,8 @@
-Text ID: t004628
+Text ID: t005238
 Group: human
 Model: human
-File:   corpus/05_human/t2521_human.txt
+File:   corpus/05_human/t527_human.txt
 
 Score (f1_neg): 1
-Loading words (f1_neg), N=1: f2 score: 0
-26m from Orlando, my interests right now are just gaming, Learning to Code, biking, and the gym. Other than that, I'm pretty lame, but I can keep a conversation for sure. Feel free to DM
+Loading words (f1_neg), N=1: f2 score: 2
+That's all. I just wish people in my live would leave me the hell alone. Life is exhausting. 

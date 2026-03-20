@@ -1,25 +1,14 @@
-Text ID: t005629
+Text ID: t002991
 Group: human
 Model: human
-File:   corpus/05_human/t918_human.txt
+File:   corpus/05_human/t1033_human.txt
 
-Score (f3_pos): 6
-Loading words (f3_pos), N=6: health, issue, fact, year, lot, problem
-I want to start off by saying I have mental health issues that probably make my thoughts and epiphany’s more negative than anything else.
+Score (f3_pos): 3
+Loading words (f3_pos), N=3: wanna, shit, great
+I learned at an embarrassing age that "we should hang out" does NOT mean they want to hang out. I don't understand this. There are pleasantries with people who are strangers/you don't know very well, but I don't understand when people say this specifically. Honestly it bothers me, because not only do they not wanna hang out, in many cases they get irritated at you for trying to make plans. 
 
-I am 25 years old now. They say around that age your frontal lobe is pretty much a cake that has been baked. You start to think differently about things and logic is more prevalent than ever. Which to me brings a whole other set of challenges. 
+I thought I had this all figured out in my head that when someone says that to you during a conversation, they don't mean that. But what I've just had happen is an old friends hit ME up and then say oh I miss you we should hang out. But then when I say oh that's great I'm free next Saturday, suddenly I'm weird??? Literally after I said that the next thing they said was a message that included a lot of "oh ummm" and "lol". Like wtf?? Is this not how conversations go? Like why was I meant to feel weird about this??
 
-I’ve realized that everything takes work. And I mean everything. 
-You want your partner to apologize in a meaningful way verbally and reassure you that the issue will not persist ? Yeah that takes a seemingly endless trail of conversation and trial and error and you are supposed to feel fulfilled at the end. 
+It's one thing if someone says that to you if you randomly run into them in a store but this person initiated contact with me??? Like excuse me for thinking YOU contacting ME and saying to hang out makese think you wanna hang out. 
 
-You want people to treat you equally at work or treat you fairly? Yeah that takes another rabbit hole of risk and setting boundaries (more endless talking and explaining). 
-
-You want to be successful financially? Yeah you’ll have to do more trail and error and putting yourself out there and keeping your head up despite rejection countless times or maybe even lose more money than you had to begin with. 
-
-You want to feel like you have free will and indulge in happiness if possible? You will have to make time for it and it better be free if you haven’t done the last step I just listed. 
-
-I cannot get past the fact that there is nothing effortlessly fulfilling and for YOU. You have to “force” it. I am so tired. Just thinking of that makes me sleepy. I just want one thing to work out eight minimal effort. Just one thing. I want at least one thing to just find me and regain my faith that life is beautiful. Some things just find you. A reason. 
-
-In my past I’ve done a lot of substances. Daily. It did the trick until it created problems not even that could be my saving grace. Much like everyone else that chooses that route. It is short lived and it will kill you faster than brining you to peace unless we wanna argue that death is actually the best peace you can find on planet earth. 
-
-Thank you if you read this. I wonder if others feel the same. 
+I'm just venting because this shit happens to me and I don't have any friends I talk to on a regular basis. I don't understand what I'm missing. I just feel like giving up and I've isolated myself so much because I just can't take this

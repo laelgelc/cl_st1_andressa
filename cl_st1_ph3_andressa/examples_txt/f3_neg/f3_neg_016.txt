@@ -1,18 +1,8 @@
-Text ID: t000347
+Text ID: t000750
 Group: generic_gpt
 Model: gpt
-File:   corpus/05_generic_gpt/t1225_gpt.txt
+File:   corpus/05_generic_gpt/t1591_gpt.txt
 
-Score (f3_neg): -1
-Loading words (f3_neg), N=1: notification
-I’ve been feeling like I’m slowly drifting out of everyone’s life and I don’t know how to stop it.
-
-I’m not completely isolated. I have coworkers, I see people, I can make small talk. But there’s this huge gap between “people I interact with” and “people who actually know me,” and that gap feels like an ocean lately.
-
-I watch other people’s friendships and it looks so effortless. Group chats that are constantly active, people doing random weeknight hangouts, calling each other just to talk about nothing. I can’t remember the last time someone texted me first just to see how I was doing. When my phone buzzes, it’s usually spam, a notification, or something work-related. I’ve started leaving it in another room because the silence from it feels worse when it’s right next to me.
-
-I also feel like I’ve become… forgettable. I show up, I’m polite, I contribute, but if I stopped showing up, I’m not convinced anyone would really notice for a while. It’s like I’m always the “nice acquaintance,” never the person someone thinks of when they’re planning something important or fun.
-
-What scares me is that I can feel myself withdrawing more. I say no to invites because I’m tired or anxious, then later I’m sitting alone wishing I’d gone. But when I do go, I feel like I’m on the outside of the group, even if I’m physically there. I laugh at the right times and nod along, but it feels like I’m playing a role instead of actually connecting.
-
-I don’t really know what I’m hoping for by writing this. Maybe I just wanted to put into words that weird, heavy feeling of being surrounded by people and still feeling completely alone.
+Score (f3_neg): -5
+Loading words (f3_neg), N=5: disconnected, script, terrify, crave, role
+I’m surrounded by people but feel completely disconnected. Conversations feel scripted, like I’m playing a role instead of being myself. I crave real closeness, but I’m terrified I’m fundamentally uninteresting and easy to forget.

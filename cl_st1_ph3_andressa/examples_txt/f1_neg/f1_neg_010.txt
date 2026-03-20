@@ -1,8 +1,8 @@
-Text ID: t003817
+Text ID: t003071
 Group: human
 Model: human
-File:   corpus/05_human/t1784_human.txt
+File:   corpus/05_human/t1106_human.txt
 
 Score (f1_neg): 1
-Loading words (f1_neg), N=1: f2 score: 0
-From my dog and stray dogs. Oh, and from AIs. The only words I can get.
+Loading words (f1_neg), N=1: f2 score: 1
+thats how desperate i am and i hate my healthy life anyways

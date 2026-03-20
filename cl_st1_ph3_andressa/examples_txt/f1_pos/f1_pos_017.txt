@@ -1,18 +1,18 @@
-Text ID: t000879
+Text ID: t002823
 Group: generic_gpt
 Model: gpt
-File:   corpus/05_generic_gpt/t1709_gpt.txt
+File:   corpus/05_generic_gpt/t967_gpt.txt
 
-Score (f1_pos): 38
-Loading words (f1_pos), N=38: paper, group, life, fine, work, home, part, show, coworker, answer, outside, people, scroll, talk, joke, chat, phone, message, ache, day, everyone, person, wall, sense, time, anyone, kind, circle, end, anything, way, stuff, interaction, character, background, conversation, kid, loneliness
-I’ve been feeling this weird, heavy kind of loneliness lately that doesn’t really fit into any of the usual categories people talk about. I’m not totally isolated. I work, I talk to coworkers, I answer messages in group chats. On paper I’m “connected.” But it all feels like I’m playing a role in other people’s lives instead of actually being in them.
+Score (f1_pos): 79
+Loading words (f1_pos), N=79: dramatic, sound, explain, text, go, group, like, scroll, coworker, know, life, chat, head, small, weird, put, show, joke, work, notice, weekend, light, outside, own, part, people, talk, try, quiet, bad, disappear, something, day, everyone, glass, feel, plan, see, medium, night, inside, get, full, make, realize, sure, close, extra, family, isolate, keep, more, random, reach, think, happen, lie, story, time, awkward, anyone, check, other, someone, stop, replay, change, social, much, stupid, anything, conversation, guess, interaction, call, seem, nothing, turn, feeling
+I don’t really know how to explain this without sounding dramatic, but lately it feels like I’m living behind glass.
 
-Most of my interactions feel like background noise. Small talk, memes, work-related stuff, surface-level updates. I can go days without anyone asking me how I’m really doing in a way that suggests they actually want to know. When I try to open up a bit, the conversation either gets redirected or brushed off with a joke. I end up feeling like I overshared, even if I only said one honest sentence.
+My days are technically “full” — work, errands, random conversations with coworkers about TV shows or weekend plans I won’t be part of — but underneath all of that I feel completely disconnected. I’m around people all the time and still feel like I’m on mute. Everyone else seems to have these invisible threads tying them to others: group chats, inside jokes, someone to text when something small or stupid happens. I don’t have that. If something funny or upsetting happens, it just sort of dies in my head because there’s no one I feel close enough to share it with.
 
-What makes it worse is that I used to have people I felt close to. Not many, but enough that I felt like I had a “home base” in the world. Over time, life just pulled us in different directions. People moved, got into serious relationships, became busy with kids or careers. We still “keep in touch” in the vaguest sense, but it’s more like we’re watching each other’s lives from the outside rather than living anything together.
+What really gets to me is how optional I seem to be in other people’s lives. If I don’t reach out, nothing happens. No one checks in. No one notices if I go quiet. I can disappear from social media for days and it doesn’t change anything. I keep thinking: if I just stopped trying, how long would it take before anyone realized? And I hate that my brain even goes there, but it does.
 
-I’ve tried to meet new people, but I’m at this age where everyone already seems to have their established circle. I always feel like the extra person tagging along, the one who can be there or not and it wouldn’t really change anything. I’m present, but not essential. Replaceable.
+I also feel stuck in this loop where loneliness makes me weird and awkward, and then being weird and awkward makes me more isolated. I overthink every interaction: “Did I talk too much? Not enough? Did I sound desperate?” Then I replay it later and cringe at myself, which makes me want to avoid people even more. It’s exhausting.
 
-The part that really messes with me is how invisible this feels. From the outside, I probably look fine. I show up, I smile, I contribute to conversations. Nobody sees that I go home and just sit in the quiet, scrolling on my phone because I don’t know what else to do with myself. I keep wanting to send a message that just says, “I feel really alone right now,” but I don’t know who I’d send it to, or what I’d even want them to say back.
+Nights are the worst. There’s something about turning off the lights and knowing no one is going to call or text, that no one is wondering how my day went. I lie there scrolling and see people posting pictures with friends, partners, families, and it just reinforces this feeling that I’m some kind of extra in everyone else’s story.
 
-There’s this constant ache of wanting to be known, really known, and at the same time feeling like I’ve forgotten how to let anyone that close. I’m not sure if I’ve built walls or if people just stopped trying to look over them. Maybe both. All I know is that I’m tired of feeling like a side character in my own life.
+I’m not even sure what I’m hoping for by writing this. I guess I just wanted to put it somewhere outside my own head for once.

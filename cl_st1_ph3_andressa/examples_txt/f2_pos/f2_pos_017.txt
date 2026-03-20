@@ -1,8 +1,16 @@
-Text ID: t003168
-Group: human
-Model: human
-File:   corpus/05_human/t1194_human.txt
+Text ID: t006498
+Group: summary_guided_gpt
+Model: gpt
+File:   corpus/05_summary_guided_gpt/t1626_gpt.txt
 
-Score (f2_pos): 5
-Loading words (f2_pos), N=5: mom, parent, house, woman, school
-I was supposed to graduate in January 2025 but a ton of unfortunate events happened and I ended up graduating in December instead. At first I was super excited and couldn't wait to finish my last class and busted my butt as hard as I could to get it done with three kids, a house, pets, and a boyfriend to take care of. I did it I graduated.. but the hype only lasted about 30 minutes. Because that's when I realized I have nobody. I have my kids and that's about it. My parents don't care and called me selfish for going back to school because my focus should have been 100% on the kids 100% of the time. My boyfriend gave me a lousy "I'm proud of you" than went back to playing on his phone.. than I realized I have no friends. I am a 31 year old woman with three kids and nobody by my side. I don't even know how to make friends anymore because I am a stay at home mom and everything is online. Call me old school but I miss and need that face to face interaction. Maybe I am selfish because part of me was hoping for a graduation party of some sort even if it was just my boyfriend and the kids and we went out to dinner. But nothing, zero, nada. I feel so lonely it isn't even funny anymore. 
+Score (f2_pos): 22
+Loading words (f2_pos), N=22: cope, treat, year, help, lot, relationship, enjoy, thing, want, good, only, idea, many, take, meet, avoid, friend, hurt, hard, month, share, big
+I’ve been feeling lonely for about 4–5 years now. It used to feel like this heavy, constant thing I was dragging around. I still feel lonely, but over the last six months I’ve started coping a bit better, and I wanted to share what’s helped me, in case it helps someone else too.
+
+One big thing was focusing on small, positive social interactions instead of chasing some perfect friend group or relationship. A short, pleasant chat with a coworker, a barista remembering my order, a quick online conversation that doesn’t end in drama – I started counting those as “wins” instead of dismissing them as meaningless. It made me feel less invisible and a bit more confident.
+
+I also started doing more things alone that I genuinely enjoy, not because they’d make me more “interesting” or help me meet people, but just because they feel good in themselves. That shift took a lot of pressure off hobbies. It’s easier to keep going when the reward is built-in, not dependent on whether I make a friend.
+
+Another hard lesson was cutting off people who weren’t really there for me. Keeping “friends” who constantly flake, ignore you, or only show up when it’s convenient just made me feel more alone. Letting go hurt, but it also made space for the idea that there are so many people in the world, and I don’t have to cling to the ones who don’t treat me well.
+
+Rejection still sucks. But I realized that avoiding it doesn’t save me from loneliness – it just guarantees it. Changing my mindset has been slow and uncomfortable, and it hasn’t “cured” my loneliness, but it’s made it more bearable. I feel a little braver about putting myself out there, and that’s something.

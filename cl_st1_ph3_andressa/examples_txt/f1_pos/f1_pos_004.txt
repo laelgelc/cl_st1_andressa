@@ -1,20 +1,18 @@
-Text ID: t001905
+Text ID: t002323
 Group: generic_gpt
 Model: gpt
-File:   corpus/05_generic_gpt/t2641_gpt.txt
+File:   corpus/05_generic_gpt/t467_gpt.txt
 
-Score (f1_pos): 41
-Loading words (f1_pos), N=41: group, life, text, fine, work, head, home, coworker, outside, people, scroll, talk, chat, phone, message, weekend, day, person, version, silence, medium, post, glass, time, night, plan, anyone, kind, room, story, end, while, everything, way, question, interaction, acquaintance, space, background, conversation, surface
-I don’t really know how to talk about this in real life, so I’m dumping it here instead.
+Score (f1_pos): 83
+Loading words (f1_pos), N=83: dramatic, sound, explain, text, go, group, like, scroll, coworker, fine, know, life, chat, say, head, home, small, weird, message, show, joke, work, notice, watch, weekend, light, own, people, talk, try, disappear, send, something, day, everyone, glass, heavy, feel, loud, see, medium, start, bed, none, realize, acquaintance, family, more, think, happen, lie, motion, time, normal, pull, anyone, other, someone, real, replay, reply, name, social, tell, expect, much, stupid, anything, conversation, miss, moment, interaction, touch, use, easy, assume, connect, crack, noise, pretend, space, feeling, open
+I don’t really know how to explain this without sounding dramatic, but lately it feels like my life is just… empty space filled with noise.
 
-Lately I’ve been feeling this weird combination of being “connected” and completely alone at the same time. I have people I message, group chats that ping all day, social media feeds that never end, but when I close my phone, the silence in my room feels almost physical. It’s like all those little interactions are just background noise, and underneath it there’s this heavy, empty space.
+I’m technically “not alone.” I have coworkers, some acquaintances, a family that texts occasionally, group chats that light up with memes. But none of it feels like it actually touches me. It’s like everyone is behind glass and I’m waving from the other side, and they either don’t see me or just assume I’m fine because I can still crack a joke and reply with emojis.
 
-I’m not totally isolated. I have coworkers, some acquaintances, people I can be “friendly” with. But I don’t feel known by anyone. Conversations stay on the surface: work, memes, weekend plans. I can be standing in a room full of people and feel like I’m behind glass. They see a version of me, but it’s like I’m not really there.
+The weird thing is I used to think loneliness meant having no one. But it’s more like having people around and still feeling like you’re on mute. I go through the motions: wake up, work, pretend to be normal in front of others, come home, scroll through social media, watch other people’s lives happen. Then I lie in bed with this heavy feeling in my chest, like I’m missing something huge I can’t even name.
 
-I’ve tried to “fix” it in the ways you’re supposed to. I joined a hobby group. I go to social events sometimes, even when I don’t feel like it. I make small talk, ask questions, try to be interested. Then I come home and feel more drained and alone than I did before, because it just reminds me that I don’t really belong anywhere. I’m always the extra person, the one who’s there but not essential, the one people are fine with but wouldn’t really miss.
+I don’t really talk about this in real life. When I try to open up, it feels like I’m burdening people or being “too much.” I’ve had a few moments where I started to say, “I’ve been feeling really alone lately,” and the conversation somehow slid back into small talk about shows or work or whatever. I don’t even blame them. I just feel stupid for trying.
 
-What bothers me most is how it’s changing me. I can feel myself getting quieter, more withdrawn. I start second-guessing everything I say, assuming people are just being polite. I replay interactions in my head and pick apart every awkward pause. Sometimes I cancel plans last minute because the idea of sitting in a group and still feeling lonely is somehow worse than just staying home.
+There’s also this growing fear that I’m slowly becoming someone who doesn’t know how to connect anymore. I overthink every message I send, every pause in conversation, every time someone doesn’t reply. I replay interactions in my head and pick them apart, wondering if I sounded weird or clingy. Then I pull back a bit more, tell myself it’s easier not to expect anything.
 
-Nights are the hardest. That’s when it hits me that no one is going to text to check in, no one is wondering how my day went, no one is saving stories to tell me later. I scroll, I watch random videos, I listen to podcasts just to have some kind of human voice in the background. Then I wake up and do it all again.
-
-I don’t really know what I’m expecting by posting this. I just needed to put it somewhere outside my own head for a while.
+Days blend together. Sometimes I’ll go the whole weekend without using my voice out loud, and I don’t notice until I have to talk to someone and my throat feels tight and unused. It’s unsettling, realizing how easy it is to disappear from other people’s lives without anyone really noticing, including your own.

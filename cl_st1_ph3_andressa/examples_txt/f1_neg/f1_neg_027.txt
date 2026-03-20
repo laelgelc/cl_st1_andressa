@@ -1,8 +1,8 @@
-Text ID: t006379
+Text ID: t005790
 Group: summary_guided_gpt
 Model: gpt
-File:   corpus/05_summary_guided_gpt/t1518_gpt.txt
+File:   corpus/05_summary_guided_gpt/t080_gpt.txt
 
 Score (f1_neg): 1
 Loading words (f1_neg), N=1: f2 score: 0
-No matter what I do or how hard I try, it feels like I’m destined for permanent loneliness.
+Been sinking hours into BOTW lately. What have you all been doing or playing?

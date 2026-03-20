@@ -1,12 +1,16 @@
-Text ID: t004567
-Group: human
-Model: human
-File:   corpus/05_human/t2466_human.txt
+Text ID: t007007
+Group: summary_guided_gpt
+Model: gpt
+File:   corpus/05_summary_guided_gpt/t2089_gpt.txt
 
-Score (f2_pos): 5
-Loading words (f2_pos), N=5: man, guy, girlfriend, girl, house
-I've been seeing so many posts and discussions on male loneliness. I am a generally progressive/leftist person so I naturally see more stuff from that perspective and the current consensus seems to be that the men who are lonely are evil fascists who deserve it, they say that men aren't really lonely and we should just leave the house and socialize 
+Score (f2_pos): 23
+Loading words (f2_pos), N=23: year, help, experience, lot, girlfriend, grow, relationship, mom, thing, kind, want, only, least, mean, take, build, friend, hurt, problem, spend, whole, care, advice
+I’m 21 and I feel like I’ve basically lived my whole life on the outside looking in. I’ve never had close friends, never had a girlfriend, and most days it feels like I’m just drifting through life completely invisible.
 
-I'm 22 and I've joined clubs at my university and gone to events to try to make friends. I go to the gym, I've asked girls out and tried every app under the sun but nothing seems to work, I feel so lonely but I genuinely don't think im an evil man, im not saying I'm entitled to friends or a girlfriend, im just sad that everyone around me seems to have those things except me, I just want connection. 
+Lately I’ve been trying to improve myself physically – working out, taking care of my appearance, that kind of thing – and there’s been some progress there. But mentally I’m a mess. I have no one I can really talk to about what’s going on in my head. The only person I even kind of open up to is my mom, and her advice is always just “cheer up” or “don’t think like that.” I know she means well, but it feels so shallow and doesn’t actually help.
 
-I don't understand why people are saying things like this to lonely men, I feel like a lot of us aren't bad guys but just unlucky (and autistic). I keep feeling like I must be evil or something if im still so lonely. Why does society tell men to be more open about our feelings and when we are it's used to insult us? Im tired of feeling this way, im not perfect but im not a bad person and I know that, I wish I knew what was wrong with me but I don't.
+Whenever I think about telling someone how I really feel, I immediately feel like a burden. I don’t want to dump my problems on people or make them feel like they have to “play therapist” for me. So I just keep everything inside and it’s eating at me.
+
+I keep telling myself I need to fix myself before I can expect to have meaningful relationships, but I don’t even know where to start. For those of you who’ve also had no relationships and spent years feeling invisible, how did you actually make progress? How did you go from this to something better?
+
+I’m honestly scared that if this loneliness keeps growing, I might end up hurting myself. I don’t want that. I want to learn how to be at least somewhat content on my own, and also how to eventually build real connections. Any advice or personal experiences would mean a lot.

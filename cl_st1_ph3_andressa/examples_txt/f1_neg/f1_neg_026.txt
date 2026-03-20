@@ -1,8 +1,8 @@
-Text ID: t006441
+Text ID: t007149
 Group: summary_guided_gpt
 Model: gpt
-File:   corpus/05_summary_guided_gpt/t1574_gpt.txt
+File:   corpus/05_summary_guided_gpt/t2218_gpt.txt
 
 Score (f1_neg): 1
-Loading words (f1_neg), N=1: f2 score: 0
-I’m really not doing well mentally right now, but I don’t want to rant or trauma dump. I just need distraction and maybe some motivation. Anyone up for helping with that?
+Loading words (f1_neg), N=1: f2 score: 1
+I’m in a relationship but still feel incredibly lonely. How is it possible to feel this alone together?

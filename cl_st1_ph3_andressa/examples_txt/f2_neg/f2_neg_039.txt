@@ -1,9 +1,8 @@
-Text ID: t003256
-Group: human
-Model: human
-File:   corpus/05_human/t1274_human.txt
+Text ID: t008168
+Group: summary_guided_gpt
+Model: gpt
+File:   corpus/05_summary_guided_gpt/t602_gpt.txt
 
-Score (f2_neg): -1
-Loading words (f2_neg), N=1: emptiness
-The emptiness, does it ever end
-My friendships start out with people loving me then when I get too comfortable and start sharing my life ( which is always me being sad ) people leave me, I know it’s no one’s responsibility to withstand me complaining but that’s my life what else can I talk about when people don’t share their life with me
+Score (f2_neg): 1
+Loading words (f2_neg), N=1: f3 score: 0
+Feeling really lonely right now. Can someone please message me? I just need to genuinely talk about my problems.

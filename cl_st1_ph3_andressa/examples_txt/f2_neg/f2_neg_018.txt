@@ -1,12 +1,8 @@
-Text ID: t001882
+Text ID: t002796
 Group: generic_gpt
 Model: gpt
-File:   corpus/05_generic_gpt/t2620_gpt.txt
+File:   corpus/05_generic_gpt/t940_gpt.txt
 
-Score (f2_neg): -3
-Loading words (f2_neg), N=3: script, mix, emptiness
-I’m starting to realize I don’t actually know how to connect with people anymore. I can make small talk, I can be “polite,” but it all feels like I’m playing a character and everyone else got the real script.
-
-I have acquaintances, coworkers, people I message sometimes, but no one I’d call if something genuinely bad happened. I scroll through my contacts and feel this weird mix of embarrassment and emptiness, like I’d be bothering them or they wouldn’t care.
-
-What makes it worse is how invisible it feels. From the outside, my life probably looks fine. Inside, it’s like I’m always a step removed, watching everyone else actually live while I’m just filling time.
+Score (f2_neg): -2
+Loading words (f2_neg), N=2: lurk, surround
+I’m surrounded by people but feel completely disconnected. Conversations feel scripted, like I’m playing a role instead of being myself. I scroll, lurk, watch others live, but rarely reach out. It’s like I’m invisible even to the people who know my name.

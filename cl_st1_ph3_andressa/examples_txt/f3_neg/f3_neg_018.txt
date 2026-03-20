@@ -1,16 +1,8 @@
-Text ID: t000353
+Text ID: t002268
 Group: generic_gpt
 Model: gpt
-File:   corpus/05_generic_gpt/t1230_gpt.txt
+File:   corpus/05_generic_gpt/t412_gpt.txt
 
-Score (f3_neg): -1
-Loading words (f3_neg), N=1: notification
-I don’t really know how to explain this without sounding dramatic, but lately it feels like I’ve just slipped out of everyone’s peripheral vision.
-
-My phone barely buzzes unless it’s a notification from some app. Group chats that I used to be part of are still active, but I’m more like a silent observer now. I’ll type something, stare at it, and then delete it because I convince myself no one’s waiting to hear from me anyway. When I do send something, it usually gets buried between memes and other conversations, and I feel stupid for even trying.
-
-In person isn’t much better. I go to work, talk about tasks and deadlines, laugh at the right times, but it’s all surface-level. I’ve become that “reliable coworker,” but not someone anyone actually knows. People will say things like, “We should hang out sometime,” and it never actually happens. I don’t even know if they mean it.
-
-The weird thing is I’m not completely isolated. I see people. I interact. But I feel like I’m behind glass. Like I’m watching life happen instead of being part of it. I go home, make dinner for one, and then just…exist. Scroll, watch something, lie in bed too long. I don’t even have some big trauma story to justify why I feel this empty. It’s just this dull, ongoing ache.
-
-I keep thinking that if I disappeared from social media or stopped showing up places, it would take a long time for anyone to notice. And even longer for anyone to ask why.
+Score (f3_neg): -5
+Loading words (f3_neg), N=5: disconnected, crave, role, invisible, perform
+I’m surrounded by people but feel completely disconnected. Friends, coworkers, family—I can talk to them, but it all feels surface-level, like I’m playing a role. I crave someone who actually “gets” me, who I don’t have to perform for. Instead I end up scrolling, lurking on here, pretending I’m fine in real life while feeling invisible most of the time.

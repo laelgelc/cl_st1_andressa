@@ -1,20 +1,16 @@
-Text ID: t003007
-Group: human
-Model: human
-File:   corpus/05_human/t1048_human.txt
+Text ID: t007406
+Group: summary_guided_gpt
+Model: gpt
+File:   corpus/05_summary_guided_gpt/t2451_gpt.txt
 
-Score (f2_pos): 6
-Loading words (f2_pos), N=6: guy, fun, parent, girl, house, school
-I moved out of my family house at 15. I turned 17 a few months ago and didn’t celebrate my birthday. I get by with around 300$ a month, all my bills are paid for by my parents, they just let me move out. 
+Score (f2_pos): 26
+Loading words (f2_pos), N=26: parent, pain, year, young, help, lose, love, cry, grow, relationship, believe, mom, thing, way, kind, want, good, different, break, meet, understand, friend, hurt, spend, new, stick
+I broke up with my first lover recently. We met online 5 years ago, basically grew up together from our teens into young adulthood. When it finally ended, I didn’t cry, but there was this weird, heavy pain in my chest that I still don’t fully understand. It’s like grief without tears.
 
-I have never had any friends really. Not real friends and that was okay to me. I always explained it as I wasn’t a friend type of person. But I had an acquaintance with this one girl who was really nice to me. She hated all my opinions And I hated hers but somehow we could have conversations when we wanted to which would be once a week normally. But this semester of school I don’t get to see her like at all. 
+Because of my past – sexual trauma and watching my parents stuck in a bad marriage – I honestly didn’t believe love was real for a long time. This relationship was the first thing that made me think, “Maybe it is.” I’d been half-expecting the breakup for a while, but I thought I had more time. And then suddenly there was just… silence. No messages, no calls. The quiet made me realize how empty and lonely my life feels right now.
 
-Normally I would sit with her at lunch but she has a different lunch so every lunch I just sit in the bathroom by myself. 
+It’s not the first time I’ve felt like this. In 11th grade I lost my best friends of 6 years and felt completely alone. Back then, my family – my mom and my two brothers – stepped in. We went on trips, watched movies together, and it actually helped. I felt held, in a way.
 
-I figured that I would be fine just like I always am but i didn’t realize how much human interaction was important for me. I normally go to youth group so that I can see people my age who aren’t really mean and I haven’t been able to go in about a month. 
+Now that closeness is gone, and I don’t even know when or why it changed. We still see each other, but it feels formal, like we’re just going through the motions. My therapist keeps suggesting I spend more time with my family, but I feel like whatever we had before is gone for good, and that hurts in its own way.
 
-The best interaction I have had in the past year was when I was driving from one city to another at night and a guy wanted to race and we just had so much fun passing each other and seeing how fast we could go. I literally hit 105 which is not bad but the speed limit was 60 😀
-
-Idk I just feel as though I am always so tired I am nice to everyone I try so hard I even do my makeup and hair which I use to hate like I changed myself so much so that maybe maybe someone would talk to me but no no one ever talks to me and I don’t really get it the one girl who I thought would be my friend was so fake that she used me as a means to lie to her parents about going to stay with a guy she met online 
-
-I just wish to share myself with someone 
+I’m stuck between wanting connection and being terrified of it. I want to meet new people, hear different perspectives, feel alive again. But I’m scared. Every relationship ends somehow, and I don’t know if I can handle this kind of pain over and over. My loneliness feels like both a wound and a blanket – it hurts, but it also feels safer than risking another ending.
