@@ -1,175 +1,94 @@
-Factor f2 (positive pole) is strongly driven by human posts (mean = 0.78) and, to a lesser extent, summary‑guided GPT (0.51). Generic GPT posts sit clearly on the other side (−0.48). So this pole is primarily a *human, autobiographical style* that summary‑guided GPT can partially imitate, but generic GPT largely misses.
+This pole is driven by **summary‑guided GPT posts and human posts**, with summary‑guided GPT slightly higher (mean ≈ 6.8) than humans (≈ 6.3), and generic GPT much lower (≈ 1.5). So the dimension reflects a discourse style that humans use a lot, and that the summary‑guided prompt has successfully amplified and systematised.
 
-Below I synthesise the loadings and the excerpts to characterise the discourse encoded at this pole and propose labels.
+Linguistically, the loadings and examples converge on a very specific discourse configuration:
 
----
+- **Mental health and coping frame**:  
+  High loadings: *health, cope, depression, issue, mental, treat, anxiety, deal, help, support, advice*.  
+  Examples: explicit naming of diagnoses or symptoms (“depression”, “OCD, depression, anxiety, ADHD”), references to therapy, medication, DBT skills, “coping” strategies, “treat it in a healthy way”, “I’ve tried so many things to cope”.
 
-## 1. What the loadings tell us
+- **Biographical, life‑course anchoring**:  
+  High loadings: *year, young, future, school, college, parent, mom, kid, grow, house, month, high, big*.  
+  Examples: posts are strongly time‑structured (“about a month ago I lost my job”, “we met online 5 years ago”, “in 11th grade I lost my best friends”, “I turned 20 today”, “the last two years have been a mess”). They narrate trajectories (childhood family dynamics → adolescence → current adulthood; “last year feels like it happened to a different person”).
 
-High positive loadings:
+- **Relational focus on intimacy and attachment**:  
+  High loadings: *love, relationship, girlfriend, date, woman, man, girl, guy, friend, support, meet, build, spend, share, care, hurt, lose, break*.  
+  Examples: almost every text centres on romantic or close relational bonds as the key problem space:  
+  – “not a single date, not a single kiss, no girlfriend”  
+  – “I broke up with my first lover recently”  
+  – “The problem is that I don’t have a romantic partner, and that emptiness feels like it eclipses everything else”  
+  – “I wish I could find actual friends again. Maybe even just a girl to talk to”.
 
-- Strongest:
-  - shit (.73), man (.72), heart (.67), mom (.60), thanks (.58), today (.51)
-- Social roles / relations:
-  - mom (.60), parent (.43)
-  - man (.72), guy (.47), girlfriend (.46), girl (.38), woman (.35)
-- Life‑stage / institutional settings:
-  - college (.47), school (.32)
-- Everyday life / setting:
-  - house (.35), fun (.43), experience (.32), reason (.50), (notification (.30))
+- **Explicit emotional self‑assessment and meaning‑making**:  
+  High loadings: *emotional, pain, cry, hurt, happy, hate, hard, struggle, lose, wish, accept, understand, mean, self, human, loner*.  
+  Examples: rich emotional vocabulary and meta‑reflection:  
+  – “grief without tears”, “my loneliness feels like both a wound and a blanket”  
+  – “I feel more alone than I ever have”  
+  – “I’m sad, but also kind of numb”  
+  – “I don’t even understand my own feelings anymore”.
 
-Key patterns:
+- **Problem‑solving / advice‑seeking orientation**:  
+  High loadings: *help, support, advice, cope, treat, build, avoid, deal, able, find, meet, understand, idea, kind, way, problem, issue*.  
+  Examples: posts often end in a request or an opening for dialogue:  
+  – “Has anyone else been here and found anything that actually helped?”  
+  – “If anyone relates to this or just feels like talking, I’d honestly be really grateful”  
+  – “What does a good, rich, emotionally supported life look like for a man who might stay single long‑term?”  
+  Even when they don’t ask directly, they frame their story as “I just needed to open up somewhere”, inviting recognition and advice.
 
-1. **Dense social‑relational lexicon**  
-   The cluster man / guy / girl / woman / girlfriend / mom / parent points to talk about:
-   - gendered others (men, women, boys, girls)
-   - family roles (mom, parent)
-   - romantic/sexual roles (girlfriend, guy as potential partner)
-   This is not generic “people”; it’s *relationally specific* and strongly gendered.
+- **Normative comparison and generalisation from self to group**:  
+  High loadings: *similar, same, many, lot, whole, different, only, least, big, human*.  
+  Examples: writers repeatedly move from “I” to “we/men/people like me”:  
+  – “young men like me are just meant to work hard, shut up, and die alone”  
+  – “I keep seeing more and more guys… who are basically decent… but can’t seem to find a partner”  
+  – “I keep thinking about how many people are in similar situations”.  
+  This is not just personal venting; it’s framed as a shared social condition.
 
-2. **Life‑stage and institutional anchoring**  
-   college, school, mom, parent, house together suggest:
-   - adolescence / young adulthood
-   - dependence on family and home
-   - educational institutions as the main social arena
+Putting this together, this pole is not simply “more emotional” or “more negative”. It encodes a **particular discourse mode**:
 
-3. **Colloquial, emotionally loaded register**  
-   shit, man, thanks, heart, today, notification:
-   - shit and man index informal, spoken‑like, peer‑to‑peer venting
-   - heart indexes emotional stamina, discouragement, “losing heart”
-   - thanks indexes direct address to readers (“thanks for listening”), i.e. explicit audience orientation
-   - today and notification anchor experiences in *immediate, everyday time* and digital sociality
+- highly **self‑narrative** (life story, temporal progression, causal chains),
+- **psychologised** (mental‑health vocabulary, therapy, coping),
+- **attachment‑centred** (romantic and close relational bonds as the central lack),
+- and **oriented toward understanding and repair** (asking why, seeking help, imagining futures).
 
-Overall, the loadings point to a discourse of *informal, emotionally intense, relationally specific self‑narration*, grounded in school/college and family/home contexts, with a strong focus on gendered others and romantic/sexual or friendship ties.
+Generic GPT posts, by contrast, are much lower on this factor, suggesting they are more likely to produce flatter, less temporally anchored, less clinically framed loneliness descriptions. The summary‑guided GPT posts and human posts are driving this pole because they both foreground this rich, therapeutic, life‑course narrative of loneliness.
 
----
+### Possible labels for this pole
 
-## 2. What the excerpts add
+Any label should capture: (i) the mental‑health/therapy framing, (ii) the centrality of intimate relationships, and (iii) the reflective, problem‑solving narrative style. Here are several plausible labels, with justification:
 
-Across the high‑scoring human texts, several consistent discourse features emerge.
+1. **“Therapeutic Intimacy‑Narrative Discourse”**  
+   - *Therapeutic*: reflects the mental‑health lexicon (*health, cope, depression, anxiety, treat, help, support, advice*).  
+   - *Intimacy*: highlights the focus on romantic/close ties (*love, relationship, girlfriend, date, friend, mom, parent*).  
+   - *Narrative*: captures the biographical structuring (*year, young, grow, school, college, month, future*).  
+   This label foregrounds the way loneliness is talked about as something to be understood and healed through narrative.
 
-### a. Gendered and age‑marked relational focus
+2. **“Psychologised Relationship‑Coping Discourse”**  
+   - *Psychologised*: explicit diagnostic and emotional vocabulary.  
+   - *Relationship*: centrality of partners, friends, family.  
+   - *Coping*: repeated references to coping strategies, therapy, “what helped”, “how to build” a life.  
+   This label emphasises the mental‑health framing of relational loneliness and the search for coping mechanisms.
 
-All excerpts are saturated with references to:
+3. **“Life‑Course Mental‑Health Reflection on Loneliness”**  
+   - *Life‑course*: strong temporal anchoring and developmental perspective.  
+   - *Mental‑Health*: high loadings on *health, depression, anxiety, issue, treat, cope*.  
+   - *Reflection*: meta‑cognitive stance (*believe, understand, mean, idea, accept*).  
+   This label stresses the autobiographical and reflective nature of the discourse.
 
-- Men / older men / guys:
-  - “older men make me calm” (t004987)
-  - “men still wanna just use me and not love me” (t003161)
-  - “I’m scared I’ll never meet a guy” (t003877)
-  - “ask out women” (t003424)
-  - “men around 4 to 20 years older than me” (t004271)
+4. **“Attachment‑Centred Coping Narrative”**  
+   - *Attachment‑centred*: loneliness is framed as the absence or loss of attachment figures (partners, friends, parents, pets).  
+   - *Coping*: explicit search for ways to manage that absence.  
+   - *Narrative*: stories of loss, change, and attempted rebuilding.  
+   This label foregrounds the attachment‑theoretic flavour of the posts.
 
-- Women / girls / girlfriends:
-  - “every girl but one had been a bully” (t004987)
-  - “my cis girlfriends can’t really help” (t003161)
-  - “this one girl who was really nice to me” (t003007)
-  - “another girl huddled together smiling as friends” (t003877)
-  - “this girl I liked a lot” (t003563)
+### Which label is most appropriate?
 
-These are not abstract reflections on “people”; they are *concrete, gendered, role‑specific others* (older men, girlfriends, trans women, parents, professors, etc.). The loneliness is framed through *failed or fraught relationships with specific categories of people*.
+Given the balance of:
 
-### b. Embedded in school/college and family/home
+- strong **mental‑health / therapeutic framing**,
+- centrality of **romantic and close relationships** as the “missing piece”,
+- and the **narrative, reflective, advice‑seeking** style,
 
-School, college, parents, house recur as the main social environments:
+the most precise single label for this pole is:
 
-- “I’m not in school and live in a very rural area. I live with and depend on my father” (t004987)
-- “my transition started in adolescence… teenage years and young adult as a female” (t003161)
-- “this semester of school I don’t get to see her” (t003007)
-- “I got expelled from my ‘regular’ brick school… doing online school since then” (t003877)
-- “this is college… I was admitted [for suicidality]… nobody really cared” (t003588)
-- “I also don’t reach out to anybody, never talk to anybody in college” (t003563)
+> **Therapeutic Intimacy‑Narrative Discourse**
 
-Loneliness is narrated as *social exclusion within key developmental institutions* (school, college) and within the family/home space (living with parents, in the house, dependence on mom/parents).
-
-### c. Strongly autobiographical, experiential storytelling
-
-The posts are rich in *specific episodes* and *chronologies*:
-
-- Trauma with women and older men as calming (t004987)
-- Cycles of men approaching, then ghosting after learning she is trans (t003161)
-- A single memorable “fun” interaction racing a stranger’s car (t003007)
-- Being expelled, online school, specific incidents of homophobic abuse (t003877)
-- A detailed college hospitalisation episode and its aftermath (t003588)
-- A conflict with “a guy from our group” in college and subsequent ostracism (t004261)
-
-This matches the loading on experience: these are *narratives of lived experience*, not generic reflections. The discourse is event‑rich, with concrete social actors and settings.
-
-### d. Colloquial, venting, peer‑addressed style
-
-The high‑loading colloquialisms and address markers are visible:
-
-- shit: “shit relationship with my older brother” (t004987)
-- man: “I have all it takes to be a happy man” (t003424); “I’m scared I’ll never meet a guy” (t003877) – plus vocative “man” in some posts
-- thanks: “THanks for listening :)” (t003588)
-- today: “very reminiscent of today” (t004544); “Today I saw someone that used to be my friend” (t004271)
-
-The tone is conversational, often unpunctuated, with direct engagement of an imagined peer audience (“I don’t know what you guys could say but here goes”; “thanks for listening”).
-
-### e. Intersection with identity and marginalisation
-
-Several posts explicitly foreground identity categories:
-
-- Trans woman navigating men’s desire and transphobia (t003161)
-- Gay poster facing homophobic abuse from peers (t003877)
-- Homosexual student facing ridicule and exclusion (t003588)
-
-These identities are tightly interwoven with the gendered relational lexicon (men, women, guy, girlfriend, girl) and with institutional settings (school, college). Loneliness is framed as *social and romantic marginalisation tied to gender/sexual identity*.
-
----
-
-## 3. Who drives this pole?
-
-Mean scores:
-
-- Human: +0.78
-- Summary‑guided GPT: +0.51
-- Generic GPT: −0.48
-
-Interpretation:
-
-- The positive pole is *strongly human‑driven*.  
-- Summary‑guided GPT can approximate it because it is conditioned on human summaries, which likely encode these relational and institutional details.
-- Generic GPT tends to fall away from this pole, suggesting its loneliness posts are less:
-  - colloquial (less shit, man, thanks),
-  - densely relational/gendered (fewer guy/girl/girlfriend/mom/parent),
-  - anchored in school/college/home specifics.
-
-So f2_pos captures a *distinctively human, autobiographical, relationally dense style* that generic GPT under‑produces.
-
----
-
-## 4. Proposed labels and justification
-
-Any label should capture:
-
-- Focus on *concrete, gendered and familial relationships* (man, guy, girl, woman, girlfriend, mom, parent)
-- Embedding in *school/college and home* as social arenas (school, college, house)
-- *Experiential, episodic self‑narration* (experience, today, reason)
-- *Colloquial, venting, peer‑addressed register* (shit, man, thanks, notification, heart)
-
-Possible labels:
-
-1. **“Relationally‑Anchored Autobiographical Loneliness”**  
-   - Relationally‑anchored: driven by talk about specific others (men, women, parents, girlfriends, guys) and their roles in the speaker’s life.
-   - Autobiographical: rich in personal experiences, episodes, and life‑stage contexts (school, college, house, mom, parent).
-   - Loneliness is framed as *being excluded or hurt within concrete relationships* rather than as an abstract feeling.
-
-2. **“Colloquial Gender‑ and Family‑Centred Self‑Disclosure”**  
-   - Colloquial: indexed by shit, man, thanks, today, informal syntax and direct address.
-   - Gender‑ and family‑centred: high density of man/guy/girl/woman/girlfriend/mom/parent.
-   - Self‑disclosure: the posts are intimate, confessional narratives of trauma, rejection, and desire for connection.
-
-3. **“Youthful Social‑Networked Loneliness in Everyday Life”**  
-   - Youthful: school, college, mom, parent, house point to adolescence/young adulthood and dependence.
-   - Social‑networked: notification, today, thanks, and the Reddit context suggest online, peer‑oriented communication.
-   - Everyday life: experiences are grounded in daily routines (classes, lunch, youth group, walking outside, scrolling phone).
-
-Among these, the most precise LMDA‑style label for this pole, given both loadings and examples, is:
-
-> **Relationally‑Anchored Autobiographical Loneliness**
-
-Because:
-
-- “Relationally‑anchored” captures the centrality of gendered and familial roles (man, guy, girl, woman, girlfriend, mom, parent) as the *lens* through which loneliness is experienced.
-- “Autobiographical” reflects the experiential, episodic, life‑stage‑specific narratives (school, college, house, experience, today, reason).
-- The human‑driven nature of the pole aligns with this being a *deeply personal, lived‑experience discourse style* that generic GPT does not naturally reproduce.
+It captures both the lexical profile (health/therapy + relationship terms) and the discourse function seen in the examples: telling a life story of relational loss and psychological struggle in order to seek understanding, validation, and possible ways to cope.

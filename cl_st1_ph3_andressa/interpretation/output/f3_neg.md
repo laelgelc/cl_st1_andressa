@@ -1,188 +1,154 @@
-Below I interpret the *negative* pole of Factor 3 (f3_neg) as a discourse dimension, using the loadings, the examples, and the source scores.
+Interpretation of Factor f3 (negative pole)
+
+1. Which group drives this pole?
+
+- Mean scores:
+  - generic_gpt: **-1.14** (strongly negative)
+  - summary_guided_gpt: **-0.23**
+  - human: **+0.23**
+
+The **generic GPT** posts are clearly driving this negative pole. Human texts tend to sit on the opposite side of the factor, so this pole is characterising a *distinctively LLM-generic* way of writing about loneliness.
 
 ---
 
-## 1. Which group is driving this pole?
+2. What do the loadings tell us?
 
-Mean scores on Factor 3:
+Highest-loading items (all negative on this pole):
 
-- human: **0.99**
-- summary_guided_gpt: **0.97**
-- generic_gpt: **0.06**
+- Core experiential lexicon:
+  - **disconnected** (-.68)
+  - **emptiness** (-.47)
+  - **gap** (-.44)
+  - **edge** (-.37)
+  - **invisible** (-.37)
+  - **lurk** (-.35)
 
-Because we are interpreting the **negative** pole, we look at the *lowest* mean scores. The generic GPT posts are clearly closest to the negative end (near zero, and in practice providing the high negative-scoring texts you sampled).  
+- Performance / artificiality / surface:
+  - **script** (-.65)
+  - **shallow** (-.51)
+  - **role** (-.43)
+  - **perform** (-.33)
+  - **version** (-.34)
+  - **top** (-.31) (as in “on top of things / on top of it” or “top layer”)
 
-So:
+- Emotional strain and coping:
+  - **terrify** (-.63)
+  - **crave** (-.55)
+  - **exhaust** (-.37)
+  - **cope** (-.33)
+  - **worry** (-.30)
 
-- This pole is **driven by generic GPT posts**.
-- Human and summary-guided GPT posts cluster toward the *positive* side of this factor, i.e. away from this negative pole.
+- Process / phenomenological framing:
+  - **mix** (-.49)
+  - **expose** (-.37)
+  - **surround** (-.38)
+  - **replay** (-.30)
+  - **feel** (-.50) (parenthesised but still salient)
 
-That already suggests that this pole captures a discourse style that is particularly characteristic of the generic LLM output, and comparatively *under-represented* in human and summary-guided texts.
+Taken together, the lexicon encodes:
 
----
+- A **felt disjunction** between being *physically surrounded* (**surround**) and *socially/psychologically disconnected* (**disconnected, gap, edge, invisible**).
+- A strong sense of **performing a social self** rather than inhabiting an authentic one (**script, role, perform, version, shallow**).
+- **Hyper-reflexive emotional awareness**: the speaker monitors and labels their own state as a **mix** of feelings, **craving** closeness but **terrified** of exposure, **worrying**, trying to **cope**, feeling **exhausted**.
+- **Metaphors of visibility and surface**: **invisible, exposed, shallow, edge, lurk**, suggesting being present but not truly seen, or hovering at the margins.
 
-## 2. Lexical loadings: what is this pole “about”?
-
-Negative loadings (strongest first):
-
-- notification (−.87)
-- weather (−.75)
-- phone (−.32)
-- acquaintance (−.31)
-- scroll (−.31)
-
-These items cluster semantically around:
-
-1. **Digital mediation / smartphone use**
-   - notification, phone, scroll  
-   → lexical field of apps, screens, passive waiting for contact, checking devices.
-
-2. **Superficial / small-talk topics and weak ties**
-   - weather, acquaintance  
-   → canonical small-talk topic (“weather”) and non-intimate social relations (“acquaintance”).
-
-So, at the lexical level, this pole encodes a discourse that foregrounds:
-
-- **Mediated, one-sided digital contact** (notifications, scrolling, phone lighting up).
-- **Surface-level social interaction** (weather, acquaintances, small talk).
-
----
-
-## 3. What do the high-scoring texts actually do?
-
-All 10 example texts are:
-
-- From **generic_gpt**.
-- Score **−2** on f3_neg.
-- Contain the key loading words (notification, weather; often also scroll, acquaintances, phone).
-
-Across the excerpts, several consistent discourse features appear:
-
-### 3.1. Recurrent scenario
-
-A highly formulaic scenario is repeated:
-
-- The writer has **coworkers / acquaintances** and can talk about **weather, TV, memes, deadlines**.
-- They lack **“real” connection** or someone they can text honestly.
-- Their **phone**:
-  - “barely buzzes”
-  - “almost never lights up unless it’s a notification from an app”
-  - shows “group chats,” “random memes,” “apps,” but not genuine one-to-one contact.
-- They **scroll** through chats or feeds at night, feeling more isolated.
-- They feel like they are:
-  - “orbiting” others’ lives,
-  - “behind glass,”
-  - “disappearing in plain sight,”
-  - “living next to people instead of with them.”
-
-So the discourse is not just “I am lonely,” but specifically:
-
-> I am **digitally surrounded yet emotionally untouched**, stuck in small talk and passive phone-checking, with no deep reciprocal contact.
-
-### 3.2. Thematic focus
-
-Key themes:
-
-- **Superficial vs. real connection**  
-  Repeated contrast between:
-  - surface topics: weather, TV, memes, work, deadlines
-  - “anything real,” “actually known,” “someone I can text ‘I’m not okay’.”
-
-- **Peripherality and invisibility**  
-  Metaphors of:
-  - “orbiting around everyone else’s lives”
-  - “behind glass”
-  - “disappearing in plain sight”
-  - “living next to people instead of with them”
-  - “ghost walking through other people’s lives.”
-
-- **Passive, app-mediated sociality**  
-  - Waiting for the phone to light up.
-  - Notifications from apps vs. messages from people.
-  - Scrolling as a substitute for connection.
-
-- **Weak ties and small talk as a trap**  
-  - “acquaintances, coworkers”
-  - “small talk about weather and TV shows”
-  - “family chats on holidays”
-  These are present but explicitly framed as **insufficient** and **non-intimate**.
-
-### 3.3. Stylistic patterning
-
-Because this pole is driven by generic GPT, the discourse is also:
-
-- **Highly templated**: many excerpts share near-identical structures and metaphors.
-- **Expository and reflective**: describing a general state rather than narrating specific, concrete events.
-- **Abstracted from particular identities**: little demographic detail; the “I” is generic.
-
-This matters because the factor is not just “about phones” lexically; it is about a *particular, stylised way* of talking about loneliness via phones, notifications, and small talk.
+So lexically, this pole is about **loneliness as inauthentic, performative social presence plus inner emptiness and fear of genuine exposure**.
 
 ---
 
-## 4. Integrating loadings and examples: what discourse dimension is encoded?
+3. What do the examples add?
 
-Putting the lexical and textual evidence together, this negative pole encodes a discourse of:
+All 10 high-scoring texts are from **generic_gpt**, and they are strikingly formulaic. Key patterns:
 
-- **Loneliness framed through digital mediation**: the phone and its notifications are central props in the story of being alone.
-- **Social saturation but emotional emptiness**: there are people, chats, group messages, but no felt intimacy.
-- **Surface-level interaction as a problem**: weather, memes, TV, deadlines, acquaintances are not neutral; they are *evidence* of being stuck at the surface.
+a) Recurrent framing of paradoxical visibility
 
-Crucially, this is not simply “online loneliness” in a neutral sense. The stance is evaluative:
+- “weird **mix of invisible and too exposed** at the same time”
+- “strange **mix of invisible and exposed**”
+- “It’s like I’m **invisible** even when everyone’s looking right at me.”
+- “It’s like I’m **invisible in a crowded room**”
 
-- Notifications and scrolling are **symbols of failed or inadequate connection**.
-- Weather and acquaintances are **symbols of superficiality**.
+This aligns with **invisible, expose, mix, surround**: the discourse is about being *seen but not known*, *present but not registered*.
 
-So the dimension is best understood as a **discursive framing of loneliness as being trapped in shallow, digitally mediated, peripheral sociality**.
+b) Social life as scripted performance
+
+- “Conversations feel **scripted**, like I’m playing a **role** instead of being myself.”
+- “I’m playing a **role** that doesn’t belong to me.”
+- “It always feels **shallow**, like I’m auditioning for a **role** I never get.”
+- “not the **version** I perform”
+- “I laugh at the right times, make small talk… It’s like I’m behind glass.”
+
+This realises **script, role, perform, shallow, version**: social interaction is framed as **acting**, **auditioning**, or **going through a script**, not mutual engagement.
+
+c) Emptiness, marginality, and replaceability
+
+- “like I’m **behind glass** watching my own life happen”
+- “like I’m a **ghost hovering around the edges**”
+- “how loud the **emptiness** actually is”
+- “I don’t feel like I actually exist in anyone’s mind”
+- “What bothers me most is how **replaceable** I feel.”
+- “More like **background noise**.”
+
+These instantiate **edge, emptiness, gap, invisible**: the self is **marginal, spectral, and interchangeable**.
+
+d) Emotional strain and blocked desire for connection
+
+- “I **crave** someone who really knows me, but I’m **terrified** of opening up.”
+- “I **crave** genuine closeness, yet I’m **terrified** of burdening anyone.”
+- “I **crave** someone who actually wants to know me”
+- “It’s **exhausting** pretending I’m fine”
+- “It’s **exhausting** feeling invisible while constantly **worrying** I’m too much.”
+
+These echo **crave, terrify, exhaust, worry, cope**: a **push–pull** between intense desire for intimacy and fear of exposure or rejection.
+
+e) Meta-awareness and rehearsed communication
+
+- “I overthink every word, then usually delete it.”
+- “scroll through chats I’m too afraid to start, **rehearsing** messages and deleting them.”
+- “maybe type something out and delete it.”
+
+This is consistent with **script, replay, worry, cope**: communication is **pre-scripted, rehearsed, and aborted**, reinforcing the sense of artificiality and self-consciousness.
 
 ---
 
-## 5. Possible labels for this pole (with justification)
+4. Discourse characterisation
 
-Below are several candidate labels, each grounded in both the loadings and the examples.
+Balancing the loadings (whole corpus) and the examples (extreme cases), this pole encodes a **highly stylised discourse of loneliness as performative disconnection**:
 
-### Label 1: “Digitally Mediated Surface-Connection Discourse”
+- The speaker is **socially present but existentially absent**: surrounded by people yet feeling like a ghost, behind glass, at the edge.
+- Social interaction is **theatrical**: scripted, role-based, shallow, a performance of an “okay” version of self.
+- There is a **felt gap** between outer performance and inner emptiness.
+- The emotional stance is **hyper-reflective and self-analytical**, with explicit naming of feelings (mix, crave, terrify, worry, cope) and of the paradox of being both invisible and exposed.
+- Linguistically, this is a **highly generic, templated LLM style** of articulating loneliness: repeated metaphors, repeated collocations (“mix of invisible and exposed”, “surrounded by people but feel disconnected”), and a polished, meta-emotional register.
 
-- **Digitally mediated**: captures notification, phone, scroll and the centrality of the device.
-- **Surface-connection**: captures weather, acquaintances, small talk, and the repeated “surface vs real” contrast.
-- **Discourse**: signals that this is a way of *talking about* loneliness, not a psychological diagnosis.
-
-This label foregrounds the two core lexical clusters and the way they are woven into the narrative.
-
----
-
-### Label 2: “Notification-Driven Peripheral Loneliness”
-
-- **Notification-driven**: directly reflects the strongest loading (notification −.87) and the repeated motif of the phone lighting up only for apps or group chats.
-- **Peripheral loneliness**: captures the “orbiting,” “periphery,” “behind glass,” “ghost” metaphors.
-
-This label emphasises how the *form* of contact (notifications) is central to how loneliness is conceptualised: the person is always on the edge of others’ lives, signalled by impersonal pings rather than genuine messages.
+Humans, by contrast, are on the opposite side of the factor, suggesting they use **less of this scripted-performance lexicon** and perhaps more idiosyncratic, concrete, or situational language for loneliness.
 
 ---
 
-### Label 3: “Small-Talk and Weak-Tie Loneliness”
+5. Possible labels for this pole
 
-- **Small-talk**: indexed by weather and the repeated mention of TV, memes, deadlines.
-- **Weak-tie**: indexed by acquaintance, coworkers, neighbors, group chats.
-- **Loneliness**: the overarching theme of the subreddit and the texts.
+Focusing on this pole alone (no versus label), and grounding labels in both loadings and examples, plausible discourse-dimension names include:
 
-This label highlights that the discourse is not about total isolation, but about being surrounded by weak ties and small talk that fail to meet emotional needs.
+1. **Performative Disconnection and Invisible Self**
+   - Captures **disconnected, invisible, role, script, perform, shallow, edge, emptiness**.
+   - Emphasises that the self is *performed* rather than *shared*, and remains unseen.
 
----
+2. **Scripted Social Life and Inner Emptiness**
+   - Highlights **script, role, perform, shallow** plus **emptiness, gap, disconnected**.
+   - Fits the repeated “conversations feel scripted / I’m playing a role / life feels hollow” pattern.
 
-## 6. Which label is most appropriate?
+3. **Hyper-Visible Yet Unseen Loneliness**
+   - Reflects the paradoxical **mix of invisible and exposed**, “invisible in a crowded room”.
+   - Encodes the tension between being looked at and not being known.
 
-If I had to choose a single label that best integrates the lexical loadings and the example texts, I would prioritise:
+4. **Anxious Craving for Authentic Connection**
+   - Draws on **crave, terrify, worry, cope, expose**.
+   - Stresses the emotional dynamic: wanting closeness but fearing exposure.
 
-**Digitally Mediated Surface-Connection Discourse**
+If I had to prioritise one label that best integrates the lexical pattern and the example discourse, I would choose:
 
-Because:
+> **“Scripted Social Presence and Invisible Self”**
 
-- It directly reflects the **two strongest lexical fields**:
-  - digital mediation (notification, phone, scroll),
-  - surface interaction (weather, acquaintances).
-- It matches the **recurrent narrative pattern**:
-  - being surrounded by people and digital activity,
-  - yet stuck at a superficial level and feeling unseen.
-- It fits the fact that this pole is **driven by generic GPT**, which repeatedly produces this stylised, template-like way of describing loneliness via phones, notifications, and small talk.
+- **“Scripted Social Presence”**: grounded in **script, role, perform, shallow, version**, and the repeated descriptions of going through motions, laughing at the right times, auditioning.
+- **“Invisible Self”**: grounded in **disconnected, invisible, edge, emptiness, gap**, and the ghost/behind-glass metaphors.
 
-In sum, the negative pole of Factor 3 can be interpreted as a discourse in which loneliness is constructed through images of **impersonal notifications, endless scrolling, and shallow small talk with acquaintances**, foregrounding a sense of being **digitally connected but emotionally peripheral**.
+This label captures both the **surface performance** and the **underlying erasure of the authentic self** that define this factor pole, and it aligns with the fact that it is strongly driven by **generic GPT** posts that themselves are, in a sense, *scripted performances* of loneliness.
